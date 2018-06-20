@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>弹性盒子模型</title>
+    <style type="text/css">
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+  
+        position: absolute;
+        left: 50%;
+        top: 50%;
+    }
+    
+    .background {
+        width: 600px;
+        height: 800px;
+        background-image: url(background.jpg);
+        background-size: cover;
+        margin-left: -300px;
+        margin-top: -400px;
+    }
+    
+    .linex {
+        width: 600px;
+        background-color: black;
+    }
+    
+    #one {
+        height: 3px;
+        margin-top: 3px;
+    }
+    
+    #two {
+        height: 1px;
+        margin-top: 0px;
+    }
+    
+    .title {
+        font: 50px 华文隶书;
+    }
+    
+    .content {
+        width: 580px;
+        height: 660px;
+        display: flex;
+        display: -webkit-flex;
+        margin: 5px 10px 10px 10px;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    
+    .column {
+        border: 3px solid black;
+        width: 100%;
+        height: 220px;
+        margin-top: 5px;
+        -webkit-column-count: 3;
+        -webkit-column-rule-style: dotted;
+        column-rule-style: dotted;
+    }
+    
+    .comment {
+        font: 13px 微软雅黑;
+        width: 250px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    
+    .comment-title {
+        margin-left: 40px;
+        font: 18px 微软雅黑;
+        font-weight: bolder;
+        width: 250px;
+        height: 300px;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="background">
+        <div style="text-align:center;">
+            <br/>
+            <img src="news_icon.png" width="45px" style="position:absolute; margin-left:-45px; margin-top:2px;">
+            <span class="title">极&nbsp客&nbsp快&nbsp报</span>
+        </div>
+        <div class="linex" id="two"></div>
+        <div class="linex" id="one"></div>
+        <div class="content">
+            <div class="column">
+                <span class="comment-title">极客学院介绍</span>
+                <br/>
+                <span class="comment">极客学院[2] 由中国第一本Android开发教程的作者靳岩[3] 和姚尚朗[3] 于2013年12月创办。靳岩和姚尚朗于2009年出版了中国大陆第一本Android[4] 开发教程《GoogleAndroid开发入门与实战》，此教程由人民邮电出版社于2009年出版，自出版后重印高达20多次，已成为国内最畅销的Android开发书籍。
+极客学院[2] 是中国最权威的android开发在线学习平台，汇集了几十名国内顶尖的有多年项目和实战经验的Android开发授课大师，精心制作了上千个高质量视频教程，涵盖了Android开发学习的基础入门、中级进阶，高级提升、项目实战开发等专业的android开发课程。极客学院希望通过最新的，高质量的，专业实战的在线课程帮助开发者更快更好的学习Android开发，帮助开发者通过技术实现自己的理想。
+</span>
+            </div>
+            <div class="column">
+                <span class="comment-title">在线教育介绍</span>
+                <br/>
+                <span class="comment">
+
+            2014年，在线教育市场火爆，除了各路资本的竞相追逐，业内大佬们也纷纷跑马圈地。但随着行业泡沫的消失，对那些过度烧钱、盈利模式不清的创业公司来说，估计一两年内连生存都难以维系。 “未来在线教育公司99%都会死掉，因为他们只看到了线上，却忽略了教育。“极客学院CEO靳岩认为，对IT在线教育平台来说，课程质量是核心竞争力。 在靳岩看来，今年是行业的洗牌期，IT在线教育将进入了一个相对稳定发展的阶段。 “IT技术发展日新月异，课程需要及时更新迭代，这其中的研发成本很大，不是谁都能做的，再有创业公司进入恐机会不大。”在靳岩看来，今年是行业的洗牌期，IT在线教育将进入了一个相对稳定发展的阶段。 “IT技术发展日新月异，课程需要及时更新迭代，这其中的研发成本很大，不是谁都能做的，再有创业公司进入恐机会不大。”
+靳岩出版过国内第一本原创的Android教程《Google Android开发入门与实战》，并于2008年创立了Android开发者社区eoe，目前用户数已突破200万。
+</span>
+</div>
+
+            <div class="column">
+
+<span class="comment-title">安卓入门介绍</span>
+                <br/>
+
+
+
+            <span class="comment">Android开发入门课程：基于Android4.X开发的基础入门课程，面向有一定Java基础的开发人员，本课主要从Android基础的概念和开发入手，学习了Android开发框架，Android的基本UI组件、Android开发的存储过程、Android开发中多媒体的使用和apk的打包发布等技术点，最后以一个开发日记本的项目实战实例，完成本课程的学习。学习完本课程后，你可以轻松的开发一个涉及Android本地存储的Android应用。
+Android开发中级进阶课程：基于Android开发入门课程的进阶篇，必须具备本系列课程的入门篇能力后才可看懂本课程的进阶内容。学完本课程后可以掌握Android开发的最新特性和知识点，掌握常用的Android开发的基础知识。
+Android开发高级提升课程：基于Android开发中级进阶课程的提升篇，在学习完本课程后，Android开发的知识点已经能够深入理解和掌握，并能够在具体开发项目中熟练应用，具备自己或跟团队一起开发中大型应用开发的能力。</span></div>
+        </div>
+    </div>
+</body>
+
+</html>

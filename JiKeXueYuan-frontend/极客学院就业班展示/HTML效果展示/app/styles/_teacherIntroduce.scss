@@ -1,0 +1,135 @@
+
+//teacherIntroduce布道师介绍
+.teacherIntroduce{
+  width:100%;
+  margin-top:93px;
+  background: #0c2832 url(../images/teacherIntroduce/main@2x.png) no-repeat center center/auto 677px;
+  .teacherIntroduceBox{
+    height:677px;
+    width:$pageWidth1200;
+    display: block;
+    position: relative;
+    margin:0 auto;
+    overflow: hidden;
+    .tiTitle{
+      display: block;
+      margin:0 auto;
+      height:178px;
+      line-height:178px;
+      text-align: center;
+      font-size: $fontSizeTitle36;
+      color:#fff;
+    }
+
+    .tiBoxMoving{
+      .tiBox {
+        box-sizing: border-box;
+        //开关
+        display: none;
+        position: absolute;
+        height:300px;
+        width:$pageWidth1200;
+        margin-top: 45px;
+        overflow: hidden;
+        .tiBoxEach{
+          display: inline-block;
+          position: relative;
+          float: left;
+          padding:0;
+          width:580px;
+          height:300px;
+          text-align: left;
+          .tiBoxEach_Img{
+            box-sizing: border-box;
+            position: relative;
+            height:264px;
+            width:224px;
+            margin-top:18px;
+          }
+          //zhijia头像
+          .tiImg_ime{
+            background: #fff url(../images/teacherIntroduce/ime@2x.png) no-repeat center top/224px auto;
+          }
+          //zhijia头像
+          .tiImg_yuanzhijia{
+            background: #fff url(../images/teacherIntroduce/yuanzhijia@2x.png) no-repeat center center/224px auto;
+          }
+          //caojiangtao头像
+          .tiImg_caojiangtao{
+            background: #fff url(../images/teacherIntroduce/caojiangtao@2x.png) no-repeat center center/224px auto;
+          }
+          //wangning
+          .tiImg_wangning{
+            background: #fff url(../images/teacherIntroduce/wangning@2x.png) no-repeat center center/224px auto;
+          }
+          //liuyazhong
+          .tiImg_liuyazhong{
+            background: #fff url(../images/teacherIntroduce/liuyazhong@2x.png) no-repeat center center/224px auto;
+          }
+          //tiImg_liangjie
+          .tiImg_liangjie{
+            background: #fff url(../images/teacherIntroduce/liangjie@2x.png) no-repeat center center/224px auto;
+          }
+
+          .tiBoxEach_Introduce{
+            box-sizing: border-box;
+            position: absolute;
+            top:0;
+            left: 113px;
+            width:465px;
+            height:300px;
+            background-color:#fff;
+            padding-left:162px;
+            padding-right:22px;
+            border-radius: 2px;
+            .tiBoxEach_i_name{
+              font-weight:bolder;
+              margin-top:42px;
+              font-size:20px;
+            }
+            .tiBoxEach_i_touxian{
+              margin:22px auto 26px;
+              font-size:$fontSize15;
+              color:$tiBoxBlue;
+            }
+            .tiBoxEach_i_Content{
+              font-size: $fontSize15;
+              color:#636363;
+              line-height:25px;
+            }
+          }
+        }
+        //右侧向右偏移19px;
+        .tiBoxEachRight{
+          margin-left:40px;
+        }
+      }
+      .tiBox_Selected{
+        display: block !important;
+      }
+    }
+    //下侧三个原点
+    .dotSelect{
+      box-sizing: border-box;
+      position: relative;
+      width:170px;
+      height:17px;
+      margin:420px auto;
+      .dot{
+        display: inline-block;
+        box-sizing: border-box;
+        cursor: pointer;
+        height:10px;
+        width:10px;
+        border-radius: 50%;
+        border:1px solid $tiBoxBlue;
+        margin:0 21px;
+      }
+      .dotSelected{
+        background-color: $tiBoxBlue;
+      }
+    }
+  }
+}
+
+//-----end---teacherIntroduce结束

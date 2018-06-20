@@ -1,0 +1,145 @@
+/*尾部*/
+/*整体框架*/
+footer {
+    height: 309px;
+    width: 100%;
+}
+/*上部分框架*/
+.jiinfor {
+    height: 253px;
+    width: 100%;
+    border-top: 1px solid $sideLine;
+    border-bottom: 1px solid $sideLine;
+    margin: 50px auto 0;
+    background-color: $sideLine*1.1;
+    &Top {
+        height:253px;
+        width: 1000px;
+        margin:0 auto;
+    }
+
+    dl {
+        width: 185px;
+        padding-left: 30px;
+        color: gray;
+        margin: 25px 0;
+        float: left;
+        border-left: 1px solid $sideLine;
+        min-height: 175px;
+    }
+    dt {
+        color: gray;
+        padding-left: 5px;
+        font-size: $basicFontSize+2;
+    }
+    dd {
+        color: gray;
+        padding-left: 5px;
+        font-size: $basicFontSize;
+        margin-top: 10px;
+    }
+}
+
+.search-share {
+    width: 260px;
+    float: left;
+    border-left: 1px solid $sideLine;
+    padding: 20px 0 0 40px;
+    min-height: 226px;
+}
+
+.jktxt {
+    font-size: $basicFontSize+3;
+    color: $baseColor;
+    display: block;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+div.app-download>a>div {
+    display: inline-block;
+    color: grey;
+}
+
+.kefuimg {
+    float: left;
+    margin-right: 5px;
+    width: 40px;
+    height: 40px;
+    background: url(../images/kefu_8edc734.png) no-repeat right 0px/80px 40px;
+    .kefu-online>a:hover & {
+        background: url(../images/kefu_8edc734.png) no-repeat left 0px/80px 40px;
+    }
+}
+
+.kefu-online {
+    margin-top: 15px;
+    color: #333;
+    float: left;
+    width: 220px;
+    &>a {
+        color: grey;
+    }
+    &>a:hover {
+         color: $baseColor;
+    }
+}
+
+.sina-icon {
+    background: url(../images/icon_7f8b929.png) -23px 0 no-repeat;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    &:hover {
+    background: url(../images/icon_7f8b929.png) -23px -40px no-repeat;
+}
+}
+
+.tieba {
+    background: url(../images/icon_7f8b929.png) -144px 0 no-repeat;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    &:hover {
+    background: url(../images/icon_7f8b929.png) -144px -40px no-repeat;
+}
+}
+
+.weixin {
+    background: url(../images/icon_7f8b929.png) -23px -82px no-repeat;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    &:hover {
+    background: url(../images/icon_7f8b929.png) -23px -122px no-repeat;
+}
+}
+.share {
+    margin-top: 15px;
+    float: left;
+    display: inline-block;
+}
+
+.app-download>a>div:hover {
+    color: $baseColor;
+}
+
+/*版权框架*/
+.copyright {
+    margin: 0 auto;
+    height: 56px;
+    width: 1000px;
+    text-align: center;
+    line-height: 56px;
+    font-size: $basicFontSize;
+    color: #999;
+}

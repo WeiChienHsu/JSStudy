@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.imgBox {
+    float: left;
+    position: relative;  
+}
+
+.img {
+    padding: 8px;
+    border:1px solid grey;
+    box-shadow: 1px 1px 1px grey;
+    border-radius: 7px;
+}
+.img img{
+    width:200px;
+    height:auto;
+}
+#container {
+    margin:0 auto;
+}

@@ -1,0 +1,102 @@
+.lessiontitle {
+    font-size: $basicFontSize+3;
+}
+.floatSideBar {
+    position: fixed;
+    width: 105px;
+    height:500px;
+    bottom: 100px;
+    left:50%;
+    margin-left: 510px;
+} 
+
+.ad1 {
+    visibility: visible;
+    width:105px;
+    height: 200px;
+    position: relative;
+    display: inline-block;    
+}
+
+.ad2 {
+    width: 105px;
+    height: 120px;
+    position: relative;
+    display: inline-block;
+    margin-top:30px;
+}
+
+.ad3 {
+    width: 34px;
+    height: auto;
+    position: relative;
+    display: inline-block;
+    margin-top: 94px;       
+}
+
+.ad3s {
+    width: 34px;
+    height:34px;
+}
+
+.add31 {
+    visibility: hidden;
+    position: absolute;
+    top:-34px;
+    display: block;
+    background: $sideLine*1.08 url(../images/sideFixbar/gotop_d19051b.jpg) top/34px 103px no-repeat;
+    &:hover {
+    background: $sideLine*1.08 url(../images/sideFixbar/gotop2_3c1a479.jpg) top/34px 103px no-repeat;
+}
+}
+ 
+.add32 {
+    background: $sideLine*1.08 url(../images/sideFixbar/phone-1_b9a83cb.png) center/12px 24px no-repeat;
+    border-bottom: 1px solid $sideLine;
+    &:hover {
+        background: $sideLine*1.08 url(../images/sideFixbar/phone-2_3e87776.png) center/12px 24px no-repeat;
+        border-bottom: 1px solid $sideLine; 
+    }
+}
+
+
+
+
+
+.add33 {
+    background: $sideLine*1.08 url(../images/sideFixbar/gotop_d19051b.jpg) bottom/34px 103px no-repeat;
+    &:hover{
+    background: $sideLine*1.08 url(../images/sideFixbar/gotop2_3c1a479.jpg) bottom/34px 103px no-repeat;
+}
+}
+
+
+.add34 {
+    background: $sideLine*1.08 url(../images/sideFixbar/kfu1_3dd1509.png) center no-repeat;
+    border-bottom: 1px solid $sideLine;
+}
+ 
+.add321 {
+    display: none;
+    position: absolute;
+    left:-126px;
+    top:-72px; 
+    .add32:hover &{
+    display: block;
+}   
+}
+
+.close {
+    position: absolute;
+    display: block;
+    background: url(../images/sideFixbar/close4_e9b7521.png) 0 0/14px auto no-repeat;
+    width: 14px;
+    height:14px;
+    cursor: pointer; 
+    right:-5px;
+    top:-5px;
+}
+
+
+
+

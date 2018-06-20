@@ -1,0 +1,47 @@
+$lession-right-width:212px;
+$lession-right-height:307px;
+@mixin lessionBox($lession-right-height){
+    width: $lession-right-width;
+    height: $lession-right-height;
+    display: inline-block;
+}
+
+.lessioncontext {
+    line-height: 1.6;
+    margin: 15px 0 15px;
+    font-size: $basicFontSize;
+    color: $baseColor;
+    display: block;
+}
+
+.lession-right {
+    @include lessionBox($lession-right-height);
+    &-box {
+        @include lessionBox(50%);
+        border: 1px solid $sideLine;
+        padding: 20px;
+    }
+}
+
+
+.learnAboutBtn {
+    @extend .learn-card-button1;
+    width:168px;
+    &Jike{
+        margin-top:10px !important; 
+        background:$baseColor*1.18 !important; 
+        color:#fff !important;
+        &:hover{
+            background:$baseColor !important;
+        }
+    }
+    &VIP{
+        margin-top:-3px !important; 
+        &:hover{
+            background:$baseColor !important;
+            color:#fff !important;
+        }
+    }
+}
+
+

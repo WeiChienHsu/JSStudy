@@ -1,0 +1,124 @@
+//firstPage部分
+.firstPage {
+  position: relative;
+  height: 705px;
+  width: 100%;
+  //titleBox
+  .titleBox {
+    width:100%;
+    margin:0 auto;
+    height: 475px;
+    background: #1d232d  url(../images/firstPage/fp_back@2x.png) center center no-repeat;
+
+    .title {
+      padding:120px 0 12px;
+      font-size: 65px;
+      height: 65px;
+      color: $jikeBlue;
+      text-align: center;
+    }
+    .subTitle {
+      padding:20px;
+      height: 32px;
+      color: #fff;
+      font-size: $fontSize26;
+      text-align: center;
+    }
+    .subContent {
+      text-align: center;
+      color: #fff;
+      font-size: $fontSizeSubTitle17;
+
+      &>p{
+        margin-top: 5px;
+      }
+    }
+  }
+  //fearureBox
+  .featureBox {
+    display: block;
+    position: relative;
+    top: -125px;
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    //每一个featureBox
+    .eachFeature {
+      float: left;
+      padding: 0;
+      display: inline-block;
+      width: 250px;
+      height: 250px;
+      text-align: center;
+      //imgBox
+      .feImgBox {
+        display: block;
+        height: 75px;
+        margin: 34px auto 17px auto;
+      }
+      //四个featureBox中的图片,使用背景进行设置
+      .feImg_quanganhuo {
+        background: url(../images/firstPage/fp_ganhuo.png) no-repeat center;
+      }
+      .feImg_zaixian {
+        background: url(../images/firstPage/fp_zaixian.png) no-repeat center;
+      }
+      .feImg_renwu {
+        background: url(../images/firstPage/fp_renwu.png) no-repeat center;
+      }
+      .feImg_jiuye {
+        background: url(../images/firstPage/fp_jiuye.png) no-repeat center;
+      }
+      //全干货,在线学,任务制,保就业
+      .feKeyWord {
+        display: block;
+        font-weight:bolder;
+        margin: 22px auto;
+        font-size: $fontSize23;
+        color: #000;
+      }
+      //title说明
+      .feContent {
+        font-size: $fontSizeSubTitle17;
+        & > p {
+          margin: 5px
+        }
+      }
+    }
+    //每一个feature的背景色,渐变
+    .ef_quanganhuo {
+      background-color: lighten($jikeBlue, 10%);
+    }
+    .ef_zaixian {
+      background-color: lighten($jikeBlue, 5%);
+    }
+    .ef_renwu {
+      background-color: $jikeBlue;
+    }
+    .ef_jiuye {
+      background-color: darken($jikeBlue, 5%);
+    }
+
+    //立即咨询
+    .asknow {
+      position: absolute;
+      top: 250px;
+      left: 50%;
+      margin: 20px -138.75px 35px;
+      @include askNow_model;
+    }
+    .featureBox_hiddenPart{
+      display: block;
+      position: absolute;
+      top:0;
+      left:50%;
+      margin-left:-50px;
+      border:{
+        top:25px solid #1d222d;
+        left:50px solid transparent;
+        right:50px solid transparent;
+      }
+    }
+  }
+}
+//-----end---firstPage结束

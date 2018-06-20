@@ -1,0 +1,7 @@
+{
+  "name": "极客学院首页完整版",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

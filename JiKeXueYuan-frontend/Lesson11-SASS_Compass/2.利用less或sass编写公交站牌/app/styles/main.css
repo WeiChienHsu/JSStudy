@@ -1,0 +1,208 @@
+@charset "UTF-8";
+/* line 2, main.scss */
+.header {
+  margin-top: 50px;
+  width: auto;
+  height: auto;
+}
+
+/* line 8, main.scss */
+.homework {
+  position: relative;
+  margin: 10px auto;
+  width: 800px;
+  height: 600px;
+  border-radius: 10px;
+  background-color: #e1e1e1;
+}
+
+/* line 17, main.scss */
+.inner {
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 15px;
+  top: 10px;
+  left: 145px;
+  width: 510px;
+  height: 565px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: floralwhite;
+  box-shadow: 1px 1px 1px 1px grey;
+}
+
+/*views*/
+/* line 33, main.scss */
+.views {
+  position: absolute;
+  top: 75px;
+  height: 395px;
+  width: 480px;
+}
+
+/*-----------------------------------------------*/
+/*浣滀笟閮ㄥ垎鐨剆css浠ｇ爜*/
+/* line 41, main.scss */
+.brand-name {
+  margin: 15px auto;
+  font-size: 20px;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #e3e3e3;
+}
+
+/* line 58, main.scss */
+.gongjiaoBox {
+  position: relative;
+  height: 150px;
+  width: 480px;
+  background-color: white;
+  margin-bottom: 8px;
+  border: 1px solid #e3e3e3;
+}
+/* line 66, main.scss */
+.gongjiaoBox-left {
+  float: left;
+  display: inline-block;
+  width: 100px;
+  height: 150px;
+}
+/* line 71, main.scss */
+.gongjiaoBox-left__busNum {
+  text-align: center;
+  font-size: 60px;
+  line-height: 100px;
+  height: 100px;
+  color: red;
+  background-color: aqua;
+}
+/* line 79, main.scss */
+.gongjiaoBox-left__nextStop {
+  text-align: center;
+}
+/* line 84, main.scss */
+.gongjiaoBox-right {
+  display: inline-block;
+  height: 150px;
+  width: 380px;
+}
+/* line 88, main.scss */
+.gongjiaoBox-right__destination {
+  margin: 8px 100px;
+}
+/* line 90, main.scss */
+.gongjiaoBox-right__destination span {
+  font-size: 20px;
+}
+/* line 95, main.scss */
+.gongjiaoBox-right__direction {
+  position: relative;
+  display: inline-block;
+  width: 230px;
+  height: 10px;
+  margin: -7px 60px;
+}
+/* line 98, main.scss */
+.gongjiaoBox-right__direction_line {
+  position: relative;
+  display: inline-block;
+  width: 210px;
+  height: 3.33333px;
+  float: left;
+  top: 3.33333px;
+  background-color: green;
+}
+/* line 104, main.scss */
+.gongjiaoBox-right__direction_arrow {
+  position: relative;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  float: left;
+  border-top: 5px solid transparent;
+  border-left: 20px solid green;
+  border-right: 0px solid transparent;
+  border-bottom: 5px solid transparent;
+}
+
+/* line 150, main.scss */
+.gongjiaoBox-right__everyStop32 {
+  margin-top: 5px;
+  width: auto;
+  height: 100px;
+  background-color: antiquewhite;
+}
+/* line 130, main.scss */
+.gongjiaoBox-right__everyStop32 ul {
+  list-style-type: none;
+  list-style-position: inside;
+  vertical-align: center;
+  text-align: center;
+  margin: 0;
+}
+/* line 138, main.scss */
+.gongjiaoBox-right__everyStop32 ul li {
+  vertical-align: center;
+  display: list-item;
+  font-size: 16px;
+  line-height: 17px;
+  width: 16px;
+  margin: 0px 15.75px;
+  height: auto;
+  float: left;
+}
+
+/* line 154, main.scss */
+.gongjiaoBox-right__everyStop55 {
+  margin-top: 5px;
+  width: auto;
+  height: 100px;
+  background-color: antiquewhite;
+}
+/* line 130, main.scss */
+.gongjiaoBox-right__everyStop55 ul {
+  list-style-type: none;
+  list-style-position: inside;
+  vertical-align: center;
+  text-align: center;
+  margin: 0;
+}
+/* line 138, main.scss */
+.gongjiaoBox-right__everyStop55 ul li {
+  vertical-align: center;
+  display: list-item;
+  font-size: 16px;
+  line-height: 17px;
+  width: 16px;
+  margin: 0px 5.57143px;
+  height: auto;
+  float: left;
+}
+
+/* line 158, main.scss */
+.gongjiaoBox-right__everyStop90 {
+  margin-top: 5px;
+  width: auto;
+  height: 100px;
+  background-color: antiquewhite;
+}
+/* line 130, main.scss */
+.gongjiaoBox-right__everyStop90 ul {
+  list-style-type: none;
+  list-style-position: inside;
+  vertical-align: center;
+  text-align: center;
+  margin: 0;
+}
+/* line 138, main.scss */
+.gongjiaoBox-right__everyStop90 ul li {
+  vertical-align: center;
+  display: list-item;
+  font-size: 16px;
+  line-height: 17px;
+  width: 16px;
+  margin: 0px 3.875px;
+  height: auto;
+  float: left;
+}

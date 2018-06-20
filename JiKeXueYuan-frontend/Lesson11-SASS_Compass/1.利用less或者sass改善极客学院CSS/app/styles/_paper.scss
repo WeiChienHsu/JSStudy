@@ -1,0 +1,19 @@
+/*正文 从上向下分为5部分*/
+
+@import "_paper/_p1-lession.scss";
+@import "_paper/_p2-hotLession.scss";
+@import "_paper/_p3-projectPath.scss";
+@import "_paper/_p4-systemMap.scss";
+@import "_paper/_p5-cooperateObject.scss";
+
+/*框架*/
+article {
+    height: 100%;
+    width: 100%;
+    /*    background-color: #e3e3e3;*/
+}
+/*p3/p4/p5的title*/
+.box-title {
+    font-size: $basicFontSize+6;
+    margin-bottom: 16px;
+}

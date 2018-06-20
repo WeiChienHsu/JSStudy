@@ -1,0 +1,52 @@
+//宽度
+$pageWidth1000:1000px;
+$pageWidth1200:1200px;
+
+//字体
+$fontSize23:23px;
+$fontSizeTitle36:36px;
+$fontSizeSubTitle17:17px;
+$fontSize15:15px;
+$fontSize26:26px;
+
+//颜色
+
+$jikeBlue:#24adee;
+$jikeOrange:#eb6100;
+$jikeOrangeHover:#f39800;
+
+//chooseClass的五个颜色
+$ccWebBlue:#0082b9;
+$ccAndGreen:#2e792d;
+$ccJwRed:#df5844;
+$ccPhpPurple:#745a95;
+$ccBdYellow:#a3881b;
+//其余的同色
+$tiBoxBlue:#72bde6;
+$stCommentBoxBlue:#6e98b6;
+//FAQ的颜色
+$faqBoxBlue:#0f6a99;
+//极客灰色
+$jikeGrey:#d8d8d8;
+//footerColor
+$jikeFooterGrey:#999;
+//feedback
+$stuFeedBackColor:#0e3347;
+
+
+//按钮组建
+@mixin askNow_model{
+  display: block;
+  width:278px;
+  height:52px;
+  line-height:55px;
+  font-size:$fontSize23;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  background-color: $jikeOrange;
+  cursor: pointer;
+  &:hover{
+    background-color: $jikeOrangeHover;
+  }
+}

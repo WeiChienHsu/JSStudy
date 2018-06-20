@@ -1,0 +1,71 @@
+/*框架*/
+@mixin Sidebar{
+    position: absolute;
+    text-align: center;
+    width: 30px;
+    height: 40px;
+    background: rgba(0, 0, 0, .5);
+    cursor: pointer;
+}
+.lession-middle {
+    position: relative;
+    float: left;
+    margin-left: 6px;
+    width: 570px;
+    height: 307px;
+    border: 1px solid $sideLine;
+    overflow: hidden;
+}
+/*图片盒子*/
+.imgBox {
+    position: absolute;
+    width: 570px;
+    height: auto;
+    display: none;
+}
+.currSlider {
+    display: block;
+}
+
+/*左右两个bar*/
+.sideBar {
+    display: none;
+    cursor: pointer;
+}
+.lession-middle:hover .sideBar {
+    display: block;
+}
+#rightSidebar {
+    @include Sidebar;
+    top: 128.5px;
+    left: 540px;
+}
+#leftSidebar {
+    @include Sidebar;
+    top: 128.5px;
+}
+
+/*底部六个bar*/
+.bottonBar {
+    position: absolute;
+    top: 273px;
+    left: 160px;
+    margin: 0 auto;
+    display: inline-block;
+    width: 250px;
+    height: 25px;
+    text-align: center;
+}
+.bottonBarInner {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 35px;
+    height: 5px;
+    border: 1px solid rgba(255, 255, 255, .8);
+    border-radius: 2px;
+    cursor: pointer;
+}
+.currBottonbar {
+    background: rgba(255, 255, 255, .8);
+}

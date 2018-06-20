@@ -1,0 +1,63 @@
+
+//FAQ
+.faq{
+  box-sizing: border-box;
+  padding-top:78px;
+  height:670px;
+  width:100%;
+  background: linear-gradient(to left, #e1e1e1,#fdfdfd 30%, #f6f6f6);
+  .faqBox{
+    display: block;
+    margin:0 auto;
+    width:990px;
+    height:486px;
+    .faqTitle{
+      width:100%;
+      height:68px;
+      background-color: $faqBoxBlue;
+      font-size:$fontSize26;
+      line-height:68px;
+      text-align: center;
+      color: #fff;
+      .faqTitleImg{
+        position:relative;
+        display: inline-block;
+        top:11.5px;
+        right:15px;
+        //margin:11.5px auto;
+        height:45px;
+        width:65px;
+        background: url(../images/faq/faq_title@2x.png) no-repeat center center/auto 45px;;
+      }
+    }
+    .faqContent{
+      width:100%;
+      height:auto;
+      .faqContentEach{
+        box-sizing: border-box;
+        padding:15px 97px;
+        background-color: #fff;
+        margin-top:1px;
+        .faqContentEach_title{
+          display: block;
+          font-size:$fontSizeSubTitle17;
+          color:$faqBoxBlue;
+          //font-weight:bolder;
+          line-height:$fontSizeTitle36;
+        }
+        .faqContentEach_answer{
+          display: block;
+          font-size:$fontSize15;
+          color:#828282;
+          //font-weight:bolder;
+          line-height:26px;
+        }
+      }
+    }
+  }
+  .faq_Asknow{
+    margin:25px auto;
+    @include askNow_model;
+  }
+}
+//-----end---faq

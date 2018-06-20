@@ -1,0 +1,165 @@
+/*共同*/
+
+@mixin bar-LR($leftPosit, $rightPosit) {
+    position: relative;
+    margin-top: 8px;
+    background: url(../images/icon_7f8b929.png) $leftPosit $rightPosit no-repeat;
+    width: 20px;
+    height: 25px;
+    display: inline-block;
+}
+
+.left {
+    @include bar-LR(0px, -128px);
+}
+
+.right {
+    @include bar-LR(4px, -153px);
+}
+
+.bar {
+    position: absolute;
+    text-align: center;
+    width: 30px;
+    height: 40px;
+    background: rgba(0, 0, 0, .5);
+    cursor: pointer;
+    display: none;
+}
+
+.selectedMedia {
+    display: inline-block !important;
+}
+
+
+/*----------合作企业 start----------*/
+
+.enterprise {
+    height: 131px;
+    margin: 40px auto;
+    position: relative;
+    .strategy {
+        position: relative;
+        height: 90px;
+        border: 1px solid $sideLine;
+        .strategy-box {
+            position: absolute;
+            margin: 20px;
+            width: 958px;
+            height: 50px;
+            overflow: hidden;
+            .entermedia {
+                width: 150px;
+                height: 50px;
+                margin: 0 4.5px;
+                float: left;
+                border: 1px solid $sideLine;
+                display: none;
+                position: absolute;
+            }
+        }
+        &:hover .enterprisebaractive {
+            display: inline-block !important;
+        }
+    }
+}
+
+#enterpriseLeftBar {
+    top: 25px;
+}
+
+#enterpriseRightBar {
+    @extend #enterpriseLeftBar;
+    left: 970px;
+}
+
+
+/*----------合作企业 end----------*/
+
+
+/*----------合作院校 start----------*/
+
+.university {
+    height: 190px;
+    margin: 40px auto;
+    position: relative;
+    .university-box {
+        position: relative;
+        height: 150px;
+        border: 1px solid $sideLine;
+        overflow: hidden;
+        &:hover .univerbaractive {
+            display: inline-block !important;
+        }
+        .university-box-inner {
+            position: relative;
+            margin: 20px;
+            height: 110px;
+            overflow: hidden;
+            .univermedia {
+                display: none;
+                position: absolute;
+            }
+            &>a {
+                width: 14.28%;
+                height: 100%;
+                text-align: center;
+                float: left;
+            }
+        }
+    }
+}
+
+#univerLeftBar {
+    top: 55px;
+}
+
+#univerRightBar {
+    @extend #univerLeftBar;
+    left: 970px;
+}
+
+
+/*----------合作院校 end----------*/
+
+
+/*----------媒体报道 start----------*/
+
+.meiti {
+    height: 130px;
+    margin: 40px auto;
+    position: relative;
+    .mediaStrategy {
+        height: 90px;
+        border: 1px solid $sideLine;
+        .strategy-box-media {
+            display: inline-block;
+            position: relative;
+            margin: 20px;
+            width: 958px;
+            height: 50px;
+            overflow: hidden;
+            .media {
+                display: none;
+                position: absolute;
+                margin: 0 4.5px;
+                border: 1px solid $sideLine;
+            }
+        }
+        &:hover .mediabaractive {
+            display: inline-block !important;
+        }
+    }
+}
+
+#mediaLeftBar {
+    top: 65px;
+}
+
+#mediaRightBar {
+    @extend #mediaLeftBar;
+    left: 970px;
+}
+
+
+/*----------媒体报道 end----------*/

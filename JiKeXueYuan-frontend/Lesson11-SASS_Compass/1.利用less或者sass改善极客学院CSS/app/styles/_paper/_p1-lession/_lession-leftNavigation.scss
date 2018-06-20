@@ -1,0 +1,115 @@
+$lession-left-width:210px;
+@mixin rightTitles {
+    display: inline-block;
+    line-height: 20px;
+    color: #333 !important;
+    &:hover {
+        color: $baseColor !important;
+    }
+}
+
+
+/*左侧分类框架*/
+
+.lession-left {
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: $lession-left-width;
+    font-size: $basicFontSize+1;
+    border-top: 2px solid $baseColor;
+    top: 10px;
+    z-index: 300;
+    &:hover {
+        box-shadow: 1px 1px 1px $sideLine;
+        .LessionHidden {
+            display: block;
+            box-shadow: 1px 1px 1px $sideLine;
+        }
+    }
+
+}
+
+.boxLession {
+    /*左边矿建细分栏目*/
+    .lession-classfy {
+        width: $lession-left-width;
+        height: 37px;
+        line-height: 37px;
+        display: inline-block;
+        border: {
+            bottom: 1px solid $sideLine;
+            left: 1px solid $sideLine;
+            right: 1px solid $sideLine;
+        }
+        padding-left: 15px;
+        background-color: white;
+    }
+    /*显示左侧未显示完的分类框架*/
+    .LessionHidden {
+        position: absolute;
+        top: 296px;
+        left: 0px;
+        display: none;
+    }
+}
+
+
+/*折叠导航栏*/
+
+.lessionNext {
+    position: relative;
+    top: 306px;
+    height: 9px;
+    width: $lession-left-width;
+    background: $sideLine*1.07 url(../images/alt-d_5632351.png) center center/7px 3px no-repeat;
+    border: 1px solid $sideLine;
+    border-top: 0px;
+}
+
+.boxLession .lession-classfy:hover {
+    border-left: 2px solid $baseColor;
+    a {
+        color: $baseColor;
+    }
+    .lessionContainer {
+        display: block !important;
+        color: $baseColor;
+    }
+}
+
+.lessionContainer {
+    position: absolute;
+    display: none;
+    top: -2px;
+    left: 210px;
+    width: 400px;
+    box-shadow: 1px 1px $sideLine;
+    border: {
+        bottom: 1px solid $sideLine;
+        top: 1px solid $sideLine;
+        right: 1px solid $sideLine;
+    }
+    background-color: white;
+    height: 409px;
+    z-index: 400;
+    /*左侧导航hover后的title*/
+    &Title {
+        @include rightTitles;
+        margin: 10px 0 4px 10px;
+        font-size: $basicFontSize+2;
+    }
+    /*左侧导航hover后的subTitle*/
+    &subTitle {
+        @include rightTitles;
+        margin: 8px 0 8px 10px;
+        font-size: $basicFontSize;
+    }
+}
+
+
+/*下侧hover后右边的详细面页*/
+
+.tpo {
+    top: -298px;
+}

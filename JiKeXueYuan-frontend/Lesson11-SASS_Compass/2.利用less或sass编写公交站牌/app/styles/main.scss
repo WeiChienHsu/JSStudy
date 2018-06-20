@@ -1,0 +1,160 @@
+
+.header {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+}
+
+.homework {
+    position: relative;
+    margin: 10px auto;
+    width: 800px;
+    height: 600px;
+    border-radius: 10px;
+    background-color: #e1e1e1;
+}
+
+.inner {
+    box-sizing: border-box;
+    position: relative;
+    padding: 0 15px;
+    top: 10px;
+    left: 145px;
+    width: 510px;
+    height: 565px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: floralwhite;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+
+/*views*/
+.views {
+    position: absolute;
+    top: 75px;
+    height: 395px;
+    width: 480px;
+}
+/*-----------------------------------------------*/
+/*作业部分的scss代码*/
+.brand-name {
+    margin:15px auto;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #e3e3e3;
+}
+//arrows
+$directionWidth:230px;
+$directionHeight:10px;
+@mixin direction($directionWidth,$directionHeight){
+    position: relative;
+    display: inline-block;
+    width:$directionWidth;
+    height:$directionHeight;
+}
+.gongjiaoBox {
+    position: relative;
+    height: 150px;
+    width:480px;
+    background-color: white;
+    margin-bottom: 8px;
+    border:1px solid #e3e3e3;
+    //left
+    &-left {
+        float: left;
+        display: inline-block;
+        width:100px;
+        height:150px;
+        &__busNum {
+            text-align: center;
+            font-size: 60px;
+            line-height: 100px;
+            height:100px;
+            color: red;
+            background-color: aqua;
+        }
+        &__nextStop {
+            text-align: center;
+        }
+    }
+    //right
+    &-right {
+        display: inline-block;
+        height: 150px;
+        width: 380px;
+        &__destination {
+            margin:8px 100px;
+            span{
+                font-size: 20px;
+            }
+        }
+        //arrows
+        &__direction {
+            @include direction($directionWidth,$directionHeight);
+            margin:-7px 60px;
+            &_line{
+                @include direction($directionWidth - $directionHeight*2,$directionHeight/3);
+                float: left;
+                top:$directionHeight/3;
+                background-color: green;
+            }
+            &_arrow{
+                @include direction(0,0);
+                float: left;
+                border: {
+                    top:$directionHeight/2 solid transparent;
+                    left:$directionHeight*2 solid green;
+                    right:$directionHeight*0 solid transparent;
+                    bottom:$directionHeight/2 solid transparent;
+                }
+            }
+        }
+    }
+    
+}
+
+$stopWidth:380px;
+$columnWidth:16px;
+@function stopNum($num){
+    @return (($stopWidth) / $num - $columnWidth)/2;
+}
+
+@mixin everyStopStyle($num) {
+    margin-top: 5px;
+    width: auto;
+    height: 100px;
+    background-color:antiquewhite;
+    ul{
+        list-style-type: none;
+        list-style-position: inside;
+        vertical-align: center; 
+        text-align: center;
+//        margin:0 $life-right-Margin;
+        margin:0;
+    }
+    ul li{
+        vertical-align: center;
+        display: list-item;
+        font-size: $columnWidth;
+        line-height: $columnWidth+1;
+        width: $columnWidth;
+        margin: 0px stopNum($num);
+        height: auto;
+        float: left;
+    }
+}
+
+.gongjiaoBox-right__everyStop32{
+   @include everyStopStyle(8);
+}
+
+.gongjiaoBox-right__everyStop55{
+   @include everyStopStyle(14);
+}
+
+.gongjiaoBox-right__everyStop90{
+   @include everyStopStyle(16);
+}

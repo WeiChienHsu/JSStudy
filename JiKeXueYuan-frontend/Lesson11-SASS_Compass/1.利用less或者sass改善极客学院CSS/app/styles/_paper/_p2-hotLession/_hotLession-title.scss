@@ -1,0 +1,16 @@
+/*title*/
+.hotlessionbox {
+    width: 16.66%;
+    height: 40px;
+    float: left;
+    display: inline-block;
+    border-bottom: 1px solid $sideLine;
+    line-height: 40px;
+    text-align: center;
+    font-size: $basicFontSize+2;
+}
+.hotlessionboxFocus{
+    border-bottom: 3px solid $baseColor;
+    background: url(../images/index-sj_cc73747.png) center bottom no-repeat;
+    background-size: 10px 4px;
+}

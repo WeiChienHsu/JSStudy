@@ -1,0 +1,180 @@
+@mixin foldAnimate{
+    height: 0px;
+    overflow: hidden;
+    position: relative;
+    background-color:white;
+    transition:height .3s ease-in ; 
+}
+/*热门课程-hover动画*/
+.hot-lession-inner {
+    position: relative;
+    width: 235px;
+    height: 220px;
+    margin: 0 20px 20px 0;
+    display: inline-block;
+    float: left;
+    overflow: visible;
+    text-align: center;
+}
+
+.hot-lessionboxinner {
+    width: 1100px;
+    height: auto;
+} 
+.innBox {
+    position: absolute;
+    width:235px;
+    height:auto;
+    background-color: white;
+    overflow: hidden;
+    border: 1px solid $sideLine;
+    z-index: auto;
+	transition:z-index .3s ease-in ;
+    &:hover{
+        z-index: 500;
+        .innSubTitle{
+            height: 50px;
+        }
+        .innStateLearnPeo,
+        .innStateLevel{
+            height: 25px;
+        }
+    }
+    &Img {
+        position: relative;
+        top:0;
+        width:233px;
+        height:129px;
+        background-color: white;
+    }
+    &BottomRightSession {
+        position: relative;
+        float: left;
+        width: 97px;
+        height: auto;
+    }
+    &BottonLeftSession {
+        @extend .innBoxBottomRightSession;
+        width:135px;
+    }
+    &ImgBlack {
+        display: block;
+        opacity: 0;
+        position: absolute;
+        top: 0px;
+        width:233px;
+        height: 127px;
+        z-index: auto;
+        background: rgba(0,0,0,.5) url(../images/player_icon_5c67475.png) 91.5px 38.5px/50px 50px no-repeat;
+        transition:opacity .3s ease-in ;
+        .innBox:hover &{
+            opacity: 1 ;
+            z-index: 600 ;
+        }
+    }
+    &Selected {
+        display: block !important;
+        z-index: 400;
+    }
+}
+
+.innTitle {
+    width: 233px;
+    height: 50px;
+    position: relative;
+    top:0;
+    background-color: white;
+    text-align: left;
+    margin-top: 3px;
+    &Style {
+        margin: 10px;
+        color:#333;
+        font-size: $basicFontSize+2;
+    }
+}
+
+.innSubTitle {
+    @include foldAnimate;
+    width: 233px;
+    top:0;
+    margin-bottom: 8px;
+    text-align: left;
+    &Style {
+        width: 213px;
+        height: 50px;
+        display: inline-block;
+        margin:0 10px;
+        color: grey;
+        font-size: $basicFontSize;
+        line-height: 18px;
+    }
+}
+$innStateHeight:25px;
+.innState {
+    &Time{
+        float: left;
+        width: 134px;
+        height: $innStateHeight;
+        position: relative;
+        background-color:white;
+        font-size: $basicFontSize;
+        // line-height: 18px;
+        text-align: left;
+        line-height: $innStateHeight;
+    } 
+    &LearnPeo {
+        @include foldAnimate;
+        float: left;
+        width: 97px;
+        font-size: $basicFontSize;
+        text-align: center;
+        line-height: $innStateHeight;
+    }
+    &Level {
+        @include foldAnimate;
+        float: left;
+        width: 134px;
+        font-size: $basicFontSize;
+        line-height: $innStateHeight;
+        text-align: left;
+    }
+    &SmImg {
+        position: relative;
+        float: right;
+        width: 97px;
+        height: $innStateHeight;
+        background-color:white;
+        // line-height: 18px;
+        text-align: left;
+        line-height: $innStateHeight;
+        margin-bottom: 4px;
+    }
+    &TimeImg {
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        float: left;
+        background: white url(../images/clok_a413ecf.png) 0px 0px/14px 14px no-repeat;
+        margin: 6px 8px;
+    }
+    &LevelImg{
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        float: left;
+        background: white url(../images/tow-ji_ec2b553.png) 0px 0px/14px 14px no-repeat;
+        margin: 6px 8px;   
+    }
+    &SmImgimg{
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        float: right;
+        background: white url(../images/54578dd427722.png) 0px 0px/18px 18px no-repeat;
+        margin: 2px 15px 2px 20px;  
+    }
+}
+.hot-lessionbox-focus {
+    display: block !important;
+}
+

@@ -1,0 +1,120 @@
+
+//学员们这样评价就业班
+.stuFeedback{
+  width:100%;
+  background: linear-gradient(to left, #ececec, #f7f7f7 20%, #e0e0e0);
+  .stuFeedbackBox{
+    position: relative;
+    height:605px;
+    width:$pageWidth1000;
+    margin:0 auto;
+    .sfTitle{
+      text-align: center;
+      display: block;
+      height:126px;
+      width:auto;
+      font-weight:bolder;
+      font-size: $fontSizeTitle36;
+      line-height:126px;
+      color: $stuFeedBackColor;
+    }
+    .stCommentBox{
+      position: relative;
+      height:108px;
+      margin-bottom:28px;
+      .stCommentBox_left{
+        box-sizing: border-box;
+        display: inline-block;
+        float: left;
+        width: 180px;
+        height:100%;
+        text-align: center;
+        .stCommentBox_img{
+          box-sizing: border-box;
+          margin:0 auto;
+          width:63px;
+          height:63px;
+          border-radius:50%;
+        }
+        .stComment_name{
+          display: block;
+          margin:8px auto;
+          color:$stuFeedBackColor;
+        }
+        .stComment_touxian{
+          display: block;
+          color:#909090;
+        }
+      }
+      .stCommentBox_right{
+        display: inline-block;
+        position: relative;
+        float: left;
+        width:783px;
+        height:108px;
+        box-sizing: border-box;
+        border:{
+          right:1px solid $jikeGrey;
+          bottom:1px solid $jikeGrey;
+          top:1px solid $jikeGrey;
+        }
+        padding:24px 45px;
+        .stCommentBox_content{
+          color:$stCommentBoxBlue;
+          font-weight:bolder;
+          font-size:17px;
+          letter-spacing: -1px;
+          line-height:30px;
+        }
+        .stCommentBox_arrow{
+          display: block;
+          position: absolute;
+          top:22px;
+          left:-10px;
+          height:18px;
+          width:18px;
+          border: {
+            right:1px solid $jikeGrey;
+            bottom:1px solid $jikeGrey;
+          }
+          transform:rotate(135deg) skew(10deg,10deg);
+        }
+        .Left_arrow_top{
+          display: block;
+          position: absolute;
+          top:0;
+          left:0;
+          height:21px;
+          border-left:1px solid $jikeGrey;
+        }
+        .Left_arrow_bottom{
+          display: block;
+          position: absolute;
+          bottom:0;
+          left:0;
+          height:64px;
+          border-left:1px solid $jikeGrey;
+        }
+      }
+    }
+    //上面和下面的两个引号
+    .stCommentBox_quotImg{
+      position: absolute;
+      width:55px;
+      display: block;
+    }
+    .quotBottom{
+      height:37px;
+      bottom:75px;
+      left:193px;
+      background: url(../images/stuFeedback/quot_right@2x.png) no-repeat center center/auto 37px;
+    }
+    .quotTop{
+      height:50px;
+      top:94px;
+      right:48px;
+      background: url(../images/stuFeedback/quot_left@2x.png) no-repeat center center/auto 50px;
+    }
+  }
+}
+//-----end---studentFeedBack

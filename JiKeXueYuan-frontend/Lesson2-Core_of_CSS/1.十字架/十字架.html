@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>十字架</title>
+    <style type="text/css">
+.outer-box {
+        height: 330px;
+    }
+    
+    .title-of-ways {
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        font: arial;
+    }
+    
+    .subtitle-of-ways {
+        text-align: center;
+        font-size: 15px;
+        color: #696969;
+    }
+    
+    .top-box {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(204, 204, 204);
+        background-size: 100px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
+        background-image: url(top.png);
+    }
+    
+    .left-box {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(204, 204, 204);
+        background-size: 100px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
+        background-image: url(left.png);
+    }
+    
+    .center-box {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(96, 180, 255);
+        background-image: url(robot.png);
+        background-size: 24px 24px;
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
+    }
+    
+    .right-box {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(204, 204, 204);
+        background-size: 100px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
+        background-image: url(right.png);
+    }
+    
+    .bottom-box {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(204, 204, 204);
+        background-size: 100px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
+        background-image: url(bottom.png);
+    }
+    
+    .position-box {
+        height: 315px;
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .flexible-box {
+        height: 315px;
+        width: 500px;
+    }
+}
+    </style>
+</head>
+
+<body>
+    <!-- 十字架实现的第一种方式 -->
+    <p class="title-of-ways">十字架实现的第一种方式</p>
+    <p class="subtitle-of-ways">使用inline-block + text-align方式</p>
+    <div class="outer-box">
+        <div style="text-align: center; margin-bottom:4px;">
+            <div class="top-box"></div>
+        </div>
+        <div style="text-align: center;">
+            <div class="middle-three-box" style="display: inline-block;height: 100px; width: 328px;">
+                <div class="left-box"></div>
+                <div class="center-box">
+                    <!-- <img src="robot.png" style="height:100px;"> -->
+                </div>
+                <div class="right-box"></div>
+            </div>
+        </div>
+        <div style="text-align: center;  margin-top:4px;">
+            <div class="bottom-box">
+            </div>
+        </div>
+    </div>
+    <hr/>
+    <!-- 十字架实现的第二种方式 -->
+    <p class="title-of-ways">十字架实现的第二种方式</p>
+    <p class="subtitle-of-ways">使用position定位-relation方式</p>
+    <div class="outer-box">
+        <div class="position-box">
+            <div class="top-box" style="float:left; position:relative; left:200px;"></div>
+            <div class="left-box" style="float:left; position:relative; top:105px; right:5px"></div>
+            <div class="center-box" style="float:left; position:relative; top:105px;"></div>
+            <div class="right-box" style="float:left; position:relative; top:105px; left:5px;"></div>
+            <div class="bottom-box" style="float:left; position:relative; right:200px; top:210px;"></div>
+        </div>
+    </div>
+    <hr/>
+    <!-- 十字架实现的第三种方式 -->
+    <p class="title-of-ways">十字架实现的第三种方式</p>
+    <p class="subtitle-of-ways">使用position定位-absolute方式</p>
+    <div class="outer-box">
+        <div class="position-box" style="position:relative;">
+            <div class="top-box" style="float:left; position:absolute; left:200px;"></div>
+            <div class="left-box" style="float:left; position:absolute; left:95px; top:105px;"></div>
+            <div class="center-box" style="float:left; position:absolute; left:200px; top:105px;"></div>
+            <div class="right-box" style="float:left; position:absolute; left:305px; top:105px;"></div>
+            <div class="bottom-box" style="float:left; position:absolute; left:200px; top:210px;"></div>
+        </div>
+    </div>
+    <hr/>
+    <!-- 十字架实现的第四种方式 -->
+    <p class="title-of-ways">十字架实现的第四种方式</p>
+    <p class="subtitle-of-ways">使用伸缩盒-Flexible Box(旧)方式</p>
+    <div class="outer-box" style="display: -webkit-box; -webkit-box-pack:center; -webkit-box-align:center;">
+        <div class="flexible-box">
+            <div style="display: -webkit-box; -webkit-box-pack:center; -webkit-box-align:center; margin-bottom:4px;">
+                <div class="top-box"></div>
+            </div>
+            <div style="display: -webkit-box; -webkit-box-pack:center; -webkit-box-align:center;">
+                <div class="left-box"></div>
+                <div class="center-box"></div>
+                <div class="right-box"></div>
+            </div>
+            <div style="display: -webkit-box; -webkit-box-pack:center; -webkit-box-align:center; margin-top:4px;">
+                <div class="bottom-box"></div>
+            </div>
+        </div>
+    </div>
+    <hr/>
+    <!-- 十字架实现的第五种方式 -->
+    <p class="title-of-ways">十字架实现的第五种方式</p>
+    <p class="subtitle-of-ways">使用伸缩盒-Flexible Box(新)方式</p>
+    <div class="outer-box" style="display:-webkit-flex; align-items:center; justify-content:center; ">
+        <div class="flexible-box">
+            <div style="display:-webkit-flex; align-items:center; justify-content:center; margin-bottom:8px;">
+                <div class="top-box"></div>
+            </div>
+            <div style="display:-webkit-flex; align-items:center; justify-content:center;">
+                <div class="left-box" style="margin-right:8px;"></div>
+                <div class="center-box"></div>
+                <div class="right-box" style="margin-left:8px;"></div>
+            </div>
+            <div style="display:-webkit-flex; align-items:center; justify-content:center; margin-top:8px;">
+                <div class="bottom-box"></div>
+            </div>
+        </div>
+    </div>
+    <hr/>
+    <!-- 十字架实现的第六种方式 -->
+    <p class="title-of-ways">十字架实现的第六种方式</p>
+    <p class="subtitle-of-ways">使用table分格子方式</p>
+    <div class="outer-box">
+        <table style="margin-left: auto; margin-right: auto;">
+            <tbody>
+                <tr>
+                    <td>
+                        <div style="height:100px; width:100px;"></div>
+                    </td>
+                    <td>
+                        <div class="top-box"></div>
+                    </td>
+                    <td>
+                        <div style="height:100px; width:100px; "></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="left-box" style="margin-right:3px;"></div>
+                    </td>
+                    <td>
+                        <div class="center-box"></div>
+                    </td>
+                    <td>
+                        <div class="right-box" style="margin-left:3px;"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style="height:100px; width:100px;"></div>
+                    </td>
+                    <td>
+                        <div class="bottom-box"></div>
+                    </td>
+                    <td>
+                        <div style="height:100px; width:100px;"></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr/>
+    <p class="subtitle-of-ways">Designed by Songtao</p>
+    <br/>
+</body>
+
+</html>

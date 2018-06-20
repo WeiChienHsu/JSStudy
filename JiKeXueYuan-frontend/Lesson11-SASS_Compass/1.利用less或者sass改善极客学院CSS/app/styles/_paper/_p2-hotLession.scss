@@ -1,0 +1,27 @@
+@import "_p2-hotLession/_hotLession-title.scss";
+@import "_p2-hotLession/_hotLession-innerBoxs.scss";
+
+/*----------热门课程 start----------*/
+
+
+/*整体框架-title*/
+
+.hot-lession {
+    height: 40px;
+    margin: 30px auto;
+    position: relative;
+}
+
+
+/*整体框架-下面的盒子*/
+
+.hot-lessionbox {
+    display: none;
+    width: 1000px;
+    height: 480px;
+    margin: 20px auto;
+    position: relative;
+}
+
+
+/*----------热门课程 end----------*/

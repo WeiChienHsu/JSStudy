@@ -1,0 +1,248 @@
+/*此CSS对整体框架修饰*/
+hr{
+    border:1px solid #f1f1f1;
+}
+
+/*全局*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    text-decoration: none;
+    font-family: Verdana, "Lantinghei SC", "Hiragino Sans GB", "Microsoft Yahei", Helvetica, arial, \5b8b\4f53, sans-serif;
+}
+
+
+/*改变超链接外观*/
+
+a:hover,
+a:link,
+a:visited,
+a:active {
+    color: #333;
+}
+
+body {
+    margin: 0;
+}
+
+input {
+    border: 0;
+    outline: 0;
+}
+
+
+/*整体*/
+
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+
+/*网页内容宽度*/
+
+.width-1000 {
+    width: 1000px;
+    /*    border:1px solid #bbb;*/
+}
+
+
+/*头部*/
+
+.header {
+    /*background-color: green;*/
+    box-sizing: border-box;
+    height: 70px;
+    padding: 10px;
+}
+
+.header-section {
+    /*background-color: gray;*/
+    margin: 0 auto;
+    height: 50px;
+    /*background-color: red;*/
+    position: relative;
+}
+
+.header-section>h5 {
+    display: block;
+    float: left;
+    /*background-color: yellow;*/
+    margin-top: 5px;
+}
+
+.searchbox {
+    width: 380px;
+    height: 38px;
+    /*background-color: yellow;*/
+    position: absolute;
+    left: 50%;
+    margin-left: -190px;
+    margin-top: 6px;
+    /*vertical-align: middle;*/
+    /*display: block;*/
+}
+
+.search-text-border {
+    height: 38px;
+    width: 340px;
+    border-left: 1px solid #dfdfdf;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    /*background-color: blue;*/
+    position: absolute;
+}
+
+.search-text-border>input {
+    position: relative;
+    width: 320px;
+    margin-top: 6.5px;
+    margin-left: 5px;
+    
+    height: 23px;
+    background-color: #fff;
+    font-size: 23px;
+    text-align: left;
+}
+
+.hot-words {
+    display: block;
+    position: absolute;
+    width: 147px;
+    height: 17px;
+    top: 9.5px;
+    left: 170px;
+}
+
+.hot-words>a {
+    position: relative;
+    background-color: #f3f3f3;
+    color: gray;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.search-submit-border {
+    height: 38px;
+    width: 40px;
+    /*border: 1px solid gray;*/
+    
+/*    background-color: red;*/
+    background: url(../img/topsearch-icon_e1f5df2.png) center center no-repeat;
+    background-size: auto;
+    border: 1px solid #dfdfdf;
+    position: absolute;
+    left: 340px;
+}
+
+.search-submit-border:hover{
+    background: #35b558 url(../img/topsearch-icon2_8c8d8b0.png) center center no-repeat!important;
+    border: 1px solid #35b558;
+        
+}
+
+
+
+
+.search-submit-border>input {
+    height: 38px;
+    width: 40px;
+    
+    background: url(topsearch-icon_e1f5df2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.usermenu {
+    display: inline;
+}
+
+.usermenu-menu {
+    display: inline;
+}
+
+.loginbox {
+    float: right;
+    width: 252px;
+    height: 50px;
+    /*    background-color: yellow;*/
+    /*    display: inline-block;*/
+    font-size: 12px;
+    position: relative;
+}
+
+.loginbox>span {
+    display: inline-block;
+    /*    margin-top: 17.5px;*/
+    line-height: 50px;
+    height: 50px;
+}
+
+
+/*我的课程*/
+
+.loginbox>span:last-child {
+    color: #2d85ca;
+    !important;
+}
+
+
+/*会员状态*/
+
+.loginbox>a>img {
+    position: relative;
+    top: 3px;
+    line-height: 50px;
+}
+
+
+/*<!-- 用户名 -->*/
+
+.loginbox>div>a {
+    display: inline-block;
+    width: 80px;
+}
+
+
+/*加载条*/
+
+.loading {
+    height: 2px;
+    width: 100%;
+    background-color: #35b558;
+}
+
+
+/*导航条*/
+
+.navposition {
+    height: 44px;
+    width: 100%;
+    border-bottom: 1px solid #e8e8e8;
+    box-shadow: rgba(0, 0, 0, .1) 0px 1px 5px;
+}
+
+
+/*正文*/
+
+.paper {
+    height: 100%;
+    width: 100%;
+    /*    background-color: #e3e3e3;*/
+}
+
+
+/*尾部*/
+
+.footer {
+    height: 309px;
+    width: 100%;
+    /*    background-color: #eeeeee;*/
+    /*    border:1px solid grey;*/
+}

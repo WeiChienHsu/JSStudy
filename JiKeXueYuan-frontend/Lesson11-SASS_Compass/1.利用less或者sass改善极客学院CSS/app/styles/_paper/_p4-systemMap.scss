@@ -1,0 +1,67 @@
+/*----------知识体系图 start----------*/
+
+.system {
+    height: 521px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.map-box {
+    width: 1000px;
+    height: 481px;
+    border-left: 1px solid $sideLine;
+    border-top: 1px solid $sideLine;
+    &>a {
+        width: 16.66%;
+        height: 120px;
+        border-right: 1px solid $sideLine;
+        border-bottom: 1px solid $sideLine;
+        display: inline-block;
+        float: left;
+        text-align: center;
+        position: relative;
+    }
+}
+
+
+/*正面*/
+
+.front {
+    width: 100%;
+    height: 118px;
+    display: inline-block;
+    padding: 15px 0;
+    transform: rotateY(0deg);
+    background-color: #fff;
+    backface-visibility: hidden;
+    transition-duration: .6s;
+    position: absolute;
+    left: 0;
+    top: 0;
+    &:hover {
+        transform: rotateY(180deg);
+    }
+}
+
+
+/*背面*/
+
+.back {
+    width: 100%;
+    height: 118px;
+    display: inline-block;
+    padding-top: 25px;
+    transform: rotateY(-180deg);
+    background-color: $sideLine*1.07;
+    backface-visibility: hidden;
+    transition-duration: .6s;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    .front:hover+& {
+        transform: rotateY(0deg);
+    }
+}
+
+
+/*----------知识体系图 end----------*/

@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="./css/index3.css">
+    <link rel="stylesheet" type="text/css" href="./bootstrap/3.3.5/css/bootstrap.min.css">
+    <title>Index</title>
+</head>
+
+<body>
+    
+    <div class="container-fluid">
+        <!--Header-->
+        <div class="header center-block">
+            <div class="title text-center">
+                <h1><strong>3. 字符查找</strong></h1>
+            </div>
+            <div class="sub-title text-center center-block">
+                <small><strong>目标：</strong></small>
+                <small>找到对象{“a“，”x“，”b“，”d“，”m“，”a“，”k，“m”，“p”，“j”，“a”}出现最多的字母并给出个数和每一个所在的顺序。<p><strong>注：</strong>可对输入的任意字符进行判断，试试看~</p></small>
+            </div>
+        </div>
+        <!--Homework-->
+        <div class="homework center-block">
+            <div class="inner">
+                <!--input-->
+                <p class="text-center">请输入要排序的字符数组：~（eg:axbdmakmpja）</p>
+                <input type="text" id="view" class="form-control form-input" placeholder="<-请输入->" required autofocus>
+                <!--submit-->
+                <button type="submit" id="submit" class="btn label-primary form-button center-block"><strong>提交</strong>
+                </button>
+                <!--result-->
+                <hr class="hr"/>
+                <p class="text-center">
+                    出现次数最多的字符是：
+                    <span id="character">~</span> ，出现
+                    <span id="characterAppearNum">~</span> 次
+                </p>
+                <p class="text-center">其每一个所在的顺序是：<span id="order">~</span>
+                </p>
+                <hr class="hr"/>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="./js/index3.js"></script>
+</body>
+
+</html>

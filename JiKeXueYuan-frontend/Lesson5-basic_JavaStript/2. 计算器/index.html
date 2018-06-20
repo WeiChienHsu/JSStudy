@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <link rel="stylesheet" type="text/css" href="./bootstrap/3.3.5/css/bootstrap.min.css">
+    <title>Index</title>
+</head>
+
+<body>
+    <script type="text/javascript" src="./js/index.js"></script>
+    <div>
+        <!--Header-->
+        <div class="header">
+            <div class="title text-center">
+                <h1><strong>2. 计算器</strong></h1>
+            </div>
+            <div class="sub-title text-center center-block">
+                <small><strong>目标：</strong></small>
+                <small>开发简易计算器，输入 x y 以及操作符可以计算初数值，如函数计算器输入 4，5，* 可以返回20，输入3 ，8，+可以等于11。<p>注：此计算器还可进行.3(=0.3）、-3+3(=0)、.3*.4(=0.12)等操作，计算实时显示和错误提示~</p>
+                </small>
+            </div>
+        </div>
+        <!--Homework-->
+        <div class="homework">
+            <div class="inner">
+                <div class="brand-name"><strong>简易计算器</strong></div>
+                <div class="views">
+                    <input type="text" id="view" class="form-control form-input" placeholder="<-请输入->" required autofocus readonly="readonly"> 
+                    //number
+                    <div class="numbers">
+                        <button type="submit" id="reset" class="btn label-danger form-button" onclick="reset()" style="top:0px; left:0px;"><strong class="num-size">C</strong>
+                        </button>
+                        <button type="submit" id="signDiv" class="btn label-info form-button" onclick="signDiv()" style="top:0px; left:70px;"><strong class="num-size">/</strong>
+                        </button>
+                        <button type="submit" id="signMult" class="btn label-info form-button" onclick="signMult()" style="top:0px; left:140px;"><strong class="num-size">*</strong>
+                        </button>
+                        <button type="submit" id="signDel" class="btn label-danger form-button" onclick="signDel()" style="top:0px; left:210px;"><strong class="num-size">Del</strong>
+                        </button>
+                        <button type="submit" id="num7" class="btn btn-primary form-button" onclick="num7()" style="top:70px; left:0px;"><strong class="num-size">7</strong>
+                        </button>
+                        <button type="submit" id="num8" class="btn btn-primary form-button" onclick="num8()" style="top:70px; left:70px;"><strong class="num-size">8</strong>
+                        </button>
+                        <button type="submit" id="num9" class="btn btn-primary form-button" onclick="num9()" style="top:70px; left:140px;"><strong class="num-size">9</strong>
+                        </button>
+                        <button type="submit" id="signMinus" class="btn label-info form-button" onclick="signMinus()" style="top:70px; left:210px;"><strong class="num-size">-</strong>
+                        </button>
+                        <button type="submit" id="num4" class="btn btn-primary form-button" onclick="num4()" style="top:140px; left:0px;"><strong class="num-size">4</strong>
+                        </button>
+                        <button type="submit" id="num5" class="btn btn-primary form-button" onclick="num5()" style="top:140px; left:70px;"><strong class="num-size">5</strong>
+                        </button>
+                        <button type="submit" id="num6" class="btn btn-primary form-button" onclick="num6()" style="top:140px; left:140px;"><strong class="num-size">6</strong>
+                        </button>
+                        <button type="submit" id="signPlus" class="btn label-info form-button" onclick="signPlus()" style="top:140px; left:210px;"><strong class="num-size">+</strong>
+                        </button>
+                        <button type="submit" id="num1" class="btn btn-primary form-button" onclick="num1()" style="top:210px; left:0px;"><strong class="num-size">1</strong>
+                        </button>
+                        <button type="submit" id="num2" class="btn btn-primary form-button" onclick="num2()" style="top:210px; left:70px;"><strong class="num-size">2</strong>
+                        </button>
+                        <button type="submit" id="num3" class="btn btn-primary form-button" onclick="num3()" style="top:210px; left:140px;"><strong class="num-size">3</strong>
+                        </button>
+                        <button type="submit" id="result" class="btn label-success form-button" onclick="result()" style="top:210px; left:210px; height:130px !important;"><strong class="num-size">=</strong>
+                        </button>
+                        <button type="submit" id="num0" class="btn btn-primary form-button" onclick="num0()" style="top:280px; left:0px;"><strong class="num-size">0</strong>
+                        </button>
+                        <button type="submit" id="signDot" class="btn btn-primary form-button" onclick="signDot()" style="top:280px; left:70px; width:130px !important;"><strong class="num-size">.</strong>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

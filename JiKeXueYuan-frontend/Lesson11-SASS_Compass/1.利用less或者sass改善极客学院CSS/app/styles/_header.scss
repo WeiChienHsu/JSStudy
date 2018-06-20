@@ -1,0 +1,131 @@
+.lessiontitle {
+    font-size: $basicFontSize+3;
+}
+
+
+/*header*/
+
+header {
+    box-sizing: border-box;
+    height: 70px;
+    padding: 10px;
+    .header-section {
+        position: relative;
+        margin: 0 auto;
+        height: 50px;
+        /*logo*/
+        &>h5 {
+            display: block;
+            float: left;
+            margin-top: 5px;
+        }
+    }
+}
+
+
+/*搜索框整体layout*/
+$searchboxHeight: 38px;
+.searchbox {
+    width: 380px;
+    height: $searchboxHeight;
+    position: absolute;
+    left: 50%;
+    // margin-left: -190px;
+    margin: 6px 0 0 -190px;
+    .search-text-border {
+        height: $searchboxHeight;
+        width: 340px;
+        border: {
+            left: 1px solid $sideLine;
+            top: 1px solid $sideLine;
+            bottom: 1px solid $sideLine;
+        }
+        position: absolute;
+        /*搜索框左侧内部layout*/
+        &>input {
+            position: relative;
+            width: 320px;
+            margin: 6.5px 0 0 5px;
+            // margin-left: 5px;
+            height: 23px;
+            background-color: #fff;
+            font-size: $basicFontSize*2 - 1;
+            text-align: left;
+        }
+    }
+}
+
+// .search-text-border
+.hot-words {
+    display: block;
+    position: absolute;
+    width: 147px;
+    height: 17px;
+    top: 9.5px;
+    left: 170px;
+    &>a {
+        position: relative;
+        background-color: $sideLine;
+        color: $sideLine/4;
+        font-size: $basicFontSize+2;
+        text-decoration: none;
+    }
+}
+
+
+/*搜索图片*/
+
+.search-submit-border {
+    height: $searchboxHeight;
+    width: $searchboxHeight;
+    background: url(../images/topsearch-icon_e1f5df2.png) center no-repeat;
+    // background-size: auto;
+    border: 1px solid $sideLine;
+    position: absolute;
+    left: 340px;
+    &:hover {
+        background: $baseColor url(../images/topsearch-icon2_8c8d8b0.png) center no-repeat!important;
+        border: 1px solid $baseColor;
+    }
+}
+
+
+/*用户信息*/
+
+.usermenu {
+    display: inline;
+    &-menu {
+        display: inline;
+    }
+}
+$loginboxHeight:50px;
+.loginbox {
+    float: right;
+    width: 252px;
+    height: $loginboxHeight;
+    font-size: $basicFontSize;
+    position: relative;
+    &>span {
+        display: inline-block;
+        line-height: $loginboxHeight;
+        height: $loginboxHeight;
+    }
+    &>a>img {
+        position: relative;
+        top: 3px;
+        line-height: $loginboxHeight;
+    }
+    &>div>a {
+        display: inline-block;
+        width: 80px;
+    }
+}
+
+
+/*加载条*/
+
+.loading {
+    height: 2px;
+    width: 100%;
+    background-color: $baseColor;
+}

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>正常盒子及怪异盒子模型</title>
+    <style type="text/css">
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .linex {
+        width: 100%;
+        height: 1px;
+        background-color: black;
+        position: absolute;
+    }
+    
+    .liney {
+        width: 1px;
+        height: 100%;
+        background-color: black;
+        position: absolute;
+        top: 0px;
+    }
+    
+    #one {
+        margin-top: 600px;
+    }
+    
+    #two {
+        margin-top: 200px;
+    }
+    
+    #three {
+        margin-left: 300px;
+    }
+    
+    #four {
+        margin-left: 600px;
+    }
+    
+    #five {
+        margin-top: 900px;
+    }
+    
+    #six {
+        margin-top: 1200px;
+    }
+    
+    #seven {
+        margin-top: 500px;
+    }
+    
+    .comment {
+        position: absolute;
+        width: 600px;
+        height: 300px;
+        margin-left: 620px;
+    }
+    
+    .comment-title {
+        position: absolute;
+        width: 250px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    
+    .margin {
+        margin-left: 300px;
+        margin-top: 600px;
+        width: 300px;
+        height: 300px;
+        background-color: yellow;
+        position: absolute;
+    }
+    
+    .margin-xiezi {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        position: absolute;
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+    
+    .paddingborder {
+        margin-left: 300px;
+        margin-top: 200px;
+        width: 300px;
+        height: 300px;
+        background-color: yellow;
+        position: absolute;
+        padding: 50px 0 0 0;
+        border: 5px solid blue;
+    }
+    
+    .guaiyihezi {
+        margin-left: 300px;
+        margin-top: 900px;
+        width: 300px;
+        height: 300px;
+        background-color: yellow;
+        position: absolute;
+        box-sizing: border-box;
+        padding: 50px;
+        border: 50px solid blue;
+    }
+    
+    .xiezi {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        position: absolute;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="liney" id="three"></div>
+    <div class="liney" id="four"></div>
+    <div class="linex" id="one"></div>
+    <div class="linex" id="two"></div>
+    <div class="linex" id="five"></div>
+    <div class="linex" id="six"></div>
+    <div class="linex" id="seven"></div>
+    <!-- 正常盒子模型——padding和border属性操作 -->
+    <div class="comment-title" style="margin-top:200px;">正常盒子模型——padding和border属性操作</div>
+    <div class="comment" style="margin-top:200px; "><strong>关键代码：</strong>
+        <br/> margin-left: 300px;
+        <br/> margin-top: 200px;v width: 300px;
+        <br/> height: 300px;
+        <br/> background-color: yellow;
+        <br/> position: absolute;
+        <br/>
+        <strong>padding: 50px 0 0 0;</strong>
+        <br/>
+        <strong>border: 5px solid blue;</strong>
+        <br/>
+        <br/>
+        <strong>解释：</strong>
+        <br/>对黄色盒子只进行了上部padding，导致该方向尺寸拉长，相当于将自身撑开。对黄色盒子加外边距，盒子自身黄色尺寸不变，但是整体尺寸加宽。（这个过程中对红色盒子没有额外属性操作）
+    </div>
+    <div class="paddingborder">
+        <div class="xiezi">鞋子</div>
+    </div>
+    <!-- 正常盒子模型——margin属性操作 -->
+    <div class="comment-title" style="margin-top:600px;">正常盒子模型——margin属性操作</div>
+    <div class="comment" style="margin-top:600px; "><strong>关键代码：</strong>
+        <br/> width: 100px;
+        <br/> height: 100px;
+        <br/> background-color: red;
+        <br/>
+        <strong>position: absolute;</strong>
+        <br/>
+        <strong>margin-left: 200px;</strong>
+        <br/>
+        <strong>margin-top: 100px;</strong>
+        <br/>
+        <br/>
+        <strong>解释：</strong>
+        <br/>对内部红色盒子进行margin属性操作时，为了避免异常建议将红色盒子进行“Position：absolute；”属性设置，此时margin偏移将由外层盒子（黄色盒子）的position状态决定偏移情况：如果外层为absolte或者relative，则相对外容器偏移，否则相对于浏览器左上角原点偏移。
+    </div>
+    <div class="margin">
+        <div class="margin-xiezi">鞋子</div>
+    </div>
+    <!-- 怪异盒子模型 -->
+    <div class="comment-title" style="margin-top:900px;">怪异盒子模型</div>
+    <div class="comment" style="margin-top:900px; "><strong>关键代码：</strong>
+        <br/> margin-left: 300px;
+        <br/> margin-top: 900px;
+        <br/> width: 300px;
+        <br/> height: 300px;
+        <br/> background-color: yellow;
+        <br/> position: absolute;
+        <br/>
+        <strong>box-sizing:border-box;</strong>
+        <br/> padding: 50px;
+        <br/> border: 50px solid blue;
+        <br/>
+        <br/>
+        <strong>解释：</strong>
+        <br/>使用代码“box-sizing:border-box;”对黄色盒子（300*300）进行属性操作时，盒子的自身最外长度和宽度尺寸就固定下来，随后进行的border和padding属性操作都是在向内收缩。
+    </div>
+    <div class="guaiyihezi">
+        <div class="xiezi">鞋子</div>
+    </div>
+</body>
+
+</html>

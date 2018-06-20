@@ -1,0 +1,60 @@
+/*导航条*/
+
+
+/*框架*/
+$navheight:44px;
+nav {
+    height: $navheight;
+    width: 100%;
+    border-bottom: 1px solid $sideLine;
+    box-shadow: rgba(0, 0, 0, .1) 0px 1px 5px;
+}
+
+.navposition-section {
+    margin: 0 auto;
+    height: $navheight;
+    position: relative;
+    /*左侧NAV*/
+    .navbox {
+        height: $navheight;
+        width: 740px;
+        float: left;
+        &>a {
+            margin-right: 22px;
+            display: inline-block;
+            font-size: $basicFontSize+2;
+            color: #333;
+            line-height: $navheight;
+        }
+        &>a:hover {
+            color: $baseColor;
+        }
+    }
+    /*右侧NAV*/
+    .user-need {
+        height: $navheight;
+        width: 252px;
+        display: inline-block;
+        float: right;
+        text-align: center;
+        &>a:hover {
+            color: $baseColor;
+        }
+        &>a>img {
+            position: relative;
+            display: inline-block;
+            top: 2px;
+            right: 5px;
+            /*    margin-top:20px;*/
+        }
+        &>a {
+            margin-left: 22px;
+            display: inline-block;
+            /*    margin-top:22px;*/
+            font-size: $basicFontSize;
+            color: #333;
+            line-height: $navheight;
+            float: right;
+        }
+    }
+}

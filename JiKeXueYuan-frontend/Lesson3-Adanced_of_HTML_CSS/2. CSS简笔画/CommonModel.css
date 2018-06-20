@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+body {
+    min-height: 600px;
+    height: 100%
+}
+
+body h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.view {
+    margin: 30px auto;
+    background: -webkit-linear-gradient(top, #09F, #fff 122px, #8C8C8C);
+    /*background-color: #eee;*/
+    width: 800px;
+    height: 500px;
+    position: relative;
+    border-radius: 20px;
+}

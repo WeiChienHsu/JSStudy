@@ -1,0 +1,45 @@
+.header {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+}
+
+.sub-title {
+    width: 800px;
+}
+
+.homework {
+    margin-top: 10px;
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #e1e1e1;
+}
+
+.form-button {
+    margin-top: 10px;
+    top:0px; 
+    left:0px;
+    width: 100px !important;
+    color: white !important;
+    
+}
+
+.form-button:hover {
+    color: #e7e7e7 !important;
+}
+
+.inner {
+    position: relative;
+    width: 500px;
+    margin: 0px auto;
+    top: 80px;
+}
+
+.form-input {
+    text-align: center !important;
+}
+
+.hr {
+    border:1px solid #eeeeee;
+}

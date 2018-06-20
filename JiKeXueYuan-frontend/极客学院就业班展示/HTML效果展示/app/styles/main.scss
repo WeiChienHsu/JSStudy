@@ -1,0 +1,72 @@
+// bower:scss
+// endbower
+
+//基础设置
+@import "_basic.scss";
+
+//body背景设置,不是纯白的
+body{
+  background-color: #f8f8f8;
+  //font:normal 12px/1.4 Verdana, "Lantinghei SC", "Hiragino Sans GB", 'Microsoft YaHei', Helvetica, arial, simsun, sans-serif;
+
+}
+
+//header部分
+header {
+  margin:0 auto;
+  background-color: #fff;
+  .headerBox{
+    box-sizing: border-box;
+    padding:10px 67px;
+    margin: 0 auto;
+    width: 1000px;
+    height: 60px;
+    background-color: #fff;
+    .headerImg{
+      height:40px;
+      width:110px;
+      float:left;
+    }
+    .headerSignIn{
+      float:right;
+      line-height:40px;
+      font-size:12px;
+    }
+  }
+}
+
+//firstPage首屏
+@import "_firstPage.scss";
+
+//马上选择你喜欢的职业方向
+@import "_chooseClass.scss";
+
+//老师们都是来自一线企业的大牛
+@import "_teacherIntroduce.scss";
+
+//学员们是这样评价就业办的
+@import "_stuFeedback.scss";
+
+//看看其他伙伴4个月的学习成果
+@import "_stuVideo.scss";
+
+//FAQ
+@import "_faq.scss";
+
+//footer
+footer{
+  display: block;
+  height:100px;
+  width:100%;
+  text-align: center;
+  line-height:105px;
+  font-size:11px;
+  background-color: #fff;
+  border-top:1px solid #c9c9c9;
+  color:$jikeFooterGrey;
+  a{
+    text-decoration: none;
+    cursor: pointer;
+    color:$jikeFooterGrey;
+  }
+}

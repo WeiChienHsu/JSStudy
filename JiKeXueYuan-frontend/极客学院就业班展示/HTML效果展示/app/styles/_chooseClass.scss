@@ -1,0 +1,200 @@
+
+//chooseClass
+.chooseClass{
+  display: block;
+  margin:0 auto;
+  width:$pageWidth1000;
+  height:1220px;
+  overflow: hidden;
+  .ccTitle{
+    display: block;
+    height:90px;
+    width:auto;
+    margin:0 auto;
+    padding:0;
+    //background-color: #00AA00;
+    font-size: $fontSizeTitle36;
+    line-height:80px;
+    color:$stuFeedBackColor;
+    text-align: center;
+    font-weight:bolder;
+  }
+  a{
+    box-sizing: border-box;
+    text-decoration: none;
+    color:#fff;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    //正面
+    .ccBox{
+      box-sizing: border-box;
+      display: block;
+      position: relative;
+      text-align: center;
+      height:217px;
+      background-color: #0b97c4;
+      margin:10px auto 0;
+      padding-top:76px;
+      .ccBoxTitle{
+        margin :0;
+        padding: 0;
+        height: 55px;
+        font-size: 55px;
+        line-height:55px;
+        display: block;
+        font-weight: bolder;
+      }
+      .ccBoxSubTitle{
+        box-sizing: border-box;
+        margin-top:27px;
+        height:17px;
+        font-size:$fontSizeSubTitle17;
+        display: block;
+      }
+      .ccBoxArrow{
+        position: absolute;
+        background: url(../images/chooseClass/arrow@2x.png) no-repeat center center/50px 50px;
+        height:50px;
+        width:50px;
+        right:47px;
+        top:84px;
+      }
+    }
+    //背面
+    .ccBox_back{
+      opacity: 0;
+      position: absolute;
+      top:30%;
+      margin:10px auto 0;
+      transition: all 200ms ease-in-out 0s;
+      box-sizing: border-box;
+      display: block;
+      text-align: center;
+      height:217px;
+      padding-top:26px;
+      .ccBoxTitle_back{
+        display: block;
+        font-size:$fontSize26;
+        color:#fff;
+        font-weight:bolder;
+      }
+      .ccBoxSubTitle_back{
+        box-sizing: border-box;
+        display: block;
+        font-size:16px;
+        color:#fff;
+        margin-top:20px;
+        padding:0 130px;
+        line-height:30px;
+        height:60px;
+        letter-spacing: -1px;
+      }
+      .ccBoxButton_back{
+        display: block;
+        position: relative;
+        margin:15px auto;
+        width: 245px;
+        height:45px;
+        border:1px solid #fff;
+        border-radius:3px;
+        font-size: 20px;
+        font-weight:bolder;
+        line-height:45px;
+        &:hover {
+          background-color: #fff;
+        }
+        .orderPeople{
+          width:143px;
+          height:37px;
+          display: block;
+          position: absolute;
+          left:50%;
+          top:4px;
+          margin-left:144px;
+          background-color: #fff;
+          color:#000;
+          font-size:$fontSize15;
+          line-height: 37px;
+          text-align: center;
+          border-radius: 2px;
+          .orderPeople_arrow{
+            position: absolute;
+            top:12.5px;
+            left:-8px;
+            border:{
+              top:6.5px solid transparent;
+              right:8px solid #fff;
+              bottom:6.5px solid transparent;
+            }
+
+          }
+        }
+
+      }
+
+      //web背面hover字体颜色
+      .cbb_hoverColor_webImg:hover{
+        color:$ccWebBlue;
+      }
+      //web背面hover字体颜色
+      .cbb_hoverColor_andImg:hover{
+        color:$ccAndGreen;
+      }
+      //web背面hover字体颜色
+      .cbb_hoverColor_jwImg:hover{
+        color:$ccJwRed;
+      }
+      //web背面hover字体颜色
+      .cbb_hoverColor_phpImg:hover{
+        color:$ccPhpPurple;
+      }
+      //da背面hover字体颜色
+      .cbb_hoverColor_daImg:hover{
+        color:$ccBdYellow;
+      }
+    }
+
+    //hover
+    &:hover .ccBox_back{
+      opacity: 1;
+      top:0;
+    }
+
+    //五个课程的背景颜色
+    .webImg_bg{
+      background-color: $ccWebBlue;
+    }
+    .andImg_bg{
+      background-color: $ccAndGreen;
+    }
+    .jwImg_bg{
+      background-color: $ccJwRed;
+    }
+    .phpImg_bg{
+      background-color: $ccPhpPurple;
+    }
+    .daImg_bg{
+      background-color: $ccBdYellow;
+    }
+  }
+
+  //五个课程的背景图片
+  .webImg{
+    background: url(../images/chooseClass/web@2x.png) no-repeat center center/1000px 217px;
+  }
+  .andImg{
+    background: url(../images/chooseClass/and@2x.png) no-repeat center center/1000px 217px;
+  }
+  .jwImg{
+    background: url(../images/chooseClass/jw@2x.png) no-repeat center center/1000px 217px;
+  }
+  .phpImg{
+    background: url(../images/chooseClass/php@2x.png) no-repeat center center/1000px 217px;
+  }
+  .daImg{
+    background: url(../images/chooseClass/da@2x.png) no-repeat center center/1000px 217px;
+  }
+}
+
+//-----end---chooseClass结束

@@ -1,0 +1,51 @@
+
+//学员视屏
+.stuVideo{
+  box-sizing: border-box;
+  padding-top:10px;
+  height:555px;
+  width:100%;
+  background:#0e6591 url(../images/stVideo/stVideo_bg@2x.png) no-repeat center center/auto 555px;
+  .stuVideoBox{
+    position: relative;
+    margin:0 auto;
+    width:$pageWidth1000;
+    height:545px;
+    .svTitle{
+      text-align: center;
+      height:93px;
+      font-size:$fontSizeTitle36;
+      line-height:93px;
+      color:#fff;
+      font-weight: bolder;
+    }
+    .svBar{
+      display: inline-block;
+      cursor: pointer;
+      width:55px;
+      height:70px;
+    }
+    .svLeft{
+      position: absolute;
+      left:15px;
+      top:278px;
+      background: url(../images/stVideo/quot_left@2x.png) no-repeat center center/auto 55px;
+    }
+    .svRight{
+      position: absolute;
+      right:15px;
+      top:278px;
+      background: url(../images/stVideo/quot_right@2x.png) no-repeat center center/auto 55px;
+    }
+    .svVideo{
+      display: block;
+      position: relative;
+      margin:0 auto;
+      height:405px;
+      width:720px;
+      background-color: #000;
+      //cursor: pointer;
+    }
+  }
+}
+//-----end---studentVideo

@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <link rel="stylesheet" type="text/css" href="./bootstrap/3.3.5/css/bootstrap.min.css">
+    <title>Index</title>
+</head>
+
+<body>
+    <script type="text/javascript" src="./js/index.js"></script>
+    <div>
+        <!--Header-->
+        <div class="header">
+            <div class="title text-center">
+                <h1><strong>1. 等级划分</strong></h1>
+            </div>
+            <div class="sub-title text-center center-block">
+                <small><strong>目标：</strong></small>
+                <small>将0-100分学员分已10为分界,10分为一段，然后计算出该生为数字几等生，如98分为90-100为1等生，65分为60-70为4等生。</small>
+            </div>
+        </div>
+        <!--Homework-->
+        <div class="homework">
+            <div class="inner">
+                <label for="score-input" class="sr-only">UserName</label>
+                <input type="text" id="score" class="form-control form-input" placeholder="请输入分数！(0-100)" required autofocus>
+                <label for="score-submit" class="sr-only">UserName</label>
+                <button type="submit" id="score-submit" class="btn btn-primary form-button" onclick="submit()">提交</button>
+                <p></p>
+                <p class="text-center">等级为：<span id="resultId">~</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
