@@ -1,0 +1,485 @@
+*{
+	padding: 0xp;
+	margin: 0px;
+}
+
+.Totoro{
+	position: absolute;
+	left: 50%;
+	margin-left: -250px;
+}
+
+/*大头部分*/
+.Totoro #head{
+	position: absolute;
+	top:214px;
+	left:115px;
+	height: 88px;
+	width: 188px;
+	background-color: #90867C;
+	border-top-left-radius: 100px 92px;
+	border-top-right-radius: 100px 100px;
+	border-top: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+	-webkit-transform: skewX(-2deg);
+	transform: skewX(-2deg);
+	z-index: 700;
+}
+
+/*鼻子部分*/
+.Totoro #nose{
+	position: absolute;
+	top:275px;
+	left:197px;
+	height: 10px;
+	width: 25px;
+	background-color: #000000;
+	border-top-left-radius: 20px 10px;
+	border-top-right-radius: 20px 10px;
+	border-bottom-left-radius: 20px 10px;
+	border-bottom-right-radius: 20px 10px;
+	border: 1px solid #000000;
+	z-index: 920;
+}
+
+/*鼻子上方的阴影*/
+.Totoro #nose #nose_shadow{
+	position: absolute;
+	top:-10px;
+	left:-17px;
+	border-top: 5px solid #666666;
+	border-top-style: dotted;
+	width: 60px;
+	height: 20px;
+	border-top-right-radius: 30px 10px;
+	transform: scaleX(0.5) rotateZ(-3deg);
+}
+
+/*耳朵部分，比较复杂，一个耳朵用了6个DIV，三个用来组成边框（但不太完美，无法刚好形成2px粗细的边框）。*/
+.Totoro #ear{
+	position: absolute;
+	z-index: 100;
+}
+
+/*这里把组成一只耳朵的两个部分共性的部分提取出来，一边后续统一修改颜色和形状*/
+.Totoro #ear_border #ear_part_right, .Totoro #ear_border #ear_part_left{
+	border-top-left-radius: 80px;
+	border-bottom-left-radius: 20px;
+	border-left: 80px solid #140A00;
+	border-top: 80px solid #140A00;
+	border-bottom: 80px solid #140A00;
+	border-bottom-color: rgba(0,0,0,0);
+}
+
+/*左耳用于组成边框的部分，需要单独出来进行位置调整*/
+.Totoro #ear_border #ear_left{
+    transform: scale(1.09);
+    position: absolute;
+    top: 101px;
+    left: 117px;
+}
+
+/*右耳用于组成边框的部分，需要单独出来进行位置调整*/
+.Totoro #ear_border #ear_right{
+	position: absolute;
+    top: 90px;
+    left: 272px;
+	transform: rotateZ(33deg) scale(1.09);
+}
+
+/*组成耳朵根边框的部分，需要单独修改颜色*/
+.Totoro #ear_border #ear_root{
+	background-color: #140A00;
+}
+
+/*这里把组成一只耳朵的两个部分共性的部分提取出来，一边后续统一修改颜色和形状*/
+.Totoro #ear #ear_part_right, .Totoro #ear #ear_part_left{
+	border-top-left-radius: 80px;
+	border-bottom-left-radius: 20px;
+	border-left: 80px solid #90867C;
+	border-top: 80px solid #90867C;
+	border-bottom: 80px solid #90867C;
+	border-bottom-color: rgba(0,0,0,0);
+}
+
+/*耳朵根的部分，需要单独修改颜色*/
+.Totoro #ear #ear_root{
+	background-color: #90867C;
+}
+
+/*左耳部分，需要单独出来进行位置调整*/
+.Totoro #ear_left{
+	position: absolute;
+	top:110px;
+	left:121px;
+}
+
+/*右耳部分，需要单独出来进行位置调整*/
+.Totoro #ear_right{
+	position: absolute;
+	top:100px;
+	left:270px;
+	transform: rotateZ(33deg);
+}
+
+/*组成耳朵主瓣的一半的部分的样式定义*/
+.Totoro #ear_part_right{
+	position: absolute;
+	top:2px;
+	left: -6px;
+	transform: rotateZ(188deg) scaleX(0.23) scaleY(0.36) rotateY(180deg);
+}
+
+/*组成耳朵主瓣的一半的部分的样式定义*/
+.Totoro #ear_part_left{
+	position: absolute;
+	transform: rotateZ(142deg) scaleX(0.23) scaleY(0.36);
+}
+
+/*耳朵根的部分样式定义*/
+.Totoro #ear_root{
+    position: absolute;
+    top: 69px;
+    left: 8px;
+    z-index: 920;
+    height: 70px;
+    width: 70px;
+    transform: rotateZ(163deg) scaleX(0.23) scaleY(0.36) rotateY(180deg);
+}
+/*耳朵部分结束*/
+
+/*嘴巴部分*/
+.Totoro #mouth{
+	position: absolute;
+	top:303px;
+	left:207px;
+	height: 6px;
+	width: 12px;
+	border-top-left-radius: 20px 10px;
+	border-top-right-radius: 20px 10px;
+	border-top: 2px solid #000000;
+	z-index: 920;
+}
+
+/*肩膀部分*/
+.Totoro #shoulder{
+	position: absolute;
+	top:285px;
+	left:99px;
+	height: 55px;
+	width: 218px;
+	background-color: #90867C;
+	border-top-left-radius: 200px 200px;
+	border-top-right-radius: 180px 180px;
+	border-top: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+	z-index: 200;
+}
+
+/*身体部分*/
+.Totoro #body{
+	position: absolute;
+	top:338px;
+	left:99px;
+	height: 101px;
+	width: 218px;
+	background-color: #90867C;
+	border-bottom-left-radius: 110px 100px;
+	border-bottom-right-radius: 112px 104px;
+	border-bottom: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+	z-index: 700;
+}
+
+/*白色大肚皮部分*/
+.Totoro #body #belly{
+	position: absolute;
+	top:-28px;
+	left:21px;
+	height: 127px;
+	width: 175px;
+	background-color: #FDFFEA;
+	border-top-left-radius: 180px 140px;
+	border-top-right-radius: 170px 135px;
+	border-bottom-left-radius: 180px 120px;
+	border-bottom-right-radius: 180px 135px;
+	border: 2px solid #000000;
+}
+
+/*左眼部分*/
+.Totoro #eyes #eye_left{
+	position: absolute;
+	top:260px;
+	left:141px;
+	height: 34px;
+	width: 37px;
+	background-color: #FFFFFF;
+	border-top-left-radius: 20px 19px;
+	border-top-right-radius: 16px 16px;
+	border-bottom-left-radius: 18px 17px;
+	border-bottom-right-radius: 16px 18px;
+	border: 1px solid #000000;
+	-webkit-transform: skewX(-2deg);
+	transform: skewX(-2deg);
+	z-index: 910;
+}
+
+/*右眼部分*/
+.Totoro #eyes #eye_right{
+	position: absolute;
+	top:260px;
+	left:240px;
+	height: 34px;
+	width: 37px;
+	background-color: #FFFFFF;
+	border-top-left-radius: 20px 19px;
+	border-top-right-radius: 16px 16px;
+	border-bottom-left-radius: 18px 17px;
+	border-bottom-right-radius: 16px 18px;
+	border: 1px solid #000000;
+	-webkit-transform: skewX(-2deg);
+	transform: skewX(-2deg);
+	z-index: 910;
+}
+
+/*右眼部分*/
+.Totoro #eyes .pupil{
+	position: absolute;
+	top:3px;
+	left:16px;
+	height: 15px;
+	width: 15px;
+	background-color: #000000;
+	border-top-left-radius: 18px 18px;
+	border-top-right-radius: 18px 18px;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	border: 1px solid #000000;
+}
+
+/*眼睛瞳孔中的闪光*/
+.Totoro #eyes .pupil_flash{
+	position: absolute;
+	top:3px;
+	left:2px;
+	height: 5px;
+	width: 5px;
+	background-color: #FFFFFF;
+	border-radius: 3px;
+}
+
+/*左手*/
+.Totoro #body #hand_left{
+	position: absolute;
+	top: 0px;
+	left: 15px;
+	height: 20px;
+	width: 30px;
+	background-color: #90867C;
+	transform: rotateZ(40deg);
+	border-right: 2px solid #140A00;
+	border-top: 1px solid #140A00;
+	border-top-right-radius: 25px 12px;
+	border-bottom-right-radius: 45px 40px;
+}
+
+/*左手*/
+.Totoro #body #hand_right{
+	position: absolute;
+    top: -2px;
+    left: 170px;
+	height: 20px;
+	width: 30px;
+	background-color: #90867C;
+	border-left: 2px solid #140A00;
+	border-top: 1px solid #140A00;
+	border-top-left-radius: 25px 12px;
+	border-bottom-left-radius: 45px 40px;
+	transform: rotateZ(-40deg);
+}
+
+/*第一排，第2个*/
+.Totoro #belly #dapple1{
+	position: absolute;
+	top: 38px;
+	left: 54px;
+	transform: rotateZ(-35deg)
+}
+
+/*第一排，第1个*/
+.Totoro #belly #dapple2{
+	position: absolute;
+	top: 41px;
+	left: 18px;
+	transform: rotateZ(-32deg) scale(0.8);
+}
+
+/*第一排，第3个*/
+.Totoro #belly #dapple3{
+	position: absolute;
+	top: 40px;
+	left: 104px;
+	transform: rotateZ(-37deg) scale(0.7);
+}
+
+/*第二排，第1个*/
+.Totoro #belly #dapple4{
+	position: absolute;
+	top: 64px;
+	left: 10px;
+	transform: rotateZ(-35deg) scale(0.6);
+}
+
+/*第二排，第2个*/
+.Totoro #belly #dapple5{
+	position: absolute;
+	top: 62px;
+	left: 41px;
+	transform: rotateZ(-35deg) scale(0.75);
+}
+
+/*第二排，第3个*/
+.Totoro #belly #dapple6{
+	position: absolute;
+	top: 62px;
+	left: 85px;
+	transform: rotateZ(-37deg) scale(0.75);
+}
+
+/*第二排，第4个*/
+.Totoro #belly #dapple7{
+	position: absolute;
+	top: 62px;
+	left: 125px;
+	transform: rotateZ(-38deg) scale(0.55);
+}
+
+/*肚皮花纹的样式，基底为一个圆角方形的图形*/
+.Totoro #belly .dapple .dapple_base{
+	position: absolute;
+	left: 9px;
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: #90867C;
+	transform: rotateZ(-10deg)
+}
+
+/*用一个扭曲的圆角方形遮盖住.dapple_base，时其露出一个圆角*/
+.Totoro #belly .dapple .dapple_cover{
+	position: absolute;
+	top:4px;
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	background-color: #FDFFEA;
+	transform: skewX(25deg);
+}
+
+/*胡须部分*/
+.Totoro #beard{
+	position: absolute;
+	z-index: 980;
+}
+
+/*左侧胡须*/
+.Totoro #beard #beard_left{
+    position: absolute;
+    top: 283px;
+    left: 95px;
+}
+
+/*右侧胡须*/
+.Totoro #beard #beard_right{
+	position: absolute;
+    top: 287px;
+    left: 328px;
+	transform: rotateZ(10deg) rotateY(180deg);
+}
+
+/*第一根胡须样式*/
+.Totoro #beard .beard_top{
+	position: absolute;
+	border-top: 2px solid black;
+	width: 40px;
+	height: 20px;
+	border-top-left-radius: 60px 20px;
+	transform: rotateZ(31deg);
+}
+
+/*第二根胡须样式*/
+.Totoro #beard .beard_middle{
+	position: absolute;
+	border-top: 2px solid black;
+	width: 60px;
+	height: 20px;
+	border-top-left-radius: 60px 10px;
+	transform: rotateZ(13deg);
+    left: -29px;
+    top: 14px;
+}
+
+/*第三根胡须样式*/
+.Totoro #beard .beard_bottom{
+	position: absolute;
+	border-top: 2px solid black;
+	width: 50px;
+	height: 20px;
+	border-top-left-radius: 60px 5px;
+	transform: rotateZ(-5deg);
+    left: -19px;
+    top: 31px;
+}
+
+/*转动眼珠的动画*/
+.Totoro #eyes .pupil{
+	animation: pupil_Anima 7s infinite;
+}
+
+/*眼珠移动动画关键帧定义*/
+@keyframes pupil_Anima{
+	0%		{transform: translate(0px, 0px);}
+	23%		{transform: translate(0px, 0px);}
+	25%		{transform: translate(3px, 0px);}
+	48%		{transform: translate(3px, 0px);}
+	50%		{transform: translate(3px, 3px);}
+	63%		{transform: translate(3px, 3px);}
+	65%		{transform: translate(-4px, 3px);}
+	98%		{transform: translate(-4px, 3px);}
+	100%	{transform: translate(0px, 0px);}
+}
+
+/*转动眼珠的动画*/
+.Totoro #eyes #eye_left, .Totoro #eyes #eye_right {
+	animation: eyes_Anima 6s infinite;
+}
+
+/*眼珠移动动画关键帧定义*/
+@keyframes eyes_Anima{
+	0%		{transform: scaleY(1) ;}
+	30%		{transform: scaleY(1);}
+	31%		{transform: scaleY(0.01);}
+	32%		{transform: scaleY(1) ;}
+	96%		{transform: scaleY(1);}
+	97%		{transform: scaleY(0.01);}
+	98%		{transform: scaleY(1) ;}
+	99%		{transform: scaleY(0.01) ;}
+	100%	{transform: scaleY(1) ;}
+}
+
+
+/*嘴巴部分*/
+.Totoro #mouth{
+	animation:Anima_mouth 10s infinite; 
+}
+
+@keyframes Anima_mouth{
+	0%		{transform: rotateX(0deg) translateY(0px);}
+	50%		{transform: rotateX(0deg) translateY(0px);}
+	52%		{transform: rotateX(180deg) translateY(3px);}
+	98%		{transform: rotateX(180deg) translateY(3px);}
+	100%	{transform: rotateX(0deg) translateY(0px);}
+}

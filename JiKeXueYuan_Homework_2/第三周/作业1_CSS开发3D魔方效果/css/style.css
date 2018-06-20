@@ -1,0 +1,150 @@
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.green{
+	background-color: green;
+}
+
+/*外围容器，相当于给wrapper提供了一个3D的空间*/
+.box{
+	/*perpective要写在旋转体的外围，意思是设置容器的景深，然后旋转该容器内的物体时会产生3D效果。
+	如果在这层进行旋转，将不会得到预期的效果，这个不太好说，大概的意思是旋转定格后的内容，而不是动态的3D显示*/
+	position: absolute;
+	top:50%;
+	left: 50%;
+	width: 270px;
+	height: 270px;
+	margin-left: -135px;
+	margin-top: -135px;
+	perspective: 800px;
+}
+
+/*包裹立方体的容器，后续进行旋转操作的目标体*/
+.wrapper{
+	/*preserve-3d是实现3D旋转的关键*/
+	transform-origin: 135px 135px;
+	transform-style: preserve-3d;/*蛋疼，这个属性IE 11都不支持，测试微软的Edge支持*/
+	-webkit-transform-style: perserve-3d;
+	-moz-transform-style:preserve-3d;
+	animation: rotate 4s infinite;
+}
+
+.A, .B, .C, .D, .E, .F{
+	width: 270px;
+	height: 270px;
+	position: absolute;
+}
+
+.A div, .B div, .C div, .D div, .E div, .F div{
+	width: 90px;
+	height: 90px;
+	float: left;
+	opacity: 0.5;
+	border-radius: 10px;
+	border: 1px solid #FAFAFA;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+	line-height: 88px;
+	font-size: 60px;
+}
+
+/*A面正对我们，即外侧朝外移动即可*/
+.A{
+	transform: rotateY(0deg) rotateX(0deg) translateZ(135px);
+	-webkit-transform: rotateY(0deg) rotateX(0deg) translateZ(135px);
+	-moz-transform: rotateY(0deg) rotateX(0deg) translateZ(135px);
+	-o-transform: rotateY(0deg) rotateX(0deg) translateZ(135px);
+}
+
+/*目前B面向远离A面移动，其外面朝内，因此需要做翻转*/
+.B{	
+	transform: rotateY(0deg) rotateX(180deg)  translateZ(135px);
+	-webkit-transform: rotateY(0deg) rotateX(180deg)  translateZ(135px);
+	-moz-transform: rotateY(0deg) rotateX(180deg)  translateZ(135px);
+	-o-transform: rotateY(0deg) rotateX(180deg)  translateZ(135px);
+}
+
+/*C面为底部，向外移动后，绕X轴旋转可转到底面*/
+.C{
+	transform: rotateX(270deg) rotateZ(0deg) translateZ(135px);
+	-webkit-transform: rotateX(270deg) rotateZ(0deg) translateZ(135px);
+	-moz-transform: rotateX(270deg) rotateZ(0deg) translateZ(135px);
+	-o-transform: rotateX(270deg) rotateZ(0deg) translateZ(135px);
+}
+
+/*C面为顶部，向外移动后，绕X轴旋转可转到底面*/
+.D{
+	transform: rotateX(90deg) rotateZ(0deg) translateZ(135px);
+	-webkit-transform: rotateX(90deg) rotateZ(0deg) translateZ(135px);
+	-moz-transform: rotateX(90deg) rotateZ(0deg) translateZ(135px);
+	-o-transform: rotateX(90deg) rotateZ(0deg) translateZ(135px);
+}
+
+/*E面为左侧面，向外移动后，绕Y轴旋转可转到底面*/
+.E{
+	transform: rotateY(-270deg) rotateZ(0deg) translateZ(135px);
+	-webkit-transform: rotateY(-270deg) rotateZ(0deg) translateZ(135px);
+	-moz-transform: rotateY(-270deg) rotateZ(0deg) translateZ(135px);
+	-o-transform: rotateY(-270deg) rotateZ(0deg) translateZ(135px);
+}
+
+/*F面为右侧面，向外移动后，绕Y轴旋转可转到底面*/
+.F{
+	transform: rotateY(-90deg) rotateZ(0deg) translateZ(135px);
+	-webkit-transform: rotateY(-90deg) rotateZ(0deg) translateZ(135px);
+	-moz-transform: rotateY(-90deg) rotateZ(0deg) translateZ(135px);
+	-o-transform: rotateY(-90deg) rotateZ(0deg) translateZ(135px);
+}
+
+@keyframes rotate{
+	0%  	{transform: rotateY(0deg) rotateX(0deg) rotateZ(90deg);}
+	12.5% 	{transform: rotateY(90deg) rotateX(90deg) rotateZ(180deg);}
+	25% 	{transform: rotateY(180deg) rotateX(270deg) rotateZ(270deg);}
+	37.5% 	{transform: rotateY(270deg) rotateX(180deg) rotateZ(270deg);}
+	50%		{transform: rotateY(360deg) rotateX(0deg) rotateZ(270deg);}
+}
+
+/*webkit适配*/
+@-webkit-keyframes rotate{
+	0%  	{-webkit-transform: rotateY(0deg) rotateX(0deg) rotateZ(90deg);}
+	12.5% 	{-webkit-transform: rotateY(90deg) rotateX(90deg) rotateZ(180deg);}
+	25% 	{-webkit-transform: rotateY(180deg) rotateX(270deg) rotateZ(270deg);}
+	37.5% 	{-webkit-transform: rotateY(270deg) rotateX(180deg) rotateZ(270deg);}
+	50%		{-webkit-transform: rotateY(360deg) rotateX(0deg) rotateZ(270deg);}
+}
+
+/*firefox适配*/
+@-moz-keyframes rotate{
+	0%  	{-moz-transform: rotateY(0deg) rotateX(0deg) rotateZ(90deg);}
+	12.5% 	{-moz-transform: rotateY(90deg) rotateX(90deg) rotateZ(180deg);}
+	25% 	{-moz-transform: rotateY(180deg) rotateX(270deg) rotateZ(270deg);}
+	37.5% 	{-moz-transform: rotateY(270deg) rotateX(180deg) rotateZ(270deg);}
+	50%		{-moz-transform: rotateY(360deg) rotateX(0deg) rotateZ(270deg);}
+}
+
+/*Opera适配*/
+@-o-keyframes rotate{
+	0%  	{-o-transform: rotateY(0deg) rotateX(0deg) rotateZ(90deg);}
+	12.5% 	{-o-transform: rotateY(90deg) rotateX(90deg) rotateZ(180deg);}
+	25% 	{-o-transform: rotateY(180deg) rotateX(270deg) rotateZ(270deg);}
+	37.5% 	{-o-transform: rotateY(270deg) rotateX(180deg) rotateZ(270deg);}
+	50%		{-o-transform: rotateY(360deg) rotateX(0deg) rotateZ(270deg);}
+}
