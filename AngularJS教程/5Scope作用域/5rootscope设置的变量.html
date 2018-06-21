@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.bootcss.com/angular.js/1.4.6/angular.min.js"></script>
+</head>
+<body>
+
+<div ng-app="myApp">
+    <div ng-controller="myCtrl">
+        <h1>姓氏为 {{lastname}} 家族成员:</h1>
+        <ul>
+            <li ng-repeat="x in names">{{x}} {{lastname}}</li>
+        </ul>
+    </div>
+    <div ng-controller="myCtrl_1">
+        <div>scope中的值是{{lastname_1}}</div>
+        <div>rootscope中的值是{{$root.lastname}}</div>
+    </div>
+</div>
+
+<script>
+var app = angular.module('myApp', []);
+
+app.controller('myCtrl', function($scope, $rootScope) {
+    $scope.names = ["Emil", "Tobias", "Linus"];
+    $rootScope.lastname = "Refsnes";
+});
+
+app.controller('myCtrl_1', function($scope, $rootScope) {
+    $scope.lastname_1 = $rootScope.lastname;
+});
+</script>
+
+</body>
+</html>
+
+<!--
+$rootscope设置的变量在所有controller里面都是可以直接用{{$root.变量名}}来显示的，
+当然也可以赋值给$scope.-->

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.bootcss.com/angular.js/1.4.6/angular.min.js"></script>
+</head>
+<body ng-app="myApp">
+
+<runoob-directive></runoob-directive>
+
+<script>
+    var app = angular.module("myApp", []);
+    app.directive("runoobDirective", function() {
+        return {
+            template : "<h1>自定义指令!</h1>"
+        };
+    });
+</script>
+
+</body>
+</html>
+
+<!--
+要调用自定义指令，HTML 元素上需要添加自定义指令名。
+使用驼峰法来命名一个指令， runoobDirective, 但在使用它时需要以 - 分割, runoob-directive:-->

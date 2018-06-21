@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.bootcss.com/angular.js/1.4.6/angular.min.js"></script>
+</head>
+<body>
+
+<div ng-app="myApp" ng-controller="myCtrl">
+
+    <p>现在时间是:</p>
+
+    <h1>{{theTime}}</h1>
+
+</div>
+
+<p>上述代码是不使用 $interval 服务的情况下，运用 $apply，实现每一秒显示信息的功能。</p>
+
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope) {
+        $scope.theTime = new Date().toLocaleTimeString();
+        $scope.setTime = function() {
+            // $apply 方法可以修改数据
+            $scope.$apply(function() {
+                $scope.theTime = new Date().toLocaleTimeString();
+            });
+        };
+        setInterval($scope.setTime, 1000);
+    });
+</script>
+
+</body>
+</html>
