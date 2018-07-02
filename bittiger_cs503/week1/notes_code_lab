@@ -29,6 +29,20 @@ git branch :
 
 git add .
 
+git commit -m "updated angular cli."
+
+
+git diff
+
+///////////////////////////
+vi file
+git init
+ls -al
+cd .git
+
+
+
+
 
 
 
