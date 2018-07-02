@@ -1,0 +1,245 @@
+npm install -g angular-cli
+
+nodejs v6.10.0
+
+//create a new angular project
+ng  new oj-client
+
+ng serve
+
+localhost:4200
+
+//setup git account, commit and push the new project to Github
+git config --global user.email "you@example.com"
+
+git config --global user.name "yourname"
+
+git add .
+
+git commit -a
+
+or
+
+git commit
+
+git push
+
+
+// create question list
+mkdir app/components
+
+cd app/components
+
+//ng generate component -inline template -inline style
+//-it will not generate html file, -is will not generate css file
+ng g c problem-list -it -is
+
+
+app.module.ts : bootstrap: [AppComponent]  ->
+app.component.ts : templateUrl: './app.component0.html' ->
+app.component0.html : app-problem-list <- problem-list.component0.ts : selector: 'app-problem-list'
+
+//install bootstrap
+
+in oj-client
+npm install bootstrap --save
+npm install jquery --save
+
+
+//this file contains the info about location of bootstrap and jquery
+//by default, the location of the files are at the root folder
+//need to add the location of these files to it
+oj-client/angular-cli.json
+
+     "styles": [
+        "styles.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.css"
+      ],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.js"
+      ],
+
+
+//mock data:
+
+/data/src/app/mock-problems.ts
+//this data will be the same data as the data we will provide by database later
+
+
+//service
+in app folder
+mkdir services
+//create service (s for service, c for components)
+ng g s data
+//this will create data.service.ts:
+//dependence injection
+@Injectable()
+
+import { Injectable } from '@angular/core';
+import {Problem} from "../models/problem.model";
+import {PROBLEMS} from "../mock-problems";
+
+@Injectable()
+export class DataService {
+  constructor() { }
+  getProblems(): Problem[] {return PROBLEMS;}
+  getProblem(id: number): Problem {
+    return PROBLEMS.find((problem) => problem.id === id);
+  }
+}
+
+
+problem-list.component.ts :
+
+export class ProblemListComponent implements OnInit {
+  problems: Problem[];
+  //this "data" is the DataService, which is named in app.module.ts
+  //now the "private data" is a private variable can be used only here (?)
+  constructor(@Inject("data") private data) { }
+  ngOnInit() {this.getProblems();}
+  private getProblems(): void {
+    this.problems = this.data.getProblems();
+  }
+}
+
+//we want the data service to be able to be used anywhere:
+app.module.ts
+import { DataService } from './services/data.service';
+
+@NgModule({
+//Angular use providers to make an variable accessible globally
+//use class DataService, and give it a name "data"
+//so DataService can be used with the name "data" anywhere
+  providers: [{
+    provide: "data",
+    useClass: DataService
+  }],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+
+
+//now we are going to make the list clickable
+
+cd /components
+
+ng g c problem-detail
+
+//we need to use "router" in Angular
+app.routes.ts
+//which url, will load which component
+
+
+const appRoutes: Routes = [
+  {
+    path: "",
+    redirectTo: "problems",
+    pathMatch: "full"
+  },
+  {
+    path: 'problems',
+    component: ProblemListComponent
+  },
+  {
+    path: 'problems/:id',
+    component: ProblemDetailComponent
+  },
+  {
+    path: '**',
+    redirectTo: "problems",
+  }
+];
+
+export const routing = RouterModule.forRoot(appRoutes);
+
+
+this will be imported into app.module.ts as "routing"
+
+//now change the content of app.component.html
+from <app-problem-list></app-problem-list>
+to <router-outlet></router-outlet>
+//now the app is not going to app-problem-list for sure,
+//but depends on the router:
+// / and problems and * will go to problems
+// problems/:id will go to specific problem
+
+now in problem-list.component.html
+[routerLink]="['/problems', problem.id]"
+//here routerLink is one-way data binding.
+
+
+problem-detail.component.html:
+//if problem is not null, then display the value
+<div class="container" *ngIf="problem">
+  <div class="col-xs-12 col-md-4">
+    <div>
+      <h2>
+        {{problem.id}}.{{problem.name}}
+      </h2>
+      <p>
+        {{problem.desc}}
+      </p>
+      <br/>
+    </div>
+  </div>
+</div>
+
+
+problem-detail.component.ts:
+
+import { Component, OnInit, Inject } from '@angular/core';
+import { Problem } from "../../models/problem.model";
+import { ActivatedRoute} from "@angular/router";
+
+@Component({
+  selector: 'app-problem-detail',
+  templateUrl: './problem-detail.component.html',
+  styleUrls: ['./problem-detail.component.css']
+})
+export class ProblemDetailComponent implements OnInit {
+  problem : Problem;
+
+  constructor(
+    private route: ActivatedRoute,
+    //inject "data" which is DataService, and we call it private data.
+    @Inject("data") private data
+  ) { }
+
+    //whenever the params change, this function will be called
+    //params is an array
+    //"id", the "" makes it a variable
+  ngOnInit() {
+    this.route.params.subscribe(params => {
+    //params["id"] is a string
+    //+params["id"] will turn it into a number
+      this.problem = this.data.getProblem(+params["id"]);
+    });
+  }
+
+}
+
+//now it works
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
