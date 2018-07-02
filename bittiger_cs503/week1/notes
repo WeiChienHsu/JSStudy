@@ -222,6 +222,18 @@ export class ProblemDetailComponent implements OnInit {
 
 //now it works
 
+git branch zhe
+
+git checkout zhe
+
+git push origin zhe
+
+git checkout master
+
+git status
+
+
+
 
 
 
