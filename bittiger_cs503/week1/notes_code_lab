@@ -40,8 +40,9 @@ git init
 ls -al
 cd .git
 
+git log
 
-
+add some notes to test git again
 
 
 
