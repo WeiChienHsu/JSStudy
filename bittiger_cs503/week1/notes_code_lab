@@ -44,6 +44,19 @@ git log
 
 add some notes to test git again
 
+/////////////////////////////////////////
+git remote show
+
+git remote show origin
+
+//only the first time to push to remote
+git push --set-upstream origin master
+
+//create a new branch
+git checkout -b second table
+
+//check how many branches are there in the local
+git branch
 
 
 
