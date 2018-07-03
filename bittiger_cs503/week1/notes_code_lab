@@ -58,6 +58,203 @@ git checkout -b second table
 //check how many branches are there in the local
 git branch
 
+//jikexueyuan
+git config
+
+git config --, then 'tab'
+
+cd contrib/completion
+
+ls :
+git-completion.bash git-completion.tcsh git-completion.zsh  git-prompt.sh
+
+git-completion.bash
+git-prompt.sh
+are the two files we need, copy them to current user folder
+
+cp git-completion.bash ~/
+cp git-prompt.sh ~/
+
+then edit the .bash_profile; linux user edit the .bashrc
+
+
+export PS1="\\w:\$(git branch 2>/dev/null | grep '^*' | colrm 1 2)\$ "
+
+//now do git configuration
+git config --global user.name jikexueyuan
+git config --global user.email git@jikexueyuan.com
+
+//there are 3 levels of git config
+git config --system :
+git config --global : current user
+git config --local : this is for current repositary
+
+//read git config doc
+git config --help
+git help config
+man git-config
+
+//--add means it is allowed to have multiple key-value pairs
+git config --global --add user.name eoe
+
+//show the last user added
+git config user.name
+git config --get user.name
+
+//show all the users:
+git config --list --global
+
+
+//delete user
+git config --global --unset user.name
+warning: user.name has multiple values
+
+git config --global --unset user.name eoe
+
+
+//git config can create alias name for git commands
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.st status
+git config --global alias.ci commit
+
+git config --global alias.lol "log --oneline"
+
+
+//use git to create a non-bare repository
+git init git_non_bare_repo
+
+//use git to create a bare repository
+git init --bare git_bare_repo
+
+//use git to add an existing folder to repository
+mkdir git_init_repo
+cd git_init_repo
+git init
+
+//or use git clone get a repository from remote, which require a bare repo
+//now use the bare repo just created to clone to the same folder, and rename it to a new name
+git clone git_bare_repo/ git_clone_repo
+
+git add; git rm; git mv
+gitignore
+
+//
+mkdir git_basics
+cd git_basics
+touch a
+touch b
+git add a b
+git commit -m "Initial commit"
+git rm --cached a b
+vim a
+git add a
+git commit -m "modify a"
+git reset HEAD a
+
+//when a is not needed any more
+//remove a from everywhere
+git rm a
+git reset head a
+git checkout a
+//remove a from only the stage
+git rm --cached a
+git add a
+
+//sometimes we need to
+git mv a c
+git mv c a
+
+//git branch, git merge
+git init git_checkout_merge
+cd git_checkout_merge
+vi master.txt
+git add .
+git commit -m "Initial commit on master"
+vim master.txt
+git add .
+git commit
+git branch test
+git checkout test
+
+
+git log --oneline --decorate --graph --all
+
+git tag "v0" 17aac4b
+
+git tag -a "v2" 17aac4b
+
+git show v0
+
+git checkout v0
+
+// git checkout -b new_branch_name :
+// git branch new_branch_name, git checkout new_branch_name
+
+git checkout -b fix_v0
+
+//on one branch
+git stash save -a "stash1"
+
+git stash list
+
+git stash pop --index stash@{0}
+
+git stash save -a "stash1"
+
+git stash apply --index stash@{0}
+
+git stash drop stash@{0}
+
+git stash clear
+
+git checkout master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
