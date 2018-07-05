@@ -1,0 +1,7 @@
+
+The Angular CLI configuration format has been changed, and your existing configuration can
+be updated automatically by running the following command:
+
+  ng update @angular/cli
+
+git -C "$(brew --repo homebrew/core)" fetch --unshallow
