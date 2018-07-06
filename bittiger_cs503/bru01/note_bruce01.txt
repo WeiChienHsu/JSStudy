@@ -1,0 +1,59 @@
+sudo npm uninstall -g angular-cli
+
+sudo npm uninstall -g @angular/cli
+
+npm cache clean  ; sudo npm cache verify
+
+Delete the C:\Users\YOU\AppData\Roaming\npm\node_modules\@angular folder.
+
+Reboot, then, finally, run:
+
+npm install -g @angular/cli
+
+node -v
+v10.6.0
+
+npm -v
+6.1.0
+
+ng -v
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 6.0.8
+Node: 10.6.0
+OS: linux x64
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.6.8
+@angular-devkit/core         0.6.8
+@angular-devkit/schematics   0.6.8
+@schematics/angular          0.6.8
+@schematics/update           0.6.8
+rxjs                         6.2.1
+typescript                   2.7.2
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+ng new oj-client
+
+ng serve
+
+http://localhost:4200/
+
+///////////////////////////////
+
+
+
+
