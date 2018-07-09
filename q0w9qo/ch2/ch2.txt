@@ -1,0 +1,28 @@
+mac
+
+node 7 or 7.4 ?
+
+npm -v
+4.1.2
+
+sudo npm install -g@angular/cli
+
+ng -v
+angular-cli:1.0.0-beta.26
+node: 7.0.0
+
+ng new auction
+
+属性绑定，事件绑定，双向绑定
+
+typescript 类型描述文件？
+npm install @types/jquery --save-dev
+
+
+npm install @types/bootstrap --save-dev
+
+
+
+
+
+
