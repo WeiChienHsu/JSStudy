@@ -22,6 +22,8 @@ npm install @types/jquery --save-dev
 npm install @types/bootstrap --save-dev
 
 
+so typescript can run jquery and bootstrap
+
 
 
 
