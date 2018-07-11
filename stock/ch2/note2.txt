@@ -1,0 +1,97 @@
+///////////////20180711////////////////
+install nvm
+
+https://github.com/creationix/nvm
+
+//to be safe, use bash shell intead of  zsh
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+
+//add it to shell??
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+
+nvm --version
+0.33.11
+
+
+//list all lts version nodes
+nvm ls-remote --lts
+
+
+//show latest stable version
+nvm version-remote --lts
+v8.11.3
+
+//install latest lts version
+nvm install --lts
+
+
+///////////////////////////////////////////
+node
+
+node -v
+v8.11.3
+➜  ~
+➜  ~ npm -v
+5.6.0
+
+
+npm install -g @angular/cli
+ng -v
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 6.0.8
+Node: 8.11.3
+OS: linux x64
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.6.8
+@angular-devkit/core         0.6.8
+@angular-devkit/schematics   0.6.8
+@schematics/angular          0.6.8
+@schematics/update           0.6.8
+rxjs                         6.2.1
+typescript                   2.7.2
+
+
+
+///////////////////////////////////////////
+// start the new anguar project
+//this will generate a folder auction and create code in it
+ng new auction
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
