@@ -71,8 +71,15 @@ typescript                   2.7.2
 //this will generate a folder auction and create code in it
 ng new auction
 
+cd auction
+
+ng serve
+
+http://localhost:4200/
 
 ///////////////////////////////////////////
+set the run configuration of WebStorm:
+
 
 
 ///////////////////////////////////////////
