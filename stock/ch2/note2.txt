@@ -80,10 +80,13 @@ http://localhost:4200/
 ///////////////////////////////////////////
 set the run configuration of WebStorm:
 
-
- a
 ///////////////////////////////////////////
+in the auction folder
+//install jquery
+npm install jquery --save
 
+//install bootstrap
+npm install boostrap --save
 
 ///////////////////////////////////////////
 
