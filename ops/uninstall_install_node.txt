@@ -1,3 +1,5 @@
+
+
 sudo npm uninstall -g angular-cli
 
 sudo npm uninstall -g @angular/cli
@@ -9,3 +11,4 @@ Delete the C:\Users\YOU\AppData\Roaming\npm\node_modules\@angular folder.
 Reboot, then, finally, run:
 
 npm install -g @angular/cli
+

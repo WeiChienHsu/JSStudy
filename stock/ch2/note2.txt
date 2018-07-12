@@ -1,5 +1,5 @@
 ///////////////20180711////////////////
-install nvm
+//install nvm
 
 https://github.com/creationix/nvm
 
@@ -81,7 +81,7 @@ http://localhost:4200/
 set the run configuration of WebStorm:
 
 
-
+ a
 ///////////////////////////////////////////
 
 
