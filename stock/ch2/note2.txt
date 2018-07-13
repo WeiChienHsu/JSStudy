@@ -90,16 +90,45 @@ npm install boostrap --save
 
 ///////////////////////////////////////////
 
+npm install @types/jquery --save-dev
+
+//this one does not work, there is error
+npm install @type/bootstrap --save-dev
+
+//this one works
+npm install --save @types/bootstrap
+
+//this one also works
+npm install --save-dev @types/bootstrap
+
+
+//need to import jquery into components
+
+import * as $ from 'jquery';
 
 ///////////////////////////////////////////
 
+//create component
+ng g component navbar
+ng g component footer
+ng g component search
+ng g component carousel
+ng g comopnent product
+ng g component stars
+
+
+
+///////////////////////////////////////////
+//now start to work on components, start with app component
+
+app.component.html
+
+
 
 ///////////////////////////////////////////
 
-
-
-///////////////////////////////////////////
-
+//now develop navbar and footer
+navbar.component.html
 
 ///////////////////////////////////////////
 

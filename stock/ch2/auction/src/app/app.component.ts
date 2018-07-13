@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//import * as $ from 'jquery';
 
 @Component({
   selector: 'app-root',
@@ -6,9 +7,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
-  //need to install
-  test() {
-    $("")
-  }
+  title = 'MuKeWang Angular RuMenShiZhan';
+  //need to installs sth for typescript, because  $ in jquery is JS
+  //npm install @types/jquery --save-dev
+/*  test() {
+    // $("xxx").show()
+    //$("xxxx").show()
+
+  }*/
+
+
 }

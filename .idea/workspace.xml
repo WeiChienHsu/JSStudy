@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/stock/ch2/tryBootstrap/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_10_project-template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_10_project-template/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stock/ch2/auction/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stock/ch2/auction/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stock/ch2/auction/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock/ch2/auction/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/auction/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stock/ch2/note2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stock/ch2/note2.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,104 +30,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="note2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/note2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1126">
-              <caret line="88" selection-start-line="88" selection-end-line="88" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="atom.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ops/atom.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uninstall_install_node.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ops/uninstall_install_node.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/angular.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#27#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5812417">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file leaf-file-name="servers.component.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/servers/servers.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="684">
+                  <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-ngfor-addition/src/main.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#0#47#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-ngfor-addition/src/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="532">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file leaf-file-name="angular.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_06_first-app/angular.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="266">
+                  <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -127,16 +94,24 @@
       <list>
         <option value="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" />
         <option value="$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/footer/footer.component.html" />
-        <option value="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/stock/ch2/auction/src/main.ts" />
         <option value="$PROJECT_DIR$/stock/ch2/auction/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/ops/atom.sh" />
         <option value="$PROJECT_DIR$/ops/nvm.txt" />
         <option value="$PROJECT_DIR$/ops/uninstall_install_node.txt" />
         <option value="$PROJECT_DIR$/ops/nvm.sh" />
-        <option value="$PROJECT_DIR$/stock/ch2/note2.txt" />
-        <option value="$PROJECT_DIR$/stock/ch2/auction/angular.json" />
         <option value="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/stock/ch2/note2.txt" />
+        <option value="$PROJECT_DIR$/stock/ch2/tryBootstrap/index.html" />
+        <option value="$PROJECT_DIR$/stock/ch2/auction/src/app/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/angular.json" />
+        <option value="$PROJECT_DIR$/stock/ch2/auction/src/index.html" />
+        <option value="$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/stock/ch2/auction/angular.json" />
+        <option value="$PROJECT_DIR$/stock/ch2/auction/package.json" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/index.html" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/servers/servers.component.html" />
       </list>
     </option>
   </component>
@@ -156,6 +131,15 @@
     <handled-path value="$PROJECT_DIR$/JiKeXueYuan_Homework_2/第十五周/作业1 shell_pm2_百度新闻/node_modules" />
     <handled-path value="$PROJECT_DIR$/JiKeXueYuan_Homework_2/第十周/作业1用fis3重构百度首页/dev/node_modules" />
     <handled-path value="$PROJECT_DIR$/JiKeXueYuan_Homework_2/第十四周/作业1 加强百度新闻系统安全性/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_06_first-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_10_project-template/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_11_first-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_21_basics-components/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Udemy_Angular6/_38_basics-ngfor-addition/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/stock/ch2/auction/node_modules" />
     <handled-path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/node_modules" />
@@ -779,11 +763,11 @@
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 38 - Deploying/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="134" />
-    <option name="y" value="39" />
-    <option name="width" value="2885" />
-    <option name="height" value="2121" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="227" />
+    <option name="width" value="2875" />
+    <option name="height" value="1594" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -793,6 +777,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -803,59 +788,29 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ops" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_Angular6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_Angular6" type="462c0819:PsiDirectoryNode" />
+              <item name="_38_basics-ngfor-addition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-              <item name="auction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-              <item name="auction" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_Angular6" type="462c0819:PsiDirectoryNode" />
+              <item name="_38_basics-ngfor-addition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-              <item name="auction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/stock/ch2/auction/package.json" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -914,7 +869,9 @@
       <workItem from="1531420719053" duration="155000" />
       <workItem from="1531420889929" duration="63000" />
       <workItem from="1531420967890" duration="253000" />
-      <workItem from="1531421234899" duration="1530000" />
+      <workItem from="1531421234899" duration="1810000" />
+      <workItem from="1531423320516" duration="11568000" />
+      <workItem from="1531496760578" duration="5675000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -930,25 +887,31 @@
       <option name="project" value="LOCAL" />
       <updated>1531338563643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modify stock/auction file">
+      <created>1531422984862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531422984862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19351000" />
+    <option name="totallyTimeSpent" value="36874000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="39" width="2885" height="2121" extended-state="4" />
-    <editor active="true" />
+    <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23500867" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18294658" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32945532" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23693931" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1014,7 +977,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init on U18 W541" />
     <MESSAGE value="created a new folder &quot;stock&quot; at /.&#10;Create ch2 and start auction project." />
-    <option name="LAST_COMMIT_MESSAGE" value="created a new folder &quot;stock&quot; at /.&#10;Create ch2 and start auction project." />
+    <MESSAGE value="modify stock/auction file" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify stock/auction file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1022,304 +986,274 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.css">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/footer/footer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/ch2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/footer/footer.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/start/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/stock/src/app/footer/footer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/note2" />
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/ch2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/bru01/note_bruce01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/angular2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/package2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/use shopt in zsh.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/node_versions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="399" column="15" selection-start-line="399" selection-start-column="15" selection-end-line="399" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/nvm.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/nvm.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/uninstall_install_node.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/atom.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#27#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="722">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/servers/servers.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="494">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/index.html">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-components/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/note2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1126">
-          <caret line="88" selection-start-line="88" selection-end-line="88" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/angular.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock/ch2/auction/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/servers/servers.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="1178">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-databinding/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-directives/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/servers/servers.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-final/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-ngfor-addition/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_38_basics-ngfor-addition/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6/_06_first-app/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
