@@ -1,0 +1,9 @@
+Databinding = Communication
+
+typescript -> output data -> HTML
+  String Interpolation: {{data}}
+  Property Binding: [property]="data"
+typescript <-react to user HTML
+  Event Binding: (event)="expression"
+
+
