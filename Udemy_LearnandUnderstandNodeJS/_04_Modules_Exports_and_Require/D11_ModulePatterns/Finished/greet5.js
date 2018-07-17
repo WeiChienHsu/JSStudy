@@ -1,9 +1,9 @@
-var greeting = 'Hello world!!!!';
+var greeting = 'Hello world5';
 
 function greet() {
 	console.log(greeting);
 }
 
 module.exports = {
-	greet: greet
+	greet555: greet
 }

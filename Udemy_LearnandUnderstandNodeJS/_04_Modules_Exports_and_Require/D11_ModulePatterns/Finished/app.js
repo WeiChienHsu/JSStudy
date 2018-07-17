@@ -15,5 +15,5 @@ var Greet4 = require('./greet4');
 var grtr = new Greet4();
 grtr.greet();
 
-var greet5 = require('./greet5').greet;
+var greet5 = require('./greet5').greet555;
 greet5();
