@@ -23,3 +23,4 @@ var noteString = fs.readFileSync('notes.json');
 var note = JSON.parse(noteString);
 console.log(typeof note);
 console.log(note.title);
+console.log(note);

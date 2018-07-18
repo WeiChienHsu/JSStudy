@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="JSStudy/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
+  </component>
+</project>
