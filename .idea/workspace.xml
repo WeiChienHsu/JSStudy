@@ -2,213 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week/oj-client/package2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_03_The_Node_Core/C6_LetsRunSomeJavascript/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_03_The_Node_Core/C6_LetsRunSomeJavascript/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_03_The_Node_Core/C6_LetsRunSomeJavascript/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_03_The_Node_Core/C6_LetsRunSomeJavascript/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D11_ModulePatterns/Finished/greet5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/greet.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/greet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/greet2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D12_ExportsVsModuleExports/Finished/greet2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D13_RequiringCoreModules/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D13_RequiringCoreModules/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D2_FirstClassFunctions/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D2_FirstClassFunctions/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Finished/greet.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Finished/greet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D3_LetsBuildAModule/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D5_PrototypalInheritance/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D5_PrototypalInheritance/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D6_ByValueByReference/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D6_ByValueByReference/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D6_IIFE/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D6_IIFE/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D7_ModuleExportsAndRequire/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D7_ModuleExportsAndRequire/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D7_ModuleExportsAndRequire/greet.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D7_ModuleExportsAndRequire/greet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/english.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/english.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/greetings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/greetings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/spanish.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_04_Modules_Exports_and_Require/D9_MoreOnRequire/Finished/greet/spanish.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E10_ES6Classes/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E10_ES6Classes/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E10_ES6Classes/Finished/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E10_ES6Classes/Finished/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/greetr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/greetr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Finished/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E11_InheritingFromEventEmitterPart3/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E2_FirstClassFunctionsArrays/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E2_FirstClassFunctionsArrays/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E3_EventEmitterPart1/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E3_EventEmitterPart1/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E3_EventEmitterPart1/Finished/emitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E3_EventEmitterPart1/Finished/emitter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E4_EventEmitterPart2/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E4_EventEmitterPart2/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E4_EventEmitterPart2/Finished/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E4_EventEmitterPart2/Finished/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E5_ObjectCreateAndPrototypes/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E5_ObjectCreateAndPrototypes/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E6_InheritingFromEventEmitter/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E6_InheritingFromEventEmitter/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Finished/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Finished/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Starter/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E7_ES6TemplateStrings/Starter/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Finished/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Finished/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Starter/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E8_CallAndApply/Starter/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Finished/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Finished/app2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_05_Events_and_the_Event_Emitter/E9_InheritingFromEventEmitterPart2/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Finished/greet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Finished/greet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Starter/greet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F11_Pipes/Starter/greet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6_Buffers/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6_Buffers/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6a_ES6TypedArrays/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6a_ES6TypedArrays/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6a_ES6TypedArrays/Finished/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F6a_ES6TypedArrays/Finished/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F7_Callbacks/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F7_Callbacks/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F8_Files/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F8_Files/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Finished/greet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Finished/greet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Starter/greet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F9_Streams/Starter/greet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Finished/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Finished/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Starter/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G10_Routing/Starter/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G5_LetsBuildAWebServer/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G5_LetsBuildAWebServer/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Finished/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Finished/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G6_OutputtingHTMLAndTemplates/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Finished/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Finished/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Starter/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G7_StreamsAndPerformance/Starter/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G9_OutputtingJSON/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_07_HTTP_and_being_a_Web_Server/G9_OutputtingJSON/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H4_init_nodemon_packagejson/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H4_init_nodemon_packagejson/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H5_init_nodemon_packagejson_part2/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H5_init_nodemon_packagejson_part2/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H5_init_nodemon_packagejson_part2/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_08_NPM_the_Node_Package_Manager/H5_init_nodemon_packagejson_part2/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I1_InstallingExpressWebServer/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I1_InstallingExpressWebServer/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I2_Routing/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I2_Routing/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I2_Routing/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I2_Routing/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I3_StaticAndMiddleware/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I4_TemplatesAndTemplateEngines/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I5_QuerystringsAndPost/Starter/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Starter/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/controllers/htmlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/controllers/htmlController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Starter/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/controllers/htmlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/controllers/htmlController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/controllers/htmlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/controllers/htmlController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J2_NodeAndMySQL/Starter/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/controllers/htmlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/controllers/htmlController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Finished/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/controllers/htmlController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/controllers/htmlController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/public/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/views/person.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_10_Javascript_JSON_and_Databases/J4_MongoDB/Starter/views/person.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K3_AngularJSManagingClient/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K3_AngularJSManagingClient/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K3_AngularJSManagingClient/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K3_AngularJSManagingClient/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K4_AngularJSManagingClient/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Finished/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_11_The_MEAN_stack/K5_FullStackDeveloper_Part1/Starter/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L2_InitialSetup/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L2_InitialSetup/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Finished/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L3_SettingUpMongoAndMongoose/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/controllers/setupController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/controllers/setupController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Finished/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L4_AddingSeedData/Starter/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/controllers/setupController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/controllers/setupController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Finished/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/controllers/setupController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/controllers/setupController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L5_CreatingOurAPI/Starter/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/controllers/setupController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/controllers/setupController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L6_TestingOurAPI/Finished/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/config/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/controllers/apiController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/controllers/apiController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/controllers/setupController.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/controllers/setupController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/models/todoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/models/todoModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/app/todo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/app/todo.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/app/todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/app/todo.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_12_Lets_Build_an_App/L7_Angular2App_Part1/public/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-10-refactor/notes-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-10-refactor/notes-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-2-module-basics-1/greetings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-2-module-basics-1/greetings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-2-module-basics/greetings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-2-module-basics/greetings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/playground/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/playground/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/playground/notes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week1/oj-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week1/oj-client/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <ignored mask="package-lock.json" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_05_Web_Servers_and_Application_Deployment/" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_04_Asynchronous_Nodejs_Weather_App/" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-4-3rd-party-modules/node_modules/lodash/" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/" />
+    <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-10-refactor/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -822,41 +627,6 @@
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_05_Web_Servers_and_Application_Deployment/n-5-7-git/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_05_Web_Servers_and_Application_Deployment/n-5-8-heroku-github/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_05_Web_Servers_and_Application_Deployment/n-5-9-deploying/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/browser-stdout/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/commander/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/diff/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/graceful-readlink/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/growl/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/he/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/json3/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash._baseassign/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash._basecopy/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash._basecreate/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash._getnative/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash._isiterateecall/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash.create/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash.isarguments/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash.isarray/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/lodash.keys/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/mkdirp/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/mocha/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/node_modules/wrappy/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-2-basic-testing/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-3-watch-tests/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_06_Testing_Your_Applications/n-6-4-assertion-libraries/package.json" />
@@ -1214,190 +984,17 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_LearnandUnderstandNodeJS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 24 - Intermediate Express" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 25 - Working With API's" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 25 - Working With API's" type="462c0819:PsiDirectoryNode" />
-              <item name="movie_search_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 25 - Working With API's" type="462c0819:PsiDirectoryNode" />
-              <item name="movie_search_app" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 25 - Working With API's" type="462c0819:PsiDirectoryNode" />
-              <item name="movie_search_app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 26 - YelpCamp - Basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 27 - Databases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 28 - YelpCamp - Data Persistance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 29 - RESTful Routing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 29 - RESTful Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="BlogSolution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 29 - RESTful Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="RESTfulBlogApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 30 - Data Associations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 35 - YelpCamp Update and Destroy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 36 - UI Improvements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 38 - Deploying" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScriptSamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScriptSamples" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_TheCompleteNodejsDeveloperCourse2nd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1417,18 +1014,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/stock/ch2/auction/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd" />
+      <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" />
+      <recent name="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS" />
+      <recent name="$PROJECT_DIR$/the-web-developer-bootcamp" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_09_RealTime_Web_Apps_with_socketio" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_08_Security_and_Authentication" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_06_Asynchronous_Code_libuv_The_Event_Loop_Streams_Files_and_more/F8_Files/Finished" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Udemy_Angular6/_31_basics-databinding/src/app/servers" />
-      <recent name="$PROJECT_DIR$/stock/ch2/auction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1509,6 +1107,7 @@
       <workItem from="1531854110907" duration="3942000" />
       <workItem from="1531919213213" duration="12707000" />
       <workItem from="1531937253519" duration="2095000" />
+      <workItem from="1531939856648" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1573,11 +1172,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531924549047</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ignored some node_modules">
+      <created>1531940132231</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1531940132231</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93862000" />
+    <option name="totallyTimeSpent" value="94511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1591,21 +1197,21 @@
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29874384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29874384" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49972692" weight="0.33117235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.390497" side_tool="true" weight="0.25661805" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.390497" side_tool="true" weight="0.25661805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.60950303" visible="true" weight="0.25689563" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.60950303" visible="true" weight="0.25689563" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298153" />
@@ -1671,7 +1277,8 @@
     <MESSAGE value="add Udemy_LearnandUnderstandNodeJS&#10;add Udemy_TheCompleteNodejsDeveloperCourse2nd" />
     <MESSAGE value="run some Udemy_LearnandUnderstandNodeJS code" />
     <MESSAGE value="orgnize Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="orgnize Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" />
+    <MESSAGE value="ignored some node_modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignored some node_modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1679,77 +1286,67 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_09_RealTime_Web_Apps_with_socketio/n-9-13-momentjs/playground/time.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/which-module/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch9/server/server/stock_server.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#47#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch9/server/package.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/which-module/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 22 - Node.js/echo.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/which-module/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 22 - Node.js/grader.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/which-module/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/ExpressBasicsExercise/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/PackageJsonDemo/node_modules/express/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/PackageJsonDemo/package.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/window-size/cli.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/readme.md">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/window-size/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/PostRequestDemo/app.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/window-size/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/EJSDemo/app.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/window-size/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/EJSDemo/public/app.css">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/window-size/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/EJSDemo/views/home.ejs">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/wrap-ansi/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/EJSDemo/views/love.ejs">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/wrap-ansi/license">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 24 - Intermediate Express/EJSDemo/views/posts.ejs">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/wrap-ansi/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 25 - Working With API's/first_request.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/wrap-ansi/readme.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/y18n/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/y18n/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/y18n/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/y18n/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/lib/command.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/lib/completion.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/lib/obj-filter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/lib/usage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -1758,167 +1355,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 25 - Working With API's/movie_search_app/package.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/lib/validation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/de.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/en.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/es.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/fr.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/id.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/it.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/ja.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/ko.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/nb.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/pirate.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/pl.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/pt.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/pt_BR.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/tr.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/zh.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/locales/zh_CN.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/CHANGELOG.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/completion.sh.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 25 - Working With API's/movie_search_app/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 25 - Working With API's/movie_search_app/views/search.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 25 - Working With API's/movie_search_app/views/results.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/v1/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/v1/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/v2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2326" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/v2/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/v3/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/Final/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/Final/readme.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/Final/seeds.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1186">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 26 - YelpCamp - Basics/YelpCamp/Final/models/campground.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 27 - Databases/cats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 27 - Databases/readme.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 28 - YelpCamp - Data Persistance/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1794">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 30 - Data Associations/readme.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 36 - UI Improvements/note.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TypeScriptSamples/simple/animals.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/oj-client/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state>
           <folding>
-            <element signature="e#0#75#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/index.html">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/models/problemModel.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/yargs.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/lib/tokenize-arg-string.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/routes/rest.js">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/CHANGELOG.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/services/problemService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week/note20180706.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/notes_code_lab">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7904">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="3" selection-start-line="5" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week/oj-client/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week/oj-client/package2.json">
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs-parser/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/yargs/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
