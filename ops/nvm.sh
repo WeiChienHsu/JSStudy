@@ -1,7 +1,3 @@
-#!/usr/bin/env bash
-
-sudo add-apt-repository ppa:webupd8team/atom -y
-
-sudo apt update; sudo apt install atom -y
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
 
 
