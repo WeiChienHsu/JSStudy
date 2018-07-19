@@ -35,3 +35,9 @@ Package                      Version
 @schematics/update           0.6.8
 rxjs                         6.2.2
 typescript                   2.7.2
+
+
+ng new oj-client
+
+
+
