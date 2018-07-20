@@ -1,4 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject } from '@angular/core';
+import { Problem } from "../../models/problem.model";
+
+//need a way to get the url for certain quesiton
+import { ActivatedRoute, Params } from "@angular/router";
 
 @Component({
   selector: 'app-problem-detail',
@@ -6,10 +10,19 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./problem-detail.component.css']
 })
 export class ProblemDetailComponent implements OnInit {
+  problem : Problem;
 
-  constructor() { }
+  constructor(
+    private route: ActivatedRoute,
+    @Inject("data") private data
+  ) { }
 
   ngOnInit() {
+    this.route.params.subscribe(params => {
+/*      this.data.getProblem(+params["id"])
+        .then(problem => this.problem = problem);*/
+        this.problem = this.data.getProblem(+params["id"]);
+    });
   }
 
 }

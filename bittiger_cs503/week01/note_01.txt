@@ -81,7 +81,7 @@ data.service.ts
 import {Problem} from "../models/problem.model";
 import {PROBLEMS} from "../mock-problems";
 write two methods: getProblems(): Problem[] {}
-                   getProblem(id: number): Problem {}
+                   getProblem(id: number): Proutingroblem {}
 
 
 //provide the dataservice just created
@@ -92,6 +92,44 @@ import { DataService } from './services/data.service';
     useClass: DataService
   }],
 
+
+//create router
+app.routes.ts
+
+app.module.ts
+import { routing } from "./app.routes";
+  imports: [
+    BrowserModule,
+    routing
+  ],
+
+
+//now make each question in the list clickable
+//each question will lead to the detail of the question
+problem-list.component.html
+<a class="list-group-item" *ngFor="let problem of problems" [routerLink]="['/problems', problem.id]">
+
+//now change the:
+app.component.html
+<!--<app-problem-list>app problem list</app-problem-list>-->
+<router-outlet></router-outlet>
+//now the page will not go to fixed <app-problem-list>, but it be directed by
+//the routers in the "app.routes.ts"
+
+//now http://10.17.10.185:4200/problems/1
+will lead to problem-detail.component.html
+
+//now the previous link works, but not clickable yet
+//now add the link in the list
+problem-list.component.ts
+    <a class="list-group-item" *ngFor="let problem of problems"
+    [routerLink]="['/problems', problem.id]">
+//now the cursor because a link
+
+
+//now try to display the detail of each question
+problem-detail.component.html
+problem-detail.component.ts
 
 
 
