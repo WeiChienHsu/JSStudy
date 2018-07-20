@@ -76,6 +76,24 @@ mkdir services
 cd services
 ng g s data
 
+//create dataservice, so this service can be application wide
+data.service.ts
+import {Problem} from "../models/problem.model";
+import {PROBLEMS} from "../mock-problems";
+write two methods: getProblems(): Problem[] {}
+                   getProblem(id: number): Problem {}
+
+
+//provide the dataservice just created
+app.module.ts
+import { DataService } from './services/data.service';
+  providers: [{
+    provide: "data",
+    useClass: DataService
+  }],
+
+
+
 
 
 
