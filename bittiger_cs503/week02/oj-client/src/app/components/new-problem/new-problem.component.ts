@@ -31,7 +31,8 @@ export class NewProblemComponent implements OnInit {
     // this.data.addProblem(this.newProblem)
     //   .catch(error => console.log(error._body));
 
-    // this.newProblem = Object.assign({}, DEFAULT_PROBLEM);
+    // clear the form for next input
+    this.newProblem = Object.assign({}, DEFAULT_PROBLEM);
 
 
   }

@@ -18,3 +18,12 @@ import { FormsModule } from '@angular/forms';
 
 //data.addProblem shall be in the data service
 data.service.ts
+
+
+//add navbar component
+ng g c navbar
+
+//we want the navbar in all page, so it shall be added to:
+app.component.html
+
+

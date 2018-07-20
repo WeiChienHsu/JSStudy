@@ -12,6 +12,7 @@ import { routing } from "./app.routes";
 import { NewProblemComponent } from './components/new-problem/new-problem.component';
 
 import { FormsModule } from '@angular/forms';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FormsModule } from '@angular/forms';
     AppComponent,
     ProblemListComponent,
     ProblemDetailComponent,
-    NewProblemComponent
+    NewProblemComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

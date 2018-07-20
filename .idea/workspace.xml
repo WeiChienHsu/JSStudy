@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/note02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/note02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/note02.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,20 +33,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.55518943">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file leaf-file-name="script5.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script5.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-14">
-                  <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="new-problem.component.ts" pinned="false" current-in-tab="true">
+          <file leaf-file-name="new-problem.component.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="798">
-                  <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+                <state relative-caret-position="1254">
+                  <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
                   <folding>
                     <element signature="e#0#58#0" expanded="true" />
                   </folding>
@@ -58,14 +45,44 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="note02.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="950">
+                  <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data.service.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="684">
+                  <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="874">
+                  <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#0#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="988">
-                  <caret line="26" selection-start-line="26" selection-end-line="26" />
-                  <folding>
-                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="38">
+                  <caret line="1" column="4" selection-start-line="1" selection-end-line="5" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
@@ -74,7 +91,7 @@
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
-                  <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+                  <caret column="39" selection-start-column="39" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -83,19 +100,7 @@
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="114">
-                  <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="problem-list.component.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="684">
-                  <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
                 </state>
               </provider>
             </entry>
@@ -103,21 +108,25 @@
           <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="647">
-                  <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+                <state relative-caret-position="381">
+                  <caret line="13" column="21" selection-start-line="13" selection-end-line="14" />
                   <folding>
                     <element signature="e#0#58#0" expanded="true" />
-                    <element signature="e#381#435#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="new-problem.component.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.css">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
           <file leaf-file-name="new-problem.component.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="8" column="112" selection-start-line="8" selection-start-column="112" selection-end-line="8" selection-end-column="112" />
+                <state relative-caret-position="875">
+                  <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -126,11 +135,23 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file leaf-file-name="new-problem.component.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="new-problem.component.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/new-problem/new-problem.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                <state relative-caret-position="798">
+                  <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data.service.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/services/data.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="456">
+                  <caret line="12" column="22" selection-start-line="12" selection-end-line="13" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -155,6 +176,7 @@
       <find>model</find>
       <find>inMomHappy</find>
       <find>prb</find>
+      <find>FormsModule</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,8 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/components/problem-list/problem-list.component.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/components/problem-list/problem-list.component.html" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/angular.json" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/app.module.ts" />
@@ -210,11 +230,13 @@
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/note02.txt" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.ts" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/note02.txt" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -1181,6 +1203,16 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="ops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1309,7 +1341,7 @@
       <workItem from="1532091856129" duration="2042000" />
       <workItem from="1532106224463" duration="2919000" />
       <workItem from="1532109349496" duration="8079000" />
-      <workItem from="1532117448333" duration="2387000" />
+      <workItem from="1532117448333" duration="3746000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1451,11 +1483,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532115521208</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts">
+      <created>1532120732250</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1532120732251</updated>
+    </task>
+    <task id="LOCAL-00022" summary="w501/week02 add new problem is now working!">
+      <created>1532121510031</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1532121510031</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123259000" />
+    <option name="totallyTimeSpent" value="124618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1560,7 +1606,9 @@
     <MESSAGE value="init week02/oj-client" />
     <MESSAGE value="init week01/codelab some nodejs" />
     <MESSAGE value="init week01/codelab done" />
-    <option name="LAST_COMMIT_MESSAGE" value="init week01/codelab done" />
+    <MESSAGE value="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts" />
+    <MESSAGE value="w501/week02 add new problem is now working!" />
+    <option name="LAST_COMMIT_MESSAGE" value="w501/week02 add new problem is now working!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1568,34 +1616,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" selection-start-line="20" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -1840,13 +1860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="23" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/new-problem/new-problem.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1873,17 +1886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#381#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -1897,48 +1899,95 @@
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="875">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="13" column="21" selection-start-line="13" selection-end-line="14" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/new-problem/new-problem.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="798">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/services/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="8" column="112" selection-start-line="8" selection-start-column="112" selection-end-line="8" selection-end-column="112" />
+        <state relative-caret-position="456">
+          <caret line="12" column="22" selection-start-line="12" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="1254">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="4" selection-start-line="1" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
