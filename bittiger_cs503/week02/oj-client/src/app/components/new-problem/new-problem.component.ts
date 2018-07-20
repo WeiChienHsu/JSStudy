@@ -19,15 +19,20 @@ export class NewProblemComponent implements OnInit {
 
   newProblem: Problem = Object.assign({}, DEFAULT_PROBLEM);
 
-  // constructor(@Inject("data") private data) { }
-  constructor() { }
+  constructor(@Inject("data") private data) { }
+  // constructor() { }
 
   ngOnInit() {
   }
 
-/*  addProblem(): void {
-    this.data.addProblem(this.newProblem)
-      .catch(error => console.log(error._body));
-    this.newProblem = Object.assign({}, DEFAULT_PROBLEM);
-  }*/
+  addProblem(): void {
+    //data.addProblem shall be in the data service
+    this.data.addProblem(this.newProblem);
+    // this.data.addProblem(this.newProblem)
+    //   .catch(error => console.log(error._body));
+
+    // this.newProblem = Object.assign({}, DEFAULT_PROBLEM);
+
+
+  }
 }

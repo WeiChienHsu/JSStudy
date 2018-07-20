@@ -3,10 +3,18 @@
 ng g c new-problem
 
 //to present the new component on home page
-app.component.html
+problem-list.component.html
 <app-new-problem></app-new-problem>
 
 
-
-
 new-problem.component.html
+new-problem.component.ts
+
+//This is necessary to make the ngForm usable!!!
+app.module.ts
+import { FormsModule } from '@angular/forms';
+
+
+
+//data.addProblem shall be in the data service
+data.service.ts
