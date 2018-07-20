@@ -2,14 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/mock-problems.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/models/problem.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/tslint.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,32 +67,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5742409">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file leaf-file-name="note_01.txt" pinned="false" current-in-tab="false">
+          <file leaf-file-name="note_01.txt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="927">
                   <caret line="131" column="27" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="problem-detail.component.ts" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="874">
-                  <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="problem-detail.component.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
@@ -70,33 +84,14 @@
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-list/problem-list.component.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="342">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="problem-detail.component.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="950">
-                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="problem-list.component.ts" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-list/problem-list.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="798">
-                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
+          <file leaf-file-name="app.po.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -722,6 +717,7 @@
       <path value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week/project/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week2/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
@@ -971,11 +967,11 @@
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 38 - Deploying/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="508" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="141" />
+    <option name="y" value="179" />
     <option name="width" value="3686" />
-    <option name="height" value="1594" />
+    <option name="height" value="1548" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1007,129 +1003,14 @@
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
               <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -1161,22 +1042,22 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week02" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/services" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_09_RealTime_Web_Apps_with_socketio" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_08_Security_and_Authentication" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app" />
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app" />
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/services" />
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/models" />
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/app/components/problem-list" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1270,7 +1151,7 @@
       <workItem from="1532030367067" duration="1191000" />
       <workItem from="1532031570242" duration="3811000" />
       <workItem from="1532091856129" duration="2042000" />
-      <workItem from="1532106224463" duration="2456000" />
+      <workItem from="1532106224463" duration="2841000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1377,11 +1258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532035906550</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="new week01/oj-client now works!">
+      <created>1532108709887</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1532108709887</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112330000" />
+    <option name="totallyTimeSpent" value="112715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1394,17 +1282,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="-7" width="3734" height="2167" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18912338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18912338" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49972692" weight="0.33117235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.39204547" side_tool="true" visible="true" weight="0.25655526" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.390497" side_tool="true" weight="0.25661805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.60795456" visible="true" weight="0.25655526" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.60795456" visible="true" weight="0.25655526" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1482,7 +1369,8 @@
     <MESSAGE value="orgnize Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" />
     <MESSAGE value="ignored some node_modules" />
     <MESSAGE value="new week01/oj-client created" />
-    <option name="LAST_COMMIT_MESSAGE" value="new week01/oj-client created" />
+    <MESSAGE value="new week01/oj-client now works!" />
+    <option name="LAST_COMMIT_MESSAGE" value="new week01/oj-client now works!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1490,13 +1378,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/oj-client/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week/oj-client/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1813,13 +1694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-list/problem-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -1837,13 +1711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="927">
-          <caret line="131" column="27" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-list/problem-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -1856,13 +1723,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="912">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="131" column="27" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/problem-list/problem-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
