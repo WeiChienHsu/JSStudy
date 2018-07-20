@@ -1,0 +1,12 @@
+// add new question
+
+ng g c new-problem
+
+//to present the new component on home page
+app.component.html
+<app-new-problem></app-new-problem>
+
+
+
+
+new-problem.component.html

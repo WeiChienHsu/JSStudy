@@ -9,18 +9,22 @@ import { ProblemDetailComponent } from './components/problem-detail/problem-deta
 import { DataService } from './services/data.service';
 
 import { routing } from "./app.routes";
+import { NewProblemComponent } from './components/new-problem/new-problem.component';
 
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ProblemListComponent,
-    ProblemDetailComponent
+    ProblemDetailComponent,
+    NewProblemComponent
   ],
   imports: [
     BrowserModule,
-    routing
+    routing,
+    FormsModule
   ],
   providers: [{
     provide: "data",
