@@ -9,8 +9,15 @@ var sleep = function (ms) {
 };
 
 
-Promise.all([sleep(1000), sleep(5000)])
+
+
+Promise.all([sleep(1000), sleep(3000)])
     .then(function () {
         console.log("All done");
+    });
+
+Promise.race([sleep(1000), sleep(3000)])
+    .then(function () {
+        console.log("Race is won!");
     });
 // scotch.io/tutorials/javascript-promises-for-dummies

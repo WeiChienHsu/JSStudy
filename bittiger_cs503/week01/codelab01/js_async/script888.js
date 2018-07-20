@@ -9,7 +9,7 @@ var sleep = function (ms) {
 };
 
 
-Promise.all([sleep(1000), sleep(5000)])
+Promise.race([sleep(1000), sleep(5000)])
     .then(function () {
         console.log("All done");
     });

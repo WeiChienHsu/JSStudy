@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/promise01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script22.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script44.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script444.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script55.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script555.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script888.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,6 +20,7 @@
     <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-4-3rd-party-modules/node_modules/lodash/" />
     <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/node_modules/" />
     <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-10-refactor/node_modules/" />
+    <ignored path="bittiger_cs503/week01/codelab01/js_async/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,17 +62,44 @@
           <file leaf-file-name="script88.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+                <state relative-caret-position="494">
+                  <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="promise01.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="script8888.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="836">
+                  <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script888.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script888.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="494">
+                  <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="promise01.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/promise01.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="722">
-                  <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+                <state relative-caret-position="532">
+                  <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1102">
+                  <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
@@ -97,8 +111,8 @@
           <file leaf-file-name="app.po.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+                <state relative-caret-position="266">
+                  <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -131,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I2_Routing/Finished/app.js" />
-        <option value="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I6_RESTandJSON/Finished/app.js" />
         <option value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-2-module-basics/greetings.txt" />
         <option value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/playground/json.js" />
         <option value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json/app.js" />
@@ -180,8 +192,10 @@
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script6.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script7.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8.js" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/promise01.js" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script888.js" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js" />
       </list>
     </option>
   </component>
@@ -1037,6 +1051,13 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="ops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1093,26 +1114,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.promise01.js">
+  <component name="RunManager" selected="Node.js.script8888.js">
     <configuration name="promise01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="promise01.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
-    <configuration name="script6.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script6.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
-    <configuration name="script7.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script7.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
+    <configuration name="script8888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script8888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
+    <configuration name="script888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
     <configuration name="script88.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script88.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
     <configuration name="script8.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script8.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
     <list>
-      <item itemvalue="Node.js.script6.js" />
-      <item itemvalue="Node.js.script7.js" />
       <item itemvalue="Node.js.script8.js" />
       <item itemvalue="Node.js.script88.js" />
       <item itemvalue="Node.js.promise01.js" />
+      <item itemvalue="Node.js.script888.js" />
+      <item itemvalue="Node.js.script8888.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.promise01.js" />
+        <item itemvalue="Node.js.script8888.js" />
+        <item itemvalue="Node.js.script888.js" />
         <item itemvalue="Node.js.script88.js" />
+        <item itemvalue="Node.js.promise01.js" />
         <item itemvalue="Node.js.script8.js" />
-        <item itemvalue="Node.js.script7.js" />
-        <item itemvalue="Node.js.script6.js" />
       </list>
     </recent_temporary>
   </component>
@@ -1164,7 +1185,7 @@
       <workItem from="1532031570242" duration="3811000" />
       <workItem from="1532091856129" duration="2042000" />
       <workItem from="1532106224463" duration="2919000" />
-      <workItem from="1532109349496" duration="5335000" />
+      <workItem from="1532109349496" duration="5933000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1285,11 +1306,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532109208443</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="init week01/codelab some nodejs">
+      <created>1532114742629</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1532114742629</updated>
+    </task>
+    <task id="LOCAL-00019" summary="init week01/codelab some nodejs">
+      <created>1532114800749</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1532114800749</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118128000" />
+    <option name="totallyTimeSpent" value="118726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1302,14 +1337,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="-7" width="3734" height="2167" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18912338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18912338" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49972692" weight="0.33117235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.25655526" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.3925866" side_tool="true" visible="true" weight="0.25616017" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.3925866" side_tool="true" visible="true" weight="0.25616017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.6074134" visible="true" weight="0.25616017" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1391,7 +1427,8 @@
     <MESSAGE value="new week01/oj-client created" />
     <MESSAGE value="new week01/oj-client now works!" />
     <MESSAGE value="init week02/oj-client" />
-    <option name="LAST_COMMIT_MESSAGE" value="init week02/oj-client" />
+    <MESSAGE value="init week01/codelab some nodejs" />
+    <option name="LAST_COMMIT_MESSAGE" value="init week01/codelab some nodejs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1399,27 +1436,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/oj-client/src/app/models/problem.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/models/problem.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week1/oj-client/src/app/mock-problems.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1619,13 +1635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -1731,6 +1740,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/promise01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1738,17 +1761,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script888.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="494">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/promise01.js">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script88.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="494">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
