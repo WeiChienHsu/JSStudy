@@ -52,6 +52,50 @@ node_modules/
 
 
 
+create server.js
+
+// copy express hello world code from express website
+
+// introduce nodemon
+
+npm install -g nodemon
+
+nodemon server.js
+
+//autosave plugin, every ';'
+
+//we want the server able to deal with different url:
+
+GET /problems
+Post /problems
+GET /problems/:id
+
+//we want the server able to receive and process corresponding url
+
+create folder routes
+create routes/rest.js
+
+//we want the rest.js to process all RESTful API
+
+//google search "express router"
+
+rest.js
+
+// process HTTP GET request
+// add a callback function, with 2 params: req, res
+// this is only the router, we want it only does the routing
+// we want the computation done in other place, as "service"
+var express = require('express');
+var router = express.Router();
+router.get('/problems', function (req, res) {
+
+});
+
+
+create folder services
+create services/problemService.js
+
+
 
 
 
