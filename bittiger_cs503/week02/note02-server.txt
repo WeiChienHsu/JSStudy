@@ -258,8 +258,58 @@ body/raw/JSON
     "difficulty": "super"
 }
 
+////////////////////////////////////////////////////
+
+// Now new added problem will be lost after restart server
+
+// now we use MongoDB
+
+// There is a online mongoDB: mLab
+
+////////////////////////////////////////////////////
+// I decided to install mongoDB on ubuntu
+
+Install MongoDB Community Edition
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+1. Import the public key used by the package management system.¶
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+
+2. Create a list file for MongoDB.¶
+echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
 
 
+3. Reload local package database.¶
+sudo apt-get update
+
+4. Install the MongoDB packages.¶
+sudo apt-get install -y mongodb-org
+
+ mongod --version
+db version v4.0.0
+
+
+install mongodb gui
+Studio 3T
+https://robomongo.org/
+
+1. Start MongoDB.¶
+sudo service mongod start
+
+
+2. Verify that MongoDB has started successfully
+Verify that the mongod process has started successfully by checking the contents of the log file at /var/log/mongodb/mongod.log
+
+3. Stop MongoDB.¶
+sudo service mongod stop
+
+4. Restart MongoDB.¶
+sudo service mongod restart
+
+5. Begin using MongoDB.¶
+Start a mongo shell on the same host machine as the mongod. Use the --host command line option to specify the localhost address and port that the mongod listens on:
+mongo --host 127.0.0.1:27017
 
 
 
@@ -271,7 +321,48 @@ body/raw/JSON
 
 ////////////////////////////////////////////////////
 
+// Also try docker on ubuntu
 
+Get Docker CE for Ubuntu
+https://docs.docker.com/install/linux/docker-ce/ubuntu/#os-requirements
+
+sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    software-properties-common
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+
+
+
+
+////////////////////////////////////////////////////
+// connect to mongodb
+// npm install --save mongoose
+
++ mongoose@5.2.4
+
+server.js
+var mongoose = require("mongoose");
+
+// connect to mongodb server
+mongo --port 27017
+
+// create database
+use ojdb
+
+// create user
+db.createUser(
+   {
+     user: "zhu",
+     pwd: "dashizi",
+     roles: [ "readWrite", "dbAdmin" ]
+   }
+)
+
+// connect to mongodb
 
 ////////////////////////////////////////////////////
 
