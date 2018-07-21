@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,8 +74,8 @@
           <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="571">
-                  <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+                <state relative-caret-position="761">
+                  <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -158,8 +155,8 @@
           <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/navbar/navbar.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="759">
-                  <caret line="31" column="170" lean-forward="true" selection-start-line="31" selection-start-column="170" selection-end-line="31" selection-end-column="170" />
+                <state relative-caret-position="957">
+                  <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -1429,7 +1426,7 @@
       <workItem from="1532106224463" duration="2919000" />
       <workItem from="1532109349496" duration="8079000" />
       <workItem from="1532117448333" duration="4007000" />
-      <workItem from="1532183320540" duration="4234000" />
+      <workItem from="1532183320540" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1592,11 +1589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532122128213</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated.">
+      <created>1532187866727</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1532187866728</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129113000" />
+    <option name="totallyTimeSpent" value="129431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1609,17 +1613,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="-7" width="3734" height="2167" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18719871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18719871" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49972692" weight="0.33117235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.25655526" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.3925866" side_tool="true" weight="0.25616017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.6074134" side_tool="true" visible="true" weight="0.25125882" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.6074134" side_tool="true" visible="true" weight="0.25125882" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1704,7 +1707,8 @@
     <MESSAGE value="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts" />
     <MESSAGE value="w501/week02 add new problem is now working!" />
     <MESSAGE value="w501/week02 add navbar but not working properly yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="w501/week02 add navbar but not working properly yet" />
+    <MESSAGE value="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated." />
+    <option name="LAST_COMMIT_MESSAGE" value="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2060,15 +2064,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-client/src/app/components/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="31" column="170" lean-forward="true" selection-start-line="31" selection-start-column="170" selection-end-line="31" selection-end-column="170" />
+        <state relative-caret-position="957">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="761">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
         </state>
       </provider>
     </entry>
