@@ -50,13 +50,18 @@ var getProblem = function (id) {
 
 var addProblem = function (newProblem) {
   return new Promise((resolve, reject) => {
-    if (problems.find(problem => problem.name === newProblem.name)) {
-        reject("Problem already exists");
-    } else {
-        newProblem.id = problems.length + 1;
-        problems.push(newProblem);
-        resolve(newProblem);
-    }
+    ProblemModel.findOne({ name : newProblem.name }, function(err, problem) {
+        if (problem) {
+          reject("Problem already exists");
+        } else {
+          ProblemModel.count({}, function(err, num) {
+              newProblem.id = num + 1;
+              var mangoProblem = new ProblemModel(newProblem);
+              mangoProblem.save();
+              resolve(newProblem);
+          });
+        }
+    });
   });
 };
 
