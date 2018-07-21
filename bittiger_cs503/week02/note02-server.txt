@@ -140,8 +140,52 @@ module.exports = {
 
 // now the server can be run without database
 // using postman
+GET: localhost:3000/api/v1/problems
+Show: [
+          {
+              "id": 1,
+              "name": "Two Sum",
+              "desc": "Gi..........
+
+///////////////////////////////////////////////////////////
+
+// Now we start to work on single problem
+rest.js
+
+router.get("/problems/:id");
 
 
+router.post("/problems");
+
+
+router.get('/problems/:id', function (req, res) {
+  var id = req.params.id;
+  problemService.getProblem(+id)
+    .then(problem => res.json(problem));
+});
+// +id convert string to number
+
+
+// write getProblem in problemService.js
+problemService.js
+
+var getProblem = function (id) {
+  return new Promise((resolve, reject) => {
+      resolve(problem);
+  });
+};
+
+// Now single problem works:
+localhost:3000/api/v1/problems/1
+Show:
+{
+    "id": 1,
+    "name": "Two Sum",
+    "desc": "Given an array of integers, return indices of the two numbers such that they add up to a specific target.\nYou may assume that each input would have exactly one solution, and you may not use the same element twice.",
+    "difficulty": "easy"
+}
+
+////////////////////////////////////////////////////
 
 
 

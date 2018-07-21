@@ -44,13 +44,7 @@ var getProblems = function () {
 
 var getProblem = function (id) {
   return new Promise((resolve, reject) => {
-    ProblemModel.findOne({ id : id }, function(err, problem) {
-        if (err) {
-          reject(err);
-        } else {
-          resolve(problem);
-        }
-    });
+      resolve(problems.find(problem => problem.id === id));
   });
 };
 
