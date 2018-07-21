@@ -95,6 +95,55 @@ router.get('/problems', function (req, res) {
 create folder services
 create services/problemService.js
 
+rest.js
+// process HTTP GET request
+// add a callback function, with 2 params: req, res
+// this is only the router, we want it only does the routing
+// we want the computation done in other place, as "service"
+// then is a promise
+// get a problem list: problems
+// send the problem list to res
+router.get('/problems', function (req, res) {
+  problemService.getProblems()
+    .then(problems => res.json(problems));
+});
+
+// To get the router:
+server.js
+var restRouter = require("./routes/rest");
+
+
+// To use the router:
+var app = express()
+app.use("/api/v1", restRouter);
+
+problemService.js
+// we need to return a Promise.
+// we are going to pass a funciton, resolve, reject
+//
+var getProblems = function () {
+  return new Promise((resolve, reject) => {
+    resolve(problems);
+  });
+};
+
+// now we need the "problems"
+problemService.js
+var problems = [];
+
+// To make this method in this module available to others
+module.exports = {
+  getProblems: getProblems
+}
+
+// we write it as a Promise because we are going to communicate with db later
+
+// now the server can be run without database
+// using postman
+
+
+
+
 
 
 
