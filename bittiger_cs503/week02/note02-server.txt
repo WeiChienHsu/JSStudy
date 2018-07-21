@@ -252,13 +252,11 @@ POST: localhost:3000/api/v1/problems
 
 body/raw/JSON
 
-    {
-        id: 6,
-        name: "6th name",
-        desc: `6th desc`,
-        difficulty: "super"
-    }
-
+{
+    "name": "6th name",
+    "desc": "6th desc",
+    "difficulty": "super"
+}
 
 
 
