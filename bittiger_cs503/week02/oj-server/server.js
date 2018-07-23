@@ -7,7 +7,7 @@ var path = require("path");
 
 // mongoose.connect("mongodb://user:user@ds129030.mlab.com:29030/coj-song");
 
-mongoose.connect('mongodb://zhu:dashizi@127.0.0.1:27017/ojdb', { useNewUrlParser: true });
+mongoose.connect('mongodb://127.0.0.1:27017/ojdb', { useNewUrlParser: true });
 
 
 

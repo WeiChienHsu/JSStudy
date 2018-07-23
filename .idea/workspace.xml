@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/models/problemModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/routes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/services/problemService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/models/problemModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/models/problemModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/note02-server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/note02-server.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/routes/rest.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/routes/rest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_problems_problem_01/services/problemService.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/services/problemService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,17 +21,52 @@
     <ignored path="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-10-refactor/node_modules/" />
     <ignored path="bittiger_cs503/week01/codelab01/js_async/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-234100135">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sh" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="18" />
+          <entry key="txt" value="94" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="18" />
+          <entry key="PLAIN_TEXT" value="94" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4494234">
+    <splitter split-orientation="horizontal" split-proportion="0.4596315">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file leaf-file-name="problemService.js" pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/services/problemService.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1178">
@@ -55,7 +75,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/package.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="608">
@@ -64,7 +84,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="rest.js" pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/routes/rest.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1216">
@@ -73,29 +93,34 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+                <state relative-caret-position="950">
+                  <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/README.md">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ops/nvm.sh">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ops/nvm.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+                <state relative-caret-position="874">
+                  <caret line="23" selection-start-line="23" selection-end-line="23" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/package.json">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ops/note.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="760">
-                  <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+                <state relative-caret-position="684">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
                 </state>
               </provider>
             </entry>
@@ -104,16 +129,16 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file leaf-file-name="note02-server.txt" pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="350" column="18" selection-start-line="350" selection-start-column="13" selection-end-line="350" selection-end-column="18" />
+                <state relative-caret-position="-980">
+                  <caret line="353" column="8" lean-forward="true" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/server.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="152">
@@ -203,8 +228,8 @@
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/models/problemModel.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/routes/rest.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/services/problemService.js" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt" />
       </list>
     </option>
   </component>
@@ -234,7 +259,6 @@
     <handled-path value="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
-    <handled-path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/node_modules" />
@@ -753,52 +777,6 @@
       <path value="$PROJECT_DIR$/bittiger_cs503/bru01/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week/project/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/ajv/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/asn1/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/asynckit/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/aws-sign2/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/aws4/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/bcrypt-pbkdf/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/caseless/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/co/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/combined-stream/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/dashdash/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/delayed-stream/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/ecc-jsbn/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/extend/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/extsprintf/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/fast-deep-equal/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/fast-json-stable-stringify/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/forever-agent/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/form-data/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/getpass/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/har-schema/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/har-validator/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/http-signature/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/is-typedarray/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/isstream/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/jsbn/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/json-schema-traverse/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/json-schema/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/json-stringify-safe/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/jsprim/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/oauth-sign/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/performance-now/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/punycode/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/request/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/sshpk/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/tough-cookie/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/tunnel-agent/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/tweetnacl/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/uuid/package.json" />
-      <path value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/node_modules/verror/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_01_problems_problem/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/package.json" />
@@ -1053,11 +1031,11 @@
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 38 - Deploying/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1544" />
-    <option name="y" value="43" />
-    <option name="width" value="1" />
-    <option name="height" value="47" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="134" />
+    <option name="y" value="35" />
+    <option name="width" value="3628" />
+    <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1067,6 +1045,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1083,39 +1062,6 @@
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="Bit_CS503_2017_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="bru01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
               <item name="week02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1123,7 +1069,7 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
               <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="backup" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -1131,35 +1077,16 @@
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
               <item name="week02" type="462c0819:PsiDirectoryNode" />
               <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="ops" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy_TheCompleteNodejsDeveloperCourse2nd" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1169,7 +1096,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -1201,11 +1128,21 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.server.js">
-    <configuration name="problemService.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="problemService.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/services" />
-    <configuration name="script8888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script8888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
-    <configuration name="script888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
-    <configuration name="script88.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script88.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async" />
-    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week02/oj-server" />
+    <configuration name="problemService.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="problemService.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/services">
+      <method v="2" />
+    </configuration>
+    <configuration name="script8888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script8888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async">
+      <method v="2" />
+    </configuration>
+    <configuration name="script888.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script888.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async">
+      <method v="2" />
+    </configuration>
+    <configuration name="script88.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script88.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week02/oj-server">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.script88.js" />
       <item itemvalue="Node.js.script888.js" />
@@ -1276,6 +1213,12 @@
       <workItem from="1532183320540" duration="18236000" />
       <workItem from="1532204841250" duration="23000" />
       <workItem from="1532204937232" duration="7000" />
+      <workItem from="1532354250960" duration="282000" />
+      <workItem from="1532354791174" duration="180000" />
+      <workItem from="1532354996205" duration="260000" />
+      <workItem from="1532355434918" duration="1076000" />
+      <workItem from="1532357076123" duration="2854000" />
+      <workItem from="1532360416110" duration="1362000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1498,7 +1441,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143145000" />
+    <option name="totallyTimeSpent" value="149159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1510,28 +1453,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1544" y="43" width="1" height="47" extended-state="0" />
-    <editor active="true" />
+    <frame x="134" y="35" width="3628" height="2125" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38217604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17723264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997322" weight="0.32980865" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.6082251" side_tool="true" weight="0.27622563" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49972692" weight="0.33117235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.25655526" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.3917749" side_tool="true" visible="true" weight="0.25881115" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.3917749" side_tool="true" weight="0.25920084" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.6082251" side_tool="true" weight="0.276551" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997322" weight="0.32980865" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1616,33 +1558,7 @@
     <MESSAGE value="CS503/week02&#10;&#10;fixed error in last commit&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;{&#10;    &quot;name&quot;: &quot;6th name&quot;,&#10;    &quot;desc&quot;: &quot;6th desc&quot;,&#10;    &quot;difficulty&quot;: &quot;super&quot;&#10;}" />
     <option name="LAST_COMMIT_MESSAGE" value="CS503/week02&#10;&#10;fixed error in last commit&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;{&#10;    &quot;name&quot;: &quot;6th name&quot;,&#10;    &quot;desc&quot;: &quot;6th desc&quot;,&#10;    &quot;difficulty&quot;: &quot;super&quot;&#10;}" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script8888.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1883,48 +1799,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/routes/rest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/README.md" />
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/body-parser/package.json" />
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/raw-body/index.js" />
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/services/problemService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/raw-body/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="215" column="22" selection-start-line="215" selection-start-column="22" selection-end-line="215" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1935,17 +1819,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/routes/rest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="350" column="18" selection-start-line="350" selection-start-column="13" selection-end-line="350" selection-end-column="18" />
+        <state relative-caret-position="1216">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ops/nvm.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ops/nvm.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ops/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week2/oj-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="950">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="353" column="8" lean-forward="true" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="8" />
         </state>
       </provider>
     </entry>
