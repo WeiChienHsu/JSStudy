@@ -405,7 +405,37 @@ mongo --port 27017
 
 
 ////////////////////////////////////////////////////
+create models
+create models/problemMondel.js
 
+
+var mongoose = require("mongoose");
+var ProblemSchema = mongoose.Schema({
+  id: Number,
+  name: String,
+  desc: String,
+  difficulty: String
+});
+
+var problemModel = mongoose.model("ProblemModel", ProblemSchema);
+
+
+
+
+////////////////////////////////////////////////////
+// Now we have created the model/schema
+// we shall now change the getProblems/getProblem/addProblem
+// methods in problemService.js
+
+problemService.js
+
+
+
+////////////////////////////////////////////////////
+
+(node:12111) DeprecationWarning: collection.count is deprecated, and will be removed in a future version. Use collection.countDocuments or collection.estimatedDocumentCount instead
+
+////////////////////////////////////////////////////
 
 
 ////////////////////////////////////////////////////

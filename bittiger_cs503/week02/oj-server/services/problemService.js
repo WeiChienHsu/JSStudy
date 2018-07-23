@@ -1,5 +1,6 @@
-// var ProblemModel = require("../models/problemModel");
+var ProblemModel = require("../models/problemModel");
 
+/*
 var problems = [
     {
         id: 1,
@@ -58,6 +59,48 @@ var addProblem = function (newProblem) {
         resolve(newProblem);
     }
   });
+};
+*/
+
+var getProblems = function () {
+    return new Promise((resolve, reject) => {
+        ProblemModel.find({}, function(err, problems) {
+            if(err) {
+                reject(err);
+            } else {
+                resolve(problems);
+            }
+        });
+    });
+};
+
+var getProblem = function (id) {
+    return new Promise((resolve, reject) => {
+        ProblemModel.findOne({ id : id }, function(err, problem) {
+            if (err) {
+                reject(err);
+            } else {
+                resolve(problem);
+            }
+        });
+    });
+};
+
+var addProblem = function (newProblem) {
+    return new Promise((resolve, reject) => {
+        ProblemModel.findOne({ name : newProblem.name }, function(err, problem) {
+            if (problem) {
+                reject("Problem already exists");
+            } else {
+                ProblemModel.countDocuments({}, function(err, num) {
+                    newProblem.id = num + 1;
+                    var mangoProblem = new ProblemModel(newProblem);
+                    mangoProblem.save();
+                    resolve(newProblem);
+                });
+            }
+        });
+    });
 };
 
 module.exports = {
