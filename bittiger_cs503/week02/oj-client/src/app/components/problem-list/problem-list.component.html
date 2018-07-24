@@ -1,6 +1,7 @@
 <div class="container">
   <app-new-problem></app-new-problem>
 
+  <p>problem-list works!!!</p>
 
   <div class="list-group">
     <a class="list-group-item" *ngFor="let problem of problems" [routerLink]="['/problems', problem.id]">
@@ -13,4 +14,7 @@
       </strong>
     </a>
   </div>
+
+  <p>problem-list works!!!</p>
+
 </div>

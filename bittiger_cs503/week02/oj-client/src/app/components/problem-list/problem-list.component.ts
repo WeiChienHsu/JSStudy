@@ -1,6 +1,8 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import {Problem} from "../../models/problem.model";
 
+import { Subscription } from 'rxjs';
+
 
 @Component({
   selector: 'app-problem-list',
@@ -11,6 +13,8 @@ export class ProblemListComponent implements OnInit {
 
   //this is the definition of variable "problems" by TypeScript, which is an "Problem" array.
   problems:Problem[];
+  subscriptionProblems: Subscription;
+
 
   constructor(@Inject("data") private data) { }
 
@@ -20,9 +24,20 @@ export class ProblemListComponent implements OnInit {
     // this.problems = PROBLEMS;
     this.getProblems();
   }
+/*
 
   getProblems(): void {
     this.problems = this.data.getProblems();
+  }
+*/
+
+  private getProblems(): void {
+
+    this.subscriptionProblems = this.data.getProblems()
+      .subscribe(problems => this.problems = problems);
+
+    console.log("this.data.getProblems()");
+    console.log(this.subscriptionProblems );
   }
 
 

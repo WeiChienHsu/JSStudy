@@ -21,7 +21,10 @@ export class ProblemDetailComponent implements OnInit {
     this.route.params.subscribe(params => {
 /*      this.data.getProblem(+params["id"])
         .then(problem => this.problem = problem);*/
-        this.problem = this.data.getProblem(+params["id"]);
+        // this.problem = this.data.getProblem(+params["id"]);
+      this.data.getProblem(+params['id'])
+        .then(problem => this.problem = problem);
+
     });
   }
 

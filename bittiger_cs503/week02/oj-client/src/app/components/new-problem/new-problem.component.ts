@@ -27,9 +27,9 @@ export class NewProblemComponent implements OnInit {
 
   addProblem(): void {
     //data.addProblem shall be in the data service
-    this.data.addProblem(this.newProblem);
-    // this.data.addProblem(this.newProblem)
-    //   .catch(error => console.log(error._body));
+    // this.data.addProblem(this.newProblem);
+    this.data.addProblem(this.newProblem)
+      .catch(error => console.log(error._body));
 
     // clear the form for next input
     this.newProblem = Object.assign({}, DEFAULT_PROBLEM);
