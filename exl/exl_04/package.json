@@ -1,0 +1,16 @@
+{
+  "name": "exl_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "express": "^4.16.3",
+    "node-xlrd": "^0.2.4"
+  }
+}
