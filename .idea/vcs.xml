@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/exl/exl_03/ejsExcel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exl/exl_05/js-xlsx" vcs="Git" />
   </component>
 </project>
