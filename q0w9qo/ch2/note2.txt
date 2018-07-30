@@ -2,3 +2,9 @@ I use ubuntu 18.04
 
 ng new auction
 
+npm install jquery --save
+
+npm install bootstrap --save
+
+
+
