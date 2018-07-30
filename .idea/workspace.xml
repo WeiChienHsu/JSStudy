@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="exl/&#10;&#10;tired several xls/xlsx fill generation lib of nodejs">
-      <change afterPath="$PROJECT_DIR$/exl/exl_05/js-xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/ch2/note2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exl/exl_02/.~lock.resut.xls#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/angular2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/angular2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,15 +32,15 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,7 +62,7 @@
           <entry key="run ng serve on the server" value="1" />
           <entry key="sh" value="3" />
           <entry key="ts" value="120" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="15" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="1" />
@@ -77,7 +74,7 @@
           <entry key="HTML" value="20" />
           <entry key="JSON" value="22" />
           <entry key="JavaScript" value="84" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="PLAIN_TEXT" value="44" />
           <entry key="TypeScript" value="120" />
         </counts>
       </usages-collector>
@@ -88,7 +85,7 @@
           <entry key="js" value="200" />
           <entry key="json" value="7" />
           <entry key="ts" value="682" />
-          <entry key="txt" value="758" />
+          <entry key="txt" value="856" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -96,7 +93,7 @@
           <entry key="HTML" value="15" />
           <entry key="JSON" value="7" />
           <entry key="JavaScript" value="200" />
-          <entry key="PLAIN_TEXT" value="799" />
+          <entry key="PLAIN_TEXT" value="897" />
           <entry key="TypeScript" value="682" />
         </counts>
       </usages-collector>
@@ -109,7 +106,26 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/ch2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/note2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,8 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script22.js" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script4.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script44.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script444.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script5.js" />
@@ -205,6 +219,8 @@
         <option value="$PROJECT_DIR$/exl/exl_03/app.js" />
         <option value="$PROJECT_DIR$/exl/exl_04/package.json" />
         <option value="$PROJECT_DIR$/exl/exl_04/index.js" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch2/note2.txt" />
       </list>
     </option>
   </component>
@@ -246,6 +262,7 @@
     <handled-path value="$PROJECT_DIR$/exl/exl_04/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/angular2/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/exl_05/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/auction/node_modules" />
     <handled-path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/node_modules" />
     <handled-path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/ExpressBasicsExercise/node_modules" />
     <handled-path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/PackageJsonDemo/node_modules" />
@@ -797,6 +814,7 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/xhr/package.json" />
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx/package.json" />
       <path value="$PROJECT_DIR$/exl/exl_05/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/start/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/stock/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch3/router/package.json" />
@@ -1031,10 +1049,10 @@
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 38 - Deploying/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="134" />
     <option name="y" value="35" />
-    <option name="width" value="2636" />
+    <option name="width" value="1853" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1045,6 +1063,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1055,24 +1074,18 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="aicoder_node" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="exl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="exl" type="462c0819:PsiDirectoryNode" />
-              <item name="exl_05" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1216,7 +1229,8 @@
       <workItem from="1532542318202" duration="6585000" />
       <workItem from="1532607045489" duration="14746000" />
       <workItem from="1532696537645" duration="5980000" />
-      <workItem from="1532718337969" duration="1185000" />
+      <workItem from="1532718337969" duration="1223000" />
+      <workItem from="1532956553921" duration="5592000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -1463,11 +1477,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532639095920</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="exl/&#10;&#10;tired several xls/xlsx fill generation lib of nodejs">
+      <created>1532719980449</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1532719980449</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214117000" />
+    <option name="totallyTimeSpent" value="219747000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1479,9 +1500,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
+    <frame x="134" y="35" width="1853" height="2125" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17722556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31732327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1489,7 +1511,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8088476" side_tool="true" weight="0.16532041" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8088476" side_tool="true" weight="0.16517623" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.45057344" weight="0.32417879" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.26171243" />
@@ -1501,6 +1523,27 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31732327" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49945384" visible="true" weight="0.33710286" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8088476" side_tool="true" visible="true" weight="0.16517623" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.45057344" weight="0.32417879" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.26171243" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.8088476" side_tool="true" weight="0.16532041" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19115238" visible="true" weight="0.16532041" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1596,10 +1639,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exl/exl_02/node_modules/app2.js" />
-    <entry file="file://$PROJECT_DIR$/exl/exl_02/node-xlsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_01/json2xls">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1838,20 +1877,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/array/tf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1871,9 +1901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1881,9 +1908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1912,9 +1936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1922,6 +1943,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/ch2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/note2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

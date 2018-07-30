@@ -1,0 +1,4 @@
+I use ubuntu 18.04
+
+ng new auction
+
