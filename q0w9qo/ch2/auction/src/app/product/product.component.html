@@ -1,0 +1,42 @@
+<!--
+<p>
+  product works!
+</p>
+-->
+
+<div class="row">
+<div *ngFor="let product of products" class="col-md-4 col-sm-4  col-lg-4 ">
+  <div class="img-thumbnail" >
+    <img [src]="imgUrl">
+
+    <div class="caption">
+      <h4 class="pull-right">{{product.price}} Dollar</h4>
+      <h4><a>{{product.title}}</a></h4>
+      <p>{{product.desc}}</p>
+    </div>
+
+    <div>
+      <app-stars [rating]="product.rating"></app-stars>
+    </div>
+  </div>
+</div>
+</div>
+<!--
+<div *ngFor="let product of products" class="row">
+  <div class="img-thumbnail" >
+    <img src="http://via.placeholder.com/320x150">
+
+    <div class="caption">
+      <h4 class="pull-right">{{product.price}} Dollar</h4>
+      <h4><a>{{product.title}}</a></h4>
+      <p>{{product.desc}}</p>
+    </div>
+
+    <div>
+      <app-stars></app-stars>
+    </div>
+  </div>
+
+
+</div>
+-->

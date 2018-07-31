@@ -6,5 +6,234 @@ npm install jquery --save
 
 npm install bootstrap --save
 
+=============================================
+need to install typescript leixingmiaoshuwenjian:
+
+npm install @types/jquery --save
+
+npm install @types/bootstrap --save
 
 
+then typescript in angular can recognize bootstrap and jquery
+
+=============================================
+now generate components
+
+ng g component navbar
+ng g c footer
+ng g c search
+ng g c carousel
+ng g c product
+ng g c star
+
+
+
+=============================================
+
+app.component.html
+
+<app-navbar></app-navbar>
+<div class="container">
+  <div class="row">
+    <!--left-->
+    <div class="col-md-3">
+      <app-search></app-search>
+    </div>
+    <!--right-->
+    <div class="col-md-9">
+      <!--top-->
+      <div class="row">
+        <app-carousel></app-carousel>
+      </div>
+
+      <!--bottom-->
+      <div class="row">
+        <app-product></app-product>
+      </div>
+
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>
+
+=============================================
+
+navbar.component.html
+
+<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <!-- Brand -->
+  <a class="navbar-brand" href="#">Online Auction</a>
+
+  <!-- Toggler/collapsibe Button -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <!-- Navbar links -->
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#">About us 1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About us 2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About us 3</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+=============================================
+footer.component.html
+
+
+<div class="container">
+  <hr>
+  <footer>
+    <div class="row">
+      <div class="col-lg-12">
+        <p>Mooc Angular Intro Course 2017</p>
+      </div>
+    </div>
+  </footer>
+</div>
+
+=============================================
+search.component.html
+
+<form action="" name="searchForm" role="form">
+  <div class="form-group">
+    <label for="productTitle">Product Title:</label>
+    <input type="text" id="productTitle" placeholder="Product Title" class="form-content">
+  </div>
+  <div class="form-group">
+    <label for="productPrice">Product Price:</label>
+    <input type="number" id="productPrice" placeholder="Product Price" class="form-content">
+  </div>
+  <div class="form-group">
+    <label for="productCategory">Product Category:</label>
+    <select id="productCategory" class="form-control"></select>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary btn-block">Search</button>
+  </div>
+</form>
+
+
+=============================================
+carousel.component.html
+
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="http://via.placeholder.com/800x300" alt="Los Angeles">
+    </div>
+    <div class="carousel-item">
+      <img src="http://via.placeholder.com/800x300" alt="Chicago">
+    </div>
+    <div class="carousel-item">
+      <img src="http://via.placeholder.com/800x300" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
+
+=============================================
+
+product.component.ts
+
+export class ProductComponent implements OnInit {
+
+  private products: Array<Product>;
+
+  constructor() { }
+
+  ngOnInit() {
+    this.products = [
+      new Product(1,"1st Product", 1.99, 1.5, "This is the 1st product desc", ["Electronics", "Hardware"]),
+      new Product(2,"2nd Product", 2.99, 2.5, "This is the 2nd product desc", ["Electronics"]),
+      new Product(3,"3rd Product", 3.99, 3.5, "This is the 3rd product desc", [ "Hardware"]),
+      new Product(4,"4th Product", 4.99, 4.5, "This is the 4th product desc", [ "Hardware"]),
+      new Product(5,"5th Product", 5.99, 5.0, "This is the 5th product desc", ["Electronics", "Hardware", "Toy"])
+
+
+    ];
+  }
+
+}
+
+export class Product {
+  constructor(    public id:number,
+                  public title:string,
+                  public price:number,
+                  public rating:number,
+                  public desc:string,
+                  public categories:Array<string>){
+
+
+  }
+
+=============================================
+
+product.component.html
+
+https://fontawesome.com/
+
+
+=============================================
+
+stars.component.ts
+
+
+
+=============================================
+
+
+
+=============================================
+
+
+=============================================
+
+
+=============================================
+
+
+=============================================
+=============================================
+
+
+
+=============================================
+
+
+
+=============================================
+
+
+=============================================
+
+
+=============================================
+
+
+=============================================
