@@ -1,7 +1,7 @@
 var sleep = function (ms) {
 
     var promise = new Promise(function (resolve, reject) {
-        setTime(function () {
+        setTimeout(function () {
             resolve("haha");
         }, ms);
     });
