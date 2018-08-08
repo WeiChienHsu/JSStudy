@@ -38,7 +38,7 @@ var server = http.createServer(function(req,res){
     });
 });
 
-server.listen(80,"127.0.0.1");
+server.listen(8080,"127.0.0.1");
 
 function getMime(extname,callback){
     //读取mime.json文件，得到JSON，根据extname key ，返回对应的value
