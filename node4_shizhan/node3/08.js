@@ -12,14 +12,14 @@ app.use(function(req,res,next){
 });
 
 app.get("/haha",function(req,res){
-    console.log("哈哈");
+    console.log("haha");
 });
 
 app.use("/admin",function(req,res){
     res.write(req.originalUrl + "\n");
     res.write(req.baseUrl + "\n");
     res.write(req.path + "\n");
-    res.end("你好");
+    res.end("hello");
 });
 
 app.listen(3000);

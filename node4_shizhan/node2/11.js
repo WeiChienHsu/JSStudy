@@ -8,7 +8,7 @@ var querystring = require("querystring");
 //创建服务器
 var server = http.createServer(function(req,res){
     //如果你的访问地址是这个，并且请求类型是post
-    if(req.url == "/dopost" && req.method.toLowerCase() == "post"){
+    if(req.url == "http://127.0.0.1:8080/dopost" && req.method.toLowerCase() == "post"){
         var alldata = "";
         //下面是post请求接收的一个公式
         //node为了追求极致，它是一个小段一个小段接收的。
@@ -29,4 +29,4 @@ var server = http.createServer(function(req,res){
     }
 });
 
-server.listen(80,"127.0.0.1");
+server.listen(8080,"127.0.0.1");

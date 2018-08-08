@@ -39,7 +39,7 @@ var server = http.createServer(function(req,res){
                     throw Error("改名失败");
                 }
                 res.writeHead(200, {'content-type': 'text/plain'});
-                res.end("成功");
+                res.end("Succeed!");
             });
         });
     }else if(req.url == "/"){
@@ -54,4 +54,4 @@ var server = http.createServer(function(req,res){
     }
 });
 
-server.listen(80,"192.168.41.36");
+server.listen(8080,"127.0.0.1");
