@@ -15,6 +15,7 @@ const DEFAULT_PROBLEM: Problem = Object.freeze({
 })
 
 export class NewProblemComponent implements OnInit {
+
   public difficulties = ["Easy", "Medium", "Hard", "Super"];
 
   newProblem: Problem = Object.assign({}, DEFAULT_PROBLEM);
