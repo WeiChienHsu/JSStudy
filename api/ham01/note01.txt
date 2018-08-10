@@ -76,13 +76,16 @@ npm install @types/jquery --save
 
 /////////////////////////////////////////
 
-//use bootstrap and jquery
+//use bootstrap
 
 bittiger_cs503/week01/oj-client/src/styles.css
 
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
+/////////////////////////////////////////
+// use jquery in .ts file
 
+//it seems we can import the jquery from
 
 import * as $ from 'jquery';
 
@@ -91,6 +94,9 @@ test() {
 
   }
 
+/////////////////////////////////////////
+//But, to make the effect of bootstrap.js working, I put the jquery and bootstrap info
+in the angular.json anyway.
 /////////////////////////////////////////
 
 cd /home/b/WebstormProjects/JSStudy/api/ham01/ham-client/src/app
@@ -104,7 +110,11 @@ cd /home/b/WebstormProjects/JSStudy/api/ham01/ham-client/src/app/components
 /////////////////////////////////////////
 
 
-
+ng g c navbar
+ng g c footer
+ng g c search
+ng g c carousel
+ng g c assay
 
 
 
@@ -120,8 +130,10 @@ cd /home/b/WebstormProjects/JSStudy/api/ham01/ham-client/src/app/components
 /////////////////////////////////////////
 
 
+ng g module app-routing
 
-
+in src/app, run:
+ng generate module app-routing --flat --module=app
 
 
 

@@ -1,0 +1,25 @@
+<!--
+<p>
+  assay works!
+</p>
+-->
+
+
+<div class="row">
+  <div *ngFor="let assay of assays" class="col-md-4 col-sm-4  col-lg-4 ">
+    <div class="img-thumbnail" >
+      <img [src]="imgUrl">
+
+      <div class="caption">
+        <h4 class="pull-right">ID: {{assay.id}}</h4>
+        <h4><a>Type: {{assay.type}}</a></h4>
+        <h4><a>Name: {{assay.name}}</a></h4>
+        <p>Desc: {{assay.desc}}</p>
+      </div>
+
+      <div>
+        <!--<app-stars [rating]="assay.rating"></app-stars>-->
+      </div>
+    </div>
+  </div>
+</div>
