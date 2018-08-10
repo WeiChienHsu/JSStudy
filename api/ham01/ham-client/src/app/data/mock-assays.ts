@@ -1,4 +1,4 @@
-import {Assay} from "./models/assay.model";
+import {Assay} from "../models/assay.model";
 
 export const ASSAYS: Assay[] = [
   {  id: 1,

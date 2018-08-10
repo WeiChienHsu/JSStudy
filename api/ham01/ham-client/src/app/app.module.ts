@@ -11,6 +11,9 @@ import { AssayComponent } from './components/assay/assay.component';
 import { DataService } from './services/data.service';
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './components/home/home.component';
+import { ClMicComponent } from './components/cl-mic/cl-mic.component';
+import { ClHepComponent } from './components/cl-hep/cl-hep.component';
+import { ClmicDetailComponent } from './components/clmic-detail/clmic-detail.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { HomeComponent } from './components/home/home.component';
     SearchComponent,
     CarouselComponent,
     AssayComponent,
-    HomeComponent
+    HomeComponent,
+    ClMicComponent,
+    ClHepComponent,
+    ClmicDetailComponent
   ],
   imports: [
     BrowserModule,
