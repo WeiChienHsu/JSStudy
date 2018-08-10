@@ -4,40 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async/script55.js" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="add node4_shizhan">
-      <change afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/note01.txt" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;install/set bootstrap and jquery">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/note01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/note01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -62,7 +36,7 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="10" />
@@ -78,12 +52,12 @@
           <entry key="Dockerfile" value="1" />
           <entry key="Makefile" value="1" />
           <entry key="bmp" value="1" />
-          <entry key="css" value="10" />
+          <entry key="css" value="12" />
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="11" />
-          <entry key="html" value="77" />
+          <entry key="html" value="81" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="178" />
@@ -99,8 +73,8 @@
           <entry key="run ng serve on the server" value="1" />
           <entry key="sh" value="3" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="198" />
-          <entry key="txt" value="27" />
+          <entry key="ts" value="207" />
+          <entry key="txt" value="29" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="1" />
@@ -109,11 +83,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="10" />
+          <entry key="CSS" value="12" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="77" />
-          <entry key="Hoi4 file" value="5" />
+          <entry key="HTML" value="81" />
+          <entry key="Hoi4 file" value="7" />
           <entry key="Image" value="6" />
           <entry key="JSON" value="42" />
           <entry key="JavaScript" value="180" />
@@ -121,7 +95,7 @@
           <entry key="PLAIN_TEXT" value="59" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="198" />
+          <entry key="TypeScript" value="207" />
           <entry key="tsconfig" value="2" />
         </counts>
       </usages-collector>
@@ -129,67 +103,34 @@
         <counts>
           <entry key="css" value="62" />
           <entry key="gitignore" value="45" />
-          <entry key="html" value="2019" />
+          <entry key="html" value="2070" />
           <entry key="js" value="306" />
           <entry key="json" value="38" />
-          <entry key="ts" value="1607" />
-          <entry key="txt" value="1928" />
+          <entry key="ts" value="1653" />
+          <entry key="txt" value="2300" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="62" />
-          <entry key="HTML" value="2018" />
-          <entry key="Hoi4 file" value="330" />
+          <entry key="HTML" value="2069" />
+          <entry key="Hoi4 file" value="598" />
           <entry key="JSON" value="38" />
           <entry key="JavaScript" value="307" />
-          <entry key="PLAIN_TEXT" value="1643" />
-          <entry key="TypeScript" value="1607" />
+          <entry key="PLAIN_TEXT" value="1747" />
+          <entry key="TypeScript" value="1653" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="11" />
+          <entry key="TypeScriptServerServiceImpl" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham01/note01.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/angular.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -226,6 +167,8 @@
       <find>router-outlet</find>
       <find>import { routing } from &quot;./app.routes&quot;;</find>
       <find>os</find>
+      <find>npm install @types/</find>
+      <find>bootstrap</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Udemy_Angular6</dir>
@@ -245,11 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/exl/down/upload-folder/file01.txt" />
-        <option value="$PROJECT_DIR$/exl/down/index.js" />
-        <option value="$PROJECT_DIR$/exl/exl_02/app2.js" />
-        <option value="$PROJECT_DIR$/exl/exl_03/ejsExcel/ejsExcel.js" />
-        <option value="$PROJECT_DIR$/exl/exl_03/app.js" />
         <option value="$PROJECT_DIR$/exl/exl_04/package.json" />
         <option value="$PROJECT_DIR$/exl/exl_04/index.js" />
         <option value="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" />
@@ -294,8 +232,13 @@
         <option value="$PROJECT_DIR$/node4_shizhan/node2/13.js" />
         <option value="$PROJECT_DIR$/node4_shizhan/node2/15.js" />
         <option value="$PROJECT_DIR$/node4_shizhan/node3/08.js" />
-        <option value="$PROJECT_DIR$/api/ham01/note01.txt" />
         <option value="$PROJECT_DIR$/api/.gitignore" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/styles.css" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/note01.txt" />
       </list>
     </option>
   </component>
@@ -1782,8 +1725,8 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="134" />
     <option name="y" value="35" />
-    <option name="width" value="1853" />
-    <option name="height" value="2125" />
+    <option name="width" value="2778" />
+    <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1821,6 +1764,23 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="ham01" type="462c0819:PsiDirectoryNode" />
+              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="ham01" type="462c0819:PsiDirectoryNode" />
+              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1832,13 +1792,61 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="node4_shizhan" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="node4_shizhan" type="462c0819:PsiDirectoryNode" />
-              <item name="node3" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1856,22 +1864,22 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/exl/exl_05/js-xlsx/demos/angular2/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/node4_shizhan" />
-      <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3/src/app" />
-      <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction" />
-      <recent name="$PROJECT_DIR$/exl/exl_03" />
-      <recent name="$PROJECT_DIR$/exl/exl_02" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction/src" />
       <recent name="$PROJECT_DIR$/bittiger_cs503/week02" />
       <recent name="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-8-json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/node4_shizhan" />
+      <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3/src/app" />
+      <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction" />
+      <recent name="$PROJECT_DIR$/exl/exl_03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2001,7 +2009,7 @@
       <workItem from="1533739186362" duration="8683000" />
       <workItem from="1533752524936" duration="9149000" />
       <workItem from="1533823719355" duration="1323000" />
-      <workItem from="1533906593872" duration="610000" />
+      <workItem from="1533906593872" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="init on U18 W541">
       <created>1531255607630</created>
@@ -2318,11 +2326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533763044433</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="init api/ham01/ham-client">
+      <created>1533907225334</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1533907225334</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290567000" />
+    <option name="totallyTimeSpent" value="293299000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2334,9 +2349,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="35" width="1853" height="2125" extended-state="4" />
+    <frame x="134" y="35" width="2778" height="2125" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.37976784" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2512802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2433,7 +2448,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="init week02/oj-client" />
     <MESSAGE value="init week01/codelab some nodejs" />
     <MESSAGE value="init week01/codelab done" />
     <MESSAGE value="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts" />
@@ -2458,7 +2472,8 @@
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;start to work on routers" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;router-outlet working now" />
     <MESSAGE value="add node4_shizhan" />
-    <option name="LAST_COMMIT_MESSAGE" value="add node4_shizhan" />
+    <MESSAGE value="init api/ham01/ham-client" />
+    <option name="LAST_COMMIT_MESSAGE" value="init api/ham01/ham-client" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2472,70 +2487,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/test/foo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/test/People.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/node_modules/bar/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/node_modules/bar/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/uploads/._2015092016480792763.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/uploads/2015092016500730440.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/uploads/._2015092016521811700.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/uploads/2015092016500253629.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/uploads/2015092016512371202.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node4_shizhan/node2/07.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -2769,27 +2720,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/note2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/note_01.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/auction/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/auction/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/note01.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/angular.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="988">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
         </state>
       </provider>
     </entry>
