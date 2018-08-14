@@ -1,0 +1,21 @@
+<!--<p>
+  clmic-detail works!
+</p>-->
+
+<app-navbar></app-navbar>
+
+<div class="container" *ngIf="clMic">
+  <div class="col-xs-12 col-md-4">
+    <div>
+      <h2>
+        ID: {{clMic.id}} Name: {{clMic.name}}
+      </h2>
+      <p>
+        Description: {{clMic.desc}}
+      </p>
+      <br/>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

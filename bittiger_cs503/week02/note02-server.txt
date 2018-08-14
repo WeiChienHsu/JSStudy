@@ -357,7 +357,7 @@ use ojdb
 db.createUser(
    {
      user: "zhu",
-     pwd: "dockermongoass",
+     pwd: "abc123",
      roles: [ "readWrite", "dbAdmin" ]
    }
 )
@@ -452,16 +452,47 @@ data.service.ts
 
 ////////////////////////////////////////////////////
 
+test mongodb on ubuntu instead of using docker
 
+use ojdb
+db.createUser(
+  {
+    user: "bruce",
+    pwd: "abc123",
+    roles: [
+       { role: "readWrite", db: "ojdb" }
+    ]
+  }
+)
 
+db.createUser(
+   {
+     user: "zhu",
+     pwd: "abc123",
+     roles: [ "readWrite", "dbAdmin" ]
+   }
+)
 
 
 ////////////////////////////////////////////////////
 
-
+db.collection.insertOne({
+        id: 1,
+        name: "Two Sum",
+        desc: `Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.`,
+        difficulty: "easy"
+    }
+)
 ////////////////////////////////////////////////////
 
-
+db.collection.insertOne({
+                                id: 2,
+                                name: "3Sum",
+                                desc: `Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.`,
+                                difficulty: "medium"
+                            }
+)
 
 
 

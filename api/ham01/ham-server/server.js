@@ -7,14 +7,10 @@ var path = require("path");
 var indexRouter = require("./routes/index");
 var restRouter = require("./routes/rest");
 
+
 // mongoose.connect("mongodb://user:user@ds129030.mlab.com:29030/coj-song");
 
-
-
-// mongoose.connect('mongodb://127.0.0.1:27017/ojdb', { useNewUrlParser: true });
-
-mongoose.connect('mongodb://127.0.0.1:27017/ojdb');
-
+mongoose.connect("mongodb://admin:abc123@127.0.0.1:27017/clmic_db", { useNewUrlParser: true });
 
 
 app.use(express.static(path.join(__dirname, '../public')));
@@ -29,5 +25,9 @@ app.use(function (req, res) {
 
 
 app.listen(3000, function () {
-  console.log('App listening on port 3000!')
-})
+    console.log('App listening on port 3000!')
+});
+
+
+
+

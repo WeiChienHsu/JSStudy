@@ -1,0 +1,138 @@
+// create ham-server folder
+
+npm init
+///////////////////////////////////////////
+npm install --save express
+
+npm install --save mongoose
+
+install mongodb
+///////////////////////////////////////////
+create folder routes
+create routes/rest.js
+
+
+//we want the rest.js to process all RESTful API
+///////////////////////////////////////////
+
+nodemon server.js
+
+
+///////////////////////////////////////////
+use clmic_db
+db.createUser(
+  {
+    user: "admin",
+    pwd: "abc123",
+    roles: [
+       { role: "readWrite", db: "clmic_db" }
+    ]
+  }
+)
+
+///////////////////////////////////////////
+
+db.getName()
+
+clmic_db
+
+///////////////////////////////////////////
+
+use clmic_db
+
+db.collection.insertOne(
+    {     id: 1,
+         clmic_id:1,
+         type: "CL-mic",
+         name: "CL-mic-Client-001",
+         desc: "This is the 1st desc of my CL-mic",
+
+         Num_Incubation: 4,
+         Num_SP: 2,
+         Vol_DMSO: 247.5,
+         Vol_Liver_Microsome: 246.9,
+         Vol_Stop: 200,
+         Vol_CompoundMix: 3.1,
+         Vol_Kpi_NADPH: 62.5,
+         Num_Timers: 4,
+         Vol_Collection_Sample: 50,
+         order: [1,2,3,4],
+         Num_Inc_Each_SP: [2, 2],
+         LabwareID: ["StockCompound", "StockCompound","StockCompound","StockCompound"],
+         PositionID: ["A1", "B1", "C1", "D1"],
+         Vol_CMP: [5, 5, 5, 5],
+         SP: ["M", "M", "R", "R"],
+         LM_LabwareID: ["rgt_car5x50_g_0002", "rgt_car5x50_g_0002", ],
+         LM_PositionID: ["LM_PositionID", "LM_PositionID", "LM_PositionID", "LM_PositionID"],
+         Timer: [5, 15, 30, 45],
+
+         authorFirstName: "Bruce",
+         authorLastName: "Zhu",
+         email: "tzhu@api.com",
+         date: "Fri Aug 10 2018 16:06:32 GMT-0400 (EDT)",
+     }
+)
+
+
+
+///////////////////////////////////////////
+
+
+db.collection.insertOne(
+      {     id: 2,
+        clmic_id:2,
+        type: "CL-mic",
+        name: "CL-mic-Client-002",
+        desc: "This is the 2nd desc of my CL-mic",
+
+        Num_Incubation: 24,
+        Num_SP: 3,
+        Vol_DMSO: 247.5,
+        Vol_Liver_Microsome: 246.9,
+        Vol_Stop: 200,
+        Vol_CompoundMix: 3.1,
+        Vol_Kpi_NADPH: 62.5,
+        Num_Timers: 4,
+        Vol_Collection_Sample: 50,
+        order: [1,2,3,4],
+        Num_Inc_Each_SP: [2, 2],
+        LabwareID: ["StockCompound", "StockCompound","StockCompound","StockCompound"],
+        PositionID: ["A", "B1", "C1", "D1"],
+        Vol_CMP: [5, 5, 5, 5],
+        SP: ["M", "M", "R", "R"],
+        LM_LabwareID: ["rgt_car5x50_g_0002", "rgt_car5x50_g_0002", ],
+        LM_PositionID: ["LM_PositionID", "LM_PositionID", "LM_PositionID", "LM_PositionID"],
+        Timer: [5, 15, 30, 45],
+
+        authorFirstName: "Bruce",
+        authorLastName: "Zhu",
+        email: "tzhu@api.com",
+        date: "Fri Aug 10 2018 16:06:32 GMT-0400 (EDT)",
+      }
+)
+///////////////////////////////////////////
+
+db.collection.count()
+
+db.collection.find({})
+///////////////////////////////////////////
+
+http://localhost:3000/api/v1
+
+
+
+
+///////////////////////////////////////////
+
+
+///////////////////////////////////////////
+
+
+
+
+///////////////////////////////////////////
+
+
+
+
+///////////////////////////////////////////
