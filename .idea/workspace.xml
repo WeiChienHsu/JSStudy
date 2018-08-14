@@ -6,16 +6,8 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running">
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/models/cl-mic.model.ts" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/mock-assays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-assays.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -36,95 +28,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="304">
-                    <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-                    <folding>
-                      <element signature="e#0#58#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app-routing.module.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="988">
-                    <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-                    <folding>
-                      <element signature="e#0#41#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-assays.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state>
-                    <caret selection-end-line="34" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app.routes.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="565">
-                    <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-                    <folding>
-                      <element signature="e#0#53#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/models/cl-mic.model.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="532">
-                    <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="760">
-                    <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-                    <folding>
-                      <element signature="e#0#58#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="10" />
-          <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -187,7 +103,7 @@
           <entry key="js" value="372" />
           <entry key="json" value="62" />
           <entry key="ts" value="2680" />
-          <entry key="txt" value="2614" />
+          <entry key="txt" value="2671" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -197,25 +113,25 @@
           <entry key="Hoi4 file" value="880" />
           <entry key="JSON" value="62" />
           <entry key="JavaScript" value="373" />
-          <entry key="PLAIN_TEXT" value="1779" />
+          <entry key="PLAIN_TEXT" value="1836" />
           <entry key="TypeScript" value="2680" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="14" />
+          <entry key="TypeScriptServerServiceImpl" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="418">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
               </folding>
@@ -226,8 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="418">
+              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -235,17 +151,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="266">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <caret line="19" column="153" lean-forward="true" selection-start-line="19" selection-start-column="153" selection-end-line="19" selection-end-column="153" />
             </state>
           </provider>
         </entry>
@@ -253,11 +169,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="532">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -265,11 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="456">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -306,7 +216,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.routes.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
+            <state relative-caret-position="456">
               <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
@@ -426,8 +336,8 @@
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html" />
       </list>
     </option>
   </component>
@@ -1914,8 +1824,8 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="134" />
     <option name="y" value="35" />
-    <option name="width" value="2352" />
-    <option name="height" value="2125" />
+    <option name="width" value="3067" />
+    <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2311,14 +2221,9 @@
       <workItem from="1533823719355" duration="1323000" />
       <workItem from="1533906593872" duration="3342000" />
       <workItem from="1533909970656" duration="238000" />
-      <workItem from="1533910227488" duration="18751000" />
-    </task>
-    <task id="LOCAL-00001" summary="init on U18 W541">
-      <created>1531255607630</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1531255607630</updated>
+      <workItem from="1533910227488" duration="19675000" />
+      <workItem from="1534165977180" duration="6240000" />
+      <workItem from="1534252717509" duration="853000" />
     </task>
     <task id="LOCAL-00002" summary="created a new folder &quot;stock&quot; at /.&#10;Create ch2 and start auction project.">
       <created>1531338563643</created>
@@ -2649,11 +2554,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533928721855</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing">
+      <created>1533936320643</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1533936320643</updated>
+    </task>
+    <task id="LOCAL-00050" summary="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing">
+      <created>1533936505657</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1533936505658</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312288000" />
+    <option name="totallyTimeSpent" value="320305000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2665,10 +2584,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="35" width="2352" height="2125" extended-state="4" />
+    <frame x="134" y="35" width="3067" height="2121" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.27426344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20939463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2765,7 +2684,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts" />
     <MESSAGE value="w501/week02 add new problem is now working!" />
     <MESSAGE value="w501/week02 add navbar but not working properly yet" />
     <MESSAGE value="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated." />
@@ -2790,7 +2708,8 @@
     <MESSAGE value="init api/ham01/ham-client" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;install/set bootstrap and jquery" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running" />
+    <MESSAGE value="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2822,9 +2741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2894,13 +2810,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/models/assay.model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/models/assay.model.js" />
     <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/auction/src/app/product/product.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -2926,9 +2836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2943,9 +2850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2953,10 +2857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
           <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#381#435#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2964,16 +2864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3036,16 +2926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -3057,19 +2937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3083,10 +2950,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-list/problem-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="266">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-assays.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router3/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/models/cl-mic.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3104,42 +3046,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/models/cl-mic.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-assays.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.routes.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
+        <state relative-caret-position="456">
           <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
@@ -3147,47 +3056,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts">
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="684">
+          <caret line="19" column="153" lean-forward="true" selection-start-line="19" selection-start-column="153" selection-end-line="19" selection-end-column="153" />
         </state>
       </provider>
     </entry>
