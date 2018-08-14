@@ -20,9 +20,9 @@ export class ClmicDetailComponent implements OnInit {
 
   ngOnInit() {
     this.route.params.subscribe(params => {
-      this.data.getClmic(+params["id"])
-              .then(clMic => this.clMic = clMic);
-      // this.clMic = this.data.getClMic(+params["clmic_id"]);
+/*      this.data.getClmic(+params["id"])
+              .then(clMic => this.clMic = clMic);*/
+      this.clMic = this.data.getClmic(+params["id"]);
     });
   }
 

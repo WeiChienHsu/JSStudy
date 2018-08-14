@@ -9,13 +9,14 @@
 
 <div class="container">
   <div class="list-group">
-    <a class="list-group-item" *ngFor="let clmic of clMics" [routerLink]="['/', clmic.clmic_id]">
-      <span class="{{'pull-left label difficulty diff-' + clmic.name.toLocaleLowerCase()}}">
-        {{clmic.type}}
-      </span>
+    <a class="list-group-item" *ngFor="let clmic of clMics" [routerLink]="['/cl-mic', clmic.clmic_id]">
+      <!--<span class="{{'pull-left label difficulty diff-' + clmic.name.toLocaleLowerCase()}}">-->
 
+        <!--{{clmic.type}}-->
+      <!--</span>-->
+      <span>Type: {{clmic.type}}</span>
       <strong class="title">
-        {{clmic.id}}.{{clmic.name}}
+        ID:{{clmic.id}} Name: {{clmic.name}}
       </strong>
     </a>
   </div>
