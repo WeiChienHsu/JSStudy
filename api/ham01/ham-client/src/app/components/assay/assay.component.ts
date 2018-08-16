@@ -12,6 +12,7 @@ export class AssayComponent implements OnInit {
 
   ngOnInit() {
   }*/
+  imgUrl:String = "http://via.placeholder.com/250x100";
 
   assays:Assay[];
 

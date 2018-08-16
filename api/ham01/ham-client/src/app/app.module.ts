@@ -14,6 +14,7 @@ import { HomeComponent } from './components/home/home.component';
 import { ClMicComponent } from './components/cl-mic/cl-mic.component';
 import { ClHepComponent } from './components/cl-hep/cl-hep.component';
 import { ClmicDetailComponent } from './components/clmic-detail/clmic-detail.component';
+import { ClmicNewComponent } from './components/clmic-new/clmic-new.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { ClmicDetailComponent } from './components/clmic-detail/clmic-detail.com
     HomeComponent,
     ClMicComponent,
     ClHepComponent,
-    ClmicDetailComponent
+    ClmicDetailComponent,
+    ClmicNewComponent
   ],
   imports: [
     BrowserModule,

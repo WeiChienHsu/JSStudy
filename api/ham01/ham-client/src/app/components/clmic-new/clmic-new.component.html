@@ -1,0 +1,78 @@
+<!--
+<p>
+  clmic-new works!
+</p>
+-->
+
+<div>
+  <form>
+    <div class="form-group">
+      <label for="clmicName"> Clmic Name</label>
+      <input type="text" class="form-control" id="clmicName" name="clmicName" required placeholder="Enter Clmic Name" >
+    </div>
+
+    <div class="form-group">
+      <label for="clmicIncubationNumber">Clmic Incubation Number</label>
+      <input type="text" class="form-control" id="clmicIncubationNumber" name="clmicIncubationNumber" required placeholder="Enter Clmic Incubation Number" >
+    </div>
+
+
+    <div class="form-group">
+      <label for="clmicDesc"> Clmic Description</label>
+      <input type="text" class="form-control" id="clmicDesc" name="clmicDesc" required placeholder="Enter Clmic Desc" >
+    </div>
+
+
+
+
+    <div class="row">
+      <div class="col-md-12">
+        <button type="submit" class="btn btn-primary pull-right" (click)="addClmic()">Add Clmic</button>
+      </div>
+    </div>
+  </form>
+
+
+
+</div>
+
+
+<!--
+
+<div>
+  <p>The angular form</p>
+  <form #formRef="ngForm">
+    <div class="form-group">
+      <label for="clmicName">Clmic Name</label>
+      <input type="text" class="form-control" id="clmicName" name="clmicName" required placeholder="Enter Clmic Name"
+             [(ngModel)]="newClmic.name">
+    </div>
+
+    <div class="form-group">
+      <label for="clmicDesc">Clmic Description</label>
+      <textarea type="text" row="3" class="form-control" id="clmicDesc" name="clmicDesc" required placeholder="Enter Clmic Description"
+                [(ngModel)]="newClmic.desc"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="difficulty">Difficulty</label>
+      <select class="form-control" id="difficulty" name="difficulty" [(ngModel)]="newProblem.difficulty">
+        <option value="" disabled selected>
+          Select difficulty
+        </option>
+        <option *ngFor="let difficulty of difficulties" [value]="difficulty">
+          {{difficulty}}
+        </option>
+      </select>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <button type="submit" class="btn btn-primary pull-right" (click)="addClmic()">Add Clmic</button>
+      </div>
+    </div>
+
+  </form>
+</div>
+
+-->
