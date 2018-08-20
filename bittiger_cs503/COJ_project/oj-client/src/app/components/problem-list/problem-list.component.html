@@ -1,0 +1,16 @@
+<div class="container">
+  <app-new-problem></app-new-problem>
+  <div class="list-group">
+    <div class="list-group-item" *ngFor="let problem of problems" >
+      <span class="{{'pull-left label difficulty diff-' + problem.diff.toLowerCase()}}">
+        {{problem.diff | uppercase}}
+      </span>
+      <strong class="title">
+        <em>{{problem.id}} </em> | {{problem.name}}
+      </strong>
+      <i class="glyphicon glyphicon-heart pull-right"></i>
+      <a class="description" [routerLink]="['/problems',problem.id]" class="list-group-item description "> {{problem.desc | summary}} <i class="pull-right glyphicon glyphicon-menu-right"></i></a>
+    </div>
+  </div>
+</div>
+

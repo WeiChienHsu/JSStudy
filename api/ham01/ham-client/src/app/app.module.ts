@@ -16,6 +16,10 @@ import { ClHepComponent } from './components/cl-hep/cl-hep.component';
 import { ClmicDetailComponent } from './components/clmic-detail/clmic-detail.component';
 import { ClmicNewComponent } from './components/clmic-new/clmic-new.component';
 
+
+import { FormsModule } from '@angular/forms';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -32,7 +36,8 @@ import { ClmicNewComponent } from './components/clmic-new/clmic-new.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [
     {

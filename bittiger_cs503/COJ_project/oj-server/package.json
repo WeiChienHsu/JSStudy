@@ -1,0 +1,23 @@
+{
+  "name": "oj-server",
+  "version": "1.0.0",
+  "description": "Online Judge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "WeiChienHsu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5",
+    "node-rest-client": "^3.1.0",
+    "redis": "^2.8.0",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.5.5"
+  }
+}

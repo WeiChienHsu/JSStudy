@@ -1,78 +1,60 @@
-<!--
-<p>
-  clmic-new works!
-</p>
--->
-
-<div>
-  <form>
-    <div class="form-group">
+<div class="list-group-item addProblem">
+  <h1>User Input Cl-Mic information</h1>
+  <p>Put your info of the Cl-mic assay.</p>
+  <form  #formRef="ngForm">
+    <!-- Name -->
+    <div class="form-group" class="mb-2 mr-sm-2">
       <label for="clmicName"> Clmic Name</label>
-      <input type="text" class="form-control" id="clmicName" name="clmicName" required placeholder="Enter Clmic Name" >
-    </div>
-
-    <div class="form-group">
-      <label for="clmicIncubationNumber">Clmic Incubation Number</label>
-      <input type="text" class="form-control" id="clmicIncubationNumber" name="clmicIncubationNumber" required placeholder="Enter Clmic Incubation Number" >
-    </div>
-
-
-    <div class="form-group">
-      <label for="clmicDesc"> Clmic Description</label>
-      <input type="text" class="form-control" id="clmicDesc" name="clmicDesc" required placeholder="Enter Clmic Desc" >
-    </div>
-
-
-
-
-    <div class="row">
-      <div class="col-md-12">
-        <button type="submit" class="btn btn-primary pull-right" (click)="addClmic()">Add Clmic</button>
-      </div>
-    </div>
-  </form>
-
-
-
-</div>
-
-
-<!--
-
-<div>
-  <p>The angular form</p>
-  <form #formRef="ngForm">
-    <div class="form-group">
-      <label for="clmicName">Clmic Name</label>
-      <input type="text" class="form-control" id="clmicName" name="clmicName" required placeholder="Enter Clmic Name"
+      <input type="text"
+             class="form-control"
+             id="clmicName"
+             name="clmicName"
+             required placeholder="Enter Clmic Name"
              [(ngModel)]="newClmic.name">
     </div>
 
-    <div class="form-group">
-      <label for="clmicDesc">Clmic Description</label>
-      <textarea type="text" row="3" class="form-control" id="clmicDesc" name="clmicDesc" required placeholder="Enter Clmic Description"
-                [(ngModel)]="newClmic.desc"></textarea>
-    </div>
 
-    <div class="form-group">
-      <label for="difficulty">Difficulty</label>
-      <select class="form-control" id="difficulty" name="difficulty" [(ngModel)]="newProblem.difficulty">
+
+
+    <!-- IncubationNumber -->
+    <div class="form-group" class="mb-2 mr-sm-2">
+      <label for="numberIncubation">Number of Incubations</label>
+      <select class="form-control"
+              id="numberIncubation"
+              name="numberIncubation"
+              [(ngModel)]="newClmic.Num_Incubation">
         <option value="" disabled selected>
-          Select difficulty
+          Select Number of Incubations
         </option>
-        <option *ngFor="let difficulty of difficulties" [value]="difficulty">
-          {{difficulty}}
-        </option>
+        <option *ngFor="let numberIncubation of numberIncubations" [value]="numberIncubation">{{numberIncubation}}</option>
       </select>
     </div>
 
+
+    <!-- Desc -->
+    <div class="form-group" class="mb-2 mr-sm-2">
+      <label for="clmicDesc"> Clmic Description</label>
+      <textarea class="form-control"
+                id="clmicDesc"
+                name="clmicDesc"
+                required placeholder="Enter Clmic Desc"
+                [(ngModel)]="newClmic.desc"
+                rows="3">
+      </textarea>
+    </div>
+
+
+    <!-- Submit -->
     <div class="row">
       <div class="col-md-12">
-        <button type="submit" class="btn btn-primary pull-right" (click)="addClmic()">Add Clmic</button>
+        <button type="submit" class="btn btn-primary pull-right" (click)="addClmic()">
+          Add Clmic
+        </button>
       </div>
     </div>
 
+
   </form>
 </div>
-
--->
+<br/>
+<br/>
