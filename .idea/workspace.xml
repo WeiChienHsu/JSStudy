@@ -6,17 +6,448 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)">
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;start to write the add new clmic">
+      <change afterPath="$PROJECT_DIR$/bootstrap413/01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/Examples/Album.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.babelrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.github/SUPPORT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/.htmllintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/build-plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/gcp-key.json.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/generate-sri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/lint-vars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/sauce_browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/saucelabs-unit-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/ship.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/vnu-jar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/workbox.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/build/workbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/karma-bundle.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/unit/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/popover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/tab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/tests/visual/tooltip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/nuget/MyGet.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/nuget/bootstrap.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/nuget/bootstrap.sass.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/sache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/breakpoints.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/browser-bugs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/browser-features.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/colors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/examples.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/grays.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/nav.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/theme-colors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_data/translations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/ads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/bugify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/callout-danger-async-methods.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/callout-info-mediaqueries-breakpoints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/callout-warning-color-assistive-technologies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/callout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/docs-navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/docs-sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/favicons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/import.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/lightning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/slack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/skippy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/social.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/docs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/redirect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/brand.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/translations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-punchout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-themes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/src/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/src/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/src/pwa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/src/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/anchor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/jquery-slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_ads.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_algolia.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_anchor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_browser-bugs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_callouts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_clipboard-js.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_component-examples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_examples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_masthead.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_skiplink.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_syntax.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/assets/scss/docs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/browser-bugs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/alerts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/badge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/breadcrumb.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/button-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/buttons.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/card.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/carousel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/collapse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/dropdowns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/input-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/jumbotron.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/list-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/modal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/navs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/pagination.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/popovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/progress.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/scrollspy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/components/tooltips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/figures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/images.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/reboot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/tables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/content/typography.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/album/album.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/album/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/blog/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/carousel/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/carousel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/checkout/form-validation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/checkout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/floating-labels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/grid/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/jumbotron.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbar-bottom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/navbar-top-fixed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/navbar-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/navbars/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/pricing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/pricing/pricing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/product/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/carousel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/floating-labels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/jumbotron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-static.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/offcanvas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/pricing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sign-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/starter-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer-navbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/starter-template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/sticky-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/extend/approach.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/extend/icons.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/extend/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/accessibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/best-practices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/browsers-devices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/build-tools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/contents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/download.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/javascript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/theming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/getting-started/webpack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/layout/grid.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/layout/media-object.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/layout/overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/layout/utilities-for-layout.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/migration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/borders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/clearfix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/close-icon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/colors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/display.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/embed.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/flex.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/float.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/image-replacement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/position.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/screenreaders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/shadows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/sizing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/spacing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/text.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/vertical-align.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/utilities/visibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/sw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -63,14 +494,14 @@
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="12" />
-          <entry key="html" value="141" />
+          <entry key="html" value="149" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="268" />
-          <entry key="json" value="57" />
+          <entry key="js" value="269" />
+          <entry key="json" value="59" />
           <entry key="json2xls" value="1" />
-          <entry key="md" value="12" />
+          <entry key="md" value="14" />
           <entry key="mongo" value="1" />
           <entry key="njs" value="1" />
           <entry key="node-xlsx" value="1" />
@@ -94,12 +525,12 @@
           <entry key="CSS" value="15" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="141" />
+          <entry key="HTML" value="149" />
           <entry key="Hoi4 file" value="32" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="56" />
-          <entry key="JavaScript" value="270" />
-          <entry key="Markdown" value="5" />
+          <entry key="JSON" value="58" />
+          <entry key="JavaScript" value="271" />
+          <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="64" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
@@ -115,7 +546,7 @@
           <entry key="js" value="590" />
           <entry key="json" value="62" />
           <entry key="ts" value="2768" />
-          <entry key="txt" value="3233" />
+          <entry key="txt" value="3273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -125,7 +556,7 @@
           <entry key="Hoi4 file" value="1257" />
           <entry key="JSON" value="62" />
           <entry key="JavaScript" value="591" />
-          <entry key="PLAIN_TEXT" value="2021" />
+          <entry key="PLAIN_TEXT" value="2061" />
           <entry key="TypeScript" value="2768" />
         </counts>
       </usages-collector>
@@ -138,166 +569,92 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="456">
-                  <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1292">
-                  <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.spec.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <element signature="e#0#73#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="950">
-                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.ts">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.html">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="836">
-                  <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/services/data.service.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-                  <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/Examples/Album.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#13090#13096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/brand.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/home.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/example.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="8" column="397" selection-start-line="8" selection-start-column="397" selection-end-line="8" selection-end-column="397" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/examples.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="456">
+                <caret line="120" column="24" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -356,8 +713,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/node4_shizhan/node2/bruce01.js" />
-        <option value="$PROJECT_DIR$/node4_shizhan/node2/12.js" />
         <option value="$PROJECT_DIR$/node4_shizhan/node2/11.js" />
         <option value="$PROJECT_DIR$/node4_shizhan/node2/form.html" />
         <option value="$PROJECT_DIR$/node4_shizhan/node2/13.js" />
@@ -407,6 +762,8 @@
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" />
+        <option value="$PROJECT_DIR$/bootstrap413/01.html" />
+        <option value="$PROJECT_DIR$/bootstrap413/Examples/Album.html" />
       </list>
     </option>
   </component>
@@ -445,6 +802,7 @@
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week2/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week5/web-server/client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week5/web-server/server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/down/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/exl_01/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/exl_02/node_modules" />
@@ -999,6 +1357,7 @@
       <path value="$PROJECT_DIR$/bittiger_cs503/week7/web-server/server/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week8/web-server/client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week8/web-server/server/package.json" />
+      <path value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
       <path value="$PROJECT_DIR$/exl/down/package.json" />
       <path value="$PROJECT_DIR$/exl/exl_01/package.json" />
       <path value="$PROJECT_DIR$/exl/exl_02/package.json" />
@@ -1900,11 +2259,12 @@
     <dismissed value="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch05-server-side-frameworks/listing5_1/package.json" />
     <dismissed value="$PROJECT_DIR$/api/ham01/ham-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
+    <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="90" />
     <option name="y" value="35" />
-    <option name="width" value="2436" />
+    <option name="width" value="3481" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1925,272 +2285,13 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="cl-mic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-new" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client_backup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client_backup" type="462c0819:PsiDirectoryNode" />
-              <item name="front_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="new-problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-4.1.3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2212,11 +2313,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bootstrap413" />
       <recent name="$PROJECT_DIR$/ops" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-server/routes" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client_backup/front_01" />
       <recent name="$PROJECT_DIR$/api" />
-      <recent name="$PROJECT_DIR$/node4_shizhan" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
@@ -2362,14 +2463,7 @@
       <workItem from="1534278193328" duration="38000" />
       <workItem from="1534280516557" duration="641000" />
       <workItem from="1534281822149" duration="394000" />
-      <workItem from="1534339378364" duration="11599000" />
-    </task>
-    <task id="LOCAL-00006" summary="add Udemy_LearnandUnderstandNodeJS&#10;add Udemy_TheCompleteNodejsDeveloperCourse2nd">
-      <created>1531849341746</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1531849341746</updated>
+      <workItem from="1534339378364" duration="15907000" />
     </task>
     <task id="LOCAL-00007" summary="run some Udemy_LearnandUnderstandNodeJS code">
       <created>1531860247955</created>
@@ -2707,11 +2801,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534278218725</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="api/ham01/ham-client&#10;&#10;start to write the add new clmic">
+      <created>1534444116807</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1534444116808</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350011000" />
+    <option name="totallyTimeSpent" value="354319000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2723,9 +2824,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
+    <frame x="90" y="35" width="3481" height="2125" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.21640582" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20424789" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2733,7 +2835,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.80897474" side_tool="true" weight="0.23694131" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.80897474" side_tool="true" visible="true" weight="0.42918685" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4503508" weight="0.32417879" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50027305" side_tool="true" weight="0.32956383" />
@@ -2822,7 +2924,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated." />
     <MESSAGE value="CS503/week02 init oj-server by creating oj-server folder" />
     <MESSAGE value="CS503/week02 npm init in oj-server, then" />
     <MESSAGE value="copied CS503/week2 code to CS503/week02" />
@@ -2847,7 +2948,8 @@
     <MESSAGE value="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;Now mock data in the data service of angular can be presented" />
     <MESSAGE value="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)" />
+    <MESSAGE value="api/ham01/ham-client&#10;&#10;start to write the add new clmic" />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;start to write the add new clmic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2861,88 +2963,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/11readDir.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="478" column="9" selection-start-line="477" selection-end-line="485" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/19process.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/17httpRequest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/models/problemModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules/mongoose/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23218">
-          <caret line="611" column="2" selection-start-line="611" selection-start-column="2" selection-end-line="611" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/20getBaidu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/22express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/21connect.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/mds/04global.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch9/server/server/stock_server.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_201/currency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_202/test_currency.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -3165,13 +3185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -3179,10 +3192,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1292">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="570">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/js/src/tab.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/examples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/Examples/Album.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#13090#13096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/docs/4.1/about/brand.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/example.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/site/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="8" column="397" selection-start-line="8" selection-start-column="397" selection-end-line="8" selection-end-column="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="120" column="24" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
