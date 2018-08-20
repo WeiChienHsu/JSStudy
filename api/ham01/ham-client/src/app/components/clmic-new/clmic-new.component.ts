@@ -45,10 +45,7 @@ export class ClmicNewComponent implements OnInit {
   newClmic: ClMic = Object.assign({}, DEFAULT_CLMIC);
 
   constructor(@Inject("data") private data) {
-      var i:number = 0;
-      var count:number = 0;
-
-      for(i=0; i<= 64;i++) {
+      for(var i:number = 0; i<= 64;i++) {
         this.numberIncubations[i] = i + 1;
       }
   }

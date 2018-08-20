@@ -6,106 +6,10 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples">
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/COJ_project-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/dump.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/executor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/executor/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/executor/executor_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/executor/executor_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/executor/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/launcher.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/editor/editor.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/editor/editor.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/editor/editor.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/editor/editor.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/footer/footer.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/footer/footer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/footer/footer.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/footer/footer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/navbar/navbar.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/navbar/navbar.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/mock-problems.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/models/problem.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/pipe/summary.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/collaboration.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/collaboration.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/models/problemModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/modules/redisClient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/routes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/editorSocketService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/3rdpartylicenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/glyphicons-halflings-regular.89889688147bd7575d63.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/inline.fbd9a25dd6488f8c1f1b.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/main.e3af3993de8847f8a449.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/polyfills.ad37cd45a71cb38eee76.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/scripts.cde7c9ebfa07417cd1b5.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/public/styles.176e4d821cc3a21887b2.bundle.css" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -202,22 +106,22 @@
           <entry key="Gemfile" value="2" />
           <entry key="css" value="63" />
           <entry key="gitignore" value="45" />
-          <entry key="html" value="3398" />
+          <entry key="html" value="3399" />
           <entry key="js" value="590" />
           <entry key="json" value="62" />
-          <entry key="ts" value="2956" />
-          <entry key="txt" value="3466" />
+          <entry key="ts" value="3375" />
+          <entry key="txt" value="3541" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="63" />
-          <entry key="HTML" value="3397" />
+          <entry key="HTML" value="3398" />
           <entry key="Hoi4 file" value="1368" />
           <entry key="JSON" value="62" />
           <entry key="JavaScript" value="591" />
-          <entry key="PLAIN_TEXT" value="2145" />
-          <entry key="TypeScript" value="2956" />
+          <entry key="PLAIN_TEXT" value="2220" />
+          <entry key="TypeScript" value="3375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -241,11 +145,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1444">
-                  <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+                <state relative-caret-position="560">
+                  <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
@@ -253,8 +157,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+                <state relative-caret-position="1244">
+                  <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
                   <folding>
                     <element signature="e#0#58#0" expanded="true" />
                   </folding>
@@ -274,11 +178,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1368">
-                  <caret line="33" column="10" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="10" />
+                <state relative-caret-position="1434">
+                  <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#43#0" expanded="true" />
                   </folding>
@@ -302,8 +206,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="218">
-                  <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+                <state relative-caret-position="370">
+                  <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -434,11 +338,11 @@
         <option value="$PROJECT_DIR$/bootstrap413/00_Bootstrap4_BasicTemplate .html" />
         <option value="$PROJECT_DIR$/bootstrap413/01_Bootstrap4_Grids.html" />
         <option value="$PROJECT_DIR$/bootstrap413/button.html" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
       </list>
     </option>
   </component>
@@ -2348,14 +2252,7 @@
       <workItem from="1534280516557" duration="641000" />
       <workItem from="1534281822149" duration="394000" />
       <workItem from="1534339378364" duration="16140000" />
-      <workItem from="1534775921555" duration="12072000" />
-    </task>
-    <task id="LOCAL-00009" summary="orgnize Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition">
-      <created>1531924549047</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1531924549047</updated>
+      <workItem from="1534775921555" duration="13193000" />
     </task>
     <task id="LOCAL-00010" summary="ignored some node_modules">
       <created>1531940132231</created>
@@ -2693,11 +2590,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534788057452</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data.">
+      <created>1534796520259</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1534796520259</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366624000" />
+    <option name="totallyTimeSpent" value="367745000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2809,7 +2713,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="copied CS503/week2 code to CS503/week02" />
     <MESSAGE value="CS503/week02&#10;&#10;// now the server can be run without database&#10;// using postman" />
     <MESSAGE value="CS503/week02&#10;&#10;Now single problem also works:&#10;localhost:3000/api/v1/problems/1" />
     <MESSAGE value="CS503/week02&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;    {&#10;        id: 6,&#10;        name: &quot;6th name&quot;,&#10;        desc: `6th desc`,&#10;        difficulty: &quot;super&quot;&#10;    }" />
@@ -2834,7 +2737,8 @@
     <MESSAGE value="api/ham01/ham-client&#10;&#10;start to write the add new clmic" />
     <MESSAGE value="bootstrap413" />
     <MESSAGE value="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples" />
+    <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data." />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3116,16 +3020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -3156,6 +3050,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1130">
@@ -3168,25 +3069,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="370">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="1244">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        <state relative-caret-position="1434">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
