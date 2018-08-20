@@ -1,0 +1,24 @@
+failed to run: bundle install
+
+because:
+
+"An error occurred while installing nokogiri (1.8.4), and Bundler cannot
+ continue.
+ Make sure that `gem install nokogiri -v '1.8.4' --source
+ 'https://rubygems.org/'` succeeds before bundling."
+
+go to: http://www.nokogiri.org/tutorials/installing_nokogiri.html
+found the following:
+
+run: sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev
+
+There's a libxml2 package for that. You can install it with:
+
+sudo apt-get install libxml2
+If you want to compile software from source based on libxml2 you need the development files:
+
+sudo apt-get install libxml2-dev
+
+gem install nokogiri -v '1.8.4' --source 'https://rubygems.org/'
+
+
