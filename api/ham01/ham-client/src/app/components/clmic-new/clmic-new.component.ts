@@ -58,6 +58,7 @@ export class ClmicNewComponent implements OnInit {
     this.data.addClmic(this.newClmic)
       .catch(error => console.log(error._body));
 
+    //this is to clear the form for the next creation
     this.newClmic = Object.assign({}, DEFAULT_CLMIC);
 
 

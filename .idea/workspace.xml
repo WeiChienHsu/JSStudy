@@ -6,10 +6,12 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data.">
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -52,12 +54,12 @@
           <entry key="Gemfile" value="1" />
           <entry key="Makefile" value="1" />
           <entry key="bmp" value="1" />
-          <entry key="css" value="17" />
+          <entry key="css" value="18" />
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="13" />
-          <entry key="html" value="168" />
+          <entry key="html" value="170" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
@@ -75,8 +77,8 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="4" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="322" />
-          <entry key="txt" value="56" />
+          <entry key="ts" value="323" />
+          <entry key="txt" value="57" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="1" />
@@ -85,11 +87,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="17" />
+          <entry key="CSS" value="18" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="168" />
-          <entry key="Hoi4 file" value="34" />
+          <entry key="HTML" value="170" />
+          <entry key="Hoi4 file" value="35" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="58" />
           <entry key="JavaScript" value="272" />
@@ -97,31 +99,31 @@
           <entry key="PLAIN_TEXT" value="66" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="322" />
+          <entry key="TypeScript" value="323" />
           <entry key="tsconfig" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="2" />
-          <entry key="css" value="63" />
+          <entry key="css" value="65" />
           <entry key="gitignore" value="45" />
-          <entry key="html" value="3399" />
+          <entry key="html" value="3428" />
           <entry key="js" value="590" />
           <entry key="json" value="62" />
-          <entry key="ts" value="3375" />
-          <entry key="txt" value="3541" />
+          <entry key="ts" value="3466" />
+          <entry key="txt" value="3754" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="63" />
-          <entry key="HTML" value="3398" />
+          <entry key="CSS" value="65" />
+          <entry key="HTML" value="3427" />
           <entry key="Hoi4 file" value="1368" />
           <entry key="JSON" value="62" />
           <entry key="JavaScript" value="591" />
-          <entry key="PLAIN_TEXT" value="2220" />
-          <entry key="TypeScript" value="3375" />
+          <entry key="PLAIN_TEXT" value="2433" />
+          <entry key="TypeScript" value="3466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -139,10 +141,51 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
+                <state relative-caret-position="342">
+                  <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="1" column="42" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="789">
+                  <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/api/ham01/note02.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="152">
+                  <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.css">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
@@ -157,8 +200,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1244">
-                  <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+                <state relative-caret-position="446">
+                  <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
                   <folding>
                     <element signature="e#0#58#0" expanded="true" />
                   </folding>
@@ -167,22 +210,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1130">
-                  <caret line="38" column="20" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="20" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1434">
-                  <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+                <state relative-caret-position="408">
+                  <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
                   <folding>
                     <element signature="e#0#43#0" expanded="true" />
                   </folding>
@@ -206,8 +237,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="370">
-                  <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+                <state relative-caret-position="864">
+                  <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -292,10 +323,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/styles.css" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/angular.json" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/main.ts" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/search/search.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/models/assay.model.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/models/assay.model.ts" />
@@ -309,7 +337,6 @@
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/models/cl-mic.model.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/models.js" />
@@ -341,8 +368,12 @@
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.css" />
+        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html" />
       </list>
     </option>
   </component>
@@ -1842,11 +1873,11 @@
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="90" />
-    <option name="y" value="35" />
-    <option name="width" value="3256" />
-    <option name="height" value="2125" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="292" />
+    <option name="y" value="225" />
+    <option name="width" value="3471" />
+    <option name="height" value="1594" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1878,82 +1909,6 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="cl-mic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-new" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1961,65 +1916,6 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
               <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="new-problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2252,14 +2148,7 @@
       <workItem from="1534280516557" duration="641000" />
       <workItem from="1534281822149" duration="394000" />
       <workItem from="1534339378364" duration="16140000" />
-      <workItem from="1534775921555" duration="13193000" />
-    </task>
-    <task id="LOCAL-00010" summary="ignored some node_modules">
-      <created>1531940132231</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1531940132231</updated>
+      <workItem from="1534775921555" duration="15505000" />
     </task>
     <task id="LOCAL-00011" summary="ignored some node_modules">
       <created>1531940559283</created>
@@ -2597,11 +2486,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534796520259</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data.">
+      <created>1534797673593</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1534797673593</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367745000" />
+    <option name="totallyTimeSpent" value="370057000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2613,10 +2509,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
+    <frame x="292" y="225" width="3471" height="1594" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.18861306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20396848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2713,7 +2609,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="CS503/week02&#10;&#10;// now the server can be run without database&#10;// using postman" />
     <MESSAGE value="CS503/week02&#10;&#10;Now single problem also works:&#10;localhost:3000/api/v1/problems/1" />
     <MESSAGE value="CS503/week02&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;    {&#10;        id: 6,&#10;        name: &quot;6th name&quot;,&#10;        desc: `6th desc`,&#10;        difficulty: &quot;super&quot;&#10;    }" />
     <MESSAGE value="CS503/week02&#10;&#10;fixed error in last commit&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;{&#10;    &quot;name&quot;: &quot;6th name&quot;,&#10;    &quot;desc&quot;: &quot;6th desc&quot;,&#10;    &quot;difficulty&quot;: &quot;super&quot;&#10;}" />
@@ -2738,7 +2633,8 @@
     <MESSAGE value="bootstrap413" />
     <MESSAGE value="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data." />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data." />
+    <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data." />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2752,32 +2648,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-detail/problem-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/problem-list/problem-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -2990,13 +2860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3067,30 +2930,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="408">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1244">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        <state relative-caret-position="446">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1434">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/note02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
