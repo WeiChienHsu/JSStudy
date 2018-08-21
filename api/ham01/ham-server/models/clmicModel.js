@@ -11,8 +11,8 @@ var ClmicSchema = mongoose.Schema({
 // NOTE: methods must be added to the schema before compiling it with mongoose.model()
 ClmicSchema.methods.speak = function () {
     var text_SP = "";
-    for (var i = 0; i < SP.length; i++) {
-        text_SP += SP[i] + " ";
+    for (var i = 0; i < this.SP.length; i++) {
+        text_SP += this.SP[i] + " ";
     }
 
 
@@ -23,6 +23,13 @@ ClmicSchema.methods.speak = function () {
         + "SP: " + text_SP
         : "No such ID.";
     console.log(greeting);
+
+    var promise = new Promise(function (resolve, reject) {
+        setTimeout(function () {
+            resolve("haha");
+        });
+    });
+    return promise;
 };
 
 

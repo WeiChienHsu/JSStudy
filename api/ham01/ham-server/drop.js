@@ -12,7 +12,14 @@ var mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost/clmic_db',function(){
     /* Drop the DB */
-    mongoose.connection.db.dropDatabase();
+    mongoose.connection.db.dropDatabase(function (err) {
+        if (err) return console.error(err);
+        process.exit(0);
+        // db.disconnect();
+        // process.exit(0);
+
+    });
+
 });
 
 

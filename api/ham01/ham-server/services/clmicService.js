@@ -42,13 +42,14 @@ var getClmic = function (id) {
 
 var addClmic = function (newClmic) {
     return new Promise((resolve, reject) => {
-        ClmicModel.findOne({ name : newClmic.name }, function(err, clmic) {var Kitten = mongoose.model('Kitten', kittySchema);
-
+        ClmicModel.findOne({ name : newClmic.name }, function(err, clmic) {
             if (clmic) {
                 reject("Clmic already exists");
             } else {
                 ClmicModel.countDocuments({}, function(err, num) {
                     newClmic.id = num + 1;
+                    //newClmic is an javascript object
+                    //mangoClmicis an mongodb object
                     var mangoClmic = new ClmicModel(newClmic);
                     mangoClmic.save();
                     resolve(newClmic);

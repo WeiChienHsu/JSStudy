@@ -40,21 +40,22 @@ clmic_01.save(function (err, clmic) {
 });
 
 
-/*
 
 var clmic_02 = new ClmicModel({
     id: 2,
     name: "02_clmic",
     desc: "This is the desc of 02 clmic",
-    Num_Incubation: 8
+    Num_Incubation: 8,
+    SP: ["M", "H"]
 });
 
 clmic_02.save(function (err, clmic) {
     if (err) return console.error(err);
-    clmic.speak();
+    clmic.speak().then(function () {
+        process.exit(0);
+    })
 });
 
-*/
 
 
 

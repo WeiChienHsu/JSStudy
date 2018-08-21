@@ -8,7 +8,7 @@ var ClmicModel = require("./models/clmicModel.js");
     Num_Incubation: Number
 });*/
 
-mongoose.connect("mongodb://localhost:27017/clmic_db", { useNewUrlParser: true });
+var db = mongoose.connect("mongodb://localhost:27017/clmic_db", { useNewUrlParser: true });
 
 // var ClmicModel = mongoose.model('Clmic', ClmicSchema);
 
@@ -16,6 +16,11 @@ mongoose.connect("mongodb://localhost:27017/clmic_db", { useNewUrlParser: true }
 ClmicModel.find(function (err, clmics) {
     if (err) return console.error(err);
     console.log(clmics);
+    // db.disconnect();
+    // process.exit(0);
+
+}).then(function () {
+    process.exit(0);
 });
 
 // var Person = mongoose.model('Person', yourSchema);

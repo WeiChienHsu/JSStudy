@@ -37,13 +37,13 @@ export class DataService {
 
   }
 
-  getClmic(clmic_id: number): ClMic {
+  getClmic(id: number): ClMic {
     //this is the original version, can only do READ
     // return CLMICS.find((clMic) => clMic.clmic_id === clmic_id);
 
     //this is the version for "new array for the clmics"
     //Can also do CREATE
-    return this.clmics.find((clMic) => clMic.clmic_id === clmic_id);
+    return this.clmics.find((clMic) => clMic.id === id);
 
   }
 
