@@ -1,0 +1,51 @@
+<!--<p>
+  clmic-detail works!
+</p>-->
+
+<app-navbar></app-navbar>
+
+<div class="container" *ngIf="clMic">
+  <div class="col-md-12">
+    <div>
+      <p>
+        Author : {{clMic.authorFirstName}} {{clMic.authorLastName}}
+      </p>
+      <p>
+        Email : {{clMic.email}}
+      </p>
+      <p>
+        Date : {{clMic.date}}
+      </p>
+      <p>
+        Number of Incubations : {{clMic.Num_Incubation}}
+      </p>
+      <p>
+        ID: {{clMic.id}}
+      </p>
+      <p>Name: {{clMic.name}}</p>
+      <p>
+        Description: {{clMic.desc}}
+      </p>
+      <p>
+        Number of Incubations : {{clMic.Num_Incubation}}
+      </p>
+
+      <p>
+        Number of Species : {{clMic.Num_SP}}
+      </p>
+
+      <p>
+        LabwareID : {{clMic.LabwareID}}
+      </p>
+
+      <p>
+        PositionID : {{clMic.PositionID}}
+      </p>
+
+
+      <br/>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

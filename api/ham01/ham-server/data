@@ -1,0 +1,142 @@
+{
+    "_id" : ObjectId("5b7323a21ceb2ea71e0e8738"),
+    "id" : 1.0,
+    "clmic_id" : 1.0,
+    "type" : "CL-mic",
+    "name" : "CL-mic-Client-001",
+    "desc" : "This is the 1st desc of my CL-mic",
+    "Num_Incubation" : 4.0,
+    "Num_SP" : 2.0,
+    "Vol_DMSO" : 247.5,
+    "Vol_Liver_Microsome" : 246.9,
+    "Vol_Stop" : 200.0,
+    "Vol_CompoundMix" : 3.1,
+    "Vol_Kpi_NADPH" : 62.5,
+    "Num_Timers" : 4.0,
+    "Vol_Collection_Sample" : 50.0,
+    "order" : [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+    ],
+    "Num_Inc_Each_SP" : [
+        2.0,
+        2.0
+    ],
+    "LabwareID" : [
+        "StockCompound",
+        "StockCompound",
+        "StockCompound",
+        "StockCompound"
+    ],
+    "PositionID" : [
+        "A1",
+        "B1",
+        "C1",
+        "D1"
+    ],
+    "Vol_CMP" : [
+        5.0,
+        5.0,
+        5.0,
+        5.0
+    ],
+    "SP" : [
+        "M",
+        "M",
+        "R",
+        "R"
+    ],
+    "LM_LabwareID" : [
+        "rgt_car5x50_g_0002",
+        "rgt_car5x50_g_0002"
+    ],
+    "LM_PositionID" : [
+        "LM_PositionID",
+        "LM_PositionID",
+        "LM_PositionID",
+        "LM_PositionID"
+    ],
+    "Timer" : [
+        5.0,
+        15.0,
+        30.0,
+        45.0
+    ],
+    "authorFirstName" : "Bruce",
+    "authorLastName" : "Zhu",
+    "email" : "tzhu@api.com",
+    "date" : "Fri Aug 10 2018 16:06:32 GMT-0400 (EDT)"
+}
+{
+    "_id" : ObjectId("5b7325a71ceb2ea71e0e8739"),
+    "id" : 2.0,
+    "clmic_id" : 2.0,
+    "type" : "CL-mic",
+    "name" : "CL-mic-Client-002",
+    "desc" : "This is the 2nd desc of my CL-mic",
+    "Num_Incubation" : 24.0,
+    "Num_SP" : 3.0,
+    "Vol_DMSO" : 247.5,
+    "Vol_Liver_Microsome" : 246.9,
+    "Vol_Stop" : 200.0,
+    "Vol_CompoundMix" : 3.1,
+    "Vol_Kpi_NADPH" : 62.5,
+    "Num_Timers" : 4.0,
+    "Vol_Collection_Sample" : 50.0,
+    "order" : [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+    ],
+    "Num_Inc_Each_SP" : [
+        2.0,
+        2.0
+    ],
+    "LabwareID" : [
+        "StockCompound",
+        "StockCompound",
+        "StockCompound",
+        "StockCompound"
+    ],
+    "PositionID" : [
+        "A",
+        "B1",
+        "C1",
+        "D1"
+    ],
+    "Vol_CMP" : [
+        5.0,
+        5.0,
+        5.0,
+        5.0
+    ],
+    "SP" : [
+        "M",
+        "M",
+        "R",
+        "R"
+    ],
+    "LM_LabwareID" : [
+        "rgt_car5x50_g_0002",
+        "rgt_car5x50_g_0002"
+    ],
+    "LM_PositionID" : [
+        "LM_PositionID",
+        "LM_PositionID",
+        "LM_PositionID",
+        "LM_PositionID"
+    ],
+    "Timer" : [
+        5.0,
+        15.0,
+        30.0,
+        45.0
+    ],
+    "authorFirstName" : "Bruce",
+    "authorLastName" : "Zhu",
+    "email" : "tzhu@api.com",
+    "date" : "Fri Aug 10 2018 16:06:32 GMT-0400 (EDT)"
+}

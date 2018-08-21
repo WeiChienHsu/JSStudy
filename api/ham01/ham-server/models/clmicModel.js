@@ -2,34 +2,29 @@ var mongoose = require("mongoose");
 
 var ClmicSchema = mongoose.Schema({
     id: Number,
-    clmic_id: Number,
-    type: String,
     name: String,
     desc: String,
-
     Num_Incubation: Number,
-    Num_SP: Number,
-    Vol_DMSO: Number,
-    Vol_Liver_Microsome: Number,
-    Vol_Stop: Number,
-    Vol_CompoundMix: Number,
-    Vol_Kpi_NADPH: Number,
-    Num_Timers: Number,
-    Vol_Collection_Sample: Number,
-    order: Number,
-    Num_Inc_Each_SP: Number,
-    LabwareID: String,
-    PositionID: String,
-    Vol_CMP: Number,
-    SP: String,
-    LM_LabwareID: String,
-    LM_PositionID: String,
-    Timer: Number,
-
-    authorFirstName: String,
-    authorLastName: String,
-    date: String,
+    SP: [String]
 });
+
+// NOTE: methods must be added to the schema before compiling it with mongoose.model()
+ClmicSchema.methods.speak = function () {
+    var text_SP = "";
+    for (var i = 0; i < SP.length; i++) {
+        text_SP += SP[i] + " ";
+    }
+
+
+    var greeting = this.id
+        ? "ID: " + this.id + "Name: " + this.name
+        + "desc: " + this.desc
+        + "Num_Incubation: " + this.Num_Incubation
+        + "SP: " + text_SP
+        : "No such ID.";
+    console.log(greeting);
+};
+
 
 var clmicModel = mongoose.model("ClmicModel", ClmicSchema);
 

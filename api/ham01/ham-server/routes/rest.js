@@ -8,8 +8,9 @@ var jsonParser = bodyParser.json();
 router.get('/cl-mic', function (req, res) {
     clmicService.getClmics()
     .then(
-        // clmics => res.json(clmics)
-    console.log(clmics.toString())
+        clmics => res.json(clmics)
+        // res.json("haha")
+    // console.log(clmics.toString())
 
     );
 

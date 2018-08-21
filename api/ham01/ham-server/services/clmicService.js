@@ -1,9 +1,23 @@
 var ClmicModel = require("../models/clmicModel.js");
 
+/*var clmics = [
+    {     id: 1,
+        name: "CL-mic-Client-001",
+        desc: "This is the 1st desc of my CL-mic",
+        Num_Incubation: 4
+    },
+    {     id: 2,
+        name: "CL-mic-Client-002",
+        desc: "This is the 2nd desc of my CL-mic",
+        Num_Incubation: 24
+    },
+];*/
+
 
 
 var getClmics = function () {
     return new Promise((resolve, reject) => {
+        // resolve(clmics);
         ClmicModel.find({}, function(err, clmics) {
             if(err) {
                 reject(err);
@@ -28,7 +42,8 @@ var getClmic = function (id) {
 
 var addClmic = function (newClmic) {
     return new Promise((resolve, reject) => {
-        ClmicModel.findOne({ name : newClmic.name }, function(err, clmic) {
+        ClmicModel.findOne({ name : newClmic.name }, function(err, clmic) {var Kitten = mongoose.model('Kitten', kittySchema);
+
             if (clmic) {
                 reject("Clmic already exists");
             } else {
