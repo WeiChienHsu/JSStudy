@@ -9,8 +9,18 @@ var sleep = function (ms) {
 };
 
 
-Promise.race([sleep(1000), sleep(5000)])
+/*Promise.race([sleep(1000), sleep(5000)])
     .then(function () {
         console.log("All done");
-    });
+    });*/
+/*Promise.all([sleep(1000), sleep(5000)])
+    .then(function () {
+        console.log("All done");
+    });*/
 // scotch.io/tutorials/javascript-promises-for-dummies
+
+Promise.race([sleep(1000), sleep(5000)])
+    .then(function (data) {
+        console.log("All done");
+        console.log(data);
+    });

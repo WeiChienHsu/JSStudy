@@ -5,7 +5,7 @@ var sleep = function (ms) {
             resolve("haha");
         }, ms);
     });
-    return promise;
+    return pr omise;
 };
 
 
