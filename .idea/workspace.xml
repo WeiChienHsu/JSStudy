@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham01/ham-client&#10;&#10;Working on connect the front end to the server. Mostly working on change the data service from mock data in the front end to the server route.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bittiger_cs503/COJ_project/launcher.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/launcher.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/getExcelArrCb_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exl/exl_03/test/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_03/test/test.bat" afterDir="false" />
     </list>
@@ -63,10 +64,10 @@
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="312" />
+          <entry key="js" value="313" />
           <entry key="json" value="67" />
           <entry key="json2xls" value="1" />
-          <entry key="md" value="17" />
+          <entry key="md" value="18" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
@@ -76,7 +77,7 @@
           <entry key="py" value="5" />
           <entry key="rnc" value="1" />
           <entry key="run ng serve on the server" value="2" />
-          <entry key="sh" value="4" />
+          <entry key="sh" value="5" />
           <entry key="svg" value="1" />
           <entry key="ts" value="360" />
           <entry key="txt" value="61" />
@@ -95,9 +96,9 @@
           <entry key="Hoi4 file" value="39" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="66" />
-          <entry key="JavaScript" value="314" />
-          <entry key="Markdown" value="10" />
-          <entry key="PLAIN_TEXT" value="73" />
+          <entry key="JavaScript" value="315" />
+          <entry key="Markdown" value="11" />
+          <entry key="PLAIN_TEXT" value="74" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
           <entry key="TypeScript" value="360" />
@@ -1784,6 +1785,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
@@ -1952,14 +1954,7 @@
       <workItem from="1534882875291" duration="909000" />
       <workItem from="1534883850684" duration="2923000" />
       <workItem from="1534947782903" duration="66000" />
-      <workItem from="1534947882278" duration="2237000" />
-    </task>
-    <task id="LOCAL-00015" summary="new week01/oj-client created">
-      <created>1532035906550</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1532035906550</updated>
+      <workItem from="1534947882278" duration="5332000" />
     </task>
     <task id="LOCAL-00016" summary="new week01/oj-client now works!">
       <created>1532108709887</created>
@@ -2297,11 +2292,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534884787666</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="api/ham01/ham-client&#10;&#10;Working on connect the front end to the server. Mostly working on change the data service from mock data in the front end to the server route.">
+      <created>1534958650411</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1534958650411</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="401107000" />
+    <option name="totallyTimeSpent" value="404202000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2313,9 +2315,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="3750" height="2125" extended-state="7" />
+    <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20777118" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20533334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2323,7 +2325,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.80897474" side_tool="true" weight="0.42832765" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.80897474" side_tool="true" visible="true" weight="0.4281957" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4503508" weight="0.32417879" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50027305" side_tool="true" weight="0.32956383" />
@@ -2451,13 +2453,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/models/clmicModel_02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/node_modules/mongoose/lib/model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5155">
@@ -2676,13 +2671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/rest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -2762,6 +2750,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2772,13 +2777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/launcher.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="532">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
