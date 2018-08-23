@@ -1,5 +1,6 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import {Assay} from "../../models/assay.model";
+import { DataService } from "../../services/data.service";
 
 @Component({
   selector: 'app-assay',
@@ -16,7 +17,7 @@ export class AssayComponent implements OnInit {
 
   assays:Assay[];
 
-  constructor(@Inject("data") private data) { }
+  constructor(private dataService: DataService) { }
 
   ngOnInit() {
     //"this.problems" is view model
@@ -26,7 +27,7 @@ export class AssayComponent implements OnInit {
   }
 
   getAssays(): void {
-    this.assays = this.data.getAssays();
+    this.assays = this.dataService.getAssays();
   }
 
 }

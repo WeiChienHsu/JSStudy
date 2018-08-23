@@ -1,6 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+
+
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -18,6 +20,9 @@ import { ClmicNewComponent } from './components/clmic-new/clmic-new.component';
 
 
 import { FormsModule } from '@angular/forms';
+//from the angular official tutorial
+import { HttpClientModule } from '@angular/common/http';
+
 
 
 @NgModule({
@@ -37,13 +42,16 @@ import { FormsModule } from '@angular/forms';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [
-    {
+    // no need to place any providers due to the `providedIn` flag??????????
+
+/*    {
       provide: "data",
       useClass: DataService
-    }
+    }*/
   ],
   bootstrap: [AppComponent]
 })

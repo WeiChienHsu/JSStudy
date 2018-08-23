@@ -4,18 +4,18 @@ var app = express();
 var mongoose = require("mongoose");
 var path = require("path");
 
-var indexRouter = require("./routes/index");
-var restRouter = require("./routes/rest");
+var indexRouter = require("./routes/index.js");
+var restRouter = require("./routes/rest.js");
 
 
 // mongoose.connect("mongodb://user:user@ds129030.mlab.com:29030/coj-song");
 
 mongoose.connect("mongodb://127.0.0.1:27017/clmic_db", { useNewUrlParser: true });
 
-
+app.use("/api/v1", restRouter);
 app.use(express.static(path.join(__dirname, '../public')));
 app.use("/", indexRouter);
-app.use("/api/v1", restRouter);
+
 
 //handle all other url requests
 app.use(function (req, res) {

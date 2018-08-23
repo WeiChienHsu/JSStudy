@@ -1,6 +1,7 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import { ClMic } from "../../models/cl-mic.model";
-import {forEach} from "../../../../node_modules/@angular/router/src/utils/collection";
+
+import { DataService } from "../../services/data.service";
 
 
 const DEFAULT_CLMIC: ClMic = Object.freeze({
@@ -53,7 +54,12 @@ export class ClmicNewComponent implements OnInit {
 
   newClmic: ClMic = Object.assign({}, DEFAULT_CLMIC);
 
-  constructor(@Inject("data") private data) {
+/*  constructor(@Inject("data") private data) {
+      for(var i:number = 0; i<= 64;i++) {
+        this.numberIncubations[i] = i + 1;
+      }
+  }*/
+  constructor(private dataService: DataService) {
       for(var i:number = 0; i<= 64;i++) {
         this.numberIncubations[i] = i + 1;
       }
@@ -62,6 +68,7 @@ export class ClmicNewComponent implements OnInit {
   ngOnInit() {
   }
 
+/*
   addClmic(): void {
     this.newClmic.SP[0] = this.sp1;
     this.newClmic.SP[1] = this.sp2;
@@ -70,7 +77,7 @@ export class ClmicNewComponent implements OnInit {
     this.newClmic.SP[4] = this.sp5;
     this.newClmic.SP[5] = this.sp6;
 
-/*
+/!*
     for(var i:number = 0; i<= 5;i++) {
       var numSP = 0;
       if (this.newClmic.SP[i] != "") {
@@ -80,16 +87,36 @@ export class ClmicNewComponent implements OnInit {
       }
       this.newClmic.SP[6] = numSP + "";
     }
-*/
+*!/
 
 
-    this.data.addClmic(this.newClmic)
-      .catch(error => console.log(error._body));
+/!*    this.data.addClmic(this.newClmic)
+      .catch(error => console.log(error._body));*!/
+
+    this.dataService.addClmic(this.newClmic);
+
+
 
     //this is to clear the form for the next creation
+    // we need to chagne new clmic into Default Problem after each added
     this.newClmic = Object.assign({}, DEFAULT_CLMIC);
 
+  }
+*/
 
+  addClmic() {
+    this.newClmic.SP[0] = this.sp1;
+    this.newClmic.SP[1] = this.sp2;
+    this.newClmic.SP[2] = this.sp3;
+    this.newClmic.SP[3] = this.sp4;
+    this.newClmic.SP[4] = this.sp5;
+    this.newClmic.SP[5] = this.sp6;
+
+    this.dataService.addClmic(this.newClmic)
+      .catch(error => console.log(error._body))
+    ;
+    // we need to chagne new Problem into Default Problem after each added
+    this.newClmic = Object.assign({}, DEFAULT_CLMIC);
   }
 
 }

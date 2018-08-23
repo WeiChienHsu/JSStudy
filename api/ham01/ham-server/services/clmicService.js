@@ -46,11 +46,19 @@ var addClmic = function (newClmic) {
             if (clmic) {
                 reject("Clmic already exists");
             } else {
-                ClmicModel.countDocuments({}, function(err, num) {
+/*                ClmicModel.countDocuments({}, function(err, num) {
                     newClmic.id = num + 1;
                     //newClmic is an javascript object
                     //mangoClmicis an mongodb object
                     var mangoClmic = new ClmicModel(newClmic);
+                    mangoClmic.save();
+                    resolve(newClmic);
+                });*/
+
+                ClmicModel.count({}, (err, count) => {
+                    newClmic.id = count + 1;
+                    //Save into MongoDB
+                    const mangoClmic = new ClmicModel(newClmic);
                     mangoClmic.save();
                     resolve(newClmic);
                 });

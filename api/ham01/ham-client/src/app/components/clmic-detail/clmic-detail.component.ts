@@ -2,7 +2,7 @@ import {Component, Inject, OnInit} from '@angular/core';
 import { ClMic } from "../../models/cl-mic.model";
 
 //need a way to get the url for certain quesiton
-import { DataService } from '../../services/data.service';
+import { DataService } from "../../services/data.service";
 import { ActivatedRoute, Params } from "@angular/router";
 
 @Component({

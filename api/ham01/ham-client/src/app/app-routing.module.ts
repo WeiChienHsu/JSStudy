@@ -10,7 +10,8 @@ import {ClmicDetailComponent} from "./components/clmic-detail/clmic-detail.compo
 
 const routes: Routes = [
 
-  {path:'', component:HomeComponent, pathMatch: "full"},
+  {path:'', redirectTo: 'home', pathMatch: "full"},
+  {path:'home', component:HomeComponent},
   {path:'footer', component:FooterComponent},
   {path:'cl-mic', component:ClMicComponent},
   {path:'cl-hep', component:ClHepComponent},

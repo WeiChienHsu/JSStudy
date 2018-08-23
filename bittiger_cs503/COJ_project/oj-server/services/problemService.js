@@ -74,7 +74,7 @@ const addProblem = function(newProblem){
             }
         });
     });
-}
+};
 
 
 module.exports = {

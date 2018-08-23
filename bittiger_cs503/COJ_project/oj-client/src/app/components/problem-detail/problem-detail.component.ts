@@ -11,7 +11,8 @@ import { ActivatedRoute, Params} from '@angular/router';
 })
 export class ProblemDetailComponent implements OnInit {
   problem : Problem;
-  constructor(private dataService: DataService, private route: ActivatedRoute)  { }
+  constructor(private dataService: DataService,
+              private route: ActivatedRoute)  { }
 
   ngOnInit() {
     this.route.params.subscribe(params => {

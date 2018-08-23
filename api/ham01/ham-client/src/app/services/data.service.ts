@@ -11,7 +11,7 @@ import {ClMic} from "../models/cl-mic.model";
 import { HttpClient, HttpHeaders, HttpResponse} from '@angular/common/http';
 
 
-import {BehaviorSubject, Observable, Subscription} from "rxjs";
+import {BehaviorSubject, Observable, Subscription, of } from "rxjs";
 // import { Subscription } from 'rxjs';
 // import { Observable } from 'rxjs/Rx';
 // import { BehaviorSubject } from 'rxjs/BehaviorSubject';
@@ -20,10 +20,7 @@ import {BehaviorSubject, Observable, Subscription} from "rxjs";
 
 
 
-/*@Injectable({
-  providedIn: 'root'
-})*/
-@Injectable()
+@Injectable({ providedIn: 'root' })
 export class DataService {
 
   //the new array for the clmics, Can also do CREATE
@@ -69,6 +66,7 @@ export class DataService {
         this._clmicSource.next(res);
       })
       .catch(this.handleError);
+    // return of(HEROES);
     return this._clmicSource.asObservable();
   }
 
@@ -115,7 +113,7 @@ export class DataService {
   //This is the version for the server
   addClmic(clmic: ClMic) {
     const options = { headers: new HttpHeaders({ 'Content-Type': 'application/json'})};
-    return this.httpClient.post('api/v1/problems', clmic, options)
+    return this.httpClient.post('api/v1/cl-mic', clmic, options)
       .toPromise()
       .then((res: any) => {
         this.getClmics();
