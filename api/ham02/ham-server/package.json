@@ -1,0 +1,16 @@
+{
+  "name": "ham-server",
+  "version": "1.0.0",
+  "description": "This is the server end of API Hamilton generation system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce Zhu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.8"
+  }
+}

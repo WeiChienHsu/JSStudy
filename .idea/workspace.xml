@@ -6,83 +6,158 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/angular&#10;&#10;official angular examples">
-      <change afterPath="$PROJECT_DIR$/angular/http/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/config/config.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/config/config.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/config/config.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/downloader/downloader.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/downloader/downloader.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/downloader/downloader.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/heroes.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/heroes.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/heroes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/heroes.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/heroes/heroes.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-error-handler.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/auth-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/caching-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/ensure-https-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/logging-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/noop-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/trim-name-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/http-interceptors/upload-interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/in-memory-data.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/message.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/messages/messages.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/messages/messages.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/package-search/package-search.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/package-search/package-search.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/package-search/package-search.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/request-cache.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/uploader/uploader.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/uploader/uploader.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/app/uploader/uploader.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/assets/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/testing/global-jasmine.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/testing/http-client.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/http/tslint.json" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/api&#10;&#10;mean stack done with create/read on front/back/server!">
+      <change afterPath="$PROJECT_DIR$/api/ham01/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app-routing.module.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/assay/assay.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/assay/assay.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/assay/assay.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/assay/assay.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-hep/cl-hep.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-hep/cl-hep.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-hep/cl-hep.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-hep/cl-hep.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/components/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/data/mock-assays.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/data/mock-cl-mic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/models/assay.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/models/cl-mic.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-client/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/data2_for_postman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/models/clmicModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/models/clmicModel_02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/read.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/routes/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham02/ham-server/services/clmicService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/new-problem/new-problem.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/new-problem/new-problem.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/new-problem/new-problem.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/new-problem/new-problem.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-detail/problem-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-detail/problem-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-detail/problem-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-detail/problem-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-list/problem-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-list/problem-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-list/problem-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/components/problem-list/problem-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/mock-problems.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/models/problem.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/services/data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/services/data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/models/problemModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/routes/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/services/problemService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/toh-pt4/src/app/hero.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/toh-pt4/src/app/hero.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/assay/assay.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -105,18 +180,18 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="47" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="10" />
-          <entry key="project.open.time.6" value="10" />
-          <entry key="project.open.time.7" value="11" />
+          <entry key="project.open.time.6" value="11" />
+          <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -131,15 +206,15 @@
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
-          <entry key="gitignore" value="15" />
-          <entry key="html" value="231" />
+          <entry key="gitignore" value="17" />
+          <entry key="html" value="235" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="325" />
-          <entry key="json" value="69" />
+          <entry key="js" value="329" />
+          <entry key="json" value="70" />
           <entry key="json2xls" value="1" />
-          <entry key="md" value="18" />
+          <entry key="md" value="19" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
@@ -151,8 +226,8 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="5" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="480" />
-          <entry key="txt" value="61" />
+          <entry key="ts" value="495" />
+          <entry key="txt" value="62" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="1" />
@@ -164,16 +239,16 @@
           <entry key="CSS" value="22" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="231" />
-          <entry key="Hoi4 file" value="39" />
+          <entry key="HTML" value="235" />
+          <entry key="Hoi4 file" value="40" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="67" />
-          <entry key="JavaScript" value="327" />
-          <entry key="Markdown" value="11" />
-          <entry key="PLAIN_TEXT" value="77" />
+          <entry key="JSON" value="68" />
+          <entry key="JavaScript" value="331" />
+          <entry key="Markdown" value="12" />
+          <entry key="PLAIN_TEXT" value="79" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="480" />
+          <entry key="TypeScript" value="495" />
           <entry key="tsconfig" value="3" />
         </counts>
       </usages-collector>
@@ -182,29 +257,29 @@
           <entry key="Gemfile" value="2" />
           <entry key="css" value="65" />
           <entry key="data2_for_postman" value="51" />
-          <entry key="gitignore" value="45" />
+          <entry key="gitignore" value="47" />
           <entry key="html" value="3614" />
-          <entry key="js" value="1209" />
+          <entry key="js" value="1230" />
           <entry key="json" value="77" />
           <entry key="ts" value="4410" />
-          <entry key="txt" value="4465" />
+          <entry key="txt" value="4593" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="65" />
           <entry key="HTML" value="3613" />
-          <entry key="Hoi4 file" value="1541" />
+          <entry key="Hoi4 file" value="1597" />
           <entry key="JSON" value="77" />
-          <entry key="JavaScript" value="1210" />
-          <entry key="PLAIN_TEXT" value="3022" />
+          <entry key="JavaScript" value="1231" />
+          <entry key="PLAIN_TEXT" value="3096" />
           <entry key="TypeScript" value="4410" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="23" />
+          <entry key="TypeScriptServerServiceImpl" value="28" />
         </counts>
       </usages-collector>
     </session>
@@ -213,102 +288,102 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4248">
+    <splitter split-orientation="horizontal" split-proportion="0.61538464">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-server/package-lock.json">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/services/data.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="950">
-                  <caret line="115" column="46" selection-start-line="115" selection-start-column="46" selection-end-line="115" selection-end-column="46" />
+                <state relative-caret-position="2394">
+                  <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
                   <folding>
                     <element signature="e#0#43#0" expanded="true" />
-                    <element signature="e#290#366#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/data2_for_postman">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="428">
-                  <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+                <state relative-caret-position="1406">
+                  <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
                   <folding>
-                    <element signature="e#0#53#0" expanded="true" />
+                    <element signature="e#23#71#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.html">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="922">
-                  <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+                <state relative-caret-position="1064">
+                  <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+                  <folding>
+                    <element signature="e#0#69#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/rest.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth-guard.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+                <state>
+                  <folding>
+                    <element signature="e#0#51#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/server.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/data.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="398">
-                  <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+                <state relative-caret-position="-232">
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/drop.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/input.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
-                  <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+                <state>
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/read.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                <state relative-caret-position="680">
+                  <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/create.js">
+            <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/collaboration.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="912">
-                  <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+                <state relative-caret-position="1064">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
                 </state>
               </provider>
             </entry>
@@ -316,14 +391,15 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+                <state relative-caret-position="684">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
                   <folding>
                     <element signature="e#0#56#0" expanded="true" />
+                    <element signature="e#158#216#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -333,18 +409,30 @@
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/server.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="836">
-                  <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+                  <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="66" selection-start-line="66" selection-end-line="72" selection-end-column="19" />
+                <state relative-caret-position="1406">
+                  <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="494">
+                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -418,10 +506,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/note02-server.txt" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/server.js" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/carousel/carousel.component.html" />
-        <option value="$PROJECT_DIR$/bootstrap413/01.html" />
         <option value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/Gemfile" />
         <option value="$PROJECT_DIR$/bootstrap413/note.txt" />
         <option value="$PROJECT_DIR$/bootstrap413/Examples/Album.html" />
@@ -469,6 +553,10 @@
         <option value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
+        <option value="$PROJECT_DIR$/api/ham01/readme.txt" />
+        <option value="$PROJECT_DIR$/api/.gitignore" />
+        <option value="$PROJECT_DIR$/api/ham02/ham-server/routes/rest.js" />
+        <option value="$PROJECT_DIR$/api/ham02/ham-server/server.js" />
       </list>
     </option>
   </component>
@@ -509,6 +597,8 @@
     <handled-path value="$PROJECT_DIR$/api/ham01/ham-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham01/ham-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham01/mongo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham02/ham-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham02/ham-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules" />
@@ -1035,6 +1125,7 @@
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added/n-10-05-async-await-in-todo-api/after/node-course-2-todo-api/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added/n-10-05-async-await-in-todo-api/before/node-course-2-todo-api/package.json" />
       <path value="$PROJECT_DIR$/aicoder_node/package.json" />
+      <path value="$PROJECT_DIR$/angular/cli-quickstart/package.json" />
       <path value="$PROJECT_DIR$/angular/http/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt0/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt1/package.json" />
@@ -1042,12 +1133,15 @@
       <path value="$PROJECT_DIR$/angular/toh-pt3/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt4/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt5/package.json" />
+      <path value="$PROJECT_DIR$/angular/toh-pt6/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-server/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/mongo/package.json" />
+      <path value="$PROJECT_DIR$/api/ham02/ham-client/package.json" />
+      <path value="$PROJECT_DIR$/api/ham02/ham-server/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1lina/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week2/oj-client/package.json" />
@@ -1066,6 +1160,8 @@
       <path value="$PROJECT_DIR$/bittiger_cs503/week02/backup/oj-server_02_problems_problem_newProblem/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/week03/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/week03/oj-server/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week2/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
@@ -1986,10 +2082,10 @@
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="90" />
-    <option name="y" value="7" />
-    <option name="width" value="1830" />
-    <option name="height" value="1073" />
+    <option name="x" value="889" />
+    <option name="y" value="130" />
+    <option name="width" value="1820" />
+    <option name="height" value="1119" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1999,7 +2095,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2010,74 +2105,6 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2085,6 +2112,30 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
               <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2097,14 +2148,20 @@
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
-              <item name="COJ_project" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
               <item name="oj-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2120,19 +2177,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week03/oj-server" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week03/oj-client" />
+      <recent name="$PROJECT_DIR$/bittiger_cs503/week03" />
+      <recent name="$PROJECT_DIR$/angular" />
+      <recent name="$PROJECT_DIR$/api/ham01/ham-client_backup/front_03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/components" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/angular" />
-      <recent name="$PROJECT_DIR$/api/ham01/ham-client_backup/front_03" />
-      <recent name="$PROJECT_DIR$/api/ham01/ham-client_backup" />
-      <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
-      <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2278,13 +2335,11 @@
       <workItem from="1534883850684" duration="2923000" />
       <workItem from="1534947782903" duration="66000" />
       <workItem from="1534947882278" duration="5332000" />
-    </task>
-    <task id="LOCAL-00018" summary="init week01/codelab some nodejs">
-      <created>1532114742629</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1532114742629</updated>
+      <workItem from="1535052352685" duration="386000" />
+      <workItem from="1535116401252" duration="5761000" />
+      <workItem from="1535124938490" duration="220000" />
+      <workItem from="1535125427504" duration="116000" />
+      <workItem from="1535125583776" duration="1660000" />
     </task>
     <task id="LOCAL-00019" summary="init week01/codelab some nodejs">
       <created>1532114800749</created>
@@ -2622,11 +2677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534968371374</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="/api&#10;&#10;mean stack done with create/read on front/back/server!">
+      <created>1535051167420</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1535051167420</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424334000" />
+    <option name="totallyTimeSpent" value="433426000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2640,7 +2702,7 @@
   <component name="ToolWindowManager">
     <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.16999461" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.17653333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2648,12 +2710,12 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.31663975" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47301674" visible="true" weight="0.31663975" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50027305" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.31663975" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4992" weight="0.33710286" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2737,7 +2799,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="CS503/week02&#10;&#10;no code but just workspace.xml" />
     <MESSAGE value="exl/&#10;&#10;tired several xls/xlsx fill generation lib of nodejs" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;start to type video code" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position" />
@@ -2762,7 +2823,8 @@
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now client is also simplified to 4 variables just like the server end. ready to connect to the server end." />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;Working on connect the front end to the server. Mostly working on change the data service from mock data in the front end to the server route." />
     <MESSAGE value="/angular&#10;&#10;official angular examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="/angular&#10;&#10;official angular examples" />
+    <MESSAGE value="/api&#10;&#10;mean stack done with create/read on front/back/server!" />
+    <option name="LAST_COMMIT_MESSAGE" value="/api&#10;&#10;mean stack done with create/read on front/back/server!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2774,199 +2836,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.routes.ts</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts</url>
           <line>4</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/message.service.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/message.service.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/mock-heroes.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/in-memory-data.service.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/hero.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-802">
-          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/toh-pt6/src/app/heroes/heroes.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/pipe/summary.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/models/problem.model.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3454">
-          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-list/problem-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2977,9 +2861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2990,23 +2871,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/new-problem/new-problem.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3017,20 +2885,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
@@ -3045,112 +2904,280 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/drop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/read.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/rest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="66" selection-start-line="66" selection-end-line="72" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
-          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/data2_for_postman">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/routes/rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/drop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/read.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="115" column="46" selection-start-line="115" selection-start-column="46" selection-end-line="115" selection-end-column="46" />
+        <state relative-caret-position="734">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3648">
+          <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/routes/rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" selection-start-line="18" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-server/routes/rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-server/services/clmicService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/models/problem.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
-            <element signature="e#290#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/collaboration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/input.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#23#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+            <element signature="e#158#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
           </folding>
         </state>
       </provider>

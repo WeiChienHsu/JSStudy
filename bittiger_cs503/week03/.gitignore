@@ -3,11 +3,11 @@
 # compiled output
 /dist
 /tmp
-/executor/tmp/
+
+/public
 
 # dependencies
 node_modules/
-public/
 
 # IDEs and editors
 /.idea
@@ -40,6 +40,3 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
-
-# python
-*.pyc
