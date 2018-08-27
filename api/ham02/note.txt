@@ -1,0 +1,2 @@
+this is a mean stack web app, capable of create and read,
+from front to server to database

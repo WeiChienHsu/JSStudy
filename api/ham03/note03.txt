@@ -1,0 +1,10 @@
+working on SheetJS/sheet.js.org
+tyring to figure out how to use it to generate xls file
+================================================
+npm init
+
+npm install --save xlsx
+
+npm install --save express
+
+================================================

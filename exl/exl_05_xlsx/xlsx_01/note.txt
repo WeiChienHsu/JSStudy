@@ -1,0 +1,3 @@
+this is an implementation of the xlsx lib by anguar 6.
+
+This angular application can present excel file on the web page.

@@ -6,648 +6,29 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="bittiger_cs503/week03&#10;&#10;start to do auth0">
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/css/sheetjs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/dropsheet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/sheetjsw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/shim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/xhr-hack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/xlsx.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/vendor/alertify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/vendor/alertify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/vendor/samples.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/vendor/spin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/reflector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/stress-sauce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/stress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/AutoFilter.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/AutoFilter.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/AutoFilter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/BlankSheetTypes.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/BlankSheetTypes.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/BlankSheetTypes.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/BlankSheetTypes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/LONumbers-2010.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/LONumbers-2010.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/LONumbers-2011.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/LONumbers-2011.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/LONumbers.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/NumberFormatCondition.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/NumberFormatCondition.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/NumberFormatCondition.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/RkNumber.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/RkNumber.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/RkNumber.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/RkNumber.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_12561-1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_12561-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_12843-1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_12843-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_13224.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_13796.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_14330-1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_14330-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_14460.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_15228.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_15375.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_15556.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_15573.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_1900DateWindowing.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_1904DateWindowing.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_19599-1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_19599-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_22742.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_24207.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_24215.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_25183.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_25695.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_26100.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27272_1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27272_2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27349-vlookupAcrossSheets.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27364.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27394.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27852.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_27933.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_28772.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_28774.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_29675.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_29942.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_29982.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_30070.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_30540.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_30978-alt.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_30978-deleted.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_31661.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_31749.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_31979.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_32822.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_33082.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_34775.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_35564.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_35565.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_36947.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_37376.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_37630.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_37684-1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_37684-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_37684.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_39234.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_39512.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_39634.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_3dFormulas.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_40285.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_41139.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_41546.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_42464-ExpPtg-bad.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_42464-ExpPtg-ok.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_42726.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_42844.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_43251.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_43623.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_43902.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44010-SingleChart.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44010-TwoCharts.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44167.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44200.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44201.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44235.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44297.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44593.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44636.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44643.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44693.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44840.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44861.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44891.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_44958.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45129.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45290.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45322.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45365-2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45365.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45430.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45431.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45431.xlsm.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45492.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45538_classic_Footer.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45538_classic_Header.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45538_form_Footer.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45538_form_Header.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45540_classic_Footer.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45540_classic_Header.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45540_form_Footer.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45540_form_Header.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45544.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45672.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45720.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45761.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_45784.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46136-NoWarnings.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46136-WithWarnings.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46137.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46250.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46445.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46535.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_46536.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47026.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47026.xlsm.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47034.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47089.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47089.xlsm.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47090.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47154.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47251.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47504.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47668.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47701.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47737.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47804.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47813.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47847.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47862.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47889.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47920.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_47924.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48026.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48180.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48325.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48495.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48539.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48703.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48703.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48779.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48923.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_48968.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49096.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49156.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49185.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49219.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49237.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49273.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49325.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49524.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49529.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49581.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49609.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49612.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49751.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49761.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49783.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49872.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49896.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49928.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49928.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49931.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_49966.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50020.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50096.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50298.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50299.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50426.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50756.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50779_1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50779_2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50784-font_theme_colours.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50786-indexed_colours.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50795.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50833.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50846-border_colours.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50867_with_table.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_50939.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51143.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51222.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51461.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51470.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51498.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51535.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51585.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51670.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51675.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51710.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51850.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_51963.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_52348.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_52527.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_52575_main.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_52575_source.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_52716.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53101.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53282.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53282b.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53404.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53446.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53568.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53588.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53734.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53798.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53798_shiftNegative_TMPL.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53798_shiftNegative_TMPL.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_53972.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54016.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54071.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54084 - Greek - beyond BMP.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54206.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54206.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54288-ref.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54288.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54436.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54500.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54524.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54607.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_54686_fraction_formats.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55341_CellStyleBorder.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55640.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55745.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55850.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55923.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55924.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55926.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_55927.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_56011.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_56017.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_AbnormalSharedFormulaFlag.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_AreaErrPtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_AverageTaxRates.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_BOOK_in_capitals.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Booleans.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_BrNotClosed.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_CodeFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ColumnStyle1dp.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ColumnStyle1dpColoured.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ColumnStyleNone.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ComplexFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ContinueRecordProblem.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_CustomXMLMapping-singleattributenamespace.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_CustomXMLMappings-complex-type.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_CustomXMLMappings.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_CustomXmlMappings-inverse-order.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DBCSHeader.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DBCSSheetName.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DataValidations-49244.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DateFormatTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DateFormats.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DeltaFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DrawingAndComments.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_DrawingContinue.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ElapsedFormatTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_EmbeddedChartHeaderTest.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Employee.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ErrPtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ExcelWithAttachments.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ExcelWithAttachments.xlsm.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FactDoubleFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ForShifting.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ForShifting.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormatChoiceTests.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormatChoiceTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormatConditionTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Formatting.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Formatting.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormulaEvalTestData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormulaEvalTestData_Copy.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_FormulaRefs.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_GeneralFormatTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_GroupTest.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_HyperlinksOnManySheets.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_IfFormulaTest.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ImRealFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ImaginaryFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_IndexFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_IndirectFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_InlineStrings.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_IntersectionPtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_IrrNpvTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_LookupFunctionsTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_MRExtraLines.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_MatchFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_MissingBits.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_NewlineInFormulas.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_NoGutsRecords.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_NumberFormatApproxTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_NumberFormatTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_PercentPtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_QuotientFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_RangePtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ReadOnlyRecommended.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ReferencePtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_RepeatingRowsCols.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_RepeatingRowsCols.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ReptFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_RomanFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SampleSS.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SampleSS.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SampleSS.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SharedFormulaTest.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SheetWithDrawing.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ShrinkToFit.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ShrinkToFit.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Simple.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleChart.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleMultiCell.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleMultiCell.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithAutofilter.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithChoose.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithColours.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithComments.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithComments.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithDataFormat.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithFormula.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithImages-mac.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithImages.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithPageBreaks.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithPrintArea.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithSkip.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SimpleWithStyling.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SingleLetterRanges.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SolverContainerAfterSPGR.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SquareMacro.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_StringContinueRecords.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_StringFormulas.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_SubtotalsNested.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_Tables.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TestRandBetween.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TextFormatTests.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TwoSheetsNoneHidden.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TwoSheetsNoneHidden.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TwoSheetsOneHidden.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_TwoSheetsOneHidden.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_UncalcedRecord.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_UnionPtg.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WORKBOOK_in_capitals.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WeekNumFunctionTestCaseData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WeekNumFunctionTestCaseData2013.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithChart.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithChart.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithChartSheet.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithCheckBoxes.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithConditionalFormatting.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithConditionalFormatting.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithDrawing.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithEmbeddedObjects.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithEmbeded.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithExtendedStyles.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithFormattedGraphTitle.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithHyperlink.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithMoreVariousData.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTable.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTextBox.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTextBox2.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithThreeCharts.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithThreeCharts.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTwoCharts.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTwoCharts.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithTwoHyperLinks.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WithVariousData.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_WrongFormulaRecordType.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_XRefCalc.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_XRefCalcData.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_atp.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_atp.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_blankworkbook.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_bug_42794.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_chart_sheet.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_colwidth.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_comments.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_comments.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_countblankExamples.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_countifExamples.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_dg-text.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_drawings.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_duprich1.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_duprich2.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_dvEmpty.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_empty.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex41187-19267.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex42564-21435.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex42564-21503.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex42564-elementOrder.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex42570-20305.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex44921-21902.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex45046-21984.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex45582-22397.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex45672.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex45698-22488.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex45978-extraLinkTableSheets.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex46548-23133.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ex47747-sharedFormula.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_excel_with_embeded.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_excelant.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_externalFunctionExample.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_finance.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_headerFooterTest.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_intercept.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_mirrTest.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_missingFuncs44675.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_mortgage-calculation.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_multibookFormulaA.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_multibookFormulaB.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_namedinput.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_noHeaderFooter47244.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_ole2-embedding.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_overlapSharedFormula.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_password.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_picture.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_rank.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_reordered_sheets.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_rk.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_sample.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_shared_formulas.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_shared_formulas.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_sheetProtection_allLocked.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_sheetProtection_not_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_styles.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_sumifformula.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_sumifs.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_templateExcelWithAutofilter.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_testArraysAndTables.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_testNames.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_testRRaC.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_testRVA.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_text.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_unicodeNameRecord.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_workbookProtection_not_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_workbookProtection_workbook_revision_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_workbookProtection_workbook_structure_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_workbookProtection_workbook_windows_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_workbookProtection_worksheet_protected.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_xlsx-jdbc.xlsx.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/apachepoi_yearfracExamples.xls.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/cell_style_simple.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/comments_stress_test.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/comments_stress_test.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/comments_stress_test.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/comments_stress_test.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/custom_properties.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/custom_properties.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/custom_properties.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/custom_properties.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/formula_stress_test.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/formula_stress_test.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/formula_stress_test.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/formula_stress_test.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/formula_stress_test.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/interview.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/issue.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/large_strings.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/large_strings.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/large_strings.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/large_strings.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/make.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/merge_cells.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/merge_cells.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/merge_cells.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/merge_cells.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/merge_cells.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/mixed_sheets.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/named_ranges_2011.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/named_ranges_2011.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/named_ranges_2011.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/named_ranges_2011.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/number_format.xlsm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_cell_pattern.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_cellstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_conditionalformat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_dataformat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_dataformat2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_datarange.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_font.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_formula.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_headerfooter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_merge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_pagebreak.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_pagesheet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_rowcolumn.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/oo34xml_solvsamp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/openpyxl_r_vba-test.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/pivot_table_named_range.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/pivot_table_named_range.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/pivot_table_test.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/pivot_table_test.xlsm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/protect_stress_test_xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/rich_text_stress.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/rich_text_stress.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/rich_text_stress.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/rich_text_stress.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/rich_text_stress.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_Bibelbund.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_Bibelbund.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_Bibelbund1.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_advanced_header.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_bbu.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_bbu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_boolean.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_boolean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_borders.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_borders.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_bug-row-column-fixnum-float.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_comments.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_datetime.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_datetime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_datetime_floatconv.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_dreimalvier.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_emptysheets.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_emptysheets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_encrypted-letmein.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_excel2003.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_false_encoding.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_formula.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_formula.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_formula_parse_error.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_hidden_sheets.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_html-escape.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_matrix.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_named_cells.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_numbers1.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_numbers1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_only_one_sheet.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_only_one_sheet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_paragraph.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_paragraph.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_ric.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_simple_spreadsheet.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_simple_spreadsheet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_simple_spreadsheet_from_italo.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_simple_spreadsheet_from_italo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_style.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_style.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_time-test.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_time-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_type_excel.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_type_excelx.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_whitespace.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/roo_whitespace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/sushi.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/time_stress_test_1.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/xlsx-stream-d-date-cell.xls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/xlsx-stream-d-date-cell.xlsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/xlsx-stream-d-date-cell.xlsb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/test_files/xlsx-stream-d-date-cell.xlsx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/tests/mocha-sauce-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/tests/mocha.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/tests/mocha.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/tests/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org">
+      <change afterPath="$PROJECT_DIR$/api/ham02/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/note03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/_cors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/_logit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/_request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/hapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/koa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/koasub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/micro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/server/worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exl/exl_05/js-xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exl/exl_05/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exl/exl_05/xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -689,7 +70,7 @@
           <entry key="CNAME" value="1" />
           <entry key="Dockerfile" value="1" />
           <entry key="Gemfile" value="1" />
-          <entry key="Makefile" value="1" />
+          <entry key="Makefile" value="2" />
           <entry key="bmp" value="1" />
           <entry key="css" value="23" />
           <entry key="data" value="3" />
@@ -697,15 +78,15 @@
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
-          <entry key="gitignore" value="20" />
-          <entry key="html" value="246" />
+          <entry key="gitignore" value="21" />
+          <entry key="html" value="248" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="331" />
-          <entry key="json" value="76" />
+          <entry key="js" value="349" />
+          <entry key="json" value="78" />
           <entry key="json2xls" value="1" />
-          <entry key="md" value="24" />
+          <entry key="md" value="27" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
@@ -717,8 +98,8 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="5" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="515" />
-          <entry key="txt" value="64" />
+          <entry key="ts" value="516" />
+          <entry key="txt" value="73" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -730,16 +111,16 @@
           <entry key="CSS" value="23" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="246" />
-          <entry key="Hoi4 file" value="42" />
+          <entry key="HTML" value="248" />
+          <entry key="Hoi4 file" value="51" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="74" />
-          <entry key="JavaScript" value="333" />
-          <entry key="Markdown" value="17" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="JSON" value="76" />
+          <entry key="JavaScript" value="351" />
+          <entry key="Markdown" value="20" />
+          <entry key="PLAIN_TEXT" value="86" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="515" />
+          <entry key="TypeScript" value="516" />
           <entry key="tsconfig" value="3" />
         </counts>
       </usages-collector>
@@ -750,20 +131,20 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="gitignore" value="47" />
           <entry key="html" value="3631" />
-          <entry key="js" value="1230" />
-          <entry key="json" value="77" />
+          <entry key="js" value="1327" />
+          <entry key="json" value="80" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="4613" />
+          <entry key="txt" value="5161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="65" />
           <entry key="HTML" value="3630" />
-          <entry key="Hoi4 file" value="1597" />
-          <entry key="JSON" value="77" />
-          <entry key="JavaScript" value="1231" />
-          <entry key="PLAIN_TEXT" value="3116" />
+          <entry key="Hoi4 file" value="2040" />
+          <entry key="JSON" value="80" />
+          <entry key="JavaScript" value="1328" />
+          <entry key="PLAIN_TEXT" value="3221" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -779,77 +160,90 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.72804314">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/app/app.module.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="798">
-                  <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="532">
-                    <caret line="17" selection-start-line="17" selection-end-line="17" />
-                    <folding>
-                      <element signature="n#!!doc" expanded="true" />
-                      <element signature="n#!!doc" expanded="true" />
-                      <element signature="n#!!doc" expanded="true" />
-                      <element signature="n#!!doc" expanded="true" />
-                    </folding>
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/app/sheetjs.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1273">
-                  <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#82#124#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="404" column="4" selection-start-line="404" selection-start-column="4" selection-end-line="404" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/server/_cors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/server/_logit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/bits/90_utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="248" column="24" selection-start-line="248" selection-start-column="24" selection-end-line="248" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/bits/27_csfutils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="135" column="9" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/server/express.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/server/node.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -862,8 +256,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>subscriptionProblems</find>
-      <find>4200</find>
       <find>rxjs/add/operator/toPromise</find>
       <find>5000</find>
       <find>exlBuf</find>
@@ -892,6 +284,8 @@
       <find>AppModule</find>
       <find>export</find>
       <find>sheetjs</find>
+      <find>request</find>
+      <find>request(url, {encoding: null}, function(err, res, data) {</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -905,6 +299,7 @@
       <dir>$PROJECT_DIR$/bittiger_cs503/week1</dir>
       <dir>$PROJECT_DIR$/bittiger_cs503/week01</dir>
       <dir>$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app</dir>
+      <dir>$PROJECT_DIR$/api/ham03/server</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -915,13 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bootstrap413/01_Bootstrap4_Grids.html" />
-        <option value="$PROJECT_DIR$/bootstrap413/button.html" />
-        <option value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/src/app/components/new-problem/new-problem.component.html" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.html" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/navbar/navbar.component.ts" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.css" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/front_02_readme.txt" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/routes/rest.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/data" />
@@ -966,6 +354,13 @@
         <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.html" />
         <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham02/note.txt" />
+        <option value="$PROJECT_DIR$/api/ham03/note03.txt" />
+        <option value="$PROJECT_DIR$/api/ham03/x01/package.json" />
+        <option value="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" />
+        <option value="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt" />
+        <option value="$PROJECT_DIR$/api/ham03/server/note.txt" />
+        <option value="$PROJECT_DIR$/api/ham03/x01/index.js" />
       </list>
     </option>
   </component>
@@ -1008,6 +403,8 @@
     <handled-path value="$PROJECT_DIR$/api/ham01/mongo/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham02/ham-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham02/ham-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham03/server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham03/x01/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules" />
@@ -1552,6 +949,8 @@
       <path value="$PROJECT_DIR$/api/ham01/mongo/package.json" />
       <path value="$PROJECT_DIR$/api/ham02/ham-client/package.json" />
       <path value="$PROJECT_DIR$/api/ham02/ham-server/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/server/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/x01/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1lina/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week2/oj-client/package.json" />
@@ -2492,11 +1891,11 @@
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="442" />
-    <option name="y" value="39" />
-    <option name="width" value="3258" />
-    <option name="height" value="2102" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1656" />
+    <option name="y" value="35" />
+    <option name="width" value="2184" />
+    <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2523,7 +1922,14 @@
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham01" type="462c0819:PsiDirectoryNode" />
+              <item name="ham03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="ham03" type="462c0819:PsiDirectoryNode" />
+              <item name="x01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2535,6 +1941,39 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="exl" type="462c0819:PsiDirectoryNode" />
               <item name="exl_05_xlsx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="exl" type="462c0819:PsiDirectoryNode" />
+              <item name="exl_05_xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="js-xlsx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="exl" type="462c0819:PsiDirectoryNode" />
+              <item name="exl_05_xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="js-xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="exl" type="462c0819:PsiDirectoryNode" />
+              <item name="exl_05_xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="js-xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="exl" type="462c0819:PsiDirectoryNode" />
+              <item name="exl_05_xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="js-xlsx" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2570,11 +2009,11 @@
       <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/ham03" />
       <recent name="$PROJECT_DIR$/exl/exl_05_xlsx" />
       <recent name="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs" />
       <recent name="$PROJECT_DIR$/bittiger_cs503/week03/oj-server" />
       <recent name="$PROJECT_DIR$/bittiger_cs503/week03/oj-client" />
-      <recent name="$PROJECT_DIR$/bittiger_cs503/week03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2589,36 +2028,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.create.js">
-    <configuration name="create.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/ham01/ham-server/create.js" working-dir="$PROJECT_DIR$/api/ham01/ham-server">
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="express.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="express.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
-    <configuration name="drop.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="drop.js" working-dir="$PROJECT_DIR$/api/ham01/ham-server">
+    <configuration name="hapi.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hapi.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
-    <configuration name="read.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/ham01/ham-server/read.js" working-dir="$PROJECT_DIR$/api/ham01/ham-server">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/api/ham03/x01">
       <method v="2" />
     </configuration>
-    <configuration name="script88.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script88.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week01/codelab01/js_async">
+    <configuration name="koa.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="koa.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
-    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/api/ham01/ham-server">
+    <configuration name="koasub.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="koasub.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.server.js" />
-      <item itemvalue="Node.js.read.js" />
-      <item itemvalue="Node.js.create.js" />
-      <item itemvalue="Node.js.drop.js" />
-      <item itemvalue="Node.js.script88.js" />
+      <item itemvalue="Node.js.express.js" />
+      <item itemvalue="Node.js.hapi.js" />
+      <item itemvalue="Node.js.koa.js" />
+      <item itemvalue="Node.js.koasub.js" />
+      <item itemvalue="Node.js.index.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.create.js" />
-        <item itemvalue="Node.js.read.js" />
-        <item itemvalue="Node.js.drop.js" />
-        <item itemvalue="Node.js.script88.js" />
-        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.express.js" />
+        <item itemvalue="Node.js.koasub.js" />
+        <item itemvalue="Node.js.koa.js" />
+        <item itemvalue="Node.js.hapi.js" />
       </list>
     </recent_temporary>
   </component>
@@ -2727,14 +2166,7 @@
       <workItem from="1535125583776" duration="2884000" />
       <workItem from="1535144390759" duration="4000" />
       <workItem from="1535144411235" duration="8000" />
-      <workItem from="1535377579564" duration="5624000" />
-    </task>
-    <task id="LOCAL-00020" summary="init week01/codelab done">
-      <created>1532115521208</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1532115521208</updated>
+      <workItem from="1535377579564" duration="11783000" />
     </task>
     <task id="LOCAL-00021" summary="w501/week02 new-problem now works, by adding FormModule in the the app.mondule.ts">
       <created>1532120732250</created>
@@ -3072,11 +2504,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535127258329</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org">
+      <created>1535383815176</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1535383815177</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440286000" />
+    <option name="totallyTimeSpent" value="446445000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -3088,10 +2527,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="39" width="3258" height="2102" extended-state="0" />
-    <editor active="true" />
+    <frame x="1656" y="35" width="2184" height="2125" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20319214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.28617215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3099,11 +2537,11 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.5010667" side_tool="true" weight="0.3229879" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.31663975" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.30878484" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -3111,27 +2549,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31732327" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49945384" visible="true" weight="0.33710286" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8088476" side_tool="true" visible="true" weight="0.16517623" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.45057344" weight="0.32417879" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.392316" side_tool="true" weight="0.26171243" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.8088476" side_tool="true" weight="0.16532041" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19115238" visible="true" weight="0.16532041" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -3194,7 +2611,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;start to type video code" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position, this one is corrected and now it's working" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;icons ready. Used new icon to show the stars!!!" />
@@ -3219,7 +2635,8 @@
     <MESSAGE value="/angular&#10;&#10;official angular examples" />
     <MESSAGE value="/api&#10;&#10;mean stack done with create/read on front/back/server!" />
     <MESSAGE value="bittiger_cs503/week03&#10;&#10;start to do auth0" />
-    <option name="LAST_COMMIT_MESSAGE" value="bittiger_cs503/week03&#10;&#10;start to do auth0" />
+    <MESSAGE value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
+    <option name="LAST_COMMIT_MESSAGE" value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3242,204 +2659,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/cl-mic/cl-mic.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-new/clmic-new.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/models/problem.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-server/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week03/oj-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding>
-            <element signature="e#23#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth-guard.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/input.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/services/collaboration.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/navbar/navbar.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-            <element signature="e#158#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/xlsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/ionic.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/nscript.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/nsmain.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/note01.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -3452,29 +2671,10 @@
         <state relative-caret-position="-2280" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="532">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -3589,13 +2789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -3606,8 +2799,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/app/sheetjs.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="589">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#82#124#0" expanded="true" />
@@ -3618,7 +2811,249 @@
     <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/note.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/note02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/note03.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="2" selection-start-line="5" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x01/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" selection-start-column="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/array/linest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/array/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/array/tf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1981">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/hapi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/koa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/koasub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/micro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/bits/90_utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="248" column="24" selection-start-line="248" selection-start-column="24" selection-end-line="248" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/bits/27_csfutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="135" column="9" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/_cors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/_logit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="404" column="4" selection-start-line="404" selection-start-column="4" selection-end-line="404" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
