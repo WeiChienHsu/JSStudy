@@ -6,15 +6,11 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file">
-      <change afterPath="$PROJECT_DIR$/api/ham03/template.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/x01/copy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/x01/file/template.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/x01/template.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/x01/write.js" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton">
+      <change afterPath="$PROJECT_DIR$/api/ham03/x01/example.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham03/x01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/x01/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ops/docker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ops/docker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/x01/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/x01/write.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -117,10 +113,10 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="gitignore" value="47" />
           <entry key="html" value="3631" />
-          <entry key="js" value="1540" />
+          <entry key="js" value="1543" />
           <entry key="json" value="80" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="5663" />
+          <entry key="txt" value="5722" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -129,8 +125,8 @@
           <entry key="HTML" value="3630" />
           <entry key="Hoi4 file" value="2498" />
           <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="1541" />
-          <entry key="PLAIN_TEXT" value="3265" />
+          <entry key="JavaScript" value="1544" />
+          <entry key="PLAIN_TEXT" value="3324" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -152,15 +148,6 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x01/write.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/ham03/x01/node_modules/xlsx/types/index.d.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -170,11 +157,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="18" selection-start-line="18" selection-end-line="31" />
+            <state relative-caret-position="152">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -192,7 +179,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>rxjs/add/operator/toPromise</find>
       <find>5000</find>
       <find>exlBuf</find>
       <find>xls</find>
@@ -222,6 +208,7 @@
       <find>sheetjs</find>
       <find>request</find>
       <find>request(url, {encoding: null}, function(err, res, data) {</find>
+      <find>SystemIdentifier</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -294,9 +281,9 @@
         <option value="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt" />
         <option value="$PROJECT_DIR$/api/ham03/server/note.txt" />
         <option value="$PROJECT_DIR$/ops/docker.txt" />
-        <option value="$PROJECT_DIR$/api/ham03/x01/index.js" />
         <option value="$PROJECT_DIR$/api/ham03/x01/copy.js" />
         <option value="$PROJECT_DIR$/api/ham03/x01/write.js" />
+        <option value="$PROJECT_DIR$/api/ham03/x01/index.js" />
       </list>
     </option>
   </component>
@@ -1828,9 +1815,9 @@
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1997" />
+    <option name="x" value="1466" />
     <option name="y" value="35" />
-    <option name="width" value="1843" />
+    <option name="width" value="2374" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1924,7 +1911,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.write.js">
+  <component name="RunManager" selected="Node.js.index.js">
     <configuration name="express.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="express.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
@@ -1949,9 +1936,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.write.js" />
         <item itemvalue="Node.js.express.js" />
-        <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.koasub.js" />
         <item itemvalue="Node.js.koa.js" />
       </list>
@@ -2062,14 +2049,7 @@
       <workItem from="1535125583776" duration="2884000" />
       <workItem from="1535144390759" duration="4000" />
       <workItem from="1535144411235" duration="8000" />
-      <workItem from="1535377579564" duration="27012000" />
-    </task>
-    <task id="LOCAL-00022" summary="w501/week02 add new problem is now working!">
-      <created>1532121510031</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1532121510031</updated>
+      <workItem from="1535377579564" duration="29445000" />
     </task>
     <task id="LOCAL-00023" summary="w501/week02 add navbar but not working properly yet">
       <created>1532122128213</created>
@@ -2407,11 +2387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535393821695</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton">
+      <created>1535478459631</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1535478459631</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="461674000" />
+    <option name="totallyTimeSpent" value="464107000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2423,9 +2410,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1997" y="35" width="1843" height="2125" extended-state="4" />
+    <frame x="90" y="35" width="1875" height="2125" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.33912098" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.33333334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2437,7 +2425,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.5302472" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.5297212" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2507,7 +2495,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position, this one is corrected and now it's working" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;icons ready. Used new icon to show the stars!!!" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;start to work on routers" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;router-outlet working now" />
@@ -2532,7 +2519,8 @@
     <MESSAGE value="bittiger_cs503/week03&#10;&#10;start to do auth0" />
     <MESSAGE value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file" />
+    <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton" />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2899,12 +2887,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
+    <entry file="file://$PROJECT_DIR$/api/ham03/x01/write.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="18" selection-start-line="18" selection-end-line="31" />
+        <state relative-caret-position="608">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x01/copy.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/x01/node_modules/xlsx/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -2913,13 +2904,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/copy.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/write.js">
+    <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+        <state relative-caret-position="152">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>

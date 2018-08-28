@@ -14,7 +14,7 @@ var ws = XLSX.utils.aoa_to_sheet([
 
 XLSX.utils.book_append_sheet(wb, ws, "HAMILTON");
 
-XLSX.writeFile(wb, 'test.xls');
+XLSX.writeFile(wb, 'test.xlsx');
 
 console.log("xls file is created.");
 
@@ -26,7 +26,7 @@ app.listen(3000, () => console.log('Example app listening on port 3000!'));
 
 app.get('/download', function(req, res){
 
-    var file = __dirname + '/test.xls';
+    var file = __dirname + '/example.xls';
     res.download(file); // Set disposition and send it.
 });
 
