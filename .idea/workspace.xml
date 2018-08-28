@@ -6,11 +6,184 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton">
-      <change afterPath="$PROJECT_DIR$/api/ham03/x01/example.xls" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok.">
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/compute_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/80x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/buildout.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/notes.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/python-excel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/cell_access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/cell_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/emptyblank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/introspect_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/introspect_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/large_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/odd.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/sheet_iteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/simple.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/types.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlrd/utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlutils/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlutils/display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlutils/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlutils/source.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlutils/styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/borders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/cell_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/easyxf_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/format_rowscols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/formulae.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/hyperlinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/merged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/outlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/overwriting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/panes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/python.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/stylecompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/xfstyle_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/students/xlwt/zoom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/cell_access.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/cell_types.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/dates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/emptyblank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/introspect_book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/introspect_sheet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/large_files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/open.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/sheet_iteration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/simple.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/utilities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlutils/copy/output.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlutils/display.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlutils/filter/filtered-source.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlutils/styles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/borders/borders.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/cell_types/types.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/easyxf_format/date.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/format_rowscols/format_rowscols.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/formulae/formula.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/hyperlinks/hyperlinks.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/images/images.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/merged/merged.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/outlines/outlines.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/overwriting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/panes/panes.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/simple/simple.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/stylecompression/1xf1font.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/stylecompression/3xf1font.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/stylecompression/3xf3fonts.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/utilities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/xfstyle_format/date.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlwt/zoom/zoom.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/test_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/api.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/changes.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/development.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/installation.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/licenses.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/make.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/big-16Mb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/big-35Mb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/blanks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/col_width.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/formula_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/formulas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/hyperlinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/image_chg_col_wid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/merged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/merged0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/merged1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/mini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/num_formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/numbers_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/outline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/panes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/panes2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/panes3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/parse-fmla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/pattern_examples.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/python.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/row_styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/row_styles_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/sst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/unicode0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/unicode1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/unicode2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/wsprops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/xlwt_easyxf_simple_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/zoom_magnification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/bitmaps.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/less_simple.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/mini.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/python.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/simple.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_biff_records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_bitmaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_by_name_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_compound_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_easyxf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_mini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_unicode1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_unicodeutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/test_worksheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/unicode1.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tests/xlwt_easyxf_simple_demo.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/BIFFRecords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Bitmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/CompoundDoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/ExcelFormula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/ExcelFormulaLexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/ExcelFormulaParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/ExcelMagic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/UnicodeUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/Worksheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/antlr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham03/x02/xlwt-master/xlwt/excel-formula.g" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/x01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/x01/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/x01/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/x01/write.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/x01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/x01/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,7 +238,7 @@
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="364" />
+          <entry key="js" value="367" />
           <entry key="json" value="78" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="28" />
@@ -75,13 +248,14 @@
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="2" />
           <entry key="notes" value="1" />
-          <entry key="py" value="5" />
+          <entry key="py" value="7" />
           <entry key="rnc" value="1" />
+          <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="5" />
           <entry key="svg" value="1" />
           <entry key="ts" value="517" />
-          <entry key="txt" value="74" />
+          <entry key="txt" value="76" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -94,12 +268,12 @@
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
           <entry key="HTML" value="249" />
-          <entry key="Hoi4 file" value="52" />
+          <entry key="Hoi4 file" value="54" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="76" />
-          <entry key="JavaScript" value="366" />
+          <entry key="JavaScript" value="369" />
           <entry key="Markdown" value="21" />
-          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="PLAIN_TEXT" value="90" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
           <entry key="TypeScript" value="517" />
@@ -113,10 +287,11 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="gitignore" value="47" />
           <entry key="html" value="3631" />
-          <entry key="js" value="1543" />
+          <entry key="js" value="1574" />
           <entry key="json" value="80" />
+          <entry key="py" value="64" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="5722" />
+          <entry key="txt" value="5755" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -125,8 +300,8 @@
           <entry key="HTML" value="3630" />
           <entry key="Hoi4 file" value="2498" />
           <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="1544" />
-          <entry key="PLAIN_TEXT" value="3324" />
+          <entry key="JavaScript" value="1575" />
+          <entry key="PLAIN_TEXT" value="3421" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -143,25 +318,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x01/copy.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x01/node_modules/xlsx/types/index.d.ts">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/ham03/x02/help.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="232" column="17" selection-start-line="232" selection-start-column="17" selection-end-line="232" selection-end-column="17" />
+            <state relative-caret-position="152">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/x02/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="266">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/ham03/x02/compute_input.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -233,10 +412,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham01/mongo/mongo_01.js" />
-        <option value="$PROJECT_DIR$/api/ham01/mongo/kitten.js" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-server/dbtest.js" />
-        <option value="$PROJECT_DIR$/api/ham01/ham-server/saveMockData.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/drop.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/read.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/models/clmicModel.js" />
@@ -284,6 +459,10 @@
         <option value="$PROJECT_DIR$/api/ham03/x01/copy.js" />
         <option value="$PROJECT_DIR$/api/ham03/x01/write.js" />
         <option value="$PROJECT_DIR$/api/ham03/x01/index.js" />
+        <option value="$PROJECT_DIR$/api/ham03/server.js" />
+        <option value="$PROJECT_DIR$/api/ham03/x02/help.py" />
+        <option value="$PROJECT_DIR$/api/ham03/x02/index.js" />
+        <option value="$PROJECT_DIR$/api/ham03/x02/compute_input.py" />
       </list>
     </option>
   </component>
@@ -328,6 +507,7 @@
     <handled-path value="$PROJECT_DIR$/api/ham02/ham-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/x01/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham03/x02/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/week02/oj-server/node_modules" />
@@ -874,6 +1054,7 @@
       <path value="$PROJECT_DIR$/api/ham02/ham-server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x01/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/x02/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1lina/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week2/oj-client/package.json" />
@@ -1852,7 +2033,7 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="x01" type="462c0819:PsiDirectoryNode" />
+              <item name="x02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -1880,7 +2061,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -1892,11 +2073,11 @@
       <recent name="$PROJECT_DIR$/q0w9qo/ch2/auction/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/ham03/x02" />
       <recent name="$PROJECT_DIR$/api/ham03/x01" />
       <recent name="$PROJECT_DIR$/api/ham03/x01/file" />
       <recent name="$PROJECT_DIR$/api/ham03" />
       <recent name="$PROJECT_DIR$/exl/exl_05_xlsx" />
-      <recent name="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1911,14 +2092,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
+  <component name="RunManager" selected="Node.js.index.js (1)">
     <configuration name="express.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="express.js" working-dir="$PROJECT_DIR$/api/ham03/server">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/api/ham03/x01">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/api/ham03/x02">
       <method v="2" />
     </configuration>
-    <configuration name="koa.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="koa.js" working-dir="$PROJECT_DIR$/api/ham03/server">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/api/ham03/x01">
       <method v="2" />
     </configuration>
     <configuration name="koasub.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="koasub.js" working-dir="$PROJECT_DIR$/api/ham03/server">
@@ -1929,18 +2110,18 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.express.js" />
-      <item itemvalue="Node.js.koa.js" />
       <item itemvalue="Node.js.koasub.js" />
       <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.write.js" />
+      <item itemvalue="Node.js.index.js (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.write.js" />
         <item itemvalue="Node.js.express.js" />
         <item itemvalue="Node.js.koasub.js" />
-        <item itemvalue="Node.js.koa.js" />
       </list>
     </recent_temporary>
   </component>
@@ -2049,14 +2230,7 @@
       <workItem from="1535125583776" duration="2884000" />
       <workItem from="1535144390759" duration="4000" />
       <workItem from="1535144411235" duration="8000" />
-      <workItem from="1535377579564" duration="29445000" />
-    </task>
-    <task id="LOCAL-00023" summary="w501/week02 add navbar but not working properly yet">
-      <created>1532122128213</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1532122128213</updated>
+      <workItem from="1535377579564" duration="31182000" />
     </task>
     <task id="LOCAL-00024" summary="CS503/week02 the navbar is fixed based on bootstrap 4.1.2. Some info from CS503/week2 info of navbar component html which is based on bootstrap 3 is incorporated.">
       <created>1532187866727</created>
@@ -2394,11 +2568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535478459631</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok.">
+      <created>1535481827496</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1535481827496</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="464107000" />
+    <option name="totallyTimeSpent" value="465844000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2410,22 +2591,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="1875" height="2125" extended-state="4" />
-    <editor active="true" />
+    <frame x="1466" y="35" width="2374" height="2125" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.26824033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49945384" weight="0.33710286" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49914163" weight="0.3446419" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.5010667" side_tool="true" weight="0.3229879" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.50085837" side_tool="true" weight="0.3446419" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.5297212" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.36833602" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2495,7 +2675,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch2/autcion&#10;&#10;icons ready. Used new icon to show the stars!!!" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;start to work on routers" />
     <MESSAGE value="/home/b/WebstormProjects/JSStudy/q0w9qo/ch3/router3&#10;&#10;router-outlet working now" />
     <MESSAGE value="add node4_shizhan" />
@@ -2520,7 +2699,8 @@
     <MESSAGE value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton" />
+    <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok." />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2543,51 +2723,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exl/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/css/sheetjs.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/xlsx.full.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="1" column="772" lean-forward="true" selection-start-line="1" selection-start-column="772" selection-end-line="1" selection-end-column="772" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/assets/js/dropsheet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="139" column="18" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx/demos/angular2/src/app/sheetjs.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -2705,13 +2840,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -2906,8 +3034,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/api.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/open.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x02/compute_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x02/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/x02/help.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
