@@ -4,3 +4,78 @@ docker system prune
 To additionally remove any stopped containers and all unused images (not just dangling images), add the -a flag to the command:
 
 docker system prune -a
+
+
+==========================================================
+
+docker search centos
+
+docker pull centos
+
+docker run centos /bin/echo "hello"
+
+
+docker ps -a
+
+docker run --name mydocker -t -i centos /bin/bash
+
+ps aux | grep init
+
+free -m
+
+docker ps -a
+
+docker start mydocker
+
+docker attach mydocker
+
+
+docker inspect -f "{{ .State.Pid }}" mydocker
+
+nsenter --help
+
+docker inspect -f "{{ .State.Pid }}" mydocker
+
+docker rm mydocker
+
+
+docker run --rm centos /bin/echo "hehe"
+===============================================
+docker run -d nginx
+
+docker logs 5159db6ae712
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
