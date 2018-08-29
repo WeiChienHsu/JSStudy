@@ -1,5 +1,8 @@
 
-print "hello world"
+#print "hello world"
+print data
 
-def hello():
-    return "hello"
+def hello(data):
+    print data
+
+hello(data)

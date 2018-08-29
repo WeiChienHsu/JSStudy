@@ -13,7 +13,7 @@ var dataService = require("../services/dataService");
 
 
 
-router.get('/cl-mic/:id/create', function (req, res) {
+router.get('/cl-mic/:id', function (req, res) {
 /*    ClmicModel.find(function (err, clmics) {
         if (err) return console.error(err);
         // clmic = clmicService.getClmic(+id);
@@ -21,8 +21,30 @@ router.get('/cl-mic/:id/create', function (req, res) {
 
         console.log(clmic);
     });*/
+    // '01_clmic'
 
-    var clmic = ClmicModel.findOne({ id: id });
+    // console.log(typeof +req.params.id);
+
+
+    ClmicModel.findOne({ id : +req.params.id }, function(err, obj) {
+        if (err) throw err;
+
+        // object of the user
+        // console.log(typeof obj.id);
+        createExcel(obj.id);
+
+        // iD = obj.id;
+        // console.log(obj.name);
+        // console.log(obj.desc);
+        // console.log(obj.SP);
+    });
+
+    // console.log(clmic);
+
+    // var clmic = dataService.getClmic(+req.params.id);
+    // console.log(clmic);
+
+    // var clmic = ClmicModel.findOne({ id: id });
 
     // ClmicModel.findOne({ id : id }).then(clMic => this.clmic = clMic);
 
@@ -31,12 +53,12 @@ router.get('/cl-mic/:id/create', function (req, res) {
     // console.log(clmic.get);
     // console.log(typeof clmic);
 
-    var data = [1,2,3,4,5,6,7,8,9];
-    createExcel(data);
+    // var data = [1,2,3,4,5,6,7,8,9];
+    // createExcel(data);
 
     // console.log(req);
-    var id = req.params.id;
-    clmicService.getClmic(+id)
+    // var id = req.params.id;
+    clmicService.getClmic(+req.params.id)
         .then(clmic => res.json(clmic));
 
 });

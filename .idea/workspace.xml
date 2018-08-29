@@ -6,29 +6,12 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="ops/runScriptInNode&#10;&#10;run script in node">
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/data2_for_postman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/drop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/models/clmicModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/models/clmicModel_02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/read.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/services/clmicService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham03/x02/note_x02.txt" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/note03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/note03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,7 +66,7 @@
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="388" />
+          <entry key="js" value="396" />
           <entry key="json" value="79" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="28" />
@@ -93,7 +76,7 @@
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="2" />
           <entry key="notes" value="1" />
-          <entry key="py" value="14" />
+          <entry key="py" value="20" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
@@ -116,9 +99,9 @@
           <entry key="Hoi4 file" value="57" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="77" />
-          <entry key="JavaScript" value="390" />
+          <entry key="JavaScript" value="398" />
           <entry key="Markdown" value="21" />
-          <entry key="PLAIN_TEXT" value="98" />
+          <entry key="PLAIN_TEXT" value="104" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
           <entry key="TypeScript" value="519" />
@@ -132,11 +115,11 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="gitignore" value="47" />
           <entry key="html" value="3631" />
-          <entry key="js" value="1920" />
+          <entry key="js" value="2223" />
           <entry key="json" value="80" />
-          <entry key="py" value="97" />
+          <entry key="py" value="192" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="6041" />
+          <entry key="txt" value="6269" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -145,8 +128,8 @@
           <entry key="HTML" value="3630" />
           <entry key="Hoi4 file" value="2671" />
           <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="1921" />
-          <entry key="PLAIN_TEXT" value="3567" />
+          <entry key="JavaScript" value="2224" />
+          <entry key="PLAIN_TEXT" value="3890" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -162,100 +145,55 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/services/clmicService.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/services/data.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1049">
-              <caret line="93" column="31" lean-forward="true" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham02/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/read.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/country.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/x02/xlwt-master/examples/format.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <marker date="1535567000361" expanded="true" signature="733:1061" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="418">
+                  <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="901">
+                  <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -323,7 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/cl-mic/cl-mic.component.ts" />
         <option value="$PROJECT_DIR$/angular/toh-pt4/src/app/hero.service.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts" />
@@ -367,13 +304,14 @@
         <option value="$PROJECT_DIR$/api/ham03/x02/note_x02.txt" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/app.js" />
-        <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" />
-        <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/server.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js" />
-        <option value="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/read.js" />
+        <option value="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" />
+        <option value="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" />
+        <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" />
+        <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" />
       </list>
     </option>
   </component>
@@ -1909,11 +1847,11 @@
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="143" />
-    <option name="y" value="39" />
-    <option name="width" value="3354" />
-    <option name="height" value="2121" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="90" />
+    <option name="y" value="35" />
+    <option name="width" value="3144" />
+    <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1939,77 +1877,6 @@
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham02" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="ham03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2018,6 +1885,14 @@
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="ham03" type="462c0819:PsiDirectoryNode" />
               <item name="ham-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="ham03" type="462c0819:PsiDirectoryNode" />
+              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2087,9 +1962,6 @@
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/ops/runScriptInNode">
-      <method v="2" />
-    </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/ham03/x02/index.js" working-dir="$PROJECT_DIR$/api/ham03/x02">
       <method v="2" />
     </configuration>
@@ -2099,20 +1971,23 @@
     <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server">
       <method v="2" />
     </configuration>
+    <configuration name="test_get_create.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test_get_create.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server/routes">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="Node.js.app.js" />
       <item itemvalue="Node.js.app.js (1)" />
       <item itemvalue="Node.js.read.js" />
       <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.test_get_create.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.server.js" />
         <item itemvalue="Node.js.read.js" />
+        <item itemvalue="Node.js.test_get_create.js" />
         <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -2222,14 +2097,7 @@
       <workItem from="1535144390759" duration="4000" />
       <workItem from="1535144411235" duration="8000" />
       <workItem from="1535377579564" duration="33189000" />
-      <workItem from="1535547885399" duration="7472000" />
-    </task>
-    <task id="LOCAL-00026" summary="CS503/week02 npm init in oj-server, then">
-      <created>1532188703130</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1532188703130</updated>
+      <workItem from="1535547885399" duration="13331000" />
     </task>
     <task id="LOCAL-00027" summary="copied CS503/week2 code to CS503/week02">
       <created>1532190253833</created>
@@ -2567,11 +2435,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535489091195</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose">
+      <created>1535559130151</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1535559130151</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="475323000" />
+    <option name="totallyTimeSpent" value="481182000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2583,10 +2458,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="143" y="39" width="3354" height="2121" extended-state="0" />
+    <frame x="90" y="35" width="3144" height="2125" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.18882175" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2016129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2598,7 +2473,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.3696708" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.36887452" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2668,7 +2543,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="add node4_shizhan" />
     <MESSAGE value="init api/ham01/ham-client" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;install/set bootstrap and jquery" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running" />
@@ -2693,7 +2567,8 @@
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok." />
     <MESSAGE value="api/ham03/x02&#10;&#10;now this method from:&#10;https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/&#10;&#10;presents how to communicate between python and nodejs" />
     <MESSAGE value="ops/runScriptInNode&#10;&#10;run script in node" />
-    <option name="LAST_COMMIT_MESSAGE" value="ops/runScriptInNode&#10;&#10;run script in node" />
+    <MESSAGE value="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose" />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2892,13 +2767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/x02/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -2920,27 +2788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/help.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -2950,27 +2797,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/models/clmicModel_02.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/models/clmicModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -3016,13 +2842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/read.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/services/clmicService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -3032,15 +2851,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="71" />
+        <state relative-caret-position="798">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/help.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/models/clmicModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/read.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1535567000361" expanded="true" signature="733:1061" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
