@@ -1,0 +1,11 @@
+{
+    "SP": [
+        "M",
+        "H",
+        "R"
+    ],
+
+    "name": "02_clmic",
+    "desc": "This is the desc of 02 clmic",
+    "Num_Incubation": 5
+}
