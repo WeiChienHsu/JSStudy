@@ -6,12 +6,9 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose">
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel.">
+      <change afterPath="$PROJECT_DIR$/api/ham03/redis/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/help.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/services/dataService.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,9 +40,9 @@
           <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="12" />
           <entry key="project.open.time.7" value="14" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="54" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,19 +52,19 @@
           <entry key="Gemfile" value="1" />
           <entry key="Makefile" value="2" />
           <entry key="bmp" value="1" />
-          <entry key="css" value="23" />
+          <entry key="css" value="24" />
           <entry key="data" value="3" />
           <entry key="data2_for_postman" value="4" />
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="21" />
-          <entry key="html" value="250" />
+          <entry key="html" value="257" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="396" />
-          <entry key="json" value="79" />
+          <entry key="js" value="402" />
+          <entry key="json" value="85" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="28" />
           <entry key="mongo" value="1" />
@@ -76,14 +73,14 @@
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="2" />
           <entry key="notes" value="1" />
-          <entry key="py" value="20" />
+          <entry key="py" value="25" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
-          <entry key="sh" value="6" />
+          <entry key="sh" value="7" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="519" />
-          <entry key="txt" value="79" />
+          <entry key="ts" value="532" />
+          <entry key="txt" value="80" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -92,19 +89,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="23" />
+          <entry key="CSS" value="24" />
           <entry key="Dockerfile" value="1" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="250" />
-          <entry key="Hoi4 file" value="57" />
+          <entry key="HTML" value="257" />
+          <entry key="Hoi4 file" value="58" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="77" />
-          <entry key="JavaScript" value="398" />
+          <entry key="JSON" value="83" />
+          <entry key="JavaScript" value="404" />
           <entry key="Markdown" value="21" />
-          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="PLAIN_TEXT" value="110" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="519" />
+          <entry key="TypeScript" value="532" />
           <entry key="tsconfig" value="3" />
         </counts>
       </usages-collector>
@@ -115,11 +112,11 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="gitignore" value="47" />
           <entry key="html" value="3631" />
-          <entry key="js" value="2223" />
+          <entry key="js" value="2235" />
           <entry key="json" value="80" />
-          <entry key="py" value="192" />
+          <entry key="py" value="207" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="6269" />
+          <entry key="txt" value="6496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -128,15 +125,15 @@
           <entry key="HTML" value="3630" />
           <entry key="Hoi4 file" value="2671" />
           <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="2224" />
-          <entry key="PLAIN_TEXT" value="3890" />
+          <entry key="JavaScript" value="2236" />
+          <entry key="PLAIN_TEXT" value="4132" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="30" />
+          <entry key="TypeScriptServerServiceImpl" value="31" />
         </counts>
       </usages-collector>
     </session>
@@ -145,55 +142,99 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-                  <folding>
-                    <marker date="1535567000361" expanded="true" signature="733:1061" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="901">
-                  <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/assets/colors.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="40" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1824">
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+              <folding>
+                <element signature="e#23#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/editor/editor.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2812">
+              <caret line="75" column="22" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week3/oj-client/src/app/services/collaboration.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1434">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week3/oj-server/modules/redisClient.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1510">
+              <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week1/oj-client/e2e/app.po.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -207,8 +248,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>5000</find>
-      <find>exlBuf</find>
       <find>xls</find>
       <find>sample</find>
       <find>fill-rule</find>
@@ -237,6 +276,8 @@
       <find>request</find>
       <find>request(url, {encoding: null}, function(err, res, data) {</find>
       <find>SystemIdentifier</find>
+      <find>socket.id</find>
+      <find>collaborationSOcket</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -261,7 +302,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/angular/toh-pt4/src/app/hero.service.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/src/app/components/problem-detail/problem-detail.component.ts" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/components/clmic-detail/clmic-detail.component.ts" />
@@ -312,6 +352,7 @@
         <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run.py" />
+        <option value="$PROJECT_DIR$/api/ham03/redis/index.js" />
       </list>
     </option>
   </component>
@@ -903,6 +944,10 @@
       <path value="$PROJECT_DIR$/api/ham02/ham-client/package.json" />
       <path value="$PROJECT_DIR$/api/ham02/ham-server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/ham-server/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/redis/node_modules/double-ended-queue/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/redis/node_modules/redis-commands/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/redis/node_modules/redis-parser/package.json" />
+      <path value="$PROJECT_DIR$/api/ham03/redis/node_modules/redis/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x01/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x02/package.json" />
@@ -917,6 +962,14 @@
       <path value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/bru01/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/Observables/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week1/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week2/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week2/oj-server/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week3/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week3/oj-server/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/package.json" />
+      <path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-server/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week/project/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/week01/oj-client/package.json" />
@@ -1845,12 +1898,13 @@
     <dismissed value="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch05-server-side-frameworks/listing5_1/package.json" />
     <dismissed value="$PROJECT_DIR$/api/ham01/ham-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
+    <dismissed value="$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="90" />
     <option name="y" value="35" />
-    <option name="width" value="3144" />
+    <option name="width" value="1875" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1861,6 +1915,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1876,45 +1931,44 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="py" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="executor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1959,13 +2013,16 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.server.js">
-    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/api/ham03/redis">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/ham03/x02/index.js" working-dir="$PROJECT_DIR$/api/ham03/x02">
       <method v="2" />
     </configuration>
     <configuration name="read.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="read.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/bittiger_cs503/week3/oj-server">
       <method v="2" />
     </configuration>
     <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/api/ham03/ham-server">
@@ -1975,19 +2032,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="Node.js.app.js (1)" />
       <item itemvalue="Node.js.read.js" />
       <item itemvalue="Node.js.server.js" />
       <item itemvalue="Node.js.test_get_create.js" />
+      <item itemvalue="Node.js.server.js (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.read.js" />
         <item itemvalue="Node.js.test_get_create.js" />
-        <item itemvalue="Node.js.app.js (1)" />
-        <item itemvalue="Node.js.index.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -2097,14 +2155,8 @@
       <workItem from="1535144390759" duration="4000" />
       <workItem from="1535144411235" duration="8000" />
       <workItem from="1535377579564" duration="33189000" />
-      <workItem from="1535547885399" duration="13331000" />
-    </task>
-    <task id="LOCAL-00027" summary="copied CS503/week2 code to CS503/week02">
-      <created>1532190253833</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1532190253833</updated>
+      <workItem from="1535547885399" duration="27601000" />
+      <workItem from="1535644191849" duration="1132000" />
     </task>
     <task id="LOCAL-00028" summary="CS503/week02&#10;&#10;// now the server can be run without database&#10;// using postman">
       <created>1532192869914</created>
@@ -2442,11 +2494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535559130151</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel.">
+      <created>1535567948143</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1535567948143</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="481182000" />
+    <option name="totallyTimeSpent" value="496584000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2458,10 +2517,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="3144" height="2125" extended-state="4" />
+    <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2016129" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.16702645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2473,7 +2532,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.36887452" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.36887452" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19102524" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2543,7 +2602,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="init api/ham01/ham-client" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;install/set bootstrap and jquery" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing" />
@@ -2568,7 +2626,8 @@
     <MESSAGE value="api/ham03/x02&#10;&#10;now this method from:&#10;https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/&#10;&#10;presents how to communicate between python and nodejs" />
     <MESSAGE value="ops/runScriptInNode&#10;&#10;run script in node" />
     <MESSAGE value="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose" />
+    <MESSAGE value="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel." />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2590,190 +2649,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/api/ham03/ham-server/read.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="404" column="4" selection-start-line="404" selection-start-column="4" selection-end-line="404" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/down/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" lean-forward="true" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_01/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_01/app_01.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_01/json2xls">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_01/app_02.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_01/app_03.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exl/exl_02/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="722">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/_cors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/_logit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/_request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/copy.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/node_modules/xlsx/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="232" column="17" selection-start-line="232" selection-start-column="17" selection-end-line="232" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x01/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/server.js" />
-    <entry file="file://$PROJECT_DIR$/api/ham03/server/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x02/xlwt-master/docs/api.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x02/tutorial-master/tests/expected/xlrd/open.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/runScriptInNode/test.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/runScriptInNode/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/note03.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ops/runScriptInNode/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x02/help.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x02/note_x02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/x02/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" selection-start-line="1" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -2826,9 +2707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2836,9 +2714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1049">
           <caret line="93" column="31" lean-forward="true" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2884,43 +2759,226 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1535567000361" expanded="true" signature="733:1061" ph="..." />
-          </folding>
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/pipes/search.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/models/problem.model.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/profile/profile.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/profile/profile.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/redis/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/problem-list/problem-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/problem-detail/problem-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_server.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/problem-detail/problem-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="30" column="70" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/editor/editor.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/editor/editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="34" selection-start-line="34" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/input.service.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/services/SocketService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="484">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/collaboration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/assets/colors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <element signature="e#23#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/editor/editor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week3/oj-client/src/app/services/collaboration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1434">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week3/oj-server/modules/redisClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1510">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week1/oj-client/e2e/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
