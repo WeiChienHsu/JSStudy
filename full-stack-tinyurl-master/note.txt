@@ -1,0 +1,8 @@
+from bittiger teacher:https://github.com/weizhang82/full-stack-tinyurl
+
+install: docker-compose
+https://docs.docker.com/compose/overview/#multiple-isolated-environments-on-a-single-host
+
+docker-compose --build up
+
+visit: http://localhost:3000

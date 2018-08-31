@@ -1,0 +1,16 @@
+<head>
+  <title>using with node http server</title>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+</head>
+<body>
+  <p id="msg">this is a block</p>
+  <script>
+    var socket = io();
+    socket.on('news', function(data) {
+      console.log(data);
+      $('#msg').text(data)
+      socket.emit('my other event', {my: 'data'})
+    })
+  </script>
+</body>
