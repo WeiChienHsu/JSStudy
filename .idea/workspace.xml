@@ -6,286 +6,376 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="bittiger_cs503/cs503-master&#10;&#10;https://github.com/choiking/cs503&#10;&#10;cs503 with new version angular added, must be 2018 version">
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/dump.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/models/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/models/requestModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/models/urlModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/js/controllers/homeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/js/controllers/urlController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/views/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/views/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/public/views/url.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/routes/redirect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/routes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/services/statsService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/app/services/urlService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/full-stack-tinyurl-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full-stack-tinyurl-master/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/image/pushpin-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/routes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/script/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/services/flickrService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-flickr-master/style/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/benchmarks/diff_multi_bench_output.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/benchmarks/multi_bench.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/changelog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/backpressure_drain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/eval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/extend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/mget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/monitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/multi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/multi2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/psubscribe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/pub_sub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/scan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/simple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/subqueries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/subquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/unix_socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/examples/web_server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/createClient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/customErrors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/extendedApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/individualCommands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/multi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/lib/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/simple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/auth.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/batch.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/blpop.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/client.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/dbsize.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/del.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/eval.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/exists.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/expire.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/flushdb.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/geoadd.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/get.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/getset.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hgetall.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hincrby.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hlen.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hmget.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hmset.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/hset.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/incr.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/info.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/keys.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/mget.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/monitor.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/mset.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/msetnx.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/randomkey.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/rename.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/renamenx.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/rpush.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sadd.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/scard.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/script.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sdiff.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sdiffstore.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/select.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/set.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/setex.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/setnx.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sinter.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sinterstore.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sismember.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/slowlog.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/smembers.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/smove.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sort.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/spop.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/srem.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sunion.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/sunionstore.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/ttl.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/type.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/watch.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/zadd.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/zscan.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/commands/zscore.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conect.slave.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/faulty.cert" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/password.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/redis.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/redis.js.org.cert" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/redis.js.org.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/rename.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/slave.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/conf/stunnel.conf.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/connection.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/custom_errors.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/detect_buffers.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/good_traces.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/helper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/lib/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/lib/good-traces.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/lib/redis-process.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/lib/stunnel-process.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/lib/unref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/multi.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/node_redis.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/prefix.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/pubsub.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/rename.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/return_buffers.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/tls.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/unify_options.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis/test/utils.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/backpressure_drain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/eval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/extend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/mget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/monitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/multi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/multi2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/psubscribe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/pub_sub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/scan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/simple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/subqueries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/subquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/unix_socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_redis2/web_server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/jianshu/byExpress/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/jianshu/byExpress/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/jianshu/byNode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/jianshu/byNode/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/jianshu/byNode/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket01/client/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket01/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket01/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket01/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket01/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/docs/API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/docs/emit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/chat/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/haproxy/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/haproxy/haproxy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/httpd/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/httpd/httpd.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/client1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/client2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/client3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/client4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/custom-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/support/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/support/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/support/noop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/support/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/support/webpack.config.json-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/webpack-build/support/webpack.config.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/examples/whiteboard/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/lib/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/lib/namespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/lib/parent-namespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/lib/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/test/fixtures/big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/test/fixtures/big.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/test/fixtures/server-close.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/test/socket.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socketio/test/support/doge.jpg" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs">
+      <change afterPath="$PROJECT_DIR$/auth0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/ping/ping.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/ping/ping.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/ping/ping.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/ping/ping.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/auth-guard.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/auth-guard.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/scope-guard.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/auth/scope-guard.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/ping/ping.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/ping/ping.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/ping/ping.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/ping/ping.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/exec.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/exec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/auth/auth0-variables.ts.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/callback/callback.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/callback/callback.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/callback/callback.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -309,25 +399,26 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
+          <entry key="project.closed" value="56" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="10" />
-          <entry key="project.open.time.6" value="14" />
+          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.6" value="15" />
           <entry key="project.open.time.7" value="14" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="57" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
-          <entry key="Dockerfile" value="7" />
+          <entry key="Dockerfile" value="8" />
           <entry key="Gemfile" value="1" />
+          <entry key="LICENSE" value="1" />
           <entry key="Makefile" value="2" />
           <entry key="angular4入门与实战" value="1" />
           <entry key="bmp" value="1" />
@@ -338,29 +429,29 @@
           <entry key="ejs" value="4" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
-          <entry key="gitignore" value="30" />
-          <entry key="html" value="268" />
+          <entry key="gitignore" value="32" />
+          <entry key="html" value="270" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="457" />
-          <entry key="json" value="101" />
+          <entry key="js" value="473" />
+          <entry key="json" value="105" />
           <entry key="json2xls" value="2" />
-          <entry key="md" value="45" />
+          <entry key="md" value="46" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="2" />
           <entry key="notes" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="30" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
-          <entry key="sh" value="10" />
+          <entry key="sh" value="12" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="540" />
-          <entry key="txt" value="83" />
+          <entry key="ts" value="543" />
+          <entry key="txt" value="85" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -371,18 +462,18 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="25" />
-          <entry key="Dockerfile" value="7" />
+          <entry key="Dockerfile" value="8" />
           <entry key="EJS" value="4" />
-          <entry key="HTML" value="268" />
-          <entry key="Hoi4 file" value="61" />
+          <entry key="HTML" value="270" />
+          <entry key="Hoi4 file" value="63" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="99" />
-          <entry key="JavaScript" value="459" />
-          <entry key="Markdown" value="38" />
-          <entry key="PLAIN_TEXT" value="127" />
+          <entry key="JSON" value="103" />
+          <entry key="JavaScript" value="475" />
+          <entry key="Markdown" value="39" />
+          <entry key="PLAIN_TEXT" value="134" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="540" />
+          <entry key="TypeScript" value="543" />
           <entry key="YAML" value="4" />
           <entry key="tsconfig" value="3" />
         </counts>
@@ -392,13 +483,13 @@
           <entry key="Gemfile" value="2" />
           <entry key="css" value="65" />
           <entry key="data2_for_postman" value="51" />
-          <entry key="gitignore" value="49" />
+          <entry key="gitignore" value="50" />
           <entry key="html" value="3631" />
-          <entry key="js" value="2265" />
+          <entry key="js" value="2268" />
           <entry key="json" value="80" />
           <entry key="py" value="207" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="6615" />
+          <entry key="txt" value="6673" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -407,8 +498,8 @@
           <entry key="HTML" value="3630" />
           <entry key="Hoi4 file" value="2716" />
           <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="2266" />
-          <entry key="PLAIN_TEXT" value="4208" />
+          <entry key="JavaScript" value="2269" />
+          <entry key="PLAIN_TEXT" value="4267" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -424,7 +515,44 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2204">
+                <caret line="58" column="184" selection-start-line="58" selection-start-column="184" selection-end-line="58" selection-end-column="184" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth0/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -438,13 +566,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>evenodd</find>
-      <find>About us</find>
-      <find>router-outlet</find>
-      <find>import { routing } from &quot;./app.routes&quot;;</find>
-      <find>os</find>
-      <find>npm install @types/</find>
-      <find>bootstrap</find>
       <find>;</find>
       <find>mongoose</find>
       <find>path</find>
@@ -468,6 +589,13 @@
       <find>node-rest-client</find>
       <find>eueu</find>
       <find>build</find>
+      <find>pipe</find>
+      <find>server</find>
+      <find>socket</find>
+      <find>socketService</find>
+      <find>redisClient</find>
+      <find>redis</find>
+      <find>rest_client</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -482,6 +610,7 @@
       <dir>$PROJECT_DIR$/bittiger_cs503/week01</dir>
       <dir>$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app</dir>
       <dir>$PROJECT_DIR$/api/ham03/server</dir>
+      <dir>$PROJECT_DIR$/bittiger_cs503/week03</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -492,7 +621,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham01/ham-server/server.js" />
         <option value="$PROJECT_DIR$/bittiger_cs503/COJ_project/oj-server/services/problemService.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-server/services/clmicService.js" />
         <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
@@ -543,6 +671,7 @@
         <option value="$PROJECT_DIR$/socket/jianshu/client/index.html" />
         <option value="$PROJECT_DIR$/socket/jianshu/byExpress/index.js" />
         <option value="$PROJECT_DIR$/node_redis/.gitignore" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week3/oj-server/server.js" />
       </list>
     </option>
   </component>
@@ -589,6 +718,7 @@
     <handled-path value="$PROJECT_DIR$/api/ham03/server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/x01/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/x02/node_modules" />
+    <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/Observables/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week1/oj-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/bittiger_cs503/cs503-master/week2/oj-client/node_modules" />
@@ -1868,8 +1998,6 @@
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/node_modules/regexp-clone/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/node_modules/sliced/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/package.json" />
-      <path value="$PROJECT_DIR$/node_redis/package.json" />
-      <path value="$PROJECT_DIR$/node_redis2/package.json" />
       <path value="$PROJECT_DIR$/ops/runScriptInNode/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/start/package.json" />
@@ -1896,18 +2024,8 @@
       <path value="$PROJECT_DIR$/q0w9qo/ch8/stock/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/server/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/stock/package.json" />
-      <path value="$PROJECT_DIR$/socket/jianshu/byNode/package.json" />
       <path value="$PROJECT_DIR$/socket/socket01/client/package.json" />
       <path value="$PROJECT_DIR$/socket/socket01/server/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/chat/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/webpack-build/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/examples/whiteboard/package.json" />
-      <path value="$PROJECT_DIR$/socket/socketio/package.json" />
       <path value="$PROJECT_DIR$/stock/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/package.json" />
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/ExpressBasicsExercise/package.json" />
@@ -2124,6 +2242,7 @@
     <dismissed value="$PROJECT_DIR$/api/ham01/ham-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/cs503-master/Observables/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week2/oj-server/package.json" />
+    <dismissed value="$PROJECT_DIR$/bittiger_cs503/week3/oj-client/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bittiger_cs503/week4/oj-server/package.json" />
     <dismissed value="$PROJECT_DIR$/bootstrap413/bootstrap-4.1.3/package.json" />
@@ -2132,10 +2251,10 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1774" />
-    <option name="y" value="35" />
-    <option name="width" value="2066" />
-    <option name="height" value="2125" />
+    <option name="x" value="1443" />
+    <option name="y" value="39" />
+    <option name="width" value="2377" />
+    <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2155,12 +2274,48 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="node_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS_In_Action_1st" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0-angular-samples-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0-angular-samples-master" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0-angular-samples-master" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0" type="462c0819:PsiDirectoryNode" />
+              <item name="auth0-angular-samples-master" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2183,19 +2338,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/node_redis2" />
-      <recent name="$PROJECT_DIR$/node_redis" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/socket/jianshu/byExpress" />
-      <recent name="$PROJECT_DIR$/socket/jianshu/server" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham03/ham-server/py" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/components" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth0" />
+      <recent name="$PROJECT_DIR$/node_redis2" />
+      <recent name="$PROJECT_DIR$/node_redis" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/socket/jianshu/byExpress" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2352,14 +2507,9 @@
       <workItem from="1535547885399" duration="27601000" />
       <workItem from="1535644191849" duration="9852000" />
       <workItem from="1535720441430" duration="655000" />
-      <workItem from="1535721308277" duration="8081000" />
-    </task>
-    <task id="LOCAL-00029" summary="CS503/week02&#10;&#10;Now single problem also works:&#10;localhost:3000/api/v1/problems/1">
-      <created>1532194262306</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1532194262307</updated>
+      <workItem from="1535721308277" duration="11275000" />
+      <workItem from="1535745956144" duration="160000" />
+      <workItem from="1535746686836" duration="30000" />
     </task>
     <task id="LOCAL-00030" summary="CS503/week02&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;    {&#10;        id: 6,&#10;        name: &quot;6th name&quot;,&#10;        desc: `6th desc`,&#10;        difficulty: &quot;super&quot;&#10;    }">
       <created>1532198686385</created>
@@ -2697,11 +2847,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535649102016</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs">
+      <created>1535741370327</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1535741370328</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514040000" />
+    <option name="totallyTimeSpent" value="517424000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2713,9 +2870,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1774" y="35" width="2066" height="2125" extended-state="4" />
+    <frame x="1939" y="39" width="1891" height="2121" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2967086" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.32099417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2727,7 +2884,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.3677012" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.3677012" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19077173" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2798,7 +2955,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham01/ham-client&#10;&#10;app-routing.module.ts created and running" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;Now mock data in the data service of angular can be presented" />
     <MESSAGE value="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)" />
@@ -2823,7 +2979,8 @@
     <MESSAGE value="api/ham03/ham-server/routes/test_get_create.js&#10;&#10;working on integrating python excel generating lib to ham-server&#10;&#10;right now working on read data from mongodb for the python excel lib&#10;&#10;need to know more about mongodb and mongoose" />
     <MESSAGE value="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel." />
     <MESSAGE value="bittiger_cs503/cs503-master&#10;&#10;https://github.com/choiking/cs503&#10;&#10;cs503 with new version angular added, must be 2018 version" />
-    <option name="LAST_COMMIT_MESSAGE" value="bittiger_cs503/cs503-master&#10;&#10;https://github.com/choiking/cs503&#10;&#10;cs503 with new version angular added, must be 2018 version" />
+    <MESSAGE value="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs" />
+    <option name="LAST_COMMIT_MESSAGE" value="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2856,247 +3013,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/socket/socketio/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="798">
-            <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/docs/API.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2280" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/lib/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1596" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="15" column="146" selection-start-line="15" selection-start-column="146" selection-end-line="15" selection-end-column="146" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="988">
-            <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="570">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/custom-parsers/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="489">
-            <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/webpack-build/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="684">
-            <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/whiteboard/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="608">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1212">
-          <caret line="44" column="15" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/public/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/jianshu/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/jianshu/byNode/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/jianshu/byNode/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/jianshu/byExpress/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/jianshu/byExpress/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/lib/debug.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-684" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node4_shizhan/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/benchmarks/diff_multi_bench_output.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/benchmarks/multi_bench.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/examples/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-5814">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_redis/examples/scan.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3128,13 +3044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis2/simple.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -3173,13 +3082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_redis2/psubscribe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_redis2/eval.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3199,6 +3101,185 @@
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_redis/examples/extend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_redis/benchBefore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="17" column="60" selection-start-line="3" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_redis2/scan.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_redis2/psubscribe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_redis2/simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/models/problemModel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/modules/redisClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/routes/rest.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/services/problemService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/services/SocketService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/models/problemModel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/modules/redisClient.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/routes/rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_server.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/pipes/search.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/components/profile/profile.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/components/profile/profile.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2204">
+            <caret line="58" column="184" selection-start-line="58" selection-start-column="184" selection-end-line="58" selection-end-column="184" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
