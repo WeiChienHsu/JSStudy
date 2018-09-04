@@ -3,3 +3,5 @@ node_modules
 auth0-variables.ts
 .env
 npm-debug.log
+
+auth0-variables.ts
