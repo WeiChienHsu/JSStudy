@@ -6,88 +6,59 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/auth0&#10;&#10;added">
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixC/canyon-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixC/canyon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixC/gridfs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixC/single.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/appendixE/appendix E.6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter1/1.x_example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter11/commands_10.x.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter12/load.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter12/names.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter12/setup_sharded_cluster.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter13/dump_traffic.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter13/generate_keys.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter13/run_with_ssl.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.1_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.2-2.4_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.x_examples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/archiver.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/connect.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/connect_w_irb.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/update.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/viewer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter3/views/tweets.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter4/listing4_6.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter5/chp5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.2_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.3_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.4_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.5_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.6_code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/export.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.orders.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.reviews.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter6/data/import.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/code_7.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/code_7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/code_7.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/code_7.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/connect.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter7/inventory_fetcher.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter8/code_8.x.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/9.2_import_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/catalog.books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/code_9.1_search_intro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/code_9.3_indexes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/code_9.4_find.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/code_9.5_aggr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter9/code_9.6_language.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/config.txt.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/configs/mmapv1.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/configs/wiredtiger-snappy.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/configs/wiredtiger-uncompressed.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/configs/wiredtiger-zlib.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/insert-results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/insert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/migrate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/read.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/read.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings-mmapv1.conf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings-wiredtiger-snappy.conf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings-wiredtiger-uncompressed.conf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings-wiredtiger-zlib.conf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo-in-action-code/chapter_storage/timings.png" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition">
+      <change afterPath="$PROJECT_DIR$/d3/RainbowTreemap/flare.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3/RainbowTreemap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3/ScatterplotTour/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/mine/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/mine/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/customer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/routes/customers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/add_customer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/customers.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/edit_customer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/layouts/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/layouts/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/layouts/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/layouts/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/add.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/edit.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/my-app/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/note.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/auth0/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh" beforeDir="false" afterPath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth0-variables.ts.example" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -110,18 +81,18 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="58" />
+          <entry key="project.closed" value="62" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="11" />
-          <entry key="project.open.time.6" value="17" />
-          <entry key="project.open.time.7" value="14" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="18" />
+          <entry key="project.open.time.7" value="16" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -135,20 +106,21 @@
           <entry key="bmp" value="1" />
           <entry key="conf" value="2" />
           <entry key="css" value="25" />
+          <entry key="csv" value="1" />
           <entry key="data" value="3" />
           <entry key="data2_for_postman" value="4" />
-          <entry key="ejs" value="4" />
+          <entry key="ejs" value="6" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
-          <entry key="gitignore" value="33" />
-          <entry key="html" value="273" />
+          <entry key="gitignore" value="38" />
+          <entry key="html" value="277" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="475" />
-          <entry key="json" value="107" />
+          <entry key="js" value="515" />
+          <entry key="json" value="116" />
           <entry key="json2xls" value="2" />
-          <entry key="md" value="49" />
+          <entry key="md" value="53" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
@@ -156,13 +128,14 @@
           <entry key="node_versions" value="2" />
           <entry key="notes" value="1" />
           <entry key="py" value="30" />
+          <entry key="rb" value="3" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="13" />
           <entry key="svg" value="1" />
           <entry key="ts" value="551" />
-          <entry key="txt" value="86" />
+          <entry key="txt" value="90" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -174,14 +147,14 @@
         <counts>
           <entry key="CSS" value="25" />
           <entry key="Dockerfile" value="9" />
-          <entry key="EJS" value="4" />
-          <entry key="HTML" value="273" />
-          <entry key="Hoi4 file" value="64" />
+          <entry key="EJS" value="6" />
+          <entry key="HTML" value="277" />
+          <entry key="Hoi4 file" value="68" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="105" />
-          <entry key="JavaScript" value="477" />
-          <entry key="Markdown" value="42" />
-          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="JSON" value="114" />
+          <entry key="JavaScript" value="517" />
+          <entry key="Markdown" value="46" />
+          <entry key="PLAIN_TEXT" value="146" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
           <entry key="TypeScript" value="551" />
@@ -194,23 +167,23 @@
           <entry key="Gemfile" value="2" />
           <entry key="css" value="65" />
           <entry key="data2_for_postman" value="51" />
-          <entry key="gitignore" value="52" />
+          <entry key="gitignore" value="55" />
           <entry key="html" value="3631" />
-          <entry key="js" value="2268" />
-          <entry key="json" value="80" />
+          <entry key="js" value="2354" />
+          <entry key="json" value="81" />
           <entry key="py" value="207" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="6681" />
+          <entry key="txt" value="6682" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="65" />
           <entry key="HTML" value="3630" />
-          <entry key="Hoi4 file" value="2716" />
-          <entry key="JSON" value="80" />
-          <entry key="JavaScript" value="2269" />
-          <entry key="PLAIN_TEXT" value="4277" />
+          <entry key="Hoi4 file" value="2717" />
+          <entry key="JSON" value="81" />
+          <entry key="JavaScript" value="2355" />
+          <entry key="PLAIN_TEXT" value="4280" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
@@ -228,10 +201,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter1/1.x_example.js">
+        <entry file="file://$PROJECT_DIR$/mysql/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="570">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -243,14 +216,13 @@
       <list>
         <option value="TypeScript File" />
         <option value="package.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>path</find>
       <find>body-parser</find>
       <find>out</find>
       <find>public</find>
@@ -280,6 +252,7 @@
       <find>rest_client</find>
       <find>auth0-variables</find>
       <find>localStorage</find>
+      <find>connection</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -305,18 +278,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham01/ham-client/src/app/services/data.service.ts" />
-        <option value="$PROJECT_DIR$/api/ham01/readme.txt" />
-        <option value="$PROJECT_DIR$/api/.gitignore" />
-        <option value="$PROJECT_DIR$/api/ham02/ham-server/routes/rest.js" />
-        <option value="$PROJECT_DIR$/api/ham02/ham-server/server.js" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/index.html" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.html" />
-        <option value="$PROJECT_DIR$/exl/exl_05/xlsx_01/excel/src/app/components/sheetjs/sheetjs.component.ts" />
-        <option value="$PROJECT_DIR$/api/ham02/note.txt" />
         <option value="$PROJECT_DIR$/api/ham03/x01/package.json" />
         <option value="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" />
         <option value="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt" />
@@ -356,6 +317,18 @@
         <option value="$PROJECT_DIR$/bittiger_cs503/week3/oj-server/server.js" />
         <option value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth0-variables.ts" />
         <option value="$PROJECT_DIR$/auth0/.gitignore" />
+        <option value="$PROJECT_DIR$/mongo-in-action-code/chapter1/1.x_example.js" />
+        <option value="$PROJECT_DIR$/react/note.txt" />
+        <option value="$PROJECT_DIR$/react/.gitignore" />
+        <option value="$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.1_code.js" />
+        <option value="$PROJECT_DIR$/mysql/nodecrud-master/package.json" />
+        <option value="$PROJECT_DIR$/mysql/nodecrud-master/app.js" />
+        <option value="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/config.js" />
+        <option value="$PROJECT_DIR$/mysql/mine/app.js" />
+        <option value="$PROJECT_DIR$/d3/index.html" />
+        <option value="$PROJECT_DIR$/d3/RainbowTreemap/index.html" />
+        <option value="$PROJECT_DIR$/d3/RainbowTreemap/flare.csv" />
+        <option value="$PROJECT_DIR$/d3/ScatterplotTour/index.html" />
       </list>
     </option>
   </component>
@@ -428,6 +401,9 @@
     <handled-path value="$PROJECT_DIR$/exl/exl_05_xlsx/node_modules" />
     <handled-path value="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/node_modules" />
     <handled-path value="$PROJECT_DIR$/full-stack-tinyurl-master/app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mysql/mine/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mysql/nodecrud-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/node4_shizhan/node2/node_modules" />
     <handled-path value="$PROJECT_DIR$/node4_shizhan/node3/node_modules" />
     <handled-path value="$PROJECT_DIR$/node4_shizhan/node4_littleAlbum/node_modules" />
@@ -437,6 +413,7 @@
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/auction/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/router/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/router3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/my-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/socket/jianshu/byNode/node_modules" />
     <handled-path value="$PROJECT_DIR$/socket/socket01/client/node_modules" />
     <handled-path value="$PROJECT_DIR$/socket/socket01/server/node_modules" />
@@ -975,6 +952,14 @@
       <path value="$PROJECT_DIR$/api/ham03/server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x01/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x02/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/05-Token-Renewal/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/package.json" />
+      <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-two/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1lina/oj-client/package.json" />
       <path value="$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week2/oj-client/package.json" />
@@ -1037,6 +1022,9 @@
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/excel/package.json" />
       <path value="$PROJECT_DIR$/full-stack-tinyurl-master/app/package.json" />
       <path value="$PROJECT_DIR$/mini-flickr-master/package.json" />
+      <path value="$PROJECT_DIR$/mysql/mine/package.json" />
+      <path value="$PROJECT_DIR$/mysql/nodecrud-master/package.json" />
+      <path value="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node2/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node3/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node4/node_modules/ejs/package.json" />
@@ -1683,6 +1671,8 @@
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/node_modules/regexp-clone/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/node_modules/sliced/package.json" />
       <path value="$PROJECT_DIR$/node4_shizhan/node8_studentmanagement/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/node_redis/package.json" />
+      <path value="$PROJECT_DIR$/node_redis2/package.json" />
       <path value="$PROJECT_DIR$/ops/runScriptInNode/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/start/package.json" />
@@ -1709,8 +1699,19 @@
       <path value="$PROJECT_DIR$/q0w9qo/ch8/stock/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/server/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/stock/package.json" />
+      <path value="$PROJECT_DIR$/react/my-app/package.json" />
+      <path value="$PROJECT_DIR$/socket/jianshu/byNode/package.json" />
       <path value="$PROJECT_DIR$/socket/socket01/client/package.json" />
       <path value="$PROJECT_DIR$/socket/socket01/server/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/chat/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-httpd/server/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/cluster-nginx/server/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/custom-parsers/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/webpack-build-server/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/webpack-build/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/examples/whiteboard/package.json" />
+      <path value="$PROJECT_DIR$/socket/socketio/package.json" />
       <path value="$PROJECT_DIR$/stock/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/Assignment/solution/package.json" />
       <path value="$PROJECT_DIR$/the-web-developer-bootcamp/Section 23 - Server Side Frameworks/ExpressBasicsExercise/package.json" />
@@ -1937,9 +1938,9 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1443" />
+    <option name="x" value="90" />
     <option name="y" value="39" />
-    <option name="width" value="2357" />
+    <option name="width" value="2833" />
     <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1960,13 +1961,24 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="mongo-in-action-code" type="462c0819:PsiDirectoryNode" />
+              <item name="d3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="mongo-in-action-code" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="d3" type="462c0819:PsiDirectoryNode" />
+              <item name="RainbowTreemap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1997,11 +2009,11 @@
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysql" />
+      <recent name="$PROJECT_DIR$/react" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth" />
       <recent name="$PROJECT_DIR$/auth0" />
-      <recent name="$PROJECT_DIR$/node_redis2" />
-      <recent name="$PROJECT_DIR$/node_redis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2016,36 +2028,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.simple.js">
-    <configuration name="extend.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="extend.js" working-dir="$PROJECT_DIR$/node_redis/examples">
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/mysql/nodecrud-master">
       <method v="2" />
     </configuration>
-    <configuration name="file.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="file.js" working-dir="$PROJECT_DIR$/node_redis2">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/mysql/mine">
       <method v="2" />
     </configuration>
-    <configuration name="monitor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="monitor.js" working-dir="$PROJECT_DIR$/node_redis2">
-      <method v="2" />
-    </configuration>
-    <configuration name="psubscribe.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="psubscribe.js" working-dir="$PROJECT_DIR$/node_redis2">
-      <method v="2" />
-    </configuration>
-    <configuration name="simple.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="simple.js" working-dir="$PROJECT_DIR$/node_redis2">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Node.js.psubscribe.js" />
-      <item itemvalue="Node.js.file.js" />
-      <item itemvalue="Node.js.monitor.js" />
-      <item itemvalue="Node.js.extend.js" />
-      <item itemvalue="Node.js.simple.js" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.simple.js" />
-        <item itemvalue="Node.js.psubscribe.js" />
-        <item itemvalue="Node.js.extend.js" />
-        <item itemvalue="Node.js.monitor.js" />
-        <item itemvalue="Node.js.file.js" />
+        <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -2163,13 +2155,12 @@
       <workItem from="1535746686836" duration="30000" />
       <workItem from="1535746814369" duration="3670000" />
       <workItem from="1536095114244" duration="57000" />
-    </task>
-    <task id="LOCAL-00031" summary="CS503/week02&#10;&#10;fixed error in last commit&#10;&#10;// now able to add new questions in JSON via postman&#10;&#10;// now use postman to try:&#10;&#10;POST: localhost:3000/api/v1/problems&#10;&#10;body/raw/JSON&#10;&#10;{&#10;    &quot;name&quot;: &quot;6th name&quot;,&#10;    &quot;desc&quot;: &quot;6th desc&quot;,&#10;    &quot;difficulty&quot;: &quot;super&quot;&#10;}">
-      <created>1532199173666</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1532199173666</updated>
+      <workItem from="1536095211032" duration="1705000" />
+      <workItem from="1536161495100" duration="5952000" />
+      <workItem from="1536175038609" duration="2504000" />
+      <workItem from="1536352926604" duration="2861000" />
+      <workItem from="1536594420481" duration="3477000" />
+      <workItem from="1536604269696" duration="1152000" />
     </task>
     <task id="LOCAL-00032" summary="CS503/week02&#10;&#10;The server is done, with mongodb connected to store data.&#10;&#10;Next will be connecting front end to back end.">
       <created>1532379434897</created>
@@ -2507,11 +2498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535746870905</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition">
+      <created>1536095256873</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1536095256874</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521151000" />
+    <option name="totallyTimeSpent" value="538802000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2523,9 +2521,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1443" y="39" width="2367" height="2121" extended-state="4" />
+    <frame x="90" y="39" width="2833" height="2121" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.32065907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20652564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2536,8 +2534,8 @@
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8092283" side_tool="true" weight="0.18186611" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.32930037" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.3677012" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.3284868" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.36725903" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19077173" weight="0.182014" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -2594,6 +2592,7 @@
     </option>
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2608,7 +2607,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham01/ham-client&#10;&#10;Now mock data in the data service of angular can be presented" />
     <MESSAGE value="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;start to write the add new clmic" />
     <MESSAGE value="bootstrap413" />
@@ -2633,7 +2631,8 @@
     <MESSAGE value="bittiger_cs503/cs503-master&#10;&#10;https://github.com/choiking/cs503&#10;&#10;cs503 with new version angular added, must be 2018 version" />
     <MESSAGE value="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs" />
     <MESSAGE value="/auth0&#10;&#10;added" />
-    <option name="LAST_COMMIT_MESSAGE" value="/auth0&#10;&#10;added" />
+    <MESSAGE value="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition" />
+    <option name="LAST_COMMIT_MESSAGE" value="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2666,285 +2665,300 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_redis2/simple.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/models/problemModel.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/modules/redisClient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/routes/rest.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/services/problemService.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-server/services/SocketService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week3/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/server.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/models/problemModel.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/modules/redisClient.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/routes/rest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_server.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/executor/executor_utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/pipes/search.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/components/profile/profile.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/components/profile/profile.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/week4/launcher.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/exec.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/README.md">
+    <entry file="file://$PROJECT_DIR$/node_redis/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="731">
-            <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <first_editor relative-caret-position="1064">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-connect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="494">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth0-variables.ts">
+    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-delete.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-17-get-todos/server/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/callback/callback.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/auth/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/src/app/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth/auth0-variables.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="532">
-            <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/06-Single-Sign-On/sso-app-one/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full-stack-tinyurl-master/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full-stack-tinyurl-master/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full-stack-tinyurl-master/nginx/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full-stack-tinyurl-master/nginx/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full-stack-tinyurl-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="760">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter1/1.x_example.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="342">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.1_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.x_examples.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter3/archiver.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter4/listing4_6.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter5/chp5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5206">
+          <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.categories.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.products.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/data/garden.reviews.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/data/export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="68" lean-forward="true" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/data/import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="76" lean-forward="true" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.2_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9690">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter6/chp6.3_code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket01/client/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket01/client/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket01/server/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket01/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/chat/public/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/whiteboard/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="646">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socketio/examples/whiteboard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/views/layouts/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/routes/customers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodecrud-master/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/add.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-server/models/clmicModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham02/ham-server/models/clmicModel_02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham03/server/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/mine/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="e#66#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/flare.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1582">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/ScatterplotTour/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1544">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
