@@ -6,58 +6,72 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition">
-      <change afterPath="$PROJECT_DIR$/d3/RainbowTreemap/flare.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d3/RainbowTreemap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d3/ScatterplotTour/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/mine/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/mine/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/customer.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/public/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/routes/customers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/add_customer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/customers.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/edit_customer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/layouts/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodecrud-master/views/layouts/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/layouts/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/layouts/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/add.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/edit.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/views/user/list.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/my-app/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/note.txt" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/D3.JS&#10;ADDED">
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/reactive-forms/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/click-me.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/click-me2.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/keyup.components.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/little-tour.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/app/loop-back.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/assets/user-input-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/user-input/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -106,19 +120,19 @@
           <entry key="bmp" value="1" />
           <entry key="conf" value="2" />
           <entry key="css" value="25" />
-          <entry key="csv" value="1" />
+          <entry key="csv" value="2" />
           <entry key="data" value="3" />
           <entry key="data2_for_postman" value="4" />
           <entry key="ejs" value="6" />
           <entry key="ejsexcel" value="2" />
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="38" />
-          <entry key="html" value="277" />
+          <entry key="html" value="280" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="515" />
-          <entry key="json" value="116" />
+          <entry key="json" value="117" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="53" />
           <entry key="mongo" value="1" />
@@ -134,8 +148,8 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="13" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="551" />
-          <entry key="txt" value="90" />
+          <entry key="ts" value="553" />
+          <entry key="txt" value="91" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -146,18 +160,19 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="25" />
+          <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="9" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="277" />
-          <entry key="Hoi4 file" value="68" />
+          <entry key="HTML" value="280" />
+          <entry key="Hoi4 file" value="69" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="114" />
+          <entry key="JSON" value="115" />
           <entry key="JavaScript" value="517" />
           <entry key="Markdown" value="46" />
           <entry key="PLAIN_TEXT" value="146" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="551" />
+          <entry key="TypeScript" value="553" />
           <entry key="YAML" value="5" />
           <entry key="tsconfig" value="3" />
         </counts>
@@ -173,24 +188,24 @@
           <entry key="json" value="81" />
           <entry key="py" value="207" />
           <entry key="ts" value="4450" />
-          <entry key="txt" value="6682" />
+          <entry key="txt" value="6697" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="65" />
           <entry key="HTML" value="3630" />
-          <entry key="Hoi4 file" value="2717" />
+          <entry key="Hoi4 file" value="2719" />
           <entry key="JSON" value="81" />
           <entry key="JavaScript" value="2355" />
-          <entry key="PLAIN_TEXT" value="4280" />
+          <entry key="PLAIN_TEXT" value="4293" />
           <entry key="TypeScript" value="4450" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="31" />
+          <entry key="TypeScriptServerServiceImpl" value="32" />
         </counts>
       </usages-collector>
     </session>
@@ -200,11 +215,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysql/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/reactive-forms/e2e/src/app.po.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/reactive-forms/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="8" column="11" selection-start-line="7" selection-start-column="12" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/reactive-forms/note.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular/user-input/e2e/src/app.po.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -278,7 +338,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham03/x01/package.json" />
         <option value="$PROJECT_DIR$/exl/exl_05_xlsx/xlsx_01/note.txt" />
         <option value="$PROJECT_DIR$/exl/exl_05_xlsx/sheet.js.org-master/note.txt" />
         <option value="$PROJECT_DIR$/api/ham03/server/note.txt" />
@@ -329,6 +388,7 @@
         <option value="$PROJECT_DIR$/d3/RainbowTreemap/index.html" />
         <option value="$PROJECT_DIR$/d3/RainbowTreemap/flare.csv" />
         <option value="$PROJECT_DIR$/d3/ScatterplotTour/index.html" />
+        <option value="$PROJECT_DIR$/angular/reactive-forms/note.txt" />
       </list>
     </option>
   </component>
@@ -359,6 +419,7 @@
     <handled-path value="$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/http/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/reactive-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt0/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt1/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt2/node_modules" />
@@ -366,6 +427,7 @@
     <handled-path value="$PROJECT_DIR$/angular/toh-pt4/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt5/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt6/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/user-input/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham01/ham-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham01/ham-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham01/mongo/node_modules" />
@@ -929,6 +991,7 @@
       <path value="$PROJECT_DIR$/aicoder_node/package.json" />
       <path value="$PROJECT_DIR$/angular/cli-quickstart/package.json" />
       <path value="$PROJECT_DIR$/angular/http/package.json" />
+      <path value="$PROJECT_DIR$/angular/reactive-forms/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt0/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt1/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt2/package.json" />
@@ -936,6 +999,7 @@
       <path value="$PROJECT_DIR$/angular/toh-pt4/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt5/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt6/package.json" />
+      <path value="$PROJECT_DIR$/angular/user-input/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/package.json" />
       <path value="$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/package.json" />
@@ -1961,6 +2025,32 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="user-input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="user-input" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="user-input" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="d3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2001,19 +2091,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/angular" />
+      <recent name="$PROJECT_DIR$/mysql" />
+      <recent name="$PROJECT_DIR$/react" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham03/ham-server/py" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/components" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mysql" />
-      <recent name="$PROJECT_DIR$/react" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/src/app/auth" />
-      <recent name="$PROJECT_DIR$/auth0" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2160,14 +2250,7 @@
       <workItem from="1536175038609" duration="2504000" />
       <workItem from="1536352926604" duration="2861000" />
       <workItem from="1536594420481" duration="3477000" />
-      <workItem from="1536604269696" duration="1152000" />
-    </task>
-    <task id="LOCAL-00032" summary="CS503/week02&#10;&#10;The server is done, with mongodb connected to store data.&#10;&#10;Next will be connecting front end to back end.">
-      <created>1532379434897</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1532379434897</updated>
+      <workItem from="1536604269696" duration="4394000" />
     </task>
     <task id="LOCAL-00033" summary="CS503/week02&#10;&#10;Tried frontend backend connection, but not working due to not familiar with current version Angular.">
       <created>1532467052811</created>
@@ -2505,11 +2588,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536095256874</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="/D3.JS&#10;ADDED">
+      <created>1536605505377</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1536605505377</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538802000" />
+    <option name="totallyTimeSpent" value="542044000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2537,7 +2627,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010667" side_tool="true" weight="0.3284868" />
       <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" visible="true" weight="0.36725903" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
-      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19077173" weight="0.182014" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.19077173" visible="true" weight="0.18186724" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2607,7 +2697,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham01/ham-server&#10;&#10;working on the backend (node and exapress)&#10;and database (mongodb)" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;start to write the add new clmic" />
     <MESSAGE value="bootstrap413" />
     <MESSAGE value="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples" />
@@ -2632,7 +2721,8 @@
     <MESSAGE value="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs" />
     <MESSAGE value="/auth0&#10;&#10;added" />
     <MESSAGE value="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="/mongo-in-action-code&#10;&#10;add mongo-in-action-code 2nd edition" />
+    <MESSAGE value="/D3.JS&#10;ADDED" />
+    <option name="LAST_COMMIT_MESSAGE" value="/D3.JS&#10;ADDED" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2665,50 +2755,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_redis/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1064">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-delete.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-9-deleting-documents/playground/mongodb-find.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_07_MongoDB_Mongoose_and_REST_APIs_Todo_API/n-7-17-get-todos/server/server.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mongo-in-action-code/chapter1/1.x_example.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -2934,13 +2980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/flare.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1582">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1634">
@@ -2957,8 +2996,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysql/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/Examples/Album.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/flare.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1354">
+          <caret line="247" column="32" lean-forward="true" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="11" selection-start-line="7" selection-start-column="12" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
