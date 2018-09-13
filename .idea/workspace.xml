@@ -6,852 +6,106 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="remove angularJS and bootstrap in Chinese">
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/angular-bootstrap-md-6.2.3.tgz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/changelog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/gulpfile.lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/lightbox/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/lightbox/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/lightbox/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/04.png~HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/04.png~ecacfc5c730e25dcad92fe8f4a80cba6c23a4b6b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/img/svg/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/license.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/app.routes.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/footer/footer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/footer/footer.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/footer/footer.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/footer/footer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/navigation/navigation.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/navigation/navigation.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/navigation/navigation.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/navigation/navigation.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/main-layout/navigation/navigation.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-card/cascading-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-card/cascading-card.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-card/cascading-card.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-card/cascading-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-panel/cascading-panel.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-panel/cascading-panel.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-panel/cascading-panel.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/cascading-panel/cascading-panel.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/modal/modal.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/modal/modal.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/modal/modal.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/modal/modal.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/overlay-card/overlay-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/overlay-card/overlay-card.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/overlay-card/overlay-card.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/overlay-card/overlay-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/panel/panel.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/panel/panel.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/panel/panel.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/components/panel/panel.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/shared/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/colors/colors.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/colors/colors.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/colors/colors.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/colors/colors.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/grid/grid.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/grid/grid.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/grid/grid.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/grid/grid.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/icons/icons.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/icons/icons.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/icons/icons.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/icons/icons.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/images/images.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/images/images.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/images/images.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/images/images.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/media-object/media-object.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/media-object/media-object.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/media-object/media-object.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/media-object/media-object.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/shadow/shadow.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/shadow/shadow.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/shadow/shadow.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/shadow/shadow.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/typography/typography.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/typography/typography.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/typography/typography.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/typography/typography.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/utilities/utilities.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/utilities/utilities.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/utilities/utilities.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/css/utilities/utilities.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card/stats-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card/stats-card.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card/stats-card.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card/stats-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card2/stats-card2.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card2/stats-card2.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card2/stats-card2.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/common/stats-card2/stats-card2.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/dashboard1/dashboard1.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/dashboard1/dashboard1.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/dashboard1/dashboard1.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/dashboards/dashboard1/dashboard1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/errors/error.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/errors/not-found/not-found.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/errors/not-found/not-found.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/errors/not-found/not-found.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/errors/not-found/not-found.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/help/help.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/help/help.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/help/help.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/help/help.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/maps/map1/map1.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/maps/map1/map1.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/maps/map1/map1.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/maps/map1/map1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/modals/modals.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/modals/modals.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/modals/modals.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/modals/modals.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/profile/profile1/profile1.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/profile/profile1/profile1.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/profile/profile1/profile1.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/profile/profile1/profile1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/tables/basic-table/basic-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/tables/basic-table/basic-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/tables/basic-table/basic-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/tables/basic-table/basic-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/app/views/views.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/angular-mdb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_ASEAN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_African Union(OAS).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Arab League.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_CARICOM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_CIS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Commonwealth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_England.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_European Union.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Islamic Conference.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Kosovo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_NATO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Northern Cyprus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Northern Ireland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_OPEC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Olimpic Movement.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Red Cross.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Scotland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Somaliland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_United Nations.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/_Wales.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/af.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/al.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/am.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/an.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/aq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/as.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/at.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/au.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/aw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/az.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/br.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/by.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/bz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ca.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ci.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/co.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/cz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/dj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/dk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/dm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/do.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/dz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/eg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/eh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/er.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/et.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/fi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/fj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/fm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/fo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ga.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/gy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/hk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/hn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/hr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ht.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/hu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/id.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/il.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/im.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/iq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/is.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/je.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/jm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/jo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/jp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ke.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/km.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/kz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/la.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/li.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/lv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/md.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/my.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/mz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/na.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/nc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/nl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/no.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/np.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/nr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/nz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/om.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/pw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/py.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/qa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/re.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/rs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/rw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/se.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/si.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/so.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/st.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/sz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/td.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/th.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/to.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/tz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ua.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/us.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/uy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/uz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/va.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/vc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/vg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/vi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/vn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/vu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ws.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/ye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/za.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/zm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/assets/img/flags/zw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/buttons.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/buttons.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/checkbox.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/buttons/radio.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/cards.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-body.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-body.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-footer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-footer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-header.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-header.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-image.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-image.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-text.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-text.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-title.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card-title.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/cards/mdb-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/carousel.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/carousel.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/carousel.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/carousel.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/carousel/slide.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/changelog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/chart.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/chart.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/color.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/colors.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/charts/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/checkbox/checkbox.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/checkbox/checkbox.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/checkbox/checkbox.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/checkbox/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/collapse/collapse.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/collapse/collapse.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/collapse/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown-container.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown-container.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown-menu.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown-toggle.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/dropdown.state.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/dropdown/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/icons/icon.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/icons/icon.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/icons/icon.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/icons/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/lightbox/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/lightbox/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/lightbox/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/04.png~HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/04.png~ecacfc5c730e25dcad92fe8f4a80cba6c23a4b6b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/img/svg/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/inputs/equal-validator.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/inputs/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/inputs/inputs.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/inputs/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/inputs/mdb-input.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/license.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/mdb-free.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modal.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modal.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modal.options.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modal.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modalBackdrop.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modalBackdrop.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modalContainer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modalContainer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/modals/modalService.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/links.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/logo.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/navbar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/navbar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/navbar.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/navbar.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/navbars/navlinks.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/popover-container.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/popover-container.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/popover.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/popover.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/popover/popover.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/ripple/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/ripple/ripple-effect.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/ripple/ripple.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/_custom-skin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/_custom-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/_custom-variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/_custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_checkbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_maps.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_sections.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/free/_waves.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/angular/mdb-angular-free.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_masks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/_waves.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/core/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_animations-basic.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_animations-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_carousels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_depreciated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_msc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/free/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/mdb-free.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/licens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/tooltip.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/tooltip.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/tooltip.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/tooltip.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tooltip/tooltip.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/component-loader/bs-component-ref.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/component-loader/component-loader.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/component-loader/component-loader.factory.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/component-loader/content-ref.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/component-loader/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/decorators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/facade/browser.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/linked-list.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/ng2-bootstrap-config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/positioning/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/positioning/ng-positioning.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/positioning/positioning.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/trigger.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/triggers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/utils/utils.class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/waves/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/waves/waves-effect.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/angular-bootstrap-md/waves/waves.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/build-scss-task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/inline-resources.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/release-composer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/rollup-globals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/src-bundler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/src-compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/build-tools/task-helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/public_api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/lib/tsconfig-build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/200x200.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/64x64.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/782x250.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/github-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/img/max-width.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/200x200.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/64x64.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/782x250.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/github-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/img/max-width.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/sections_template/static/jquery/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/200x200.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/64x64.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/782x250.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/github-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/img/max-width.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/templates_examples/single_template/vendor/jquery/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/vendor/jquery/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/css/added_styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/example_with_added_fonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/grid_example_one_row.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/images/rama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/images/sita.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/ie10-viewport-bug-workaround.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/jquery-slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_CDNs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_local_files.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_row_and_columns.html" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/bootstrap413&#10;&#10;add some bootstrap4 example">
+      <change afterPath="$PROJECT_DIR$/angular/architecture/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/backend.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/logger.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/mini-app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/sales-tax.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/sales-tax.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/tax-rate.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/architecture/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/displaying-data/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.module.1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/click.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-form.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-switch.components.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/sizer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/ng-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/villain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/template-syntax/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/auth0/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap413/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap413/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -874,18 +128,18 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="65" />
+          <entry key="project.closed" value="66" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="14" />
           <entry key="project.open.time.6" value="18" />
           <entry key="project.open.time.7" value="16" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="70" />
+          <entry key="project.opened" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -908,7 +162,7 @@
           <entry key="eslintrc" value="1" />
           <entry key="example" value="6" />
           <entry key="gitignore" value="41" />
-          <entry key="html" value="333" />
+          <entry key="html" value="334" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
@@ -930,7 +184,7 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="22" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="675" />
+          <entry key="ts" value="678" />
           <entry key="txt" value="94" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
@@ -945,7 +199,7 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="15" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="333" />
+          <entry key="HTML" value="334" />
           <entry key="Hoi4 file" value="72" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="131" />
@@ -954,7 +208,7 @@
           <entry key="PLAIN_TEXT" value="173" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="675" />
+          <entry key="TypeScript" value="678" />
           <entry key="YAML" value="5" />
           <entry key="tsconfig" value="3" />
         </counts>
@@ -971,7 +225,7 @@
           <entry key="json" value="81" />
           <entry key="py" value="207" />
           <entry key="ts" value="4463" />
-          <entry key="txt" value="6835" />
+          <entry key="txt" value="6866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -981,14 +235,14 @@
           <entry key="Hoi4 file" value="2719" />
           <entry key="JSON" value="81" />
           <entry key="JavaScript" value="2382" />
-          <entry key="PLAIN_TEXT" value="4446" />
+          <entry key="PLAIN_TEXT" value="4477" />
           <entry key="TypeScript" value="4463" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="35" />
+          <entry key="TypeScriptServerServiceImpl" value="36" />
         </counts>
       </usages-collector>
     </session>
@@ -999,31 +253,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/example_with_added_fonts.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/grid_example_one_row.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_CDNs.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_local_files.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/e2e/app.po.ts">
+        <entry file="file://$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -1031,47 +261,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/index.html">
+        <entry file="file://$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auth0/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="9" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -1230,6 +424,7 @@
     <handled-path value="$PROJECT_DIR$/angular/cli-quickstart/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/component-interaction/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/component-styles/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/displaying-data/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/dynamic-component-loader/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/dynamic-form/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/elements/node_modules" />
@@ -1241,6 +436,7 @@
     <handled-path value="$PROJECT_DIR$/angular/reactive-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/router/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/structural-directives/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/template-syntax/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt0/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt1/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/toh-pt2/node_modules" />
@@ -1815,10 +1011,12 @@
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added/n-10-05-async-await-in-todo-api/before/node-course-2-todo-api/package.json" />
       <path value="$PROJECT_DIR$/aicoder_node/package.json" />
       <path value="$PROJECT_DIR$/angular/animations/package.json" />
+      <path value="$PROJECT_DIR$/angular/architecture/package.json" />
       <path value="$PROJECT_DIR$/angular/attribute-directives/package.json" />
       <path value="$PROJECT_DIR$/angular/cli-quickstart/package.json" />
       <path value="$PROJECT_DIR$/angular/component-interaction/package.json" />
       <path value="$PROJECT_DIR$/angular/component-styles/package.json" />
+      <path value="$PROJECT_DIR$/angular/displaying-data/package.json" />
       <path value="$PROJECT_DIR$/angular/dynamic-component-loader/package.json" />
       <path value="$PROJECT_DIR$/angular/dynamic-form/package.json" />
       <path value="$PROJECT_DIR$/angular/elements/package.json" />
@@ -1830,6 +1028,7 @@
       <path value="$PROJECT_DIR$/angular/reactive-forms/package.json" />
       <path value="$PROJECT_DIR$/angular/router/package.json" />
       <path value="$PROJECT_DIR$/angular/structural-directives/package.json" />
+      <path value="$PROJECT_DIR$/angular/template-syntax/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt0/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt1/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt2/package.json" />
@@ -2846,7 +2045,7 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1965" />
+    <option name="x" value="90" />
     <option name="y" value="35" />
     <option name="width" value="1875" />
     <option name="height" value="2125" />
@@ -2859,7 +2058,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2870,24 +2068,34 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap4-beginners-master" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4-examples-master" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2904,19 +2112,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bootstrap413" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/angular" />
-      <recent name="$PROJECT_DIR$/promise" />
-      <recent name="$PROJECT_DIR$/auth0" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham03/ham-server/py" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/components" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/angular" />
+      <recent name="$PROJECT_DIR$/bootstrap413" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/promise" />
+      <recent name="$PROJECT_DIR$/auth0" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -3078,14 +2286,8 @@
       <workItem from="1536604269696" duration="5352000" />
       <workItem from="1536675707638" duration="17697000" />
       <workItem from="1536761068690" duration="17763000" />
-      <workItem from="1536847483205" duration="10553000" />
-    </task>
-    <task id="LOCAL-00037" summary="$PROJECT_DIR$/q0w9qo/ch2/autcion&#10;start to type video code">
-      <created>1532980832827</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1532980832827</updated>
+      <workItem from="1536847483205" duration="10906000" />
+      <workItem from="1536865963782" duration="600000" />
     </task>
     <task id="LOCAL-00038" summary="$PROJECT_DIR$/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position">
       <created>1532984253421</created>
@@ -3423,11 +2625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536864725847</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="/bootstrap413&#10;&#10;add some bootstrap4 example">
+      <created>1536865579356</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1536865579356</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="589015000" />
+    <option name="totallyTimeSpent" value="589968000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -3439,9 +2648,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1965" y="35" width="1875" height="2125" extended-state="4" />
+    <frame x="90" y="35" width="1875" height="2125" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.40106666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.3984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3449,13 +2658,13 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.8092283" side_tool="true" visible="true" weight="0.18148343" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72533333" side_tool="true" visible="true" weight="0.19516045" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" weight="0.18093699" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.06529951" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
-      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.27525944" weight="0.19547658" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.27466667" visible="true" weight="0.19516045" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -3525,7 +2734,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data." />
     <MESSAGE value="api/ham01/&#10;&#10;done for the day. Continue the server end tomorrow." />
     <MESSAGE value="api/ham01/ham-server&#10;&#10;schema simplified to 4 variables&#10;mongodb create read drop by mongoose written&#10;server able to read routes of mongodb" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now client is also simplified to 4 variables just like the server end. ready to connect to the server end." />
@@ -3550,7 +2758,8 @@
     <MESSAGE value="add some auth0 examples" />
     <MESSAGE value="/angular&#10;&#10;add some official angular examples" />
     <MESSAGE value="remove angularJS and bootstrap in Chinese" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove angularJS and bootstrap in Chinese" />
+    <MESSAGE value="/bootstrap413&#10;&#10;add some bootstrap4 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="/bootstrap413&#10;&#10;add some bootstrap4 example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3583,36 +2792,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/click-me.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/keyup.components.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/little-tour.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3620,13 +2799,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/forms/src/app/hero.ts">
       <provider selected="true" editor-type-id="text-editor" />
@@ -3638,9 +2811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#99#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3656,9 +2826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1444">
           <caret line="38" column="59" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3753,30 +2920,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-enter-leave.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-timings.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS教程/9Http/1通用方法实例AngularJS15以上版本实例.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS教程/9Http/1通用方法实例AngularJS15以上版本实例.html" />
     <entry file="file://$PROJECT_DIR$/bootstrap413/01.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3872,8 +3021,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/architecture/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
