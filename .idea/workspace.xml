@@ -6,321 +6,19 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="angular/user-input&#10;&#10;official angular form example">
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/astronaut.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/countdown-parent.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/countdown-timer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/hero-child.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/hero-parent.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/mission.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/missioncontrol.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/name-child.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/name-parent.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/version-child.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/version-parent.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/voter.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/app/votetaker.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/assets/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-interaction/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-app-main.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-controls.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-details-box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-details.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-details.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero-team.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/quest-summary.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/quest-summary.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/app/quest-summary.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/assets/hero-team.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/component-styles/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/ad-banner.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/ad-item.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/ad.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/ad.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/ad.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/hero-job-ad.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/app/hero-profile.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/assets/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form-question.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form-question.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-base.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-dropdown.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-textbox.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/assets/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/dynamic-form/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/app/popup.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/app/popup.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/elements/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/reactive/hero-form-reactive.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/reactive/hero-form-reactive.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/reactive/hero-form-reactive.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/shared/forbidden-name.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/shared/identity-revealed.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/template/hero-form-template.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/template/hero-form-template.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/app/template/hero-form-template.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/assets/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/form-validation/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/hero-form/hero-form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/hero-form/hero-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/hero-form/hero-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/assets/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/styles.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/forms/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/after-content.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/after-view.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/counter.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/do-check-parent.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/do-check.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/logger.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/on-changes-parent.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/on-changes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/peek-a-boo-parent.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/peek-a-boo.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/spy.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/spy.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/app/spy.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/assets/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/exponential-strength.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/fetch-json.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/flying-heroes-impure.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/flying-heroes.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/flying-heroes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/flying-heroes.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/hero-async-message.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/hero-birthday1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/hero-birthday2.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/hero-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/heroes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/power-boost-calculator.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/app/power-booster.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/assets/heroes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/pipes/tslint.json" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/angular&#10;&#10;add some official angular examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/new-problem/new-problem.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bittiger_cs503/week3/oj-client/src/app/components/new-problem/new-problem.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/animations/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/attribute-directives/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/attribute-directives/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/cli-quickstart/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/cli-quickstart/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/component-interaction/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/component-interaction/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/component-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/component-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/dynamic-component-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/dynamic-component-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/elements/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/elements/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/lifecycle-hooks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/lifecycle-hooks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/pipes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/pipes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/structural-directives/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/structural-directives/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -377,12 +75,12 @@
           <entry key="eslintrc" value="1" />
           <entry key="example" value="6" />
           <entry key="gitignore" value="38" />
-          <entry key="html" value="322" />
+          <entry key="html" value="323" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="530" />
-          <entry key="json" value="129" />
+          <entry key="json" value="131" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="59" />
           <entry key="mongo" value="1" />
@@ -399,7 +97,7 @@
           <entry key="run ng serve on the server" value="2" />
           <entry key="sh" value="22" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="667" />
+          <entry key="ts" value="674" />
           <entry key="txt" value="94" />
           <entry key="www" value="1" />
           <entry key="xlrd" value="1" />
@@ -414,16 +112,16 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="15" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="322" />
+          <entry key="HTML" value="323" />
           <entry key="Hoi4 file" value="72" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="127" />
+          <entry key="JSON" value="129" />
           <entry key="JavaScript" value="532" />
           <entry key="Markdown" value="52" />
           <entry key="PLAIN_TEXT" value="170" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="667" />
+          <entry key="TypeScript" value="674" />
           <entry key="YAML" value="5" />
           <entry key="tsconfig" value="3" />
         </counts>
@@ -440,7 +138,7 @@
           <entry key="json" value="81" />
           <entry key="py" value="207" />
           <entry key="ts" value="4463" />
-          <entry key="txt" value="6754" />
+          <entry key="txt" value="6791" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -450,7 +148,7 @@
           <entry key="Hoi4 file" value="2719" />
           <entry key="JSON" value="81" />
           <entry key="JavaScript" value="2382" />
-          <entry key="PLAIN_TEXT" value="4362" />
+          <entry key="PLAIN_TEXT" value="4399" />
           <entry key="TypeScript" value="4463" />
         </counts>
       </usages-collector>
@@ -467,50 +165,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/pipes/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/lifecycle-hooks/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/component-interaction/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/component-styles/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/elements/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/angular/dynamic-component-loader/e2e/src/app.po.ts">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/AngularJS教程/9Http/1通用方法实例AngularJS15以上版本实例.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -662,6 +323,7 @@
     <handled-path value="$PROJECT_DIR$/Udemy_LearnandUnderstandNodeJS/_09_Express/I7_StructuringOurApp/Finished/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/animations/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/dynamic-form/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/form-validation/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/forms/node_modules" />
@@ -1239,6 +901,8 @@
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added/n-10-05-async-await-in-todo-api/after/node-course-2-todo-api/package.json" />
       <path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_10_AsyncAwait _Just_Added/n-10-05-async-await-in-todo-api/before/node-course-2-todo-api/package.json" />
       <path value="$PROJECT_DIR$/aicoder_node/package.json" />
+      <path value="$PROJECT_DIR$/angular/animations/package.json" />
+      <path value="$PROJECT_DIR$/angular/attribute-directives/package.json" />
       <path value="$PROJECT_DIR$/angular/cli-quickstart/package.json" />
       <path value="$PROJECT_DIR$/angular/component-interaction/package.json" />
       <path value="$PROJECT_DIR$/angular/component-styles/package.json" />
@@ -1251,6 +915,8 @@
       <path value="$PROJECT_DIR$/angular/lifecycle-hooks/package.json" />
       <path value="$PROJECT_DIR$/angular/pipes/package.json" />
       <path value="$PROJECT_DIR$/angular/reactive-forms/package.json" />
+      <path value="$PROJECT_DIR$/angular/router/package.json" />
+      <path value="$PROJECT_DIR$/angular/structural-directives/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt0/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt1/package.json" />
       <path value="$PROJECT_DIR$/angular/toh-pt2/package.json" />
@@ -2288,117 +1954,7 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-interaction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-interaction" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-interaction" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-styles" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="component-styles" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="lifecycle-hooks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="lifecycle-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="lifecycle-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="pipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="pipes" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="pipes" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ops" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap教程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2599,14 +2155,7 @@
       <workItem from="1536604269696" duration="5352000" />
       <workItem from="1536675707638" duration="17697000" />
       <workItem from="1536761068690" duration="17763000" />
-      <workItem from="1536847483205" duration="8844000" />
-    </task>
-    <task id="LOCAL-00035" summary="exl/&#10;&#10;tired several xls/xlsx fill generation lib of nodejs">
-      <created>1532639095920</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1532639095920</updated>
+      <workItem from="1536847483205" duration="9642000" />
     </task>
     <task id="LOCAL-00036" summary="exl/&#10;&#10;tired several xls/xlsx fill generation lib of nodejs">
       <created>1532719980449</created>
@@ -2944,11 +2493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536784188584</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="/angular&#10;&#10;add some official angular examples">
+      <created>1536864031900</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1536864031901</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="587306000" />
+    <option name="totallyTimeSpent" value="588104000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2961,9 +2517,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1965" y="35" width="1875" height="2125" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.22133334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.40106666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3047,7 +2602,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is visible, with frontend mock data." />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now the input form is able to create new temp clmic  in the memory.&#10;&#10;Data service methods are modified to use an array to store the mock data and the new created clmic data." />
     <MESSAGE value="api/ham01/&#10;&#10;done for the day. Continue the server end tomorrow." />
@@ -3072,7 +2626,8 @@
     <MESSAGE value="/D3.JS&#10;ADDED" />
     <MESSAGE value="angular/user-input&#10;&#10;official angular form example" />
     <MESSAGE value="add some auth0 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some auth0 examples" />
+    <MESSAGE value="/angular&#10;&#10;add some official angular examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="/angular&#10;&#10;add some official angular examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3105,63 +2660,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1021">
-          <caret line="36" column="126" selection-start-line="36" selection-start-column="126" selection-end-line="36" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-calling-an-api/.env">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/src/app/admin/admin.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/auth0-angular-samples-master/04-Authorization/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-728">
-            <caret line="42" column="19" selection-start-line="42" selection-end-line="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3418,7 +2916,67 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/dynamic-component-loader/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/attribute-directives/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/structural-directives/e2e/src/app.po.ts">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/router/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-enter-leave.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-timings.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS教程/9Http/1通用方法实例AngularJS15以上版本实例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

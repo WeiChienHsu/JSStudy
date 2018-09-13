@@ -1,8 +1,0 @@
-更多实例
-元素/类	描述	实例
-<var>	变量赋值: x = ab + y	尝试一下
-<kbd>	按键提示： CTRL + P	尝试一下
-<pre>	多行代码	尝试一下
-<pre class="pre-scrollable">	多行代码带有滚动条	尝试一下
-<samp>	电脑程序输出: Sample output	尝试一下
-<code>	同一行代码片段: span, div	尝试一下
