@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title> Bootstrap 4 Starter With Row and Columns</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+</head>
+
+<body>
+
+  <!-- Bootstrap WANTS this container class -->
+  <div class="container">
+
+    <h1>Using rows and columns</h1>
+
+  <div class="row">
+
+  <div class="col-md-6">
+    <p>This file's HTML is copied and adapted from the <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template">Bootstrap 4 introduction</a>. It uses Bootstrap's distinctive row and column classes.</p>
+    <!-- alerts are explained here: https://getbootstrap.com/docs/4.0/components/alerts/
+        --> 
+    <p class="alert alert-warning">Every column <em>below</em> uses <code>class="col-md-3"</code>, creating four columns across the 12-column grid. Resize this page to view the column behavior.</p>
+  </div><!-- end col -->
+
+  <div class="col-md-6">
+    <p>A typical Bootstrap layout is wrapped in a DIV with the "container" class.</p>
+    <p>Inside the container DIV, we add other DIVs to wrap rows and columns. This is the core of Bootstrap's <a href="http://getbootstrap.com/docs/4.0/layout/grid/">grid system</a> &leftarrow; that page explains it well. Keep in mind, <em>columns</em> must be inside <em>rows</em>.</p>
+  </div><!-- end col -->
+
+  </div><!-- end row -->
+
+  <!-- the row below contains FOUR columns -->
+  <div class="row">
+
+  <div class="col-md-3">
+      <p><code>class="col"</code> &mdash; This is allowed (no breakpoint is specified, and no number of columns is specified), but results might be poor with multiple columns in a row.</p>
+  </div><!-- end col -->
+  <div class="col-md-3">
+    <p><code>class="col-sm"</code> &mdash; "Grid columns <strong>without a set width</strong> will automatically lay out with equal widths. For example, four instances of <code>.col-sm</code> will each automatically be 25% wide for small breakpoints.</p>
+  </div><!-- end col -->
+  <div class="col-md-3">
+    <p><code>class="col-sm-4"</code> &mdash; "Column classes indicate <strong>the number of columns you’d like to use</strong> out of the possible 12 per row. So, if you want three equal-width columns, you can use <code>.col-sm-4</code>." Note that the 12-column standard means using a width of "4" gives us three columns in a row. Using a width of "6" gives us <em>two</em> columns in a row.</p>
+  </div><!-- end col -->
+  <div class="col-md-3">
+    <p><code>class="col-sm-4 col-md-3"</code> &mdash; <strong>Column classes can be combined</strong> in this way to create different layouts for different device widths. The 12-column standard means we'll have three columns in a row on small devices and four columns in a row on medium and larger devices.</p>
+  </div><!-- end col -->
+
+  </div><!-- end row -->
+  </div><!-- end container -->
+
+
+  <!-- Optional JavaScript for Bootstrap 4 not included here -->
+<!-- DO NOT forget your closing tags! -->
+</body>
+</html>

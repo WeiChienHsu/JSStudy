@@ -8,6 +8,8 @@ site/docs/4.1/dist/
 .bundle
 vendor/cache
 vendor/bundle
+node_modules/
+
 
 # Numerous always-ignore extensions
 *.diff
