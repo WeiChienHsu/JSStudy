@@ -1,0 +1,41 @@
+<form [formGroup]="form">
+  <md-card>
+    <md-card-header>
+      <md-card-title>登录：</md-card-title>
+    </md-card-header>
+    <md-card-content>
+      <md-input-container hintLabel="必填项" class="full-width">
+        <input mdInput type="text" placeholder="您的email" formControlName="email">
+      </md-input-container>
+      <md-input-container hintLabel="必填项" class="full-width">
+        <input mdInput type="text" placeholder="密码" formControlName="password">
+      </md-input-container>
+      <hr>
+      <button md-raised-button type="button" color="primary" [disabled]="!form.valid" (click)="login()">登录</button>
+    </md-card-content>
+    <md-card-actions class="text-right">
+      <p>还没有账户吗？
+        <a href="javascript:;" (click)="toRegister('regist')">注册</a>
+      </p>
+      <p>忘记密码？
+        <a href="javascript:;" (click)="toRegister('find')">找回</a>
+      </p>
+      <p style="color:red;text-align: left;font-size:20px;margin:0;" *ngIf="wrong">
+        用户名或密码不对！
+      </p>
+    </md-card-actions>
+  </md-card>
+
+  <md-card>
+    <md-card-header>
+      <md-card-title>每日佳句</md-card-title>
+      <md-card-subtitle>{{(quote$ |async).cn}}</md-card-subtitle>
+    </md-card-header>
+    <img md-card-image [src]="(quote$ |async).pic">
+    <md-card-content>
+      <span>
+        {{(quote$ |async).en}}
+      </span>
+    </md-card-content>
+  </md-card>
+</form>

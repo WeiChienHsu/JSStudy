@@ -1,0 +1,15 @@
+.fab-button {
+  position: fixed;
+  right: 30px;
+  bottom: 80px;
+  z-index: 1000;
+}
+.tasklists {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  overflow-x: auto;
+}
+.drag-enter{
+  background:rgba(238, 235, 235, 0.7);
+}

@@ -6,106 +6,508 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/bootstrap413&#10;&#10;add some bootstrap4 example">
-      <change afterPath="$PROJECT_DIR$/angular/architecture/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/backend.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/logger.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/mini-app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/sales-tax.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/sales-tax.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/app/tax-rate.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/architecture/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/displaying-data/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.module.1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/click.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero-switch.components.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/app/sizer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/ng-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/assets/images/villain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/template-syntax/tslint.json" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="/angular&#10;add more official angular example">
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/proxy.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/pipe/filter.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/pipe/filter.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/web-socket.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/web-socket.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/web-image/商品详情页.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/web-image/网页首页.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/Angular CLI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/auction-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product-detail/product-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product-detail/product-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product-detail/product-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product-detail/product-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product/product.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product/product.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product/product.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/product/product.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/stars/stars.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/stars/stars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/stars/stars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/app/stars/stars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/auction-master/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/img/principle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/img/route.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/img/route2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product/product.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product/product.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product/product.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product/product.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/seller-info/seller-info.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/seller-info/seller-info.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/seller-info/seller-info.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/seller-info/seller-info.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/shared/product.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/shared/product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/stars/stars.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/stars/stars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/stars/stars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/stars/stars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/imooc-auction-master/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/.angulardoc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/mock/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/actions/auth.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/actions/quote.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/anims/card.anim.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/anims/item.anim.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/anims/list.anim.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/anims/router.anim.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/core.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/footer/footer.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/header/header.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/sidebar/sidebar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/sidebar/sidebar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/core/sidebar/sidebar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/directive/directive.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/directive/drag-drop.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/directive/drag-drop/drag.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/directive/drag-drop/drop.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/err.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/project.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/quote.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/task-list.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/task.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/domain/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/effects/auth.effect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/effects/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/effects/quote.effects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/login-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/login.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/login/login.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/register/register.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/login/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/my-calecdar/calendar-home/calendar-home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/my-calecdar/calendar-home/calendar-home.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/my-calecdar/calendar-home/calendar-home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/my-calecdar/my-calecdar.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/invite/invite.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/invite/invite.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/invite/invite.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/new-project/new-project.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/new-project/new-project.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/new-project/new-project.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-item/project-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-item/project-item.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-item/project-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-list/project-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-list/project-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-list/project-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/project/project.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/reducers/auth.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/reducers/quote.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/auth-guard.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/auth.mode.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/err.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/project.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/quote.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/service.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/task-list.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/task.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/service/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/age-input/age-input.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/age-input/age-input.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/age-input/age-input.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/area-list/area-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/area-list/area-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/area-list/area-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/chips-list/chips-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/chips-list/chips-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/chips-list/chips-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/confim-dialog/confim-dialog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/identity-input/identity-input.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/identity-input/identity-input.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/identity-input/identity-input.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/image-list/image-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/image-list/image-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/image-list/image-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/copy-task/copy-task.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/copy-task/copy-task.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/copy-task/copy-task.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task-list/new-task-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task-list/new-task-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task-list/new-task-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task/new-task.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task/new-task.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/new-task/new-task.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/quick-task/quick-task.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/quick-task/quick-task.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/quick-task/quick-task.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-header/task-header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-header/task-header.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-header/task-header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-home/task-home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-home/task-home.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-home/task-home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-item/task-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-item/task-item.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-item/task-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-list/task-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-list/task-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-list/task-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/task/task.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/area.data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/area.utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/date.util.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/identity.data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/identity.util.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/sug.utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/app/utils/type.util.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/avatar/avatars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/avatar/unassigned.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/0_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/10_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/11_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/12_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/13_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/14_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/15_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/16_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/17_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/18_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/19_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/1_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/20_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/21_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/22_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/23_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/24_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/25_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/26_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/27_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/28_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/29_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/2_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/30_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/31_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/32_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/33_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/34_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/35_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/36_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/37_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/38_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/39_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/3_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/4_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/5_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/6_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/7_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/8_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/covers/9_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day18.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day19.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day20.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day21.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day22.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day23.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day24.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day25.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day26.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day27.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day28.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day29.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day30.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day31.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/days/day9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/developer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/icons/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/icons/burger-navigation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/icons/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/icons/hand-grab-o.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/icons/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/not-found.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/quotes/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/sidebar/day.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/sidebar/month.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/sidebar/project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/sidebar/projects.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/assets/img/sidebar/week.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch3/router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch3/router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch3/stock/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch3/stock/.angular-cli.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch3/stock/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch3/stock/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -128,31 +530,31 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="66" />
+          <entry key="project.closed" value="72" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="7" />
-          <entry key="project.open.time.5" value="14" />
-          <entry key="project.open.time.6" value="18" />
-          <entry key="project.open.time.7" value="16" />
+          <entry key="project.open.time.5" value="16" />
+          <entry key="project.open.time.6" value="20" />
+          <entry key="project.open.time.7" value="17" />
           <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="71" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
-          <entry key="Dockerfile" value="15" />
+          <entry key="Dockerfile" value="17" />
           <entry key="Gemfile" value="1" />
           <entry key="LICENSE" value="2" />
           <entry key="Makefile" value="2" />
-          <entry key="angular4入门与实战" value="1" />
+          <entry key="angular4入门与实战" value="2" />
           <entry key="bmp" value="1" />
-          <entry key="conf" value="2" />
-          <entry key="css" value="32" />
+          <entry key="conf" value="3" />
+          <entry key="css" value="42" />
           <entry key="csv" value="2" />
           <entry key="data" value="3" />
           <entry key="data2_for_postman" value="4" />
@@ -162,14 +564,15 @@
           <entry key="eslintrc" value="1" />
           <entry key="example" value="6" />
           <entry key="gitignore" value="41" />
-          <entry key="html" value="334" />
+          <entry key="htm" value="1" />
+          <entry key="html" value="391" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="533" />
-          <entry key="json" value="133" />
+          <entry key="js" value="556" />
+          <entry key="json" value="155" />
           <entry key="json2xls" value="2" />
-          <entry key="md" value="60" />
+          <entry key="md" value="70" />
           <entry key="mongo" value="1" />
           <entry key="mongodb_commands" value="1" />
           <entry key="njs" value="1" />
@@ -177,72 +580,74 @@
           <entry key="node_versions" value="3" />
           <entry key="notes" value="1" />
           <entry key="ps1" value="1" />
-          <entry key="py" value="30" />
+          <entry key="py" value="32" />
           <entry key="rb" value="3" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
           <entry key="run ng serve on the server" value="2" />
-          <entry key="sh" value="22" />
+          <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="678" />
-          <entry key="txt" value="94" />
-          <entry key="www" value="1" />
+          <entry key="ts" value="796" />
+          <entry key="txt" value="105" />
+          <entry key="www" value="2" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
-          <entry key="yml" value="5" />
+          <entry key="yml" value="8" />
           <entry key="项目清单" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="32" />
+          <entry key="CSS" value="42" />
           <entry key="CSV" value="1" />
-          <entry key="Dockerfile" value="15" />
+          <entry key="Dockerfile" value="17" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="334" />
-          <entry key="Hoi4 file" value="72" />
+          <entry key="HTML" value="392" />
+          <entry key="Hoi4 file" value="83" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="131" />
-          <entry key="JavaScript" value="535" />
-          <entry key="Markdown" value="53" />
-          <entry key="PLAIN_TEXT" value="173" />
+          <entry key="JSON" value="153" />
+          <entry key="JavaScript" value="559" />
+          <entry key="Markdown" value="63" />
+          <entry key="PLAIN_TEXT" value="180" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="678" />
-          <entry key="YAML" value="5" />
+          <entry key="TypeScript" value="796" />
+          <entry key="YAML" value="8" />
           <entry key="tsconfig" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="2" />
-          <entry key="css" value="65" />
+          <entry key="css" value="72" />
           <entry key="data2_for_postman" value="51" />
           <entry key="env" value="12" />
           <entry key="gitignore" value="58" />
           <entry key="html" value="3645" />
           <entry key="js" value="2381" />
-          <entry key="json" value="81" />
+          <entry key="json" value="85" />
+          <entry key="md" value="3" />
           <entry key="py" value="207" />
-          <entry key="ts" value="4463" />
-          <entry key="txt" value="6866" />
+          <entry key="ts" value="4468" />
+          <entry key="txt" value="6932" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="65" />
+          <entry key="CSS" value="72" />
           <entry key="HTML" value="3644" />
-          <entry key="Hoi4 file" value="2719" />
-          <entry key="JSON" value="81" />
+          <entry key="Hoi4 file" value="2720" />
+          <entry key="JSON" value="85" />
           <entry key="JavaScript" value="2382" />
-          <entry key="PLAIN_TEXT" value="4477" />
-          <entry key="TypeScript" value="4463" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="4542" />
+          <entry key="TypeScript" value="4468" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
-          <entry key="TypeScriptServerServiceImpl" value="36" />
+          <entry key="TypeScriptServerServiceImpl" value="43" />
         </counts>
       </usages-collector>
     </session>
@@ -251,21 +656,105 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-912">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/e2e/app.po.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/shared/product.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/product1/product1.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/product1/product1.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -284,17 +773,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sheetjs</find>
-      <find>request(url, {encoding: null}, function(err, res, data) {</find>
-      <find>SystemIdentifier</find>
-      <find>socket.id</find>
       <find>collaborationSOcket</find>
       <find>request</find>
       <find>/build_and_run</find>
       <find>node-rest-client</find>
       <find>eueu</find>
       <find>build</find>
-      <find>pipe</find>
       <find>server</find>
       <find>socket</find>
       <find>socketService</find>
@@ -314,6 +798,11 @@
       <find>#heroForm</find>
       <find>heroFormheroForm</find>
       <find>heroForm</find>
+      <find>discon</find>
+      <find>scream$</find>
+      <find>interval</find>
+      <find>pipe</find>
+      <find>ngsubmit</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -339,13 +828,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/ham03/x02/help.py" />
-        <option value="$PROJECT_DIR$/api/ham03/x02/index.js" />
-        <option value="$PROJECT_DIR$/api/ham03/x02/compute_input.py" />
-        <option value="$PROJECT_DIR$/ops/runScriptInNode/test.sh" />
-        <option value="$PROJECT_DIR$/ops/runScriptInNode/package.json" />
-        <option value="$PROJECT_DIR$/ops/runScriptInNode/app.js" />
-        <option value="$PROJECT_DIR$/api/ham03/note03.txt" />
         <option value="$PROJECT_DIR$/api/ham03/x02/note_x02.txt" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/app.js" />
@@ -390,6 +872,13 @@
         <option value="$PROJECT_DIR$/auth0/.gitignore" />
         <option value="$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/.gitignore" />
         <option value="$PROJECT_DIR$/bootstrap413/.gitignore" />
+        <option value="$PROJECT_DIR$/bittiger_cs503/week4/oj-client/src/app/components/editor/editor.component.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch2/auction/src/app/stars/stars.component.css" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch2/ch2.txt" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch3/router/src/app/guard/product.guard.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch3/stock/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch3/router/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/q0w9qo/auction-master/Angular CLI.md" />
       </list>
     </option>
   </component>
@@ -420,6 +909,7 @@
     <handled-path value="$PROJECT_DIR$/Udemy_TheCompleteNodejsDeveloperCourse2nd/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/Udemy_The_Complete_Nodejs_Developer_Course_2nd_Edition/_03_Nodejs_Fundamentals_Note_App/n-3-15-listing-notes/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/animations/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/architecture/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/attribute-directives/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/cli-quickstart/node_modules" />
     <handled-path value="$PROJECT_DIR$/angular/component-interaction/node_modules" />
@@ -493,9 +983,16 @@
     <handled-path value="$PROJECT_DIR$/node4_shizhan/node7_shuoshuo/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_redis/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_redis2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/auction-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/auction/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/stock/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/router/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/router3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/stock/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch4/di/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/imooc-auction-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/react/my-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/socket/jianshu/byNode/node_modules" />
     <handled-path value="$PROJECT_DIR$/socket/socket01/client/node_modules" />
@@ -1781,6 +2278,8 @@
       <path value="$PROJECT_DIR$/node_redis/package.json" />
       <path value="$PROJECT_DIR$/node_redis2/package.json" />
       <path value="$PROJECT_DIR$/ops/runScriptInNode/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/auction-master/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/start/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/stock/package.json" />
@@ -1806,6 +2305,8 @@
       <path value="$PROJECT_DIR$/q0w9qo/ch8/stock/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/server/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch9/stock/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/imooc-auction-master/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/package.json" />
       <path value="$PROJECT_DIR$/react/my-app/package.json" />
       <path value="$PROJECT_DIR$/socket/jianshu/byNode/package.json" />
       <path value="$PROJECT_DIR$/socket/socket01/client/package.json" />
@@ -2045,9 +2546,9 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="90" />
+    <option name="x" value="1005" />
     <option name="y" value="35" />
-    <option name="width" value="1875" />
+    <option name="width" value="2835" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -2068,28 +2569,150 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="template-syntax" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="product1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="stock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2112,19 +2735,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/api/ham01/ham-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/q0w9qo" />
+      <recent name="$PROJECT_DIR$/q0w9qo/auction-master" />
+      <recent name="$PROJECT_DIR$/angular" />
+      <recent name="$PROJECT_DIR$/bootstrap413" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/ham03/ham-server/py" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/components" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router/src" />
       <recent name="$PROJECT_DIR$/q0w9qo/ch3/router3" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/angular" />
-      <recent name="$PROJECT_DIR$/bootstrap413" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/promise" />
-      <recent name="$PROJECT_DIR$/auth0" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2139,28 +2762,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.promise02.js">
+  <component name="RunManager" selected="Node.js.index.js (1)">
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/mysql/mine">
+    <configuration name="currency.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="currency.js" working-dir="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_201">
       <method v="2" />
     </configuration>
-    <configuration name="promise01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="promise01.js" working-dir="$PROJECT_DIR$/promise">
+    <configuration name="echo_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="echo_server.js" working-dir="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_209">
       <method v="2" />
     </configuration>
-    <configuration name="promise02.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="promise02.js" working-dir="$PROJECT_DIR$/promise">
+    <configuration name="geometry prototypes example.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="geometry prototypes example.js" working-dir="$PROJECT_DIR$/JavaScript-Snippets">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_214">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/NodeJS_In_Action_2nd/ch02-intro-to-node/listing_211">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.app.js" />
-      <item itemvalue="Node.js.promise01.js" />
-      <item itemvalue="Node.js.promise02.js" />
+      <item itemvalue="Node.js.geometry prototypes example.js" />
+      <item itemvalue="Node.js.currency.js" />
+      <item itemvalue="Node.js.echo_server.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.index.js (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.promise02.js" />
-        <item itemvalue="Node.js.promise01.js" />
+        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.echo_server.js" />
+        <item itemvalue="Node.js.currency.js" />
+        <item itemvalue="Node.js.geometry prototypes example.js" />
       </list>
     </recent_temporary>
   </component>
@@ -2287,14 +2921,14 @@
       <workItem from="1536675707638" duration="17697000" />
       <workItem from="1536761068690" duration="17763000" />
       <workItem from="1536847483205" duration="10906000" />
-      <workItem from="1536865963782" duration="600000" />
-    </task>
-    <task id="LOCAL-00038" summary="$PROJECT_DIR$/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position">
-      <created>1532984253421</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1532984253421</updated>
+      <workItem from="1536865963782" duration="4803000" />
+      <workItem from="1536930290083" duration="8721000" />
+      <workItem from="1537191303808" duration="3188000" />
+      <workItem from="1537195975609" duration="397000" />
+      <workItem from="1537198722169" duration="25286000" />
+      <workItem from="1537361965910" duration="8309000" />
+      <workItem from="1537372130761" duration="303000" />
+      <workItem from="1537373655863" duration="9678000" />
     </task>
     <task id="LOCAL-00039" summary="$PROJECT_DIR$/q0w9qo/ch2/autcion&#10;&#10;bootstrap 4 and jquery installed and imported into angular.json with relative position, this one is corrected and now it's working">
       <created>1533046577873</created>
@@ -2632,11 +3266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536865579356</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="/angular&#10;add more official angular example">
+      <created>1536866603220</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1536866603221</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="589968000" />
+    <option name="totallyTimeSpent" value="650053000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2648,9 +3289,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="1875" height="2125" extended-state="4" />
+    <frame x="1005" y="35" width="2835" height="2125" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.3984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.26948854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2658,13 +3299,13 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72533333" side_tool="true" visible="true" weight="0.19516045" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72493297" side_tool="true" weight="0.27080292" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" weight="0.18093699" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.52698326" side_tool="true" weight="0.06529951" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.65763927" side_tool="true" weight="0.19516045" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
-      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.27466667" visible="true" weight="0.19516045" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.34236076" visible="true" weight="0.19463441" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2734,7 +3375,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham01/&#10;&#10;done for the day. Continue the server end tomorrow." />
     <MESSAGE value="api/ham01/ham-server&#10;&#10;schema simplified to 4 variables&#10;mongodb create read drop by mongoose written&#10;server able to read routes of mongodb" />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;now client is also simplified to 4 variables just like the server end. ready to connect to the server end." />
     <MESSAGE value="api/ham01/ham-client&#10;&#10;Working on connect the front end to the server. Mostly working on change the data service from mock data in the front end to the server route." />
@@ -2759,7 +3399,8 @@
     <MESSAGE value="/angular&#10;&#10;add some official angular examples" />
     <MESSAGE value="remove angularJS and bootstrap in Chinese" />
     <MESSAGE value="/bootstrap413&#10;&#10;add some bootstrap4 example" />
-    <option name="LAST_COMMIT_MESSAGE" value="/bootstrap413&#10;&#10;add some bootstrap4 example" />
+    <MESSAGE value="/angular&#10;add more official angular example" />
+    <option name="LAST_COMMIT_MESSAGE" value="/angular&#10;add more official angular example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2792,261 +3433,336 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.component.css">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/guard/unsaved.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/product/product-desc/product-desc.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/hero.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/test.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/product/product.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/styles.1.css">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/guard/product.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/stock/stock-form/stock-form.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/styles.css">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/hero-form/hero-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="38" column="59" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="59" />
+        <state relative-caret-position="722">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/forms/src/app/hero-form/hero-form.component.html">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="43" />
+        <state relative-caret-position="760">
+          <caret line="20" selection-start-line="20" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/cli-quickstart/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/form-validation/e2e/src/app.po.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="608">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/pipes/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/lifecycle-hooks/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/component-interaction/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/component-styles/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/elements/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/dynamic-component-loader/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/attribute-directives/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/structural-directives/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/router/e2e/src/app.po.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/angular.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-795" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-enter-leave.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/src/app/hero-list-timings.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS教程/9Http/1通用方法实例AngularJS15以上版本实例.html" />
-    <entry file="file://$PROJECT_DIR$/bootstrap413/01.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/1AJAX 教程/AJAX 教程.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/readme.md">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-94">
-            <caret line="2" column="81" lean-forward="true" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+          <first_editor relative-caret-position="76">
+            <caret line="2" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/05filewatch.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aicoder_node/demos/11readDir.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/animations/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/example_with_added_fonts.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/grid_example_one_row.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_CDNs.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_local_files.html">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/router/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/e2e/app.po.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="646">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth0/.gitignore">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/dashboard/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/dashboard/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/src/app/sidebar/sidebar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="-1628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/Angular CLI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/Admin-Dashboard-Template-Angular-Bootstrap-master/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/index.html">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/e2e/app.po.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d3/RainbowTreemap/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/architecture/e2e/src/app.po.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/e2e/app.po.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/displaying-data/e2e/src/app.po.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular/template-syntax/e2e/src/app.po.ts">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/auction-master/src/app/search/search.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/seller-info/seller-info.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/shared/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="14" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/e2e/app.po.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/shared/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/product1/product1.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/product1/product1.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,32 @@
+<md-card>
+  <md-card-header>
+    <md-card-title>{{item.name}}</md-card-title>
+  </md-card-header>
+  <div md-card-image *ngIf="imgType else imSelect">
+    <md-icon  [svgIcon]="item.coverImg"style="width:100%;height: 197px;"></md-icon>
+  </div>
+  <ng-template #imSelect>
+    <img [src]="item.coverImg" alt="项目封面" md-card-image>
+  </ng-template>
+
+  <md-card-content>
+    {{item.desc}}
+  </md-card-content>
+
+  <md-card-actions class="text-right">
+    <button md-button type="button" (click)="toDo('edit')">
+      <md-icon>note</md-icon>
+      <span>编辑</span>
+    </button>
+
+    <button md-button type="button" (click)="toDo('invite')">
+      <md-icon>group_add</md-icon>
+      <span>邀请</span>
+    </button>
+
+    <button md-button type="button" (click)="toDo('delete')">
+      <md-icon>delete</md-icon>
+      <span>删除</span>
+    </button>
+  </md-card-actions>
+</md-card>
