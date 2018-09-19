@@ -1,0 +1,6 @@
+/home/b/WebstormProjects/JSStudy/q0w9qo/ch5/bind/src/tsconfig.app.json
+
+
+was
+
+tsconfig.json

@@ -19,7 +19,7 @@ export class PriceQuoteComponent implements OnInit {
 
     http.get("/product").subscribe(res => console.log(res.json()));
 
-    http.post("regist", data).subscribe(res => console.log(res.json()));
+    // http.post("regist", data).subscribe(res => console.log(res.json()));
 
     setInterval(() => {
       let priceQuote: PriceQuote = new PriceQuote(this.stockCode, 100 * Math.random());
