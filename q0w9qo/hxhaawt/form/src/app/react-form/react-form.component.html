@@ -1,0 +1,95 @@
+<h2>重构--响应式表单 </h2>
+<div class="form-block">
+    <form [formGroup]="formModel" (submit)="onSubmit()" >
+        
+        <div class="formField">
+            <label for="username-2">用户名： </label>
+            <input type="text"
+                   class="item"
+                   [class.has-error]="formModel.get('username').invalid
+                                        && formModel.get('username').touched"
+                   id="username-2"
+                   formControlName="username"
+            >
+        </div>
+        <!-- 根据校验的状态来显示 -->
+        <div [hidden]="formModel.get('username').valid || formModel.get('username').untouched" >
+            <!-- required是校验器返回的值，有值就表示校验错误，username是要校验的值 -->
+            <div [hidden]=" !formModel.hasError('required', 'username') ">
+                用户名是必须的
+            </div>
+            <div [hidden]=" !formModel.hasError('minlength', 'username') ">
+                用户名最小长度是6位
+            </div>
+        </div>
+        
+        <div class="formField">
+            <label for="mobile-21">手机号： </label>
+            <input type="number" class="item" id="mobile-21" formControlName="mobile">
+        </div>
+        
+        <!-- 只有在mobile校验值为假而且用户修改过mobile的值是，才显示错误信息-->
+        <div [hidden]="formModel.get('mobile').valid || formModel.get('mobile').pristine" >
+            <div [hidden]=" !formModel.hasError('mobile', 'mobile') ">
+                请输入正确的手机号
+            </div>
+        </div>
+        <div [hidden]=" !formModel.get('mobile').pending" >
+            正在校验手机号的合法性
+        </div>
+        
+        <div formGroupName="passwordGroup">
+            <div class="formField">
+                <label for="password-2">密码： </label>
+                <input type="password" class="item" id="password-2" formControlName="password">
+            </div>
+            <!-- 有嵌套的话--要校验的值要写成数组形式，前面一个是外部formGroupName的值，后面一个才是要校验的值  -->
+            <div [hidden]=" !formModel.hasError('minlength',['passwordGroup', 'password']) ">
+                密码最小6位
+            </div>
+            
+            <div class="formField">
+                <label for="pconfirm">确认密码： </label>
+                <input type="password" class="item" id="pconfirm" formControlName="pconfirm">
+            </div>
+            
+            <div [hidden]=" !formModel.hasError('equal', 'passwordGroup') ">
+                {{ formModel.getError('equal', 'passwordGroup')?.descxx }}
+            </div>
+            
+        </div>
+        <div>
+            <button type="submit" class="btn">注册</button>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -6,359 +6,168 @@
     <bookmark url="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/data/mock-cl-mic.ts" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="some changes to the angular4 auction">
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/note6_demo01b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/order/order.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/order/order.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/order/order.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/order/order.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/order/order.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/order/order.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/order/order.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/price-quote/price-quote.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/price-quote/price-quote.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/price-quote/price-quote.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/app/price-quote/price-quote.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b2/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product1/product1.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product1/product1.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product1/product1.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product1/product1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product2/product2.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product2/product2.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product2/product2.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/product2/product2.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/another-product.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/another-product.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/logger.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/logger.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/product.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/directives/equal-validator.directive.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/directives/equal-validator.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/directives/mobile-validator.directive.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/directives/mobile-validator.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form1/form1.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form1/form1.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form1/form1.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form1/form1.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form2/form2.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form2/form2.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form2/form2.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/form2/form2.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/react-form/react-form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/react-form/react-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/react-form/react-form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/react-form/react-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/app/validator/validators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/navbar/navbar.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product-detail/product-detail.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product/product.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/search/search.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/shared/product.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/stars/stars.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/proxy.conf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/product/product.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/product/product.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/product/product.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/product/product.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/shared/web-socket.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/shared/web-socket.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/build/hello_server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/build/product_server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/glyphicons-halflings-regular.89889688147bd7575d63.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/inline.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/inline.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/main.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/main.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/polyfills.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/polyfills.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/scripts.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/scripts.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/styles.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/styles.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/vendor.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/client/vendor.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/server/hello_server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/server/product_server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/tsconfig.json" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code">
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/pipe/filter.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/pipe/filter.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/product.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/stars/stars.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/stars/stars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/stars/stars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/stars/stars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/client/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product1/product1.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product1/product1.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product1/product1.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product1/product1.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product2/product2.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product2/product2.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product2/product2.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product2/product2.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/another-product.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/another-product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/logger.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/logger.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/product.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/shared/product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/di/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/equal-validator.directive.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/equal-validator.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/mobile-validator.directive.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/mobile-validator.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form1/form1.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form1/form1.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form1/form1.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form1/form1.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form2/form2.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form2/form2.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form2/form2.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form2/form2.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/react-form/react-form.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/react-form/react-form.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/react-form/react-form.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/react-form/react-form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/validator/validators.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/form/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/.angular-cli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/README" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/note6_demo01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/e2e/src/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/proxy.conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/proxy.conf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/carousel/carousel.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/carousel/carousel.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/carousel/carousel.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/carousel/carousel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/carousel/carousel.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/footer/footer.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/footer/footer.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/footer/footer.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/footer/footer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/footer/footer.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/home/home.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/home/home.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/home/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/navbar/navbar.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/pipe/filter.pipe.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/pipe/filter.pipe.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/pipe/filter.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/pipe/filter.pipe.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product-detail/product-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product-detail/product-detail.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product-detail/product-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product-detail/product-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product/product.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product/product.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/product/product.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product/product.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/order/order.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/search/search.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/search/search.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/search/search.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/search/search.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/app/shared/product.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/shared/product.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/web-socket.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/shared/web-socket.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/shared/web-socket.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/shared/web-socket.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/stars/stars.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/stars/stars.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/app/stars/stars.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/stars/stars.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/assets/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/environments/environment.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/src/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/web-image/商品详情页.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/web-image/商品详情页.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/web-image/网页首页.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/web-image/网页首页.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch6/demo3/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch6/demo3/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo1/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo1/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/stock/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/stock/.angular-cli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch8/client/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch8/client/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch8/demo1/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch8/demo1/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q0w9qo/ch8/stock/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch8/stock/.angular-cli.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -417,12 +226,12 @@
           <entry key="example" value="6" />
           <entry key="gitignore" value="41" />
           <entry key="htm" value="1" />
-          <entry key="html" value="455" />
+          <entry key="html" value="461" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="559" />
-          <entry key="json" value="183" />
+          <entry key="json" value="187" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="72" />
           <entry key="mongo" value="1" />
@@ -440,7 +249,7 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="917" />
+          <entry key="ts" value="940" />
           <entry key="txt" value="110" />
           <entry key="www" value="2" />
           <entry key="xlrd" value="1" />
@@ -455,19 +264,19 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="17" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="456" />
+          <entry key="HTML" value="462" />
           <entry key="Hoi4 file" value="88" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="176" />
+          <entry key="JSON" value="179" />
           <entry key="JavaScript" value="562" />
           <entry key="Markdown" value="65" />
           <entry key="PLAIN_TEXT" value="180" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="917" />
+          <entry key="TypeScript" value="940" />
           <entry key="YAML" value="8" />
-          <entry key="tsconfig" value="8" />
+          <entry key="tsconfig" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -482,8 +291,8 @@
           <entry key="json" value="85" />
           <entry key="md" value="3" />
           <entry key="py" value="207" />
-          <entry key="ts" value="4915" />
-          <entry key="txt" value="7395" />
+          <entry key="ts" value="4920" />
+          <entry key="txt" value="7440" />
           <entry key="vmoptions" value="11" />
         </counts>
       </usages-collector>
@@ -495,8 +304,8 @@
           <entry key="JSON" value="85" />
           <entry key="JavaScript" value="2383" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="4680" />
-          <entry key="TypeScript" value="4915" />
+          <entry key="PLAIN_TEXT" value="4725" />
+          <entry key="TypeScript" value="4920" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -514,69 +323,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product-detail/product-detail.component.html">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="1406">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/182.4323.44.vmoptions">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/product.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="760">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/e2e/app.po.ts">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="608">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/server/product_server.ts">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            <state relative-caret-position="1216">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/package.json">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/package.json">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="646">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/product/product.component.ts">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -587,20 +401,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/shared/product.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="59" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/pipe/filter.pipe.ts">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/tslint.json">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <element signature="e#66#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -617,8 +431,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>node-rest-client</find>
-      <find>eueu</find>
       <find>build</find>
       <find>server</find>
       <find>socket</find>
@@ -647,6 +459,8 @@
       <find>data</find>
       <find>equal</find>
       <find>setInterval</find>
+      <find>of</find>
+      <find>map</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -672,9 +486,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/react/.gitignore" />
-        <option value="$PROJECT_DIR$/mongo-in-action-code/chapter2/chp2.1_code.js" />
-        <option value="$PROJECT_DIR$/mysql/nodecrud-master/package.json" />
         <option value="$PROJECT_DIR$/mysql/nodecrud-master/app.js" />
         <option value="$PROJECT_DIR$/mysql/nodejs-mysql-crud-master/config.js" />
         <option value="$PROJECT_DIR$/mysql/mine/app.js" />
@@ -723,6 +534,9 @@
         <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" />
         <option value="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json" />
         <option value="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/182.4323.44.vmoptions" />
+        <option value="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/validator/validators.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/product.service.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.ts" />
       </list>
     </option>
   </component>
@@ -858,7 +672,11 @@
     <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-form-demo-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/di/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/hxhaawt/form/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/imooc-auction-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/react/my-app/node_modules" />
@@ -2181,6 +1999,9 @@
       <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo2/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/client/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/di/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/hxhaawt/form/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/imooc-auction-master/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/xiezuopingtai-master/package.json" />
       <path value="$PROJECT_DIR$/react/my-app/package.json" />
@@ -2422,9 +2243,9 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1005" />
+    <option name="x" value="964" />
     <option name="y" value="39" />
-    <option name="width" value="2765" />
+    <option name="width" value="2806" />
     <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -2445,6 +2266,17 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="cs503-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2458,73 +2290,7 @@
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
               <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
               <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-DI-demo-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-form-demo-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-mkw-project-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-webSocket-demo-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-webSocket-demo-master" type="462c0819:PsiDirectoryNode" />
-              <item name="server-demo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="hxhaawt" type="462c0819:PsiDirectoryNode" />
-              <item name="angular-webSocket-demo-master" type="462c0819:PsiDirectoryNode" />
-              <item name="server-demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
-              <item name="xiezuopingtai-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2551,11 +2317,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt" />
-      <recent name="$PROJECT_DIR$/q0w9qo/ch6/demo01b2" />
-      <recent name="$PROJECT_DIR$/q0w9qo/ch6/demo01b" />
-      <recent name="$PROJECT_DIR$/q0w9qo" />
-      <recent name="$PROJECT_DIR$/q0w9qo/auction-master" />
+      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src" />
+      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src" />
+      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app" />
+      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src" />
+      <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt" />
@@ -2750,14 +2516,7 @@
       <workItem from="1537469088332" duration="2326000" />
       <workItem from="1537472864287" duration="49000" />
       <workItem from="1537472936305" duration="110000" />
-      <workItem from="1537473079142" duration="506000" />
-    </task>
-    <task id="LOCAL-00042" summary="$PROJECT_DIR$/q0w9qo/ch3/router3&#10;&#10;router-outlet working now">
-      <created>1533225009219</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1533225009219</updated>
+      <workItem from="1537473079142" duration="2191000" />
     </task>
     <task id="LOCAL-00043" summary="add node4_shizhan">
       <created>1533734690203</created>
@@ -3095,11 +2854,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537392156738</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code">
+      <created>1537473621310</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1537473621311</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="677978000" />
+    <option name="totallyTimeSpent" value="679663000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -3111,9 +2877,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1005" y="39" width="2765" height="2121" extended-state="4" />
+    <frame x="964" y="39" width="2806" height="2121" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2687161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.26478973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3200,7 +2966,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="/angular&#10;&#10;official angular examples" />
     <MESSAGE value="/api&#10;&#10;mean stack done with create/read on front/back/server!" />
     <MESSAGE value="bittiger_cs503/week03&#10;&#10;start to do auth0" />
     <MESSAGE value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
@@ -3225,7 +2990,8 @@
     <MESSAGE value="/q0w9qo&#10;add more angular4.0 auction example code" />
     <MESSAGE value="q0w9qo/imooc-auction-master/src/app/product-detail/product-detail.component.ts&#10;&#10;&quot;+&quot; change the string to number, fixed the error!!!!" />
     <MESSAGE value="some changes to the angular4 auction" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes to the angular4 auction" />
+    <MESSAGE value="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code" />
+    <option name="LAST_COMMIT_MESSAGE" value="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3254,183 +3020,16 @@
           <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/auth-guard.service.ts</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/directives/mobile-validator.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/directives/equal-validator.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch3/stock/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" selection-start-line="20" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/tsconfig.app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/pipe/filter.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/imooc-auction-master/src/app/search/search.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/server/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/auction/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch2/auction/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/proxy.conf.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/product/product.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/shared/web-socket.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/product/product.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/web-socket/web-socket.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/web-socket/web-socket.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/q0w9qo/ch8/server/server/stock_server.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="628">
@@ -3562,8 +3161,225 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="722">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/app/product1/product1.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-DI-demo-master/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/di/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/equal-validator.directive.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/equal-validator.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form2/form2.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/form1/form1.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/directives/mobile-validator.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#33#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/auth-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/collaboration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittiger_cs503/cs503-master/week4/oj-client/src/app/services/input.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/validator/validators.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-mkw-project-master/src/tsconfig.app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/pipe/filter.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product-detail/product-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="e#66#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/product/product.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/hxhaawt/angular-webSocket-demo-master/server-demo/src/app/web-socket/web-socket.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
