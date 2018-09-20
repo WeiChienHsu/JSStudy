@@ -1,0 +1,123 @@
+<h2>ngForm ngModel 在模板式表单的使用</h2>
+<div class="form-block">
+    <form #myForm2="ngForm" (ngSubmit)="onSubmit2(myForm2.value)" >
+        <!-- 加ngModelGroup username 会变成 userInfo对象的一个属性-->
+        <div ngModelGroup="userInfo">
+            <div class="formField">
+                <label for="username2">用户名： </label> <input #username="ngModel" ngModel type="text" class="item" name="username" id="username2">
+            </div>
+            <div class="formField">
+                <label for="password2">密码： </label> <input  type="password" class="item" name="password" id="password2">
+            </div>
+        </div>
+        
+        <div class="formField">
+            <label for="user-password2">确认密码： </label> <input type="password" class="item" name="user-password" id="user-password2">
+        </div>
+        <div class="formField">
+            <label for="phone2">手机号： </label> <input type="number" class="item" name="phone" id="phone2">
+        </div>
+        <div>
+            <button type="submit" class="btn">注册</button>
+        </div>
+    </form>
+</div>
+<div>
+    <h3>注意这里显示的对应关系</h3>
+    {{ myForm.value | json }}
+</div>
+<div>
+    {{ username.value }}
+</div>
+
+<br>
+<br>
+<h2>模板式表单的真正使用</h2>
+<h2>模板式表单的--校验</h2>
+<div class="form-block">
+    <!-- novalidate是angular的，表示不要启用浏览器的表单校验 -->
+    <!-- 模板式表通过 myForm.value可以取到表单的全部数据这是一个对象 -->
+    <form #myForm="ngForm" (ngSubmit)="onSubmit(myForm.value, myForm.valid)" novalidate>
+        <div class="formField">
+            <label for="username">用户名： </label>
+            <input ngModel required minlength="6" type="text"
+                   class="item"
+                   name="username"
+                   id="username"
+                   (input)="onUsernameInput(myForm)"
+            >
+        </div>
+
+        <!-- 根据校验的状态来显示 -->
+        <div [hidden]="usernameValid || usernameUntouched">
+            <!-- required是校验器返回的值，有值就表示校验错误，username是要校验的值 -->
+            <div [hidden]=" !myForm.form.hasError('required', 'username') ">
+                用户名是必须的
+            </div>
+            <div [hidden]=" !myForm.form.hasError('minlength', 'username') ">
+                用户名最小长度是6位
+            </div>
+        </div>
+        
+        <div class="formField">
+            <label for="phone">手机号： </label>
+            <input ngModel mobile type="number" class="item" name="phone" id="phone">
+        </div>
+        
+        <div [hidden]=" !myForm.form.hasError('mobile', 'mobile') ">
+            请输入正确的手机号
+        </div>
+        
+        <div ngModelGroup="passwordGroup" equal>
+            <div class="formField">
+                <label for="password">密码： </label>
+                <input ngModel minlength="6" type="password" class="item" name="password" id="password">
+            </div>
+            
+            <!-- 有嵌套的话--要校验的值要写成数组形式，前面一个是外部formGroupName的值，后面一个才是要校验的值  -->
+            <div [hidden]=" !myForm.form.hasError('minlength',['passwordGroup', 'password']) ">
+                密码最小6位
+            </div>
+            
+            <div class="formField">
+                <label for="pconfirm">确认密码： </label>
+                <input ngModel type="password" class="item" name="pconfirm" id="pconfirm">
+            </div>
+            
+            <div [hidden]=" !myForm.form.hasError('equal', 'passwordGroup') ">
+                {{ myForm.form.getError('equal', 'passwordGroup')?.descxx }}
+            </div>
+            
+        </div>
+        <div>
+            <button type="submit" class="btn">注册</button>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

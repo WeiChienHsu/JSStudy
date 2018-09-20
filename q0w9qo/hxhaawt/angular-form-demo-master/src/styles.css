@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+div.form-block {
+    margin-top: 10px;
+}
+form .formField {
+    overflow: auto;
+    width: 100%;
+    margin: 5px 0;
+}
+form label {
+    float: left;
+    display: block;
+    margin-right: 10px;
+    /*text-transform: capitalize;*/
+    text-align: right;
+    min-width: 100px;
+}
+input.item {
+    display: block;
+    float: left;
+}
+
+form .btn {
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+

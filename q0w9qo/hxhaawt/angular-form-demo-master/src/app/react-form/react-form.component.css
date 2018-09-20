@@ -1,0 +1,10 @@
+/* 这些类是angular自动加入的，是在表单不同的状态加入不同的类 */
+/* ng-invalid表示字段无效 */
+.ng-invalid {
+    /*border: 1px solid red;*/
+}
+
+/* 自定义类*/
+.has-error{
+    border: 1px solid red;
+}

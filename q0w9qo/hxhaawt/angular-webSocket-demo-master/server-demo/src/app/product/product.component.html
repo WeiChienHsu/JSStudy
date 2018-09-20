@@ -1,0 +1,17 @@
+<div>
+    商品信息
+</div>
+<h3>第一种处理请求的方法</h3>
+<ul>
+    <li *ngFor="let product of products">
+        {{ product.title }}
+    </li>
+</ul>
+
+<h3>第二种处理请求的方法</h3>
+<!-- 用异步管道来处理数据，会自定阅流 -->
+<ul>
+    <li *ngFor="let product of products2 | async">
+        {{ product.title }}
+    </li>
+</ul>

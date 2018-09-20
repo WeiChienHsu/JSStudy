@@ -1,0 +1,34 @@
+#This is video 6-3
+ng new demo01
+
+cd demo01/src/app
+
+ng g c order
+
+
+make sure FormsModule is added.
+
+
+This is one direction binding. From parent to child component.
+
+
+There are two ways:
+
+1. use child component in the parent component.
+2. use ActivatedRoute.
+====================================================================
+
+cd ch6/demo01b/src/app
+
+ng g c priceQuote
+
+
+
+
+
+
+
+
+
+
+

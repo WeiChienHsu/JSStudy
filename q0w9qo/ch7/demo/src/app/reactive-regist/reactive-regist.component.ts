@@ -8,6 +8,17 @@ import {mobileValidator, equalValidator, mobileAsyncValidator} from "../validato
   styleUrls: ['./reactive-regist.component.css']
 })
 export class ReactiveRegistComponent implements OnInit {
+  // username:FormControl = new FormControl("aaa");
+
+/*  formModel: FormGroup = new FormGroup({
+    from: new FormControl(),
+    to: new FormControl()
+  });*/
+
+  /*emails:FormArray = new FormArray([
+    new FormControl("a@a.com"),
+    new FormControl("b@b.com")
+  ])*/
 
   formModel: FormGroup;
 
