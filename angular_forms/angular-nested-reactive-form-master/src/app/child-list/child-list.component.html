@@ -1,0 +1,7 @@
+
+<div *ngFor = "let c of childrenList; let i = index;">
+  <app-child 
+    [parentFormArray] = "childListFormArray" 
+    (onRemoveChild) = "onRemoveChild($event)" 
+    [child] = "c"></app-child>
+</div>

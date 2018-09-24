@@ -1,0 +1,9 @@
+<form #myform = "ngForm" [formGroup] = "parentFormGroup">
+    <label for="description">Description</label>
+    <input type="text" [(ngModel)] = "parentModel.description" formControlName = "description"><br>
+    <button (click) = "addChild()">Add Child</button><br>
+    <app-child-list [childrenList] = "parentModel.children" [parentFormGroup] = "parentFormGroup"></app-child-list>
+    {{parentFormGroup.valid}}
+    <pre>{{parentModel | json}}</pre>
+</form>
+

@@ -11,12 +11,20 @@ import { Component } from '@angular/core';
 export class KeyUpComponent_v1 {
   values = '';
 
-  /*
-  onKey(event: any) { // without type info
-    this.values += event.target.value + ' | ';
-  }
-  */
 
+
+  // a | b | c | Backspace | Backspace | Backspace |
+/*  onKey(event: any) { // without type info
+    this.values += event.key + ' | ';
+  }*/
+
+    // a | ab | abc | ab | a | |
+/*    onKey(event: any) { // without type info
+      this.values += event.target.value + ' | ';
+    }*/
+
+
+  //a | ab | abc | ab | a | |
   onKey(event: KeyboardEvent) { // with type info
     this.values += (<HTMLInputElement>event.target).value + ' | ';
   }
@@ -31,6 +39,8 @@ export class KeyUpComponent_v1 {
     <p>{{values}}</p>
   `
 })
+
+//a | ab | abc | ab | a | |
 export class KeyUpComponent_v2 {
   values = '';
   onKey(value: string) {

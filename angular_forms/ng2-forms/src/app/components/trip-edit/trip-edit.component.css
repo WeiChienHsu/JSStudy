@@ -1,0 +1,66 @@
+.banner {
+    padding: 2px;
+    border: 1px solid darkkhaki;
+    background: silver;
+    margin: 0 auto;
+    text-align: center;
+    /*width: 6rem;*/
+}
+.side {
+    display: inline-block;
+}
+
+.state-heading {
+    font-size: 21px;
+    display: inline-block;
+}
+
+.trip-name {
+    border-left: transparent;
+    border-right: transparent;
+    border-top: transparent;
+    border-radius: 0px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    font-size: 34px;
+}
+
+.city-box {
+    padding: 10px;
+    border: solid 1px lightblue;
+}
+
+.vertical-line {
+    border-left: 2px solid cadetblue;
+    height: 35px;
+    margin: 0 auto;
+    width: 10px;
+}
+
+.add-city-wrapper {
+    text-align: center;
+}
+
+.add-city-wrapper .add-city-button {
+    width: 130px;
+}
+.blog-heading {
+    margin: 0 auto;
+    text-align: center;
+}
+.blog-heading-box {
+    border: solid 1px royalblue;
+    margin-bottom: 20px;
+    background: aliceblue;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.create-form {
+    padding: 50px !important;
+    border-right: solid;
+}
+
+.result {
+    padding: 50px !important;
+}

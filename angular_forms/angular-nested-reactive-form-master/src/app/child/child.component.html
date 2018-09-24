@@ -1,0 +1,6 @@
+<div [formGroup] = "childFormGroup" >
+    <label for="description">Child Description</label>
+    <input type="text" [(ngModel)] = "child.child_description" formControlName = "child_description">
+    <button (click) = "remove()" >Remove</button> 
+    {{childFormGroup.valid}} 
+</div>
