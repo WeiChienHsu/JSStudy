@@ -1,0 +1,21 @@
+
+> redis@2.8.0 benchmark /home/b/WebstormProjects/JSStudy/node_redis
+> node benchmarks/multi_bench.js
+
+clients: 1, NodeJS: 8.11.3, Redis: 4.0.9, parser: javascript, connected by: tcp
+         PING,         1/1 avg/max:   0.03/  2.92 2501ms total,   34046 ops/sec
+         PING,  batch 50/1 avg/max:   0.08/  1.55 2501ms total,  619212 ops/sec
+   SET 4B str,         1/1 avg/max:   0.03/  5.02 2501ms total,   31077 ops/sec
+   SET 4B str,  batch 50/1 avg/max:   0.12/  1.38 2501ms total,  405338 ops/sec
+   SET 4B buf,         1/1 avg/max:   0.05/  2.55 2501ms total,   19801 ops/sec
+   SET 4B buf,  batch 50/1 avg/max:   0.23/  1.53 2501ms total,  219752 ops/sec
+   GET 4B str,         1/1 avg/max:   0.03/  3.19 2501ms total,   34669 ops/sec
+   GET 4B str,  batch 50/1 avg/max:   0.10/  1.49 2501ms total,  475450 ops/sec
+   GET 4B buf,         1/1 avg/max:   0.03/  2.89 2501ms total,   34260 ops/sec
+   GET 4B buf,  batch 50/1 avg/max:   0.10/  1.64 2501ms total,  490424 ops/sec
+ SET 4KiB str,         1/1 avg/max:   0.03/  1.68 2501ms total,   28936 ops/sec
+ SET 4KiB str,  batch 50/1 avg/max:   0.40/  7.15 2501ms total,  122851 ops/sec
+ SET 4KiB buf,         1/1 avg/max:   0.05/  2.15 2501ms total,   17960 ops/sec
+ SET 4KiB buf,  batch 50/1 avg/max:   0.36/  1.85 2501ms total,  136685 ops/sec
+ GET 4KiB str,         1/1 avg/max:   0.03/  2.09 2501ms total,   31478 ops/sec
+ GET 4KiB str,  batch 50/1 
