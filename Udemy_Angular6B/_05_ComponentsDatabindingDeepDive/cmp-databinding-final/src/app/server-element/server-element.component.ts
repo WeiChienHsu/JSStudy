@@ -36,6 +36,8 @@ export class ServerElementComponent implements
   @ViewChild('heading') header: ElementRef;
   @ContentChild('contentParagraph') paragraph: ElementRef;
 
+  // let elementJSON = JSON.stringify({ element });
+
   constructor() {
     console.log('constructor called!');
   }

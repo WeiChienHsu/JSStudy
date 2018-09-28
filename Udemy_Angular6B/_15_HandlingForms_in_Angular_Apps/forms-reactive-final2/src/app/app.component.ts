@@ -11,6 +11,7 @@ export class AppComponent implements OnInit {
   genders = ['male', 'female'];
   signupForm: FormGroup;
   forbiddenUsernames = ['Chris', 'Anna'];
+  formVal:string;
 
   constructor() {}
 
@@ -45,7 +46,11 @@ export class AppComponent implements OnInit {
   }
 
   onSubmit() {
-    console.log(this.signupForm);
+    console.log(this.signupForm.value);
+    this.formVal = JSON.stringify(this.signupForm.value);
+
+
+    // this.val = "this.signupForm.value";
     this.signupForm.reset();
   }
 

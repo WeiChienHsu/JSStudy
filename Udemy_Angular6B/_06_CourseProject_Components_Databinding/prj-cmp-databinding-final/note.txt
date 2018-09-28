@@ -1,0 +1,3 @@
+
+use loadedFeature to decide which component to show, without chaning the url
+

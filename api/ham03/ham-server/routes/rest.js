@@ -32,6 +32,15 @@ router.get('/cl-mic/:id/create', function (req, res) {
         .then(clmic => res.json(clmic));
 });
 
+router.get('/py/:id/', function (req, res) {
+    // var data = [1,2,3,4,5,6,7,8,9];
+    // createExcel(data);
+    console.log(req);
+    var id = req.params.id;
+    clmicService.getClmic(+id)
+        .then(clmic => res.json(clmic));
+});
+
 
 router.post("/cl-mic", jsonParser, function(req, res) {
     console.log(req.body);

@@ -1,8 +1,17 @@
+<p>server-element works - head</p>
+<p>element.type: {{element.type}}</p>
+<p>element.name: {{element.name}}</p>
+<p>element.content: {{element.content}}</p>
+
+<!--<p>element</p>-->
 <div
   class="panel panel-default">
   <!--<div class="panel-heading">{{ element.name }}</div>-->
   <div class="panel-heading" #heading>{{ name }}</div>
   <div class="panel-body">
+    <p>before ng-content</p>
     <ng-content></ng-content>
+    <p>after ng-content</p>
   </div>
 </div>
+<p>server-element works - tail</p>
