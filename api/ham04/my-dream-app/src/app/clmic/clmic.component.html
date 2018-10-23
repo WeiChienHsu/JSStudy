@@ -1,0 +1,122 @@
+<p>
+  clmic works!
+</p>
+
+
+ <form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+  <label>
+    First Name:
+    <input type="text" formControlName="firstName" >
+  </label>
+
+  <label>
+    Last Name:
+    <input type="text" formControlName="lastName">
+  </label>
+
+  <label>
+    Email:
+    <input type="text" formControlName="email">
+  </label>
+
+  <!-- <div formGroupName="address">
+    <h3>Address</h3>
+
+    <label>
+      Street:
+      <input type="text" formControlName="street">
+    </label>
+
+    <label>
+      City:
+      <input type="text" formControlName="city">
+    </label>
+    
+    <label>
+      State:
+      <input type="text" formControlName="state">
+    </label>
+
+    <label>
+      Zip Code:
+      <input type="text" formControlName="zip">
+    </label>
+  </div> -->
+
+
+<div> 
+  <!-- <button (click)="addAlias()">Add Alias</button> -->
+  <div formArrayName="aliases">
+    <h3>Aliases</h3> <button (click)="addAlias()">Add Alias</button>
+
+    <div *ngFor="let address of aliases.controls; let i=index">
+      <p>{{i}}</p>
+       The repeated alias template
+      <label>
+        Alias:
+        <input type="text" [formControlName]="i">
+      </label>
+    </div>
+  </div>
+
+
+  <div formArrayName="arr">
+    <button (click)="addArr()">Add Alias</button>
+    <div *ngFor="let a of arr.controls; let i=index">
+      <p>{{i}}</p>
+       The repeated Compound template
+      <label>
+        Alias:
+        <!-- <input type="text" [formControlName]="i"> -->
+        <div formGroupName="i">
+          <h3>Address</h3>
+      
+          <label>
+            Street:
+            <input type="text" formControlName="street">
+          </label>
+      
+          <label>
+            City:
+            <input type="text" formControlName="city">
+          </label>
+          
+          <label>
+            State:
+            <input type="text" formControlName="state">
+          </label>
+      
+          <label>
+            Zip Code:
+            <input type="text" formControlName="zip">
+          </label>
+        </div>
+      </label>
+    </div>
+  </div>
+
+</div>
+
+  <button type="submit" [disabled]="!profileForm.valid">Submit</button>
+</form>
+
+<hr>
+
+
+<p>
+  Form Value in json: {{ profileForm.value | json }}
+</p>
+
+
+<p>
+  Form Value: {{ profileForm.value  }}
+</p>
+
+<p>
+  Form Status: {{ profileForm.status }}
+</p>
+
+<p>
+  <button (click)="updateProfile()">Update Profile</button>
+</p> 
+

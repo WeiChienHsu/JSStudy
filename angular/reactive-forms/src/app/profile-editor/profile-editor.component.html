@@ -37,6 +37,7 @@
     <h3>Aliases</h3> <button (click)="addAlias()">Add Alias</button>
 
     <div *ngFor="let address of aliases.controls; let i=index">
+      <p>{{i}}</p>
       <!-- The repeated alias template -->
       <label>
         Alias:

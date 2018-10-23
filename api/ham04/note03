@@ -1,0 +1,9 @@
+20181019
+start to work on the front-end, form for user input.
+
+stack design: front -> server -> database
+
+server will do the calculation from front-end
+
+
+

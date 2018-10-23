@@ -7,28 +7,21 @@
     <bookmark url="file://$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.html" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="some">
-      <change afterPath="$PROJECT_DIR$/Udemy_Angular6B/_06_CourseProject_Components_Databinding/prj-cmp-databinding-final/note.txt" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="$PROJECT_DIR$/api/ham03/ham-server&#10;modify some xlwt code for the excel file generation">
+      <change afterPath="$PROJECT_DIR$/api/ham04/note03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_04_Debugging/debugging2/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_04_Debugging/debugging2/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/cockpit/cockpit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/cockpit/cockpit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/server-element/server-element.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham04/angular-nested-forms/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham04/angular-nested-forms/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,22 +44,25 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="84" />
-          <entry key="project.open.time.10" value="5" />
-          <entry key="project.open.time.11" value="6" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.closed" value="91" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="10" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="7" />
-          <entry key="project.open.time.5" value="18" />
+          <entry key="project.open.time.5" value="19" />
           <entry key="project.open.time.6" value="24" />
           <entry key="project.open.time.7" value="18" />
-          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="103" />
+          <entry key="project.opened" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,7 +76,7 @@
           <entry key="angular4入门与实战" value="2" />
           <entry key="bmp" value="1" />
           <entry key="conf" value="3" />
-          <entry key="css" value="77" />
+          <entry key="css" value="82" />
           <entry key="csv" value="2" />
           <entry key="data" value="4" />
           <entry key="data2_for_postman" value="4" />
@@ -91,11 +87,11 @@
           <entry key="example" value="6" />
           <entry key="gitignore" value="44" />
           <entry key="htm" value="1" />
-          <entry key="html" value="551" />
+          <entry key="html" value="575" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="576" />
+          <entry key="js" value="577" />
           <entry key="json" value="197" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="74" />
@@ -104,9 +100,10 @@
           <entry key="njs" value="1" />
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="3" />
+          <entry key="note03" value="3" />
           <entry key="notes" value="1" />
           <entry key="ps1" value="1" />
-          <entry key="py" value="35" />
+          <entry key="py" value="36" />
           <entry key="rb" value="3" />
           <entry key="rnc" value="1" />
           <entry key="rst" value="1" />
@@ -114,8 +111,9 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="1126" />
-          <entry key="txt" value="118" />
+          <entry key="ts" value="1170" />
+          <entry key="txt" value="119" />
+          <entry key="vmoptions" value="2" />
           <entry key="www" value="2" />
           <entry key="xlrd" value="1" />
           <entry key="xlsx" value="2" />
@@ -125,59 +123,61 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="77" />
+          <entry key="CSS" value="82" />
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="17" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="552" />
-          <entry key="Hoi4 file" value="96" />
+          <entry key="HTML" value="576" />
+          <entry key="Hoi4 file" value="97" />
           <entry key="Image" value="8" />
           <entry key="JSON" value="189" />
-          <entry key="JavaScript" value="579" />
+          <entry key="JavaScript" value="580" />
           <entry key="Markdown" value="67" />
-          <entry key="PLAIN_TEXT" value="187" />
+          <entry key="PLAIN_TEXT" value="192" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="1126" />
+          <entry key="TypeScript" value="1170" />
           <entry key="YAML" value="8" />
+          <entry key="textmate" value="1" />
           <entry key="tsconfig" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="2" />
-          <entry key="css" value="92" />
+          <entry key="css" value="97" />
           <entry key="data2_for_postman" value="51" />
           <entry key="env" value="12" />
           <entry key="gitignore" value="60" />
-          <entry key="html" value="4598" />
+          <entry key="html" value="4704" />
           <entry key="js" value="2454" />
           <entry key="json" value="85" />
           <entry key="md" value="3" />
+          <entry key="note03" value="203" />
           <entry key="py" value="207" />
-          <entry key="ts" value="5046" />
+          <entry key="ts" value="5165" />
           <entry key="txt" value="7528" />
-          <entry key="vmoptions" value="11" />
+          <entry key="vmoptions" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="92" />
-          <entry key="HTML" value="4596" />
+          <entry key="CSS" value="97" />
+          <entry key="HTML" value="4702" />
           <entry key="Hoi4 file" value="3132" />
           <entry key="JSON" value="85" />
           <entry key="JavaScript" value="2456" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="4739" />
-          <entry key="TypeScript" value="5046" />
+          <entry key="PLAIN_TEXT" value="4943" />
+          <entry key="TypeScript" value="5165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
           <entry key="TsLintLanguageService" value="1" />
-          <entry key="TypeScriptServerServiceImpl" value="56" />
+          <entry key="TypeScriptServerServiceImpl" value="60" />
         </counts>
       </usages-collector>
     </session>
@@ -186,94 +186,97 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/app.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/help.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/create.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/data">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="1710">
-                <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.46525398">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="2" column="11" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/clmic/clmic.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3416">
+                  <caret line="121" selection-start-line="121" selection-end-line="121" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/api/ham04/note03">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="342">
+                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.component.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="380">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="760">
+                  <caret line="20" selection-start-line="20" selection-end-line="20" />
+                  <folding>
+                    <element signature="e#0#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="414">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="e#0#49#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#0#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -287,10 +290,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>providedIn</find>
-      <find>boot</find>
-      <find>spy</find>
-      <find>link</find>
       <find>myForm</find>
       <find>contorl</find>
       <find>ngModelGroupngModelGroup</find>
@@ -317,6 +316,10 @@
       <find>appDropdown</find>
       <find>userData</find>
       <find>createExcel</find>
+      <find>setValue</find>
+      <find>patchValue</find>
+      <find>ProfileEditorComponent</find>
+      <find>forbiddenEmails</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -332,6 +335,7 @@
       <dir>$PROJECT_DIR$/bittiger_cs503/week01/oj-client/src/app</dir>
       <dir>$PROJECT_DIR$/api/ham03/server</dir>
       <dir>$PROJECT_DIR$/bittiger_cs503/week03</dir>
+      <dir>$PROJECT_DIR$/angular/reactive-forms/src/app</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -342,24 +346,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/q0w9qo/ch5/bind/src/app/price-quote/price-quote.component.ts" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/note6_demo01.txt" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01b/note6_demo01b.txt" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01/src/app/order/order.component.ts" />
         <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/order/order.component.ts" />
         <option value="$PROJECT_DIR$/q0w9qo/ch6/demo01b/src/app/price-quote/price-quote.component.ts" />
         <option value="$PROJECT_DIR$/q0w9qo/ch7/stock/.angular-cli.json" />
         <option value="$PROJECT_DIR$/q0w9qo/ch8/stock/.angular-cli.json" />
         <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" />
         <option value="$PROJECT_DIR$/q0w9qo/angular-mkw-project-master/.angular-cli.json" />
         <option value="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/182.4323.44.vmoptions" />
         <option value="$PROJECT_DIR$/q0w9qo/hxhaawt/form/src/app/validator/validators.ts" />
@@ -387,12 +378,25 @@
         <option value="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive/cmp-databinding-final/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Udemy_Angular6B/_06_CourseProject_Components_Databinding/prj-cmp-databinding-final/note.txt" />
         <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/app.js" />
         <option value="$PROJECT_DIR$/api/ham03/ham-server/server.js" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.html" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.css" />
+        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts" />
+        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts" />
+        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" />
+        <option value="$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts" />
+        <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham04/note03" />
+        <option value="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/182.4505.50.vmoptions" />
+        <option value="$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -401,6 +405,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="local_all" pattern="file[JSStudy]:*" />
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/JiKeXueYuan_Homework_1/week09/node_modules" />
@@ -580,6 +587,8 @@
     <handled-path value="$PROJECT_DIR$/api/ham03/server/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/x01/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham03/x02/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham04/angular-nested-forms/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham04/my-dream-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/node_modules" />
@@ -1305,6 +1314,8 @@
       <path value="$PROJECT_DIR$/api/ham03/server/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x01/package.json" />
       <path value="$PROJECT_DIR$/api/ham03/x02/package.json" />
+      <path value="$PROJECT_DIR$/api/ham04/angular-nested-forms/package.json" />
+      <path value="$PROJECT_DIR$/api/ham04/my-dream-app/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json" />
@@ -2327,11 +2338,11 @@
     <dismissed value="$PROJECT_DIR$/node_redis/package.json" />
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="90" />
-    <option name="y" value="39" />
-    <option name="width" value="2641" />
-    <option name="height" value="2121" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="141" />
+    <option name="y" value="163" />
+    <option name="width" value="3699" />
+    <option name="height" value="1594" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -2341,6 +2352,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2351,42 +2363,24 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="angular_forms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
+              <item name="angular_forms" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-nested-reactive-form-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="py" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham03" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="angular_forms" type="462c0819:PsiDirectoryNode" />
+              <item name="deep-forms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2402,23 +2396,23 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.textmate.bundles" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/q0w9qo/auction-master/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Udemy_Angular6B" />
-      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject" />
-      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive" />
-      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_06_CourseProject_Components_Databinding" />
-      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project _The_Basics" />
       <recent name="$PROJECT_DIR$/Udemy_Angular6B/3. Course Project - The Basics" />
       <recent name="$PROJECT_DIR$/q0w9qo/hxhaawt" />
       <recent name="$PROJECT_DIR$/api/ham03/ham-server/py" />
       <recent name="$PROJECT_DIR$/api/ham01/ham-client/src/app/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Udemy_Angular6B" />
+      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject" />
+      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive" />
+      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_06_CourseProject_Components_Databinding" />
+      <recent name="$PROJECT_DIR$/Udemy_Angular6B/_05_ComponentsDatabindingDeepDive" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2624,14 +2618,20 @@
       <workItem from="1538064202033" duration="3049000" />
       <workItem from="1538141393778" duration="733000" />
       <workItem from="1538143673707" duration="1921000" />
-      <workItem from="1538147861082" duration="233000" />
-    </task>
-    <task id="LOCAL-00046" summary="init api/ham01/ham-client">
-      <created>1533907225334</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1533907225334</updated>
+      <workItem from="1538147861082" duration="2623000" />
+      <workItem from="1538683062066" duration="2960000" />
+      <workItem from="1538744640284" duration="1347000" />
+      <workItem from="1539277218723" duration="1865000" />
+      <workItem from="1539779796579" duration="46000" />
+      <workItem from="1539779877658" duration="642000" />
+      <workItem from="1539781075756" duration="788000" />
+      <workItem from="1539782548105" duration="1341000" />
+      <workItem from="1539786827564" duration="25825000" />
+      <workItem from="1539960258713" duration="38000" />
+      <workItem from="1539960648451" duration="966000" />
+      <workItem from="1539962998012" duration="38000" />
+      <workItem from="1539964788702" duration="43000" />
+      <workItem from="1540309920298" duration="487000" />
     </task>
     <task id="LOCAL-00047" summary="api/ham01/ham-client&#10;&#10;install/set bootstrap and jquery">
       <created>1533910012353</created>
@@ -2969,11 +2969,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537968700732</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="$PROJECT_DIR$/api/ham03/ham-server&#10;modify some xlwt code for the excel file generation">
+      <created>1538148292354</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1538148292354</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="745716000" />
+    <option name="totallyTimeSpent" value="784492000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2985,10 +2992,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="39" width="2641" height="2121" extended-state="4" />
-    <editor active="true" />
+    <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.13744794" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2999,7 +3005,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72493297" side_tool="true" weight="0.27080292" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" weight="0.18093699" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" visible="true" weight="0.18043135" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.65763927" side_tool="true" weight="0.1950448" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.34236076" weight="0.19451766" />
@@ -3075,7 +3081,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="exl/exl_05_xlsx&#10;&#10;The api/ mean stack infrastructure was done.&#10;&#10;Now working on the xls file generation with SheetJS/sheet.js.org" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton" />
     <MESSAGE value="api/ham03/x01&#10;&#10;can now use xlsx lib to generate xls file&#10;but the xls file generated is NOT recognized by Hamilton&#10;&#10;python xlwt lib is ok." />
@@ -3100,7 +3105,8 @@
     <MESSAGE value="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code" />
     <MESSAGE value="q0w9qo/hxhaawt&#10;&#10;some angular4.0 auction example code, again" />
     <MESSAGE value="some" />
-    <option name="LAST_COMMIT_MESSAGE" value="some" />
+    <MESSAGE value="/home/b/WebstormProjects/JSStudy/api/ham03/ham-server&#10;modify some xlwt code for the excel file generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="/home/b/WebstormProjects/JSStudy/api/ham03/ham-server&#10;modify some xlwt code for the excel file generation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3138,281 +3144,340 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive/directives-final/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive/directives-final/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive/directives-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1106">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive/directives-final/src/app/basic-highlight/basic-highlight.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_07_Directives_DeepDive/directives-final/src/app/better-highlight/better-highlight.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/shared/ingredient.model.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/shopping-list/shopping-list.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/recipes/recipes.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/recipes/recipes.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/recipes/recipe-list/recipe-list.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/recipes/recipe-detail/recipe-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_08_CourseProject/prj-directives-final/src/app/shared/dropdown.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/account/account.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/account/account.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/new-account/new-account.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/logging.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/new-account/new-account.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_09_Using_Services_Dependency_Injection/services-final/src/app/accounts.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_10_CourseProject_Services_DependencyInjection/prj-services-final/src/app/shopping-list/shopping-list.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_10_CourseProject_Services_DependencyInjection/prj-services-final/src/app/recipes/recipe.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_10_CourseProject_Services_DependencyInjection/prj-services-final/src/app/recipes/recipes.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_12_CourseProject_Routing/prj-routing-final/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_11_ChangingPages_withRouting/routing-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_11_ChangingPages_withRouting/routing-final/src/app/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_11_ChangingPages_withRouting/routing-final/src/app/auth-guard.service.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_11_ChangingPages_withRouting/routing-final/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_11_ChangingPages_withRouting/routing-final/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2090">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="304">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-td-final/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="29" selection-start-line="9" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/template-form/template-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="43" column="15" lean-forward="true" selection-start-line="42" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-regist/reactive-regist.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch7/demo/src/app/reactive-form/reactive-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/node_modules/@angular/forms/src/validators.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2136">
+          <caret line="153" column="13" lean-forward="true" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/click-me.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/click-me2.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/keyup.components.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/loop-back.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/user-input/src/app/little-tour.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question-base.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question-dropdown.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question-textbox.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/dynamic-form.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="1330">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="718">
+          <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/compute_input.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="760">
-            <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run_python.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/help.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/data">
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/182.4505.50.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/rest.js">
+    <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="380">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/routes/test_get_create.js">
+    <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="760">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham03/ham-server/py/run.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="1710">
-            <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/question.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dynamic-form/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/my-dream-app/src/app/clmic/clmic.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3416">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/reactive-forms/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/note03">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>local_all</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="local_all" />
+          </order>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
