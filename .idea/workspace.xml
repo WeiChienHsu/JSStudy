@@ -8,71 +8,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="$PROJECT_DIR$/bootstrap413/runoob&#10;&#10;add some bootstrap 4 exampels from runoob">
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/base-form/base-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/base-form/base-form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/base-form/base-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/form/form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/interfaces/general.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/interfaces/specific.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/general/general.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/general/general.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/general/general.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/general/general.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/nestedforms.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/nestedforms.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/nestedforms.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/nestedforms.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/specific/specific.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/specific/specific.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/specific/specific.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/nestedforms/specific/specific.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/services/form-data.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/app/services/form-data.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/checkbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/custom-checkbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/input-group.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/radio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap413/runoob/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham04/app-forms/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/carousel/carousel.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/carousel/carousel.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/carousel/carousel.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/interfaces/clmic-unit.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/clhep-meta.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/clhep-unit.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/clmic-meta.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/clmic-unit.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbbl-meta.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbbl-unit.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbmic-meta.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbmic-unit.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbpl-meta.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/models/pbpl-unit.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/routing.module.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/clhep-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/clhep-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/clmic-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/clmic-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbbl-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbbl-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbmic-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbmic-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbpl-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/services/pbpl-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/note05.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,10 +119,10 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="96" />
+          <entry key="project.closed" value="97" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="10" />
-          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="2" />
@@ -106,14 +130,16 @@
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="19" />
           <entry key="project.open.time.6" value="24" />
           <entry key="project.open.time.7" value="18" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="123" />
+          <entry key="project.opened" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -138,12 +164,12 @@
           <entry key="example" value="6" />
           <entry key="gitignore" value="44" />
           <entry key="htm" value="1" />
-          <entry key="html" value="607" />
+          <entry key="html" value="612" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
           <entry key="js" value="583" />
-          <entry key="json" value="200" />
+          <entry key="json" value="202" />
           <entry key="json2xls" value="2" />
           <entry key="md" value="77" />
           <entry key="mongo" value="1" />
@@ -152,6 +178,7 @@
           <entry key="node-xlsx" value="1" />
           <entry key="node_versions" value="3" />
           <entry key="note03" value="3" />
+          <entry key="note05" value="1" />
           <entry key="notes" value="1" />
           <entry key="ps1" value="1" />
           <entry key="py" value="36" />
@@ -162,8 +189,8 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="1234" />
-          <entry key="txt" value="126" />
+          <entry key="ts" value="1235" />
+          <entry key="txt" value="131" />
           <entry key="vmoptions" value="2" />
           <entry key="www" value="2" />
           <entry key="xlrd" value="1" />
@@ -178,17 +205,17 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="17" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="608" />
-          <entry key="Hoi4 file" value="104" />
+          <entry key="HTML" value="613" />
+          <entry key="Hoi4 file" value="109" />
           <entry key="Image" value="8" />
-          <entry key="JSON" value="192" />
+          <entry key="JSON" value="194" />
           <entry key="JavaScript" value="586" />
           <entry key="Markdown" value="70" />
-          <entry key="PLAIN_TEXT" value="192" />
+          <entry key="PLAIN_TEXT" value="193" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="1234" />
+          <entry key="TypeScript" value="1235" />
           <entry key="YAML" value="8" />
           <entry key="textmate" value="1" />
           <entry key="tsconfig" value="9" />
@@ -201,22 +228,22 @@
           <entry key="data2_for_postman" value="51" />
           <entry key="env" value="12" />
           <entry key="gitignore" value="60" />
-          <entry key="html" value="4832" />
+          <entry key="html" value="4851" />
           <entry key="js" value="2454" />
           <entry key="json" value="85" />
           <entry key="md" value="3" />
           <entry key="note03" value="203" />
           <entry key="py" value="207" />
           <entry key="ts" value="5180" />
-          <entry key="txt" value="7579" />
+          <entry key="txt" value="7771" />
           <entry key="vmoptions" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="97" />
-          <entry key="HTML" value="4840" />
-          <entry key="Hoi4 file" value="3134" />
+          <entry key="HTML" value="4859" />
+          <entry key="Hoi4 file" value="3326" />
           <entry key="JSON" value="85" />
           <entry key="JavaScript" value="2456" />
           <entry key="Markdown" value="3" />
@@ -228,7 +255,7 @@
         <counts>
           <entry key="Angular2LanguageService" value="9" />
           <entry key="TsLintLanguageService" value="1" />
-          <entry key="TypeScriptServerServiceImpl" value="65" />
+          <entry key="TypeScriptServerServiceImpl" value="66" />
         </counts>
       </usages-collector>
     </session>
@@ -251,7 +278,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>srvElement</find>
       <find>serverCreated</find>
       <find>}</find>
       <find>serverNameInput</find>
@@ -281,6 +307,7 @@
       <find>formControlName</find>
       <find>FormControlName</find>
       <find>removeNote</find>
+      <find>bootstrap</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -301,15 +328,12 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api/ham04/angular-nested-forms" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/q0w9qo/hxhaawt/client/src/app/shared/web-socket.service.ts" />
-        <option value="$PROJECT_DIR$/Udemy_Angular6/.gitignore" />
-        <option value="$PROJECT_DIR$/angular_forms/ng2-forms/e2e/app.po.ts" />
         <option value="$PROJECT_DIR$/angular_forms/.gitignore" />
         <option value="$PROJECT_DIR$/angular/user-input/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/angular/user-input/src/app/keyup.components.ts" />
@@ -358,6 +382,9 @@
         <option value="$PROJECT_DIR$/bootstrap413/runoob/grid.html" />
         <option value="$PROJECT_DIR$/bootstrap413/runoob/radio.html" />
         <option value="$PROJECT_DIR$/bootstrap413/runoob/select.html" />
+        <option value="$PROJECT_DIR$/api/ham05/ham-client/angular.json" />
+        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/api/ham05/note05.txt" />
       </list>
     </option>
   </component>
@@ -554,6 +581,7 @@
     <handled-path value="$PROJECT_DIR$/api/ham04/angular-nested-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham04/app-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham04/my-dream-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham05/ham-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/node_modules" />
@@ -1282,6 +1310,7 @@
       <path value="$PROJECT_DIR$/api/ham04/angular-nested-forms/package.json" />
       <path value="$PROJECT_DIR$/api/ham04/app-forms/package.json" />
       <path value="$PROJECT_DIR$/api/ham04/my-dream-app/package.json" />
+      <path value="$PROJECT_DIR$/api/ham05/ham-client/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json" />
@@ -2305,9 +2334,9 @@
     <dismissed value="$PROJECT_DIR$/socket/socketio/examples/cluster-haproxy/server/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="90" />
+    <option name="x" value="1420" />
     <option name="y" value="39" />
-    <option name="width" value="1881" />
+    <option name="width" value="2299" />
     <option name="height" value="2121" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -2324,28 +2353,6 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
-              <item name="runoob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="the-web-developer-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 07 - Bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2610,13 +2617,9 @@
       <workItem from="1540403938905" duration="5214000" />
       <workItem from="1540413459653" duration="2485000" />
       <workItem from="1540473155457" duration="3103000" />
-    </task>
-    <task id="LOCAL-00050" summary="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing">
-      <created>1533936505657</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1533936505658</updated>
+      <workItem from="1540491620771" duration="1927000" />
+      <workItem from="1540497505595" duration="613000" />
+      <workItem from="1540502248796" duration="484000" />
     </task>
     <task id="LOCAL-00051" summary="api/ham01/ham-client&#10;&#10;working on the clmic list/detail/routing">
       <created>1534257764060</created>
@@ -2954,11 +2957,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540489552808</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="$PROJECT_DIR$/bootstrap413/runoob&#10;&#10;add some bootstrap 4 exampels from runoob">
+      <created>1540491689419</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1540491689419</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="805058000" />
+    <option name="totallyTimeSpent" value="808045000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -2970,9 +2980,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="35" width="1891" height="2125" extended-state="4" />
+    <frame x="1420" y="39" width="2299" height="2121" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.19566368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.28273162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2983,7 +2993,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72493297" side_tool="true" weight="0.27080292" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" visible="true" weight="0.17990531" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" visible="true" weight="0.17923036" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.65763927" side_tool="true" weight="0.1950448" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49893335" weight="0.32930037" />
       <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.34236076" weight="0.19451766" />
@@ -3122,72 +3132,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/assay/assay.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/assay/assay.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/data/mock-cl-mic.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/data/mock-assays.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/clmic-detail/clmic-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/clmic-detail/clmic-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/cl-mic/cl-mic.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/cl-mic/cl-mic.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/components/cl-mic/cl-mic.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="95" selection-start-line="11" selection-start-column="95" selection-end-line="11" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/front_02_readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_02/src/app/data/mock-assays.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -3273,13 +3217,6 @@
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/front_03_readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/src/app/services/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
@@ -3325,9 +3262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="116" column="18" lean-forward="true" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3342,13 +3276,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/starter_with_row_and_columns.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 07 - Bootstrap/basics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap413/00_Bootstrap4_BasicTemplate .html">
       <provider selected="true" editor-type-id="text-editor">
@@ -3368,24 +3295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/runoob/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1520">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -3393,13 +3302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/runoob/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -3419,8 +3321,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap413/runoob/checkbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="1170">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/note05" />
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_03/front_03_readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client_backup/front_01/src/app/app-routing.module.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-web-developer-bootcamp/Section 07 - Bootstrap/basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/runoob/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1102">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/runoob/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="42" selection-start-line="42" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/note05.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham01/note01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5244">
+          <caret line="135" selection-start-line="135" selection-end-line="135" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/forms/profile.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/nestedforms/base.nestedform.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/nestedforms/note/note.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" selection-start-line="7" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

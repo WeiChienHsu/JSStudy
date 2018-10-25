@@ -1,0 +1,70 @@
+ng new ham-client
+---------------------------------------------------------
+npm install jquery --save
++ jquery@3.3.1
+
+npm install bootstrap --save
++ bootstrap@4.1.3
+
+npm install popper.js@^1.14.3 --save
+
+
+npm install @types/jquery --save
++ @types/jquery@3.3.22
+
+npm install @types/bootstrap --save
++ @types/bootstrap@4.1.2
+
+---------------------------------------------------------
+
+
+mkdir components data models services
+
+mkdir assays views
+
+mkdir carousel  footer  home  navbar  search
+
+mkdir clmic clhep      pbpl pbbl  pbmic
+
+
+ng g m routing --flat --module=app
+
+ng g s clmic-data
+
+ng g s clhep-data
+
+ng g s pbpl-data
+
+ng g s pbbl-data
+
+ng g s pbmic-data
+
+
+---------------------------------------------------------
+ng g class clmic-meta.model
+ng g class clmic-unit.model
+
+ng g class clhep-meta.model
+ng g class clhep-unit.model
+
+
+ng g class pbpl-meta.model
+ng g class pbpl-unit.model
+
+
+ng g class pbbl-meta.model
+ng g class pbbl-unit.model
+
+ng g class pbmic-meta.model
+ng g class pbmic-unit.model
+---------------------------------------------------------
+ng g i clmic-interface.interface
+
+ng g i clmic-unit.interface
+
+
+---------------------------------------------------------
+
+ng g c clmic-nestedforms --skip-import
+
+
