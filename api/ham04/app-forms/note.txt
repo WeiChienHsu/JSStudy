@@ -1,0 +1,7 @@
+ng new app-forms
+
+ng g c
+ng g s
+ng g i 
+
+
