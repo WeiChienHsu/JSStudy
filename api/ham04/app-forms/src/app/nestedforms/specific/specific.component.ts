@@ -11,8 +11,8 @@ import {FormControl, FormGroup, Validators} from '@angular/forms';
 export class SpecificComponent extends BaseNestedform {
 
   nestedFormGroup = new FormGroup({
-    title: new FormControl('My specific title'),
-    content: new FormControl('My specific content'),
+    title: new FormControl('Compound Name needed'),
+    content: new FormControl('Compound Info needed'),
   });
 
   // ngOnInit() {
