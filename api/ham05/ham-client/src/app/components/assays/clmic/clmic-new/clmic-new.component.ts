@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import {FormArray, FormControl, FormGroup, Validators} from '@angular/forms';
+
 import {BaseFormComponent} from '../../base/base-form.component';
+
 import {ClmicDataService} from '../../../../services/clmic-data.service';
 
 
@@ -11,10 +13,6 @@ import {ClmicDataService} from '../../../../services/clmic-data.service';
 })
 export class ClmicNewComponent extends BaseFormComponent implements OnInit {
 
-  // constructor() { }
-
-  // ngOnInit() {
-  // }
 
   form = new FormGroup({
     lastName: new FormControl(''), // Field specified only in profile form
@@ -30,9 +28,10 @@ export class ClmicNewComponent extends BaseFormComponent implements OnInit {
     super();
   }
 
+
   ngOnInit() {
-    const value = this.clmicDataService.getFilledWillClmic();
-    this.setFormValues(value);
+    // const value = this.clmicDataService.getFilledWillClmic();
+    // this.setFormValues(value);
   }
 
   addUnit() {

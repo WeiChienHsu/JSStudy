@@ -18,6 +18,10 @@ import { RoutingModule } from './routing.module';
 import { ClmicListComponent } from './components/assays/clmic/clmic-list/clmic-list.component';
 import { ClmicDetailComponent } from './components/assays/clmic/clmic-detail/clmic-detail.component';
 import { ClmicNewComponent } from './components/assays/clmic/clmic-new/clmic-new.component';
+import { ClmicMetaComponent } from './components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component';
+import { ClmicUnitComponent } from './components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component';
+
+
 
 import { ClmicDataService } from './services/clmic-data.service';
 
@@ -34,7 +38,9 @@ import { ClmicDataService } from './services/clmic-data.service';
 
     ClmicListComponent,
     ClmicDetailComponent,
-    ClmicNewComponent
+    ClmicNewComponent,
+    ClmicMetaComponent,
+    ClmicUnitComponent
 
   ],
   imports: [
