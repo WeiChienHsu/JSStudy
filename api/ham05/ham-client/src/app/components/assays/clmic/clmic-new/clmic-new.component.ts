@@ -15,8 +15,11 @@ export class ClmicNewComponent extends BaseFormComponent implements OnInit {
 
 
   form = new FormGroup({
-    lastName: new FormControl(''), // Field specified only in profile form
-    email: new FormControl('', [Validators.email]), // This field will be merged with nested
+    // Field specified only in profile form
+    firstName: new FormControl(''),
+    lastName: new FormControl(''),
+    // This field will be merged with nested
+    email: new FormControl('', [Validators.email]),
 
     /**
      * Don't forget to specify this Array
@@ -37,6 +40,10 @@ export class ClmicNewComponent extends BaseFormComponent implements OnInit {
   addUnit() {
     const notes = this.form.get('units') as FormArray;
     notes.push(new FormGroup({}));
+  }
+
+  addMultiUnit() {
+
   }
 
   removeUnit(index: number) {

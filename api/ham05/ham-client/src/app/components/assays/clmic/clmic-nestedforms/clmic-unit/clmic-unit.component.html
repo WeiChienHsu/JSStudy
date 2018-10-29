@@ -1,33 +1,89 @@
 <!--<app-navbar></app-navbar>-->
 
-<p>
-  clmic-unit works!
-</p>
+<!--<p>-->
+  <!--clmic-unit works!-->
+<!--</p>-->
 
+<a href="javascript:;" class="float-right" (click)="removeSelf()">DEL</a>
 
-<div class="card" [formGroup]="formGroup">
-  <div class="card-header">
-    <a href="javascript:;" class="float-right" (click)="removeSelf()">Remove Note (from inside)</a>
+<div class="row" [formGroup]="formGroup">
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <!--<label>Compou</label>-->
+    <input class="form-control" formControlName="compoundName">
+           <!--[class.is-invalid]="formGroup.get('title').errors"-->
+
+    <!--<div *ngIf="formGroup.get('title').errors" class="invalid-feedback">-->
+      <!--Title must be filled-->
+    <!--</div>-->
   </div>
 
-  <div class="card-body">
-    <div class="form-group">
-      <label>Title</label>
-      <input class="form-control" formControlName="title" [class.is-invalid]="formGroup.get('title').errors">
-      <div *ngIf="formGroup.get('title').errors" class="invalid-feedback">
-        Title must be filled
-      </div>
-    </div>
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <!--<label>Content</label>-->
+    <input class="form-control" formControlName="lotNum">
 
-    <div class="form-group">
-      <label>Content</label>
-      <textarea class="form-control" rows="1" formControlName="content" [class.is-invalid]="formGroup.get('content').errors"></textarea>
-      <div *ngIf="formGroup.get('content').errors" class="invalid-feedback">
-        Note cannot be without content, please fill it
-      </div>
-    </div>
+    <!--<textarea class="form-control" rows="1" formControlName="content" [class.is-invalid]="formGroup.get('content').errors"></textarea>-->
 
+
+    <!--<div *ngIf="formGroup.get('content').errors" class="invalid-feedback">-->
+      <!--Note cannot be without content, please fill it-->
+    <!--</div>-->
   </div>
+
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" formControlName="source">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" formControlName="well">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <!--<input class="form-control" formControlName="concentration">-->
+    <!--<label for="exampleFormControlSelect1">Example select</label>-->
+    <select class="form-control" id="exampleFormControlSelect1" formControlName="concentration">
+      <option>10</option>
+      <option>5</option>
+      <!--<option>3</option>-->
+      <!--<option>4</option>-->
+      <!--<option>5</option>-->
+    </select>
+  </div>
+
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP1_mouse">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP2_rat">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP3_miniPig">
+  </div>
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP4_dog">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP5_monkey">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP6_human">
+  </div>
+
+  <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+    <input class="form-control" type="checkbox" formControlName="SP7_other">
+  </div>
+
+
+
+
 </div>
+
+
 
 <!--<app-footer></app-footer>-->

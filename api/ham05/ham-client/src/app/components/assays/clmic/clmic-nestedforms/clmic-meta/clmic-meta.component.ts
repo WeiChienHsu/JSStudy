@@ -18,13 +18,17 @@ export class ClmicMetaComponent extends BaseNestedform {
   // ngOnInit() {
   // }
 
-  nestedFormGroup = new FormGroup({
+/*  nestedFormGroup = new FormGroup({
     firstName: new FormControl(''),
+    lastName: new FormControl(''),
     email: new FormControl('', ),
+  });*/
 
+  nestedFormGroup = new FormGroup({
+    studyNum: new FormControl(''),
+    experimentNum: new FormControl(''),
+    versionNum: new FormControl('' ),
   });
-
-
 
 
 

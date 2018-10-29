@@ -1,8 +1,8 @@
 <!--<app-navbar></app-navbar>-->
 
-<!--<p>-->
-  <!--clmic-meta works!-->
-<!--</p>-->
+<p>
+  clmic-meta works!
+</p>
 
 
 <div [formGroup]="formGroup">
@@ -11,20 +11,41 @@
   <!---->
   <!--</div>-->
 
-  <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4">
-    <label>First Name</label>
-    <input class="form-control" formControlName="firstName">
-  </div>
 
 
+<!--
 
   <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4">
     <label>Email</label>
     <input class="form-control" formControlName="email"
      [class.is-invalid]="formGroup.get('email').errors">
-    <div *ngIf="formGroup.get('email').errors" class="invalid-feedback"> Add valid email</div>
+    <div *ngIf="formGroup.get('email').errors"
+         class="invalid-feedback"> Add valid email
+    </div>
   </div>
 
+-->
+
+  <div class="row">
+    <div class="form-group col-xl-2 col-lg-2 col-md-2 col-sm-2">
+      <label>Study#</label>
+      <input class="form-control" formControlName="studyNum">
+    </div>
+
+    <div class="form-group col-xl-2 col-lg-2 col-md-2 col-sm-2">
+      <label>Experiment#</label>
+      <input class="form-control" formControlName="experimentNum">
+    </div>
+
+    <div class="form-group col-xl-2 col-lg-2 col-md-2 col-sm-4">
+      <label>Version#</label>
+      <input class="form-control" formControlName="versionNum" >
+
+    </div>
+
+    <!--<a class="btn-primary" href="javasript:;" (click)="addUnit()">+ Add note</a>-->
+
+  </div><!--row-->
 
 </div>
 

@@ -2,12 +2,12 @@
 
 <app-navbar></app-navbar>
 
-<!--<p>-->
-  <!--clmic-new works!-->
-<!--</p>-->
+<p>
+  clmic-new works!
+</p>
 
-<div class="container">
-  <form [formGroup]="form">
+<div [formGroup]="form" class="container-fluid">
+  <!--<form [formGroup]="form">-->
     <!--
       <div class="col-xl-1 col-lg-2 col-md-3 col-sm-4 alert alert-primary">
         <p>1. I am Spartacus.</p>
@@ -15,10 +15,29 @@
     -->
 
     <h3>Profile form</h3>
-    <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4 ">
-      <label>Last Name</label>
-      <input class="form-control" formControlName="lastName">
-    </div>
+
+    <div class="row">
+      <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4">
+        <label>First Name</label>
+        <input class="form-control" formControlName="firstName">
+      </div>
+
+      <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4">
+        <label>Last Name</label>
+        <input class="form-control" formControlName="lastName">
+      </div>
+
+      <div class="form-group col-xl-3 col-lg-3 col-md-3 col-sm-4">
+        <label>Email</label> <input class="form-control" formControlName="email" >
+                              <!--      [class.is-invalid]="formGroup.get('email').errors">
+          <div *ngIf="formGroup.get('email').errors" class="invalid-feedback"> Add valid email</div>-->
+      </div>
+
+      <!--<a class="btn-primary" href="javasript:;" (click)="addUnit()">+ Add note</a>-->
+
+    </div><!--row-->
+
+  <hr>
 
     <app-clmic-meta [formGroup]="form"></app-clmic-meta>
 
@@ -27,38 +46,92 @@
     <!--</div>-->
 
     <hr>
+  <div class="form-group col-xl-1 col-lg-1 col-md-3 col-sm-4">
+    <label> </label>
+    <button type="button" class="btn btn-primary" (click)="addUnit()">Add Line</button>
+  </div>
+  <hr>
+  <div class="row">
+    <!--<div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">-->
+      <!--remove-->
+    <!--</div>-->
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      Compound
+    </div>
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      Lot#
+    </div>
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      Source
+    </div>
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      Well
+    </div>
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      Concentration
+    </div>
+
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      M
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      R
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      MP
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      D
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      MK
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      H
+    </div>
+    <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+      OT
+    </div>
+  </div>
 
     <div>
-
-
-
       <ng-container *ngIf="form.controls['units'] && form.controls['units']['controls']">
         <div *ngFor="let group of form.controls['units']['controls']; let i = index">
+          <!--+ Add note   -->
           <app-clmic-unit [formGroup]="group"></app-clmic-unit>
-          <a href="javasript:;" (click)="removeUnit(i)">Remove Note (from profile)</a>
-          <hr>
+          <!--<a href="javasript:;" (click)="removeUnit(i)">Remove Note (from profile)</a>-->
+          <!--<hr>-->
         </div>
       </ng-container>
-      <a href="javasript:;" (click)="addUnit()">+ Add note</a>
+
     </div>
 
 
 
-  </form>
-
+  <!--</form>-->
+  <hr>
 </div>
 
 
 
 
 
-<div class="col-sm">
+<div class="container">
   <h3>Profile form value</h3>
   <pre>
       <code>
         {{form.value | json}}
       </code>
     </pre>
+  <div class="col-sm">
+
+  </div>
 </div>
+
 
 <app-footer></app-footer>
