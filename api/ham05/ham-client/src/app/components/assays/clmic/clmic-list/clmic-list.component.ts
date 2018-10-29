@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject} from '@angular/core';
+import {ClmicMeta} from "../../../../models/clmic-meta.model";
 
 @Component({
   selector: 'app-clmic-list',
@@ -6,10 +7,16 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./clmic-list.component.css']
 })
 export class ClmicListComponent implements OnInit {
+  clmics: ClmicMeta[];
 
-  constructor() { }
+  constructor(@Inject("ClmicDataService") private ClmicDataService) { }
 
   ngOnInit() {
+    this.getClmics();
+  }
+
+  private getClmics(): void {
+    this.clmics = this.ClmicDataService.getClmics();
   }
 
 }

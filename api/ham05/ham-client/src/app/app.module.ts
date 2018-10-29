@@ -54,7 +54,7 @@ import { ClmicDataService } from './services/clmic-data.service';
     {
       provide: "ClmicDataService",
       useClass: ClmicDataService
-    }
+    },
   ],
   bootstrap: [AppComponent]
 })

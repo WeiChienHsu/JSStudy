@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title></title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <script
+            type="text/javascript"
+            src="/js/lib/dummy.js"
+
+    ></script>
+
+    <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+
+    <style type="text/css">
+        body {
+            font-family:Arial, sans-serif;
+        }
+        div {
+            margin:5px;
+        }
+
+        .valid {
+            border:solid 1px green;
+            box-shadow:green 0 0 3px;
+        }
+
+        .invalid {
+            border:solid 1px red;
+            box-shadow:red 0 0 3px;
+
+        }
+
+    </style>
+    <!-- TODO: Missing CoffeeScript 2 -->
+
+    <script type="text/javascript">
+
+
+        window.onload=function(){
+
+            var strip = function(s) { return s.replace(/^\s*|\s*$/g, ''); }
+
+//Add paste listener. In a production environment this would of course
+//need the proper checks to see what's supported, old IE versions, blah blah
+            document.getElementById('ns1').addEventListener('paste', function(e) {
+                var lines = strip(e.clipboardData.getData('Text')).split(/\r?\n/);
+                if (lines.length == 1) {
+                    return;
+                }
+                for (var i = 1; i <= Math.min(5, lines.length); i++) {
+                    var el = document.getElementById('ns'+i);
+                    el.value = strip(lines[i-1] || '');
+
+                    //Trigger the blur event on all input boxes, so we immediately
+                    //get feedback on whether the server names were valid.
+                    var ev = document.createEvent('HTMLEvents');
+                    ev.initEvent('blur', true, true);
+                    el.dispatchEvent(ev);
+                }
+                e.preventDefault();
+            });
+
+//Set up validation on blur events
+            var inputs = document.getElementsByTagName('input');
+            for (var i=0; i< inputs.length; i++) {
+                inputs[i].addEventListener('blur', function(e) {
+                    var input = e.target;
+                    if (input.value.match(/^[a-zA-Z0-9\.-]+$/)) {
+                        input.classList.remove('invalid');
+                        input.classList.add('valid');
+                    } else {
+                        input.classList.remove('valid');
+                        input.classList.add('invalid');
+                    }
+                });
+            }
+
+        }
+
+    </script>
+
+</head>
+<body>
+<body>
+<h2>Example of multi input box paste</h2>
+<p>
+    This Fiddle is inspired by me having to update 15 domains at
+    <a href="http://iwantmyname.com">iwantmyname.com</a>, and not
+    wanting to copy and paste the name of each name server (4 per domain).
+    See <a href="http://einaregilsson.com/multi-input-paste/" target="_blank">blog post</a> for more details.
+</p>
+<div>
+    <div>Nameserver 1: <input type="text" id="ns1" placeholder="Enter nameserver 1" /></div>
+    <div>Nameserver 2: <input type="text" id="ns2" placeholder="Enter nameserver 2" /></div>
+    <div>Nameserver 3: <input type="text" id="ns3" placeholder="Enter nameserver 3" /></div>
+    <div>Nameserver 4: <input type="text" id="ns4" placeholder="Enter nameserver 4"/></div>
+    <div>Nameserver 5: <input type="text" id="ns5" placeholder="Enter nameserver 5"/></div>
+
+</div>
+<p>
+    Try copying the following block of text, and then putting the cursor in the first input box, and pasting:
+</p>
+<p>
+    mynameserver1.com<br/>
+    mynameserver2.com<br/>
+    mynameserver3.com<br/>
+    mynameserver4.com<br/>
+    mynameserver5.com<br/>
+</p>
+<p>
+    Now try copying this block, where 2 and 3 are invalid server names, and paste them in:
+</p>
+<p>
+    mynameserver1.com<br/>
+    what is this I don't even<br/>
+    "$&$%/$%&#$%"<br/>
+    mynameserver4.com<br/>
+    mynameserver5.com<br/>
+</p>
+
+</body>
+
+<script>
+    // tell the embed parent frame the height of the content
+    if (window.parent && window.parent.parent){
+        window.parent.parent.postMessage(["resultsFrame", {
+            height: document.body.getBoundingClientRect().height,
+            slug: "p5py2r08"
+        }], "*")
+    }
+</script>
+</body>
+</html>
