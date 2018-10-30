@@ -1,11 +1,11 @@
 <!--<app-navbar></app-navbar>-->
 
-<p>
+<!--<p>
   clmic-meta works!
-</p>
+</p>-->
 
 
-<div [formGroup]="formGroup">
+<div [formGroup]="formGroup" >
 
   <!--<div class="form-group col-xl-1 col-lg-2 col-md-3 col-sm-4 ">-->
   <!---->
@@ -33,14 +33,36 @@
     </div>
 
     <div class="form-group col-xl-2 col-lg-2 col-md-2 col-sm-2">
-      <label>Experiment#</label>
-      <input class="form-control" formControlName="experimentNum">
+      <!--<label>Experiment#</label>-->
+      <!--<input class="form-control" formControlName="experimentNum">-->
+
+
+      <label for="experimentNum">Experiment#</label>
+      <select class="form-control"
+              id="experimentNum" name="experimentNum"
+              class="form-control" formControlName="experimentNum">
+
+        <option *ngFor="let expNum of arrExperimentNum" [value]="expNum">
+          {{expNum}}
+        </option>
+      </select>
+
     </div>
 
     <div class="form-group col-xl-2 col-lg-2 col-md-2 col-sm-4">
-      <label>Version#</label>
-      <input class="form-control" formControlName="versionNum" >
+<!--      <label>Version#</label>
+      <input class="form-control" formControlName="versionNum" >-->
 
+
+      <label for="versionNum">Experiment#</label>
+      <select class="form-control"
+              id="versionNum" name="versionNum"
+              class="form-control" formControlName="versionNum">
+
+        <option *ngFor="let verNum of arrVersionNum" [value]="verNum">
+          {{verNum}}
+        </option>
+      </select>
     </div>
 
     <!--<a class="btn-primary" href="javasript:;" (click)="addUnit()">+ Add note</a>-->

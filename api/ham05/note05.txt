@@ -67,4 +67,10 @@ ng g i clmic-unit.interface
 
 ng g c clmic-nestedforms --skip-import
 
+---------------------------------------------------------
+// generate this component for http://localhost:4200/clmic
+// the clmic-list, as a side part, which can search by the
+// input file id
+
+ng g c clmic-search --skip-import
 

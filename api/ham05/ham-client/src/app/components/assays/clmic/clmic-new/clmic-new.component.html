@@ -1,10 +1,10 @@
-
+<!--<p>
+  clmic-new works!
+</p>-->
 
 <app-navbar></app-navbar>
 
-<p>
-  clmic-new works!
-</p>
+
 
 <div [formGroup]="form" class="container-fluid">
   <!--<form [formGroup]="form">-->
@@ -14,7 +14,9 @@
       </div>
     -->
 
-    <h3>Profile form</h3>
+    <h3>Clmic Hamilton input file generation</h3>
+
+    <hr>
 
     <div class="row">
       <div class="form-group col-xl-2 col-lg-2 col-md-3 col-sm-4">
@@ -46,10 +48,36 @@
     <!--</div>-->
 
     <hr>
-  <div class="form-group col-xl-1 col-lg-1 col-md-3 col-sm-4">
+    <div class="row">
+        <div class="form-group col-xl-1 col-lg-1 col-md-3 col-sm-4">
+            <button type="button" class="btn btn-primary" (click)="addUnit()">Add Line</button>
+        </div>
+        
+        <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-2">
+            <select class="form-control"
+                    id="numLinesNeed" name="numLinesNeed"
+                    class="form-control" formControlName="numLines">
+        
+              <option *ngFor="let num of arrNumLinesNeed" >
+                {{num}}
+              </option>
+            </select>
+          </div>
+        
+          <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-2">
+            <button type="button" class="btn btn-primary" (click)="setMultiUnit()">
+              Set multiple Line (will delete current lines)</button>
+          </div>
+
+    </div>
+
+
+
+
+  <!-- <div class="form-group col-xl-1 col-lg-1 col-md-3 col-sm-4">
     <label> </label>
-    <button type="button" class="btn btn-primary" (click)="addUnit()">Add Line</button>
-  </div>
+  </div> -->
+
   <hr>
   <div class="row">
     <!--<div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">-->
@@ -103,8 +131,17 @@
       <ng-container *ngIf="form.controls['units'] && form.controls['units']['controls']">
         <div *ngFor="let group of form.controls['units']['controls']; let i = index">
           <!--+ Add note   -->
-          <app-clmic-unit [formGroup]="group"></app-clmic-unit>
-          <!--<a href="javasript:;" (click)="removeUnit(i)">Remove Note (from profile)</a>-->
+          <div class="row">
+              <div class="form-group col-xl-11 col-lg-11 col-md-11 col-sm-4">
+                  <app-clmic-unit [formGroup]="group"></app-clmic-unit>
+              </div>
+    
+              <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
+                <a href="javasript:;" (click)="removeUnit(i)">Remove</a>
+              </div>
+          </div>
+
+          
           <!--<hr>-->
         </div>
       </ng-container>
@@ -113,16 +150,19 @@
 
 
 
-  <!--</form>-->
-  <hr>
-</div>
+  <div class="row">
+    <div class="col-md-12">
+      <button type="submit" class="btn btn-primary pull-right" (click)="submit()">Submit</button>
+    </div>
+  </div>
+</div><!--</form>-->
 
 
-
+<hr>
 
 
 <div class="container">
-  <h3>Profile form value</h3>
+  <h3>form.value | json</h3>
   <pre>
       <code>
         {{form.value | json}}

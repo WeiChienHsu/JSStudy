@@ -8,13 +8,33 @@
 </p>
 
 
-<div class="container">
-  <div class="list-group">
-    <a class="list-group-item" *ngFor="let clmic of clmics" [routerLink]="['/clmic', clmic.id]">
-      <span>{{clmic.id}}</span>
-      <!-- <strong class="title">{{clmic.id}}.{{clmic.name}}</strong> -->
-    </a>
+
+<!--class="container"-->
+<div  class="container-fluid">
+  <div class="row">
+    <div class="col-lg-3">
+      <app-clmic-search></app-clmic-search>
+    </div>
+
+    <div class="col-lg-9">
+
+      <button type="button" class="btn btn-primary"
+              [routerLink]="['/clmic-new']">Generate New</button>
+      <hr>
+
+      <div class="list-group">
+        <a class="list-group-item" *ngFor="let clmic of clmics" [routerLink]="['/clmic', clmic.id]">
+          <span>{{clmic.id}}</span>
+          <!-- <strong class="title">{{clmic.id}}.{{clmic.name}}</strong> -->
+        </a>
+      </div>
+
+    </div>
+
   </div>
+
+
+
 </div>
 
 
