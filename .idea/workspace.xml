@@ -7,31 +7,12 @@
     <bookmark url="file://$PROJECT_DIR$/Udemy_Angular6B/_03_Course_Project_The_Basics/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.html" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;ham-client data model designed, craft&#10;&#10;clmic-list, clmic display generated based on mock data">
-      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-search/clmic-search.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-search/clmic-search.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-search/clmic-search.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-search/clmic-search.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/helper/generateExperimentNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/MaterialDesignSwitch/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/ham05/testBootstrap/index2.html" afterDir="false" />
+    <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;made the front end of clmic able to:&#10;&#10;- add one new line&#10;- delete all existing lines and generate given number lines&#10;- make the new line more distict with Bootstrap and CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-detail/clmic-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-list/clmic-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/note05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/note05.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,12 +35,12 @@
     <session id="-234100135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="100" />
+          <entry key="project.closed" value="102" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="10" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="5" />
-          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.14" value="5" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="4" />
@@ -75,7 +56,7 @@
           <entry key="project.open.time.7" value="18" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="134" />
+          <entry key="project.opened" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -100,7 +81,7 @@
           <entry key="example" value="6" />
           <entry key="gitignore" value="44" />
           <entry key="htm" value="1" />
-          <entry key="html" value="660" />
+          <entry key="html" value="668" />
           <entry key="ico" value="2" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
@@ -126,7 +107,7 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="1301" />
+          <entry key="ts" value="1302" />
           <entry key="txt" value="140" />
           <entry key="vmoptions" value="2" />
           <entry key="www" value="2" />
@@ -142,7 +123,7 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="19" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="661" />
+          <entry key="HTML" value="669" />
           <entry key="Hoi4 file" value="118" />
           <entry key="Image" value="10" />
           <entry key="JSON" value="197" />
@@ -152,7 +133,7 @@
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="1301" />
+          <entry key="TypeScript" value="1302" />
           <entry key="YAML" value="9" />
           <entry key="textmate" value="1" />
           <entry key="tsconfig" value="9" />
@@ -161,38 +142,38 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="2" />
-          <entry key="css" value="106" />
+          <entry key="css" value="203" />
           <entry key="data2_for_postman" value="51" />
           <entry key="env" value="12" />
           <entry key="gitignore" value="60" />
-          <entry key="html" value="5798" />
+          <entry key="html" value="5818" />
           <entry key="js" value="2604" />
           <entry key="json" value="85" />
           <entry key="md" value="3" />
           <entry key="note03" value="203" />
           <entry key="py" value="207" />
-          <entry key="ts" value="6052" />
-          <entry key="txt" value="8203" />
+          <entry key="ts" value="6054" />
+          <entry key="txt" value="8422" />
           <entry key="vmoptions" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="106" />
-          <entry key="HTML" value="5820" />
+          <entry key="CSS" value="203" />
+          <entry key="HTML" value="5840" />
           <entry key="Hoi4 file" value="3470" />
           <entry key="JSON" value="85" />
           <entry key="JavaScript" value="2606" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="5280" />
-          <entry key="TypeScript" value="6028" />
+          <entry key="PLAIN_TEXT" value="5499" />
+          <entry key="TypeScript" value="6030" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
           <entry key="TsLintLanguageService" value="1" />
-          <entry key="TypeScriptServerServiceImpl" value="73" />
+          <entry key="TypeScriptServerServiceImpl" value="74" />
         </counts>
       </usages-collector>
     </session>
@@ -207,89 +188,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1738">
-                  <caret line="78" selection-start-line="78" selection-end-line="78" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1328">
-                  <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="836">
-                  <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+                <state relative-caret-position="5282">
+                  <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1176">
+                  <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="712">
-                  <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1738">
-                  <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/index2.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1102">
-                  <caret line="163" column="40" selection-start-line="163" selection-start-column="40" selection-end-line="163" selection-end-column="40" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/index2.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="620">
-                  <caret line="24" selection-start-line="24" selection-end-line="35" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="20" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="530">
-                  <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="62" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="722">
-                  <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+                <state relative-caret-position="256">
+                  <caret line="56" column="37" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -301,8 +219,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1330">
-                  <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+                <state relative-caret-position="722">
+                  <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
                   <folding>
                     <element signature="e#0#73#0" expanded="true" />
                   </folding>
@@ -479,8 +397,6 @@
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.ts" />
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/search/search.component.html" />
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.html" />
-        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" />
-        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" />
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/index.html" />
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/index2.html" />
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/MaterialDesignSwitch/note.txt" />
@@ -488,8 +404,10 @@
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/index2.html" />
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/style.css" />
         <option value="$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/index2.html" />
-        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" />
+        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" />
+        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" />
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" />
+        <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" />
       </list>
     </option>
   </component>
@@ -2455,6 +2373,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2573,37 +2492,7 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="testBootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="testBootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="Animated_radios_checkboxes_noJS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="testBootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="FancyBootstrapCheckboxes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bittiger_cs503" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2619,7 +2508,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2636,7 +2524,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/q0w9qo/ch2/stock/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/q0w9qo/ch6/demo01/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -2889,13 +2777,8 @@
       <workItem from="1540916278654" duration="2222000" />
       <workItem from="1540918699848" duration="224000" />
       <workItem from="1540926292463" duration="1797000" />
-    </task>
-    <task id="LOCAL-00056" summary="bootstrap413">
-      <created>1534775741441</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1534775741441</updated>
+      <workItem from="1540933532721" duration="2752000" />
+      <workItem from="1540992786697" duration="955000" />
     </task>
     <task id="LOCAL-00057" summary="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples">
       <created>1534788057451</created>
@@ -3233,11 +3116,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540846945299</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;made the front end of clmic able to:&#10;&#10;- add one new line&#10;- delete all existing lines and generate given number lines&#10;- make the new line more distict with Bootstrap and CSS">
+      <created>1540933752933</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1540933752933</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="848394000" />
+    <option name="totallyTimeSpent" value="852101000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -3339,7 +3229,6 @@
       <path value="$PROJECT_DIR$/exl/exl_05/js-xlsx" />
       <path value="$PROJECT_DIR$/exl/exl_05_xlsx/js-xlsx" />
     </ignored-roots>
-    <MESSAGE value="api/ham03/ham-server/py/run.py&#10;&#10;python is now connected to node, passing id of clmic via url to python by node in routes handling. Then python connect to mongodb to query by id, for the info of an clmic to create excel." />
     <MESSAGE value="bittiger_cs503/cs503-master&#10;&#10;https://github.com/choiking/cs503&#10;&#10;cs503 with new version angular added, must be 2018 version" />
     <MESSAGE value="node_redis and node_redis2&#10;&#10;added, with examples of using redis in nodejs" />
     <MESSAGE value="/auth0&#10;&#10;added" />
@@ -3364,7 +3253,8 @@
     <MESSAGE value="api/ham05/ham-client&#10;&#10;had integrated the nested reative form to ham-client&#10;&#10;TODO: refine general/assay specific/input sepecific" />
     <MESSAGE value="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;ham-client clmic user interface initial implementation" />
     <MESSAGE value="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;ham-client data model designed, craft&#10;&#10;clmic-list, clmic display generated based on mock data" />
-    <option name="LAST_COMMIT_MESSAGE" value="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;ham-client data model designed, craft&#10;&#10;clmic-list, clmic display generated based on mock data" />
+    <MESSAGE value="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;made the front end of clmic able to:&#10;&#10;- add one new line&#10;- delete all existing lines and generate given number lines&#10;- make the new line more distict with Bootstrap and CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;made the front end of clmic able to:&#10;&#10;- add one new line&#10;- delete all existing lines and generate given number lines&#10;- make the new line more distict with Bootstrap and CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3407,48 +3297,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/interfaces/note.interface.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/base/base-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/note03">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/forms/base-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-base.nestedform.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/nestedforms/base.nestedform.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -3615,10 +3463,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/MaterialDesignSwitch/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6194">
+          <caret line="163" column="40" selection-start-line="163" selection-start-column="40" selection-end-line="163" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="24" selection-start-line="24" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/00_Bootstrap4_BasicTemplate .html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/00_start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/01_Bootstrap4_Grids.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/basic.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/Examples/Album.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap-4-examples-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5282">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="722">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
@@ -3670,97 +3631,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/index2.html">
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/MaterialDesignSwitch/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="62" selection-start-column="62" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1738">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/Animated_radios_checkboxes_noJS/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="163" column="40" selection-start-line="163" selection-start-column="40" selection-end-line="163" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="24" selection-start-line="24" selection-end-line="35" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/testBootstrap/FancyBootstrapCheckboxes/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1738">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="256">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1328">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        <state relative-caret-position="1176">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,24 @@
+.unitRow1 {
+    background-color: #697c65;
+
+  margin: 0px solid blue;
+  border: 0px solid green;
+  padding: 0px solid black;
+}
+
+.unitRow2 {
+    background-color: #f1f507;
+    height	: 50px;
+  margin: 0px solid rgb(171, 171, 241);
+  border: 0px solid rgb(149, 235, 149);
+  padding: 0px solid rgb(107, 73, 73);
+}
+
+.row0 {
+    background-color: #954fd6;
+
+    margin: 0px solid rgb(34, 94, 59);
+    border: 0px solid rgb(233, 96, 54);
+    padding: 0px solid rgb(167, 113, 228);
+}
+

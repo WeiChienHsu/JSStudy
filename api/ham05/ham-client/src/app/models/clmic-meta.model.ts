@@ -5,10 +5,13 @@ export class ClmicMeta {
     lastName: string;
     email: string;
 
-    id: string;
+    
     studyNum: string;
     experimentNum: string;
     versionNum: string;
+
+    id: string;
+    
     units: ClmicUnit[]
 
 }

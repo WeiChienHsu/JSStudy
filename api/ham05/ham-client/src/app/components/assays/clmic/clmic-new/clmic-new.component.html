@@ -79,7 +79,7 @@
   </div> -->
 
   <hr>
-  <div class="row">
+  <div class="row row0">
     <!--<div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">-->
       <!--remove-->
     <!--</div>-->
@@ -127,17 +127,18 @@
     </div>
   </div>
 
-    <div>
+    <div class="unitRow1">
       <ng-container *ngIf="form.controls['units'] && form.controls['units']['controls']">
         <div *ngFor="let group of form.controls['units']['controls']; let i = index">
           <!--+ Add note   -->
-          <div class="row">
+          <div class="row unitRow2">
               <div class="form-group col-xl-11 col-lg-11 col-md-11 col-sm-4">
                   <app-clmic-unit [formGroup]="group"></app-clmic-unit>
               </div>
-    
+
               <div class="form-group col-xl-1 col-lg-1 col-md-1 col-sm-4">
-                <a href="javasript:;" (click)="removeUnit(i)">Remove</a>
+                <!-- <a href="javasript:;" (click)="removeUnit(i)">Remove</a> -->
+                <button class="btn btn-primary pull-right" (click)="removeUnit(i)">Remove</button>
               </div>
           </div>
 
