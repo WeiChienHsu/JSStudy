@@ -1,6 +1,70 @@
 <p>
+  bind works!
+</p>
+<p>
   管道Demo
 </p>
 <p>我的生日是{{birthday | date}}</p>
 <p>圆周率是{{pi}}</p>
 <p>试试我自己写的管道{{size | multiple:'2'}}</p>
+
+<p>bind</p>
+
+<p>L01 Events binding</p>
+<button (click)="doOnClick($event)"></button>
+
+<p>L02 Properties binding</p>
+<img [src]="imgUrl" alt="">
+
+<br>
+
+<img src="{{imgUrl}}" alt="">
+
+<p>L03 Dom Properties binding</p>
+
+<input value="Tom" (input)="doOnInput($event)">
+
+<button disabled>Click Me</button>
+<button disabled="false">Click Me</button>
+
+
+<p>L04 HTML Properties binding</p>
+<table>
+    <!-- Can't bind to 'colspan' since it isn't a known property of 'td'. -->
+  <!-- <tr>
+    <td colspan="{{1+1}}">Mooc</td>
+  </tr> -->
+  <tr>
+      <td [attr.colspan]="size">Mooc</td>
+    </tr>
+
+</table>
+<hr>
+<div class="a b c">Mooc class a b c </div>
+<hr>
+<!-- replace all the css Properties -->
+<div [class]="divClass">Mooc class a b c </div>
+<hr>
+
+<div class="a b" [class.c]="isBig">Mooc class a b c </div>
+<hr>
+<div [ngClass]="divClass2">study ngClass</div>
+<hr>
+<!-- <div [style.color = ""]>mooc style color</div> -->
+<div [style.color] = "isDev?'red':'blue'">mooc style color</div>
+<div [style.font-size.em] = "isDev?3:1">mooc style size</div>
+<div [ngStyle]="divStyle">mooc Div style</div>
+<hr>
+<p>
+  Double direction binding
+</p>
+<input [value]="name" (input)="doOnInput2($event)">
+{{name}}
+<input [(ngModel)]="name">{{name}}
+
+
+<hr>
+
+<hr>
+
+<hr>

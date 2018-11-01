@@ -4,6 +4,7 @@ import {FormArray, FormControl, FormGroup, Validators} from '@angular/forms';
 import {BaseFormComponent} from '../../base/base-form.component';
 
 import {ClmicDataService} from '../../../../services/clmic-data.service';
+import { speciesNumValidator } from "../../../../validators/clmic-validator";
 
 
 @Component({

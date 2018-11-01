@@ -8,11 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08db650a-238d-4711-8de5-763f0ef06c69" name="Default" comment="api/ham05/ham-client/src/app/components/assays/clmic&#10;&#10;made the front end of clmic able to:&#10;&#10;- add one new line&#10;- delete all existing lines and generate given number lines&#10;- make the new line more distict with Bootstrap and CSS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/validators/clmic-validator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +38,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="102" />
-          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.10" value="9" />
           <entry key="project.open.time.11" value="10" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="5" />
@@ -56,7 +58,7 @@
           <entry key="project.open.time.7" value="18" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="136" />
+          <entry key="project.opened" value="137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -81,7 +83,7 @@
           <entry key="example" value="6" />
           <entry key="gitignore" value="44" />
           <entry key="htm" value="1" />
-          <entry key="html" value="668" />
+          <entry key="html" value="672" />
           <entry key="ico" value="2" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
@@ -107,7 +109,7 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="25" />
           <entry key="svg" value="1" />
-          <entry key="ts" value="1302" />
+          <entry key="ts" value="1311" />
           <entry key="txt" value="140" />
           <entry key="vmoptions" value="2" />
           <entry key="www" value="2" />
@@ -123,7 +125,7 @@
           <entry key="CSV" value="1" />
           <entry key="Dockerfile" value="19" />
           <entry key="EJS" value="6" />
-          <entry key="HTML" value="669" />
+          <entry key="HTML" value="673" />
           <entry key="Hoi4 file" value="118" />
           <entry key="Image" value="10" />
           <entry key="JSON" value="197" />
@@ -133,7 +135,7 @@
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="SVG" value="1" />
-          <entry key="TypeScript" value="1302" />
+          <entry key="TypeScript" value="1311" />
           <entry key="YAML" value="9" />
           <entry key="textmate" value="1" />
           <entry key="tsconfig" value="9" />
@@ -152,7 +154,7 @@
           <entry key="md" value="3" />
           <entry key="note03" value="203" />
           <entry key="py" value="207" />
-          <entry key="ts" value="6054" />
+          <entry key="ts" value="6191" />
           <entry key="txt" value="8422" />
           <entry key="vmoptions" value="12" />
         </counts>
@@ -166,14 +168,14 @@
           <entry key="JavaScript" value="2606" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="5499" />
-          <entry key="TypeScript" value="6030" />
+          <entry key="TypeScript" value="6167" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="9" />
           <entry key="TsLintLanguageService" value="1" />
-          <entry key="TypeScriptServerServiceImpl" value="74" />
+          <entry key="TypeScriptServerServiceImpl" value="75" />
         </counts>
       </usages-collector>
     </session>
@@ -182,32 +184,102 @@
     <favorites_list name="JSStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.79039454">
+    <splitter split-orientation="horizontal" split-proportion="0.49256757">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="5282">
-                  <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1176">
-                  <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+                <state relative-caret-position="370">
+                  <caret line="103" column="19" lean-forward="true" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/product.service.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="256">
-                  <caret line="56" column="37" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="37" />
+                <state relative-caret-position="570">
+                  <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/logger.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="418">
+                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="684">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="e#0#50#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/another-product.service.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="532">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="927">
+                  <caret line="43" selection-start-line="43" selection-end-line="43" />
+                  <folding>
+                    <element signature="e#0#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.1.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="836">
+                  <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+                  <folding>
+                    <element signature="e#0#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.ts">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.html">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="342">
+                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
                 </state>
               </provider>
             </entry>
@@ -217,70 +289,25 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product1/product1.component.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="760">
+                  <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#0#50#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="722">
-                  <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+                <state relative-caret-position="418">
+                  <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
                   <folding>
                     <element signature="e#0#73#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1026">
-                  <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="61" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/search/search.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="950">
-                  <caret line="25" selection-start-line="25" selection-end-line="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/app.module.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#0#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/search/search.component.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="456">
-                  <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api/ham01/ham-client/src/app/components/home/home.component.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mini-flickr-master/server.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
@@ -357,9 +384,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/name-editor/name-editor.component.ts" />
-        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.ts" />
-        <option value="$PROJECT_DIR$/angular/reactive-forms/src/app/profile-editor/profile-editor.component.html" />
         <option value="$PROJECT_DIR$/angular/dynamic-form/src/app/question-control.service.ts" />
         <option value="$PROJECT_DIR$/Udemy_Angular6B/_15_HandlingForms_in_Angular_Apps/forms-reactive-final2/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/api/ham04/note03" />
@@ -408,6 +432,9 @@
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html" />
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html" />
         <option value="$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.ts" />
       </list>
     </option>
   </component>
@@ -605,6 +632,7 @@
     <handled-path value="$PROJECT_DIR$/api/ham04/app-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham04/my-dream-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/api/ham05/ham-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/api/ham05/testSetPatchValue/reactivePatchSet/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/node_modules" />
     <handled-path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/node_modules" />
@@ -647,6 +675,8 @@
     <handled-path value="$PROJECT_DIR$/node_redis/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_redis2/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/auction-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch04/di/node_modules" />
+    <handled-path value="$PROJECT_DIR$/q0w9qo/ch04/testConstructorOnInit/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/auction/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch2/stock/node_modules" />
     <handled-path value="$PROJECT_DIR$/q0w9qo/ch3/router/node_modules" />
@@ -1336,6 +1366,7 @@
       <path value="$PROJECT_DIR$/api/ham04/app-forms/package.json" />
       <path value="$PROJECT_DIR$/api/ham04/my-dream-app/package.json" />
       <path value="$PROJECT_DIR$/api/ham05/ham-client/package.json" />
+      <path value="$PROJECT_DIR$/api/ham05/testSetPatchValue/reactivePatchSet/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/01-Login/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/02-User-Profile/package.json" />
       <path value="$PROJECT_DIR$/auth0/auth0-angular-samples-master/03-Calling-an-API/package.json" />
@@ -2066,6 +2097,8 @@
       <path value="$PROJECT_DIR$/node_redis2/package.json" />
       <path value="$PROJECT_DIR$/ops/runScriptInNode/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/auction-master/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/ch04/di/package.json" />
+      <path value="$PROJECT_DIR$/q0w9qo/ch04/testConstructorOnInit/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/auction/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/start/package.json" />
       <path value="$PROJECT_DIR$/q0w9qo/ch2/stock/package.json" />
@@ -2384,125 +2417,97 @@
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="product1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assays" type="462c0819:PsiDirectoryNode" />
+              <item name="product2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
+              <item name="q0w9qo" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assays" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assays" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-nestedforms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assays" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-nestedforms" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="ham05" type="462c0819:PsiDirectoryNode" />
-              <item name="ham-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="assays" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic" type="462c0819:PsiDirectoryNode" />
-              <item name="clmic-new" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap413" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="mini-flickr-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="mongo-in-action-code" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2523,7 +2528,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/q0w9qo/ch6/demo01/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -2779,6 +2784,7 @@
       <workItem from="1540926292463" duration="1797000" />
       <workItem from="1540933532721" duration="2752000" />
       <workItem from="1540992786697" duration="955000" />
+      <workItem from="1541078537806" duration="2881000" />
     </task>
     <task id="LOCAL-00057" summary="bootstrap413&#10;failed to install local ruby libs.&#10;added some bootstrap4 examples">
       <created>1534788057451</created>
@@ -3127,7 +3133,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="852101000" />
+    <option name="totallyTimeSpent" value="854982000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -3142,7 +3148,7 @@
     <frame x="90" y="35" width="3750" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.21316783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.21066667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24986508" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32586667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3150,7 +3156,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72493297" side_tool="true" weight="0.27037236" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.72493297" side_tool="true" visible="true" weight="0.26985797" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47247708" weight="0.31663975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.72474056" side_tool="true" weight="0.17923036" />
@@ -3297,86 +3303,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-meta/clmic-meta.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/multiPaste/iwantmyname.user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/multiPaste/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/multiPaste/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/nestedforms/note/note.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/forms/profile.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham04/angular-nested-forms/src/app/nestedforms/profile-common/profile-common.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bittiger_cs503/Bit_CS503_2017_code/code/week1/oj-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap413/bootstrap4-beginners-master/grid_example_one_row.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/plate/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/ham05/note05.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
@@ -3569,20 +3495,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5282">
-          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        <state relative-caret-position="2128">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1206">
+          <caret line="176" column="8" selection-start-line="176" selection-start-column="8" selection-end-line="176" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -3631,17 +3554,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.html">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch4/di/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="56" column="37" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="37" />
+        <state>
+          <caret selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-nestedforms/clmic-unit/clmic-unit.component.css">
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product1/product1.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/views/navbar/navbar.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+        <state relative-caret-position="418">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/ham05/ham-client/src/app/components/assays/clmic/clmic-new/clmic-new.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="103" column="19" lean-forward="true" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product1/product1.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/logger.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/shared/another-product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q0w9qo/ch04/di/src/app/product2/product2.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -4,6 +4,7 @@ import {FormArray, FormControl, FormGroup, Validators} from '@angular/forms';
 
 import {BaseNestedform} from '../clmic-base.nestedform';
 
+import { speciesNumValidator } from "../../../../../validators/clmic-validator";
 
 @Component({
   selector: 'app-clmic-unit',
@@ -37,8 +38,5 @@ export class ClmicUnitComponent extends BaseNestedform {
       SP5_monkey: new FormControl(''),
       SP6_human: new FormControl(''),
       SP7_other: new FormControl(''),
-
-
-
-    });
+    }, [speciesNumValidator]);
 }

@@ -1,0 +1,1 @@
+this project is generated on node8, ng 6, then copied files from ng 1. There are version compatible issues.
