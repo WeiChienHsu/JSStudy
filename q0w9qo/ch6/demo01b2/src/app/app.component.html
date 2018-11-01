@@ -13,4 +13,17 @@
 <app-price-quote (buy)="buyHandler($event)"></app-price-quote>
 <app-order [priceQuote]="priceQuote"></app-order>
 -->
-<app-price-quote></app-price-quote>
+<app-price-quote (priceChange)="priceQuoteHandler($event)"></app-price-quote>
+
+
+<!-- <app-price-quote (priceChange)="myPriceQuoteHandler($event)"></app-price-quote> -->
+
+<hr>
+
+<div>
+  This is outside of the Price Reporting Component.
+  <br>
+  The stock code is {{priceQuote.stockCode}}
+  <br>
+  The stock price is {{priceQuote.lastPrice | number: '2.2-2'}}
+</div>

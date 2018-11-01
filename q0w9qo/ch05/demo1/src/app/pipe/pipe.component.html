@@ -1,0 +1,29 @@
+<p>
+  pipe works!
+</p>
+
+<p>my birthday is {{birthday}}</p>
+
+<p>my birthday is {{birthday | date |  uppercase}}</p>
+
+<p>my birthday is {{birthday | date:'yyyy' }}</p>
+<p>my birthday is {{birthday | date:'yyyy-MM-dd HH:mm:ss' }}</p>
+<p>my birthday is {{birthday | date:'yyyy-MM-dd hh:mm:ss' }}</p>
+<p>my birthday is {{birthday | date:'yyyy-MM-dd hh:mm:ss' }}</p>
+
+<hr>
+
+<p>yuanzhoulv is {{pi}}</p>
+<p>yuanzhoulv is {{pi | number:'2.2-2'}}</p>
+<p>yuanzhoulv is {{pi | number:'2.1-4'}}</p>
+
+<p>Three is {{three | number:'2.2-4'}}</p>
+
+<hr>
+
+<!-- <p>yuanzhoulv is {{pi | async}}</p> -->
+
+<p>try my pipe {{size | multiple: 3}}</p>
+
+<hr>
+

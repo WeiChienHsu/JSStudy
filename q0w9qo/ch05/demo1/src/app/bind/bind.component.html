@@ -1,0 +1,19 @@
+<p>
+  bind works!
+</p>
+
+
+<hr>
+
+<input (keyup)="onKey($event)">
+
+<hr>
+
+<!-- template local variable start with # to define-->
+<input #myField (keyup)="onKey2(myField.value)">
+
+<hr>
+
+
+
+<hr>
